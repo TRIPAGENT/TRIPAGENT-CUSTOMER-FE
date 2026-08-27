@@ -1,9 +1,17 @@
 import { Link } from "react-router-dom";
 
 // Extracted verbatim from index.html's <footer class="footer"> — same
-// content, same classes. "REPLACE_NUMBER" and the placeholder legal address
-// are copied as-is from the live site (see GAPS.md items A1/A2); not fixed
-// here, since this is a structural port, not a content pass.
+// content, same classes. The placeholder legal address is copied as-is from
+// the live site (see GAPS.md item A2); not fixed here, since this is a
+// structural port, not a content pass. The WhatsApp link *was* also a
+// hardcoded dead "REPLACE_NUMBER" placeholder (GAPS.md item A1) — fixed
+// below by porting js/account.js's own handoff() fallback (WA configured ?
+// real wa.me link : /enquire), the same known-correct pattern already used
+// elsewhere in the source, via VITE_WHATSAPP_NUMBER (unset today, so this
+// resolves to /enquire until a real number is configured).
+const WHATSAPP_NUMBER = import.meta.env.VITE_WHATSAPP_NUMBER as string | undefined;
+const ADVISOR_HREF = WHATSAPP_NUMBER ? `https://wa.me/${WHATSAPP_NUMBER}` : "/enquire";
+
 export function Footer() {
   return (
     <footer className="footer">
@@ -55,7 +63,13 @@ export function Footer() {
         <div>
           <p className="fcol">Get started</p>
           <Link to="/invitation">By invitation</Link>
-          <a href="https://wa.me/REPLACE_NUMBER">Speak with your advisor</a>
+          {WHATSAPP_NUMBER ? (
+            <a href={ADVISOR_HREF} target="_blank" rel="noopener noreferrer">
+              Speak with your advisor
+            </a>
+          ) : (
+            <Link to={ADVISOR_HREF}>Speak with your advisor</Link>
+          )}
           <a href="mailto:maison@tripsure.com">maison@tripsure.com</a>
           <Link to="/trip">Build a trip</Link>
           <Link to="/enquire">Plan a trip</Link>
