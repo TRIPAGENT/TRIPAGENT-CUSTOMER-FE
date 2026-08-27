@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "What we handle — TripAgent",
+    "description": "We book three things: Flights, Hotels and Visas. A named advisor looks after all three, until you are home."
+  },
+  "hero": {
+    "eyebrow": "What we handle",
+    "headingHtml": "You bring the <span class=\"it\">why</span>.<br/>We handle the <span class=\"it\">how</span>.",
+    "lede": "We book three things: flights, hotels and visas. One named advisor holds all three, until you are home.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fservices.jpg&w=2560&q=80",
+    "ctaGold": {
+      "label": "Request membership",
+      "href": "join.html"
+    },
+    "ctaText": {
+      "label": "How it works",
+      "href": "how-it-works.html"
+    }
+  },
+  "services": [
+    {
+      "id": "flights",
+      "no": "01",
+      "eyebrow": "Flights",
+      "headingHtml": "The front of the cabin is what we <span class=\"it\">know</span> best.",
+      "lede": "Business and first are our specialty. Any cabin, the same care. We know the fares worth holding, the flat-bed that is genuinely flat, the routing that saves the connection.",
+      "items": [
+        "A few good options, never a wall of results.",
+        "Fares held while you decide. Ticketed when you say yes.",
+        "Seats, meals, miles and lounges, sorted for you.",
+        "Changes and refunds by your advisor, not a queue."
+      ],
+      "cta": {
+        "label": "Explore flights",
+        "href": "flights.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+      "imageAlt": "Business-class cabin aboard a long-haul flight",
+      "flip": false
+    },
+    {
+      "id": "hotels",
+      "no": "02",
+      "eyebrow": "Hotels",
+      "headingHtml": "From the right room to the whole <span class=\"it\">villa</span>.",
+      "lede": "Hundreds of thousands of properties, and the judgement to pick the right one. The suite with the view. The rate you would not find alone. The welcome that says you were expected.",
+      "items": [
+        "Negotiated rates below the public price.",
+        "Upgrades, late checkout and amenities, asked for ahead.",
+        "Villas, residences and connecting rooms for families.",
+        "Someone who has stayed there, or knows someone who has."
+      ],
+      "cta": {
+        "label": "Explore hotels",
+        "href": "hotels.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fhotel-taj-udaipur.jpg&w=2048&q=80",
+      "imageAlt": "Palace hotel reflected in the lake at Udaipur",
+      "flip": true
+    },
+    {
+      "id": "visas",
+      "no": "03",
+      "eyebrow": "Visas",
+      "headingHtml": "The paperwork no one <span class=\"it\">enjoys</span>.",
+      "lede": "The part that can turn a good trip into a worry. We check it, prepare it, file it and track it. We know the rules and the timelines, so a refusal or a missed window never costs you the trip.",
+      "items": [
+        "Eligibility and documents checked against current rules.",
+        "Applications prepared and filed for you.",
+        "Status tracked, appointments managed, reminders sent.",
+        "Timed to your flights and hotels, so nothing clashes."
+      ],
+      "cta": {
+        "label": "Explore visas",
+        "href": "visas.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80",
+      "imageAlt": "Passport and travel documents ready for a visa application",
+      "flip": false
+    }
+  ],
+  "pq": "The welcome that tells you that you were expected.",
+  "whyOnlyThree": {
+    "eyebrow": "Why only three",
+    "headingHtml": "We do three things. We do them <span class=\"em\">completely</span>.",
+    "lede": "Better to be flawless at flights, hotels and visas than passable at twenty things. More may come, but only at the same standard. And because one advisor holds all three, it all lines up: the visa timed to the flight, the flight timed to the room. Anything beyond these three, we are glad to research and arrange for you."
+  },
+  "health": {
+    "tag": "Beyond the three · Research & coordination",
+    "headingHtml": "Health &amp; <span class=\"it\">longevity</span>, quietly navigated.",
+    "body": "Some journeys are about the body, not the map. When a member is weighing the world's finest hospitals, specialists or longevity clinics, we help them navigate it — reading the field, opening the right doors, and arranging the flights, stays and visas around the visit.",
+    "note": "This is guidance and coordination, not a service we sell. The care itself always rests with accredited providers and your own physicians — we never book medical treatment.",
+    "cta": {
+      "label": "Explore Health & Longevity",
+      "href": "health.html"
+    },
+    "asideLede": "Only three things are ever booked here — flights, hotels and visas. Everything else, this included, is research that helps you decide."
+  },
+  "signature": {
+    "eyebrow": "Our promise",
+    "lineHtml": "All three, looked after —<br/>until you are <span class=\"it\">home</span>.",
+    "sub": "Most agents are gone the moment you pay. We stay — through departure, the 2 a.m. call, the homecoming. There for every step, including the ones no one else shows up for.",
+    "image": "/_vercel/image?url=%2Fimg%2Fcouple-rooftop-sunset.jpg&w=2560&q=80",
+    "buttons": [
+      {
+        "label": "Request membership",
+        "href": "join.html"
+      },
+      {
+        "label": "How it works",
+        "href": "how-it-works.html"
+      }
+    ]
+  }
+}

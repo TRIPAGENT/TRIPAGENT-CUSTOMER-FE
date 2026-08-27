@@ -1,0 +1,11 @@
+.rt-hero{background:var(--ink,#1A1714);color:#fff;padding:clamp(64px,10vh,120px) 0 clamp(40px,6vh,72px)}
+.rt-hero :global(.eyebrow){color:rgba(255,255,255,.72)}
+.rt-hero h1{font-family:var(--logo);font-weight:500;font-size:clamp(38px,6vw,74px);line-height:1.02;margin:12px 0 0}
+.rt-hero p{font-family:var(--fr);font-size:clamp(16px,1.7vw,20px);color:rgba(255,255,255,.85);max-width:54ch;margin:16px 0 0;line-height:1.5}
+.jr-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:clamp(18px,2.2vw,28px);max-width:1200px;margin:0 auto;padding:0 var(--gutter) clamp(50px,8vw,100px)}
+.jr-card{display:block;text-decoration:none;color:inherit;background:var(--paper,#fff);border:1px solid var(--line,#E3E2DD);border-radius:14px;padding:clamp(22px,2.4vw,30px);transition:box-shadow .4s var(--ease),transform .4s var(--ease),border-color .3s}
+.jr-card:hover{box-shadow:0 20px 50px -22px rgba(16,12,9,.32);transform:translateY(-3px);border-color:var(--accent-2)}
+.jr-card .jn{font-family:var(--fr);font-weight:600;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent-2,#6E2A38)}
+.jr-card h3{font-family:var(--logo);font-weight:500;font-size:clamp(24px,2.2vw,29px);line-height:1.1;margin:8px 0 8px}
+.jr-card p{font-family:var(--fr);font-size:14px;line-height:1.55;color:var(--ink-soft,#4a453d);margin:0 0 12px}
+.jr-card .jc{font-family:var(--fr);font-size:12.5px;color:var(--stone,#8b8578)}

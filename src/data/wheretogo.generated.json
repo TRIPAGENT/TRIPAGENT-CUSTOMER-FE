@@ -1,0 +1,305 @@
+{
+  "seo": {
+    "title": "Where should you go? — TripAgent",
+    "description": "Tell us when you are free, who is travelling and the mood you are after — and we will show you where to go, at its best, in your budget."
+  },
+  "hero": {
+    "eyebrow": "The decision, made simple",
+    "headingHtml": "Where should <span class=\"it\">you</span> go?",
+    "lede": "Tell us when you are free, who is travelling and the mood you are after. We will show you where — at its best, in your budget, and how far it is from home."
+  },
+  "questions": [
+    {
+      "labelHtml": "When are you thinking of <b>going</b>?",
+      "options": [
+        {
+          "label": "Flexible",
+          "group": "month",
+          "value": "",
+          "multi": false,
+          "defaultOn": true
+        },
+        {
+          "label": "Jan",
+          "group": "month",
+          "value": "1",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Feb",
+          "group": "month",
+          "value": "2",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Mar",
+          "group": "month",
+          "value": "3",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Apr",
+          "group": "month",
+          "value": "4",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "May",
+          "group": "month",
+          "value": "5",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Jun",
+          "group": "month",
+          "value": "6",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Jul",
+          "group": "month",
+          "value": "7",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Aug",
+          "group": "month",
+          "value": "8",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Sep",
+          "group": "month",
+          "value": "9",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Oct",
+          "group": "month",
+          "value": "10",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Nov",
+          "group": "month",
+          "value": "11",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Dec",
+          "group": "month",
+          "value": "12",
+          "multi": false,
+          "defaultOn": false
+        }
+      ]
+    },
+    {
+      "labelHtml": "Who is <b>travelling</b>?",
+      "options": [
+        {
+          "label": "Honeymoon",
+          "group": "who",
+          "value": "honeymoon",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Just the two of us",
+          "group": "who",
+          "value": "couples",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "With children",
+          "group": "who",
+          "value": "family-kids",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Three generations",
+          "group": "who",
+          "value": "multigen",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Friends",
+          "group": "who",
+          "value": "friends",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Solo",
+          "group": "who",
+          "value": "solo",
+          "multi": false,
+          "defaultOn": false
+        }
+      ]
+    },
+    {
+      "labelHtml": "What are you <b>in the mood</b> for? <span style=\"font-size:14px;color:var(--stone)\">— pick a few</span>",
+      "options": [
+        {
+          "label": "Beach & sun",
+          "group": "vibe",
+          "value": "beach",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Romance",
+          "group": "vibe",
+          "value": "romance",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Culture & history",
+          "group": "vibe",
+          "value": "culture",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Food",
+          "group": "vibe",
+          "value": "food",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Adventure",
+          "group": "vibe",
+          "value": "adventure",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Wellness",
+          "group": "vibe",
+          "value": "wellness",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Wildlife",
+          "group": "vibe",
+          "value": "wildlife",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Nature",
+          "group": "vibe",
+          "value": "nature",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Nightlife",
+          "group": "vibe",
+          "value": "nightlife",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Snow & mountains",
+          "group": "vibe",
+          "value": "snow",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Slow & quiet",
+          "group": "vibe",
+          "value": "slow",
+          "multi": true,
+          "defaultOn": false
+        },
+        {
+          "label": "Pure luxury",
+          "group": "vibe",
+          "value": "luxury",
+          "multi": true,
+          "defaultOn": false
+        }
+      ]
+    },
+    {
+      "labelHtml": "How <b>long</b> do you have?",
+      "options": [
+        {
+          "label": "A long weekend",
+          "group": "length",
+          "value": "3",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "About a week",
+          "group": "length",
+          "value": "7",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "Two weeks or more",
+          "group": "length",
+          "value": "14",
+          "multi": false,
+          "defaultOn": false
+        }
+      ]
+    },
+    {
+      "labelHtml": "And the <b>budget</b>, per couple per week?",
+      "options": [
+        {
+          "label": "Up to ~₹4L",
+          "group": "budget",
+          "value": "comfort",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "₹4–7L",
+          "group": "budget",
+          "value": "mid",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "₹7L & above",
+          "group": "budget",
+          "value": "luxury",
+          "multi": false,
+          "defaultOn": false
+        },
+        {
+          "label": "No limit",
+          "group": "budget",
+          "value": "",
+          "multi": false,
+          "defaultOn": false
+        }
+      ]
+    }
+  ],
+  "goLabel": "Show me where"
+}

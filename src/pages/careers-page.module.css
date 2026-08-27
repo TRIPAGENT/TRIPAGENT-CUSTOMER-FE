@@ -1,0 +1,15 @@
+/* careers.html — page-scoped only; reuses :global(.feat) / :global(.step) / :global(.grid-2) */
+/* --- A&K editorial hero (built on :global(.hero):global(.left)) --- */
+:global(.hero-ed){position:relative;isolation:isolate;text-align:left;align-items:stretch;overflow:hidden}
+:global(.hero-ed)::after{background:
+  linear-gradient(100deg,rgba(0,0,0,.74) 0%,rgba(0,0,0,.5) 30%,rgba(0,0,0,.16) 58%,transparent 76%),
+  linear-gradient(180deg,rgba(0,0,0,.24) 0%,transparent 32%,transparent 60%,rgba(0,0,0,.5) 100%)}
+:global(.hero-ed) :global(.hero-inner){margin:0;max-width:none;width:100%;display:flex;flex-direction:column;justify-content:center;min-height:inherit}
+:global(.hero-ed) :global(.hs-copy){max-width:680px;opacity:0;transform:translateY(16px);animation:heroRise 1s cubic-bezier(.22,.61,.36,1) .15s forwards}
+@keyframes heroRise{to{opacity:1;transform:none}}
+:global(.hero-ed) :global(.display){font-size:clamp(42px,6vw,88px);line-height:1.04;margin:0}
+:global(.hero-ed) :global(.lede){max-width:48ch}
+:global(.hero-ed) :global(.hero-cta-row){display:flex;align-items:center;gap:28px;margin-top:34px;flex-wrap:wrap}
+:global(.btn-square){border-radius:2px!important;padding:16px 34px!important;letter-spacing:.02em;font-weight:600}
+.cr-bar{display:grid;grid-template-columns:repeat(2,1fr);gap:0 clamp(28px,4vw,64px)}
+@media(max-width:720px){.cr-bar{grid-template-columns:1fr}:global(.btn-square){width:100%;justify-content:center}}

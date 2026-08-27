@@ -1,0 +1,38 @@
+/* Extracted verbatim from terms.html/privacy.html/refund.html <head>
+ * <style> block — byte-identical across all 3 (verified). Not in
+ * css/site.css. */
+
+/* ===== Legal / utility pages — quiet maison finish on :global(.hero):global(.left) + site.css ===== */
+/* A calm ivory masthead, left-aligned editorial, then body text set for a
+   comfortable measure and generous rhythm. Composition only — built on existing
+   tokens (--logo, --fr, --hair, --accent-2, --ink). */
+.legal-head{padding:128px 0 0}
+.legal-head :global(.wrap){max-width:880px}
+.legal-head :global(.eyebrow){display:inline-block}
+.legal-head h1{font-family:var(--logo);font-weight:500;font-size:clamp(40px,5.4vw,72px);line-height:1.04;letter-spacing:.004em;margin:0;color:var(--ink)}
+.legal-head .updated{font-family:var(--fr);font-weight:500;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--stone);margin-top:18px}
+.legal-head .stand{font-family:var(--logo);font-style:italic;font-weight:500;font-size:clamp(20px,2.1vw,26px);line-height:1.4;color:var(--ink-soft);margin:22px 0 0;max-width:34ch}
+/* a hairline that closes the masthead and opens the body */
+.legal-body{padding:48px 0 var(--sec)}
+.legal-body :global(.wrap){max-width:880px}
+
+/* the readable column — a comfortable maison measure (~64ch) */
+:global(.prose){max-width:64ch}
+:global(.prose) h3{font-family:var(--logo);font-weight:500;font-size:clamp(24px,2.4vw,30px);line-height:1.16;letter-spacing:.004em;color:var(--ink);
+  margin:54px 0 14px;padding-top:30px;border-top:1px solid var(--hair)}
+:global(.prose)>p:first-of-type{font-family:var(--logo);font-weight:500;font-size:clamp(19px,1.7vw,23px);line-height:1.5;color:var(--ink-soft);margin:0 0 8px}
+:global(.prose) p,:global(.prose) li{color:var(--ink-soft);font-size:16.5px;line-height:1.74;margin:14px 0;text-wrap:pretty}
+:global(.prose) ul{padding-left:0;margin:16px 0;list-style:none}
+:global(.prose) li{position:relative;padding-left:26px;margin:12px 0}
+:global(.prose) li::before{content:"";position:absolute;left:2px;top:11px;width:7px;height:7px;background:var(--ink);transform:rotate(45deg);border-radius:1px;opacity:.85}
+:global(.prose) b{font-weight:600;color:var(--ink)}
+:global(.prose) a{color:var(--accent-2);text-decoration:none;background-image:linear-gradient(currentColor,currentColor);background-size:100% 1px;background-position:0 100%;background-repeat:no-repeat;padding-bottom:1px;transition:opacity .25s var(--ease)}
+:global(.prose) a:hover{opacity:.7}
+/* dignified closing small print */
+:global(.prose) .note{margin-top:56px;padding-top:26px;border-top:1px solid var(--hair-strong);
+  font-family:var(--fr);font-size:13.5px;line-height:1.66;color:var(--stone);letter-spacing:.002em;max-width:64ch}
+:global(.prose) .note b{color:var(--ink-soft);font-weight:600}
+@media(max-width:600px){
+  .legal-head{padding-top:104px}
+  .legal-body{padding-top:36px}
+}

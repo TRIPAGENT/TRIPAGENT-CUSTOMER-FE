@@ -1,0 +1,167 @@
+{
+  "seo": {
+    "title": "How it works — TripAgent",
+    "description": "One message. A named advisor plans, books and looks after every journey — flights, hotels and visas — and stays with you until you are home."
+  },
+  "hero": {
+    "eyebrow": "How it works",
+    "headingHtml": "One message.<br/>The rest is <span class=\"it\">handled</span>.",
+    "lede": "Tell us where you'd like to go. A named advisor takes it from there, and stays with you the whole way.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fhow-it-works.jpg&w=2560&q=80",
+    "ctaLabel": "Enter your invitation",
+    "ctaHref": "invitation.html",
+    "jumpLabel": "See how a trip comes together",
+    "jumpHref": "#journey",
+    "inset": {
+      "image": "/_vercel/image?url=%2Fimg%2Fadvisor2.jpg&w=1024&q=80",
+      "kicker": "Your advisor",
+      "caption": "A name, not a number."
+    }
+  },
+  "model": {
+    "eyebrow": "The model",
+    "note": "Two parts: a person who knows you, and quiet help behind them that never sleeps.",
+    "statementHtml": "A real <span class=\"em\">person</span>, who answers fast.",
+    "lede": "Your advisor knows how you travel, holds the fares, and checks every detail before you pay a rupee. Technology keeps them fast. You only ever speak to the person."
+  },
+  "steps": {
+    "eyebrow": "Enquiry → home",
+    "heading": "Five steps. The last one is where everyone else stops.",
+    "items": [
+      {
+        "nn": "01",
+        "heading": "You send a line",
+        "body": "Greeted by name, answered in moments, by someone who knows how you travel."
+      },
+      {
+        "nn": "02",
+        "heading": "A few good options",
+        "body": "Two or three worth your time — never a wall of results. You see the price, not the workings."
+      },
+      {
+        "nn": "03",
+        "heading": "Your advisor confirms",
+        "body": "A person holds the fare, checks the detail, locks it in. Nothing is booked without them."
+      },
+      {
+        "nn": "04",
+        "heading": "You pay, plainly",
+        "body": "Points or card, taxes shown, one tap. Documents and visas arrive in the same thread."
+      },
+      {
+        "nn": "05",
+        "heading": "We stay until you're home",
+        "body": "A change, a delay, a flight rebooked before you wake — handled. We check in after you land."
+      }
+    ]
+  },
+  "journey": {
+    "eyebrow": "Live",
+    "liveLabel": "Live",
+    "headingHtml": "From a wish to a <span class=\"it\">journey</span>.",
+    "ledes": [
+      "A real exchange. Answered in moments, suites held, visas filed before you've decided — all in one thread.",
+      "No portal. No forms. No queue. A person who already knows you, on the app in your pocket."
+    ],
+    "ctaLabel": "What we handle",
+    "ctaHref": "services.html",
+    "phone": {
+      "time": "9:41",
+      "headerName": "TripAgent",
+      "headerStatus": "Business · online",
+      "messages": [
+        {
+          "type": "out",
+          "text": "An anniversary in May. Italy — seven nights, somewhere unforgettable.",
+          "faded": false
+        },
+        {
+          "type": "in",
+          "whoKind": "ai",
+          "whoLabel": "AI Concierge",
+          "whoAvatar": null,
+          "text": "Lovely. Lakes and old-world rooms over crowds — does that sound right?"
+        },
+        {
+          "type": "in",
+          "whoKind": "human",
+          "whoLabel": "Priya · your advisor",
+          "whoAvatar": "P",
+          "text": "I'll keep it intimate. Holding three suites while you decide."
+        },
+        {
+          "type": "optcard",
+          "heading": "Proposed · 7 nights · Milan · Como · Venice",
+          "rows": [
+            {
+              "label": "Villa d'Este, Como",
+              "value": "Lake suite"
+            },
+            {
+              "label": "Flights · business",
+              "value": "Held ✓"
+            },
+            {
+              "label": "Schengen visas",
+              "value": "Filed ✓"
+            }
+          ]
+        },
+        {
+          "type": "in",
+          "whoKind": "human",
+          "whoLabel": "Priya · your advisor",
+          "whoAvatar": "P",
+          "text": "All handled. Shall I confirm?"
+        }
+      ]
+    }
+  },
+  "pq": "A flight rebooked before you wake — handled.",
+  "rescue": {
+    "eyebrow": "When it matters",
+    "headingHtml": "The difference shows at <span class=\"it\">2 a.m.</span>",
+    "ledes": [
+      "Anyone can sell a ticket. The test is when it goes wrong — a storm, a strike, a missed connection in a city you don't know. That's when one person who already has your details is worth everything.",
+      "Most disappear the moment you pay. We do the opposite."
+    ],
+    "phone": {
+      "time": "2:14",
+      "headerName": "TripAgent",
+      "headerStatus": "Priya · your advisor",
+      "messages": [
+        {
+          "type": "out",
+          "text": "Our flight home was just cancelled.",
+          "faded": true
+        },
+        {
+          "type": "in",
+          "whoKind": "human",
+          "whoLabel": "Priya · your advisor",
+          "whoAvatar": "P",
+          "text": "Already rebooked — 9:40 tomorrow, same cabin, no change fee. Rest."
+        }
+      ]
+    }
+  },
+  "sig": {
+    "eyebrow": "The whole way",
+    "headingHtml": "Most stop when you <span class=\"em\">pay</span>.<br/>We stay until you are <span class=\"em\">home</span>.",
+    "lede": "Enquiry, booking, departure, the trip, the way home — every step, including the ones no one else shows up for.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh3%2Fhow-it-works.jpg&w=2560&q=80"
+  },
+  "cta": {
+    "heading": "Begin with your invitation.",
+    "buttons": [
+      {
+        "label": "Enter your invitation",
+        "href": "invitation.html"
+      },
+      {
+        "label": "See membership",
+        "href": "membership.html"
+      }
+    ]
+  }
+}

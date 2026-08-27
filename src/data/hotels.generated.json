@@ -1,0 +1,221 @@
+{
+  "seo": {
+    "title": "Hotels — TripAgent",
+    "description": "The right room, the right rate, and a welcome that knows your name. One advisor, the whole stay."
+  },
+  "hero": {
+    "eyebrow": "Hotels",
+    "headingHtml": "From the right room<br/>to the whole <span class=\"it\">villa</span>.",
+    "lede": "Anyone can find a room. Choosing the right one is the hard part. Your advisor knows the suite with the view, the rate you would never find, and the welcome that says you were expected.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fhotels.jpg&w=2560&q=80",
+    "buttons": [
+      {
+        "label": "Request membership",
+        "href": "join.html",
+        "kind": "square"
+      },
+      {
+        "label": "How it works",
+        "href": "how-it-works.html",
+        "kind": "text"
+      }
+    ]
+  },
+  "searchGate": {
+    "eyebrow": "Search & book",
+    "heading": "Live rates, held the moment you choose."
+  },
+  "pullq": {
+    "quoteHtml": "The room is easy to book.<br/>The <span class=\"it\">right</span> room isn’t.",
+    "lede": "Two rooms in the same hotel can be worlds apart. The view, the floor, the wing, the welcome. We know the difference, and who to call."
+  },
+  "idx": {
+    "eyebrow": "What we handle",
+    "heading": "Every part of it, from the room to the welcome.",
+    "lede": "Six things, handled end to end. The booking is only where it begins.",
+    "rows": [
+      {
+        "no": "01",
+        "heading": "Hotels, resorts & lodges",
+        "body": "City hotels to remote lodges, each one chosen first-hand. Never a search result. Always a recommendation."
+      },
+      {
+        "no": "02",
+        "heading": "Suites & upgrades",
+        "body": "The right category, the better view. The upgrade asked for ahead, in writing. Not hoped for at check-in."
+      },
+      {
+        "no": "03",
+        "heading": "Villas & residences",
+        "body": "Whole villas and residences, staffed and provisioned where you wish."
+      },
+      {
+        "no": "04",
+        "heading": "Negotiated & net rates",
+        "body": "Rates and inclusions beyond public prices. Breakfast, a property credit, late checkout, built into the booking."
+      },
+      {
+        "no": "05",
+        "heading": "Amenities & welcome",
+        "body": "Preferred-partner perks: upgrades, resort credits, and a welcome that already knows your name and your occasion."
+      },
+      {
+        "no": "06",
+        "heading": "Families & groups",
+        "body": "Connecting rooms, adjoining suites, whole-floor takeovers. Arranged so everyone is genuinely together."
+      }
+    ]
+  },
+  "feat": {
+    "leadNum": "i.",
+    "eyebrow": "The rate advantage",
+    "headingHtml": "The same room, often for less, and with <span class=\"it\">more</span>.",
+    "lede": "Through preferred-partner and net-rate programmes, we often match or beat the public price, and add what it never includes: an upgrade, daily breakfast, a property credit, a later checkout.",
+    "items": [
+      "Preferred-partner status at the world’s leading hotel groups.",
+      "Upgrades, credits and breakfast added to your stay.",
+      "Net and negotiated rates beyond what you’ll find online."
+    ],
+    "image": "/_vercel/image?url=%2Fimg%2Fterrace-espresso-amalfi.jpg&w=2048&q=80"
+  },
+  "signature": {
+    "eyebrow": "Beyond the room",
+    "lineHtml": "A welcome that says<br/>you were <span class=\"it\">expected</span>.",
+    "sub": "We brief the property before you arrive: your preferences, your occasion, the small things. A note on the table, the right floor, the door already held. One advisor who has stayed there, or knows someone who has.",
+    "image": "/_vercel/image?url=%2Fimg%2Fvilla-greece-rooster.jpg&w=2560&q=80"
+  },
+  "examples": {
+    "eyebrow": "What a preferred rate adds",
+    "heading": "The same night, worth more.",
+    "lede": "Booked through a preferred programme, a stay carries inclusions the public rate never does. Confirmed before you arrive, subject to availability.",
+    "tiles": [
+      {
+        "label": "01",
+        "heading": "A room upgrade",
+        "body": "One category up on arrival where rooms allow: a higher floor, a better view, more space. Asked for ahead, not left to luck at the desk."
+      },
+      {
+        "label": "02",
+        "heading": "Breakfast for two",
+        "body": "Full daily breakfast for two. A saving that adds up over a stay, and one less thing to decide each morning."
+      },
+      {
+        "label": "03",
+        "heading": "A property credit",
+        "body": "A credit to spend on dining, the spa or the bar. Typically around US$100 per stay, applied to your account on departure."
+      },
+      {
+        "label": "04",
+        "heading": "Early in, late out",
+        "body": "Early check-in and late checkout where the house can offer it. So a morning arrival or a late flight home isn’t spent in a lobby."
+      },
+      {
+        "label": "05",
+        "heading": "The welcome",
+        "body": "A note, a small amenity, your preferences already known. The clear sense that the property was expecting you by name."
+      },
+      {
+        "label": "06",
+        "heading": "The full range",
+        "body": "From a single city suite to a whole private villa with staff. The same care, the same inclusions, scaled to how you want to stay."
+      }
+    ]
+  },
+  "howItWorks": {
+    "eyebrow": "How it works",
+    "heading": "From a line of text to a turned-down bed.",
+    "lede": "It begins the same way every time. One message on WhatsApp. Your advisor takes it from there.",
+    "cta": {
+      "label": "Become a member",
+      "href": "join.html"
+    },
+    "steps": [
+      {
+        "n": "1",
+        "heading": "Tell us the trip",
+        "body": "Where, when, who, and the kind of stay you have in mind."
+      },
+      {
+        "n": "2",
+        "heading": "See a shortlist",
+        "body": "A considered few with honest notes — never an endless list."
+      },
+      {
+        "n": "3",
+        "heading": "We hold & confirm",
+        "body": "Your advisor secures the room and the perks, and confirms every detail."
+      },
+      {
+        "n": "4",
+        "heading": "We stay, on-trip too",
+        "body": "A late checkout, a room that disappoints, a change of plan. Handled while you travel."
+      }
+    ]
+  },
+  "pullq2": "We brief the property before you arrive, so it feels personal.",
+  "faq": {
+    "eyebrow": "Questions",
+    "heading": "Before you book",
+    "items": [
+      {
+        "summary": "Can you really get a better rate than I find online?",
+        "bodyHtml": "Often, yes — and almost always more value. Through preferred-partner and net-rate programmes we frequently match or beat the public price while adding what it never includes: an upgrade, daily breakfast, a property or spa credit, a later checkout. Where a rate is genuinely best booked direct, we will tell you so."
+      },
+      {
+        "summary": "What are negotiated and net rates, exactly?",
+        "bodyHtml": "Negotiated rates are prices we hold with hotels and groups through long-standing relationships. Net rates are wholesale prices we can package. Both beat the public tariff, and both can carry the same inclusions and upgrades. We choose whichever serves your stay best and show you the value plainly."
+      },
+      {
+        "summary": "Will I actually get the upgrade and amenities?",
+        "bodyHtml": "We request the right category and the upgrade ahead of arrival, in writing, and follow up the day before. Perks like upgrades, credits and breakfast are part of the booking, not a favour to argue for at the desk. Where an upgrade depends on availability, we are honest about the odds."
+      },
+      {
+        "summary": "Do you book villas, residences and private homes?",
+        "bodyHtml": "Yes — whole villas, private residences and serviced homes, staffed and catered where you wish, from a chef and housekeeping to a butler or driver. We vet each one first-hand or through trusted eyes, and arrange the practicalities — provisioning, transfers, a welcome stocked to your taste — so the home is ready the moment you arrive."
+      },
+      {
+        "summary": "Can you handle families and connecting rooms?",
+        "bodyHtml": "This is where we are most useful. Connecting rooms, adjoining suites and whole-floor takeovers, so everyone is together rather than scattered down a corridor. We brief the property on cots, extra beds, childcare and early dining, and confirm it all before you travel — not after the lift doors open."
+      },
+      {
+        "summary": "Can you arrange a special occasion?",
+        "bodyHtml": "An anniversary, a milestone birthday, a proposal, a honeymoon — tell us and we make the property part of it. Discreetly: the right table, the room dressed on arrival, a quiet word with the chef, a surprise timed to the moment. The hotel knows what matters before you walk in."
+      },
+      {
+        "summary": "How do payment and cancellation work?",
+        "bodyHtml": "You see the rate, the inclusions and the cancellation terms before you confirm, and we choose flexible terms wherever your plans warrant them. If something changes, your advisor handles the amendment or cancellation with the property directly, so no refund or credit is missed. Any service fee is named and agreed in advance."
+      },
+      {
+        "summary": "Do I keep my own loyalty status and points?",
+        "bodyHtml": "Yes. We book so you keep earning and recognising your own loyalty status wherever the rate allows. In the rare case where a special rate and a loyalty benefit can’t both apply, we flag it — so you decide with the trade-off in front of you, never behind it."
+      },
+      {
+        "summary": "What if something goes wrong during the stay?",
+        "bodyHtml": "One message to your advisor, not a negotiation at reception. A room that disappoints, a noise next door, a late checkout, a change of plan — we handle it with the property directly, while you carry on with your trip. We are there for the whole stay, not just the booking."
+      },
+      {
+        "summary": "How is my data and privacy handled?",
+        "bodyHtml": "Your details are held only to arrange and personalise your stay, shared with a property strictly as the booking requires, and never sold. Your advisor is bound to discretion, and sensitive occasions are handled quietly. The detail is in our <a href=\"/privacy\">privacy policy</a>."
+      },
+      {
+        "summary": "Is this only hotels?",
+        "bodyHtml": "Hotels are one of three things we do completely — alongside <a href=\"/flights\">flights</a> and <a href=\"/visas\">visas</a>, sequenced into one trip."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Our promise",
+    "headingHtml": "Your next stay — looked after<br/>until you are <span class=\"it\">home</span>.",
+    "lede": "A private travel maison, by invitation. If you hold one, the door is already held.",
+    "buttons": [
+      {
+        "label": "Request membership",
+        "href": "join.html"
+      },
+      {
+        "label": "All three services",
+        "href": "services.html"
+      }
+    ]
+  }
+}

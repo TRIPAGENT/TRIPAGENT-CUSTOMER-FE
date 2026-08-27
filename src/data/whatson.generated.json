@@ -1,0 +1,2019 @@
+{
+  "seo": {
+    "title": "What's on, month by month — TripAgent",
+    "description": "The festivals, races and moments worth timing a trip around — a year of the world's great events, month by month, across our cities."
+  },
+  "hero": {
+    "eyebrow": "The calendar",
+    "headingHtml": "What's on, <span class=\"it\">month by month</span>.",
+    "lede": "The festivals, races and rare moments worth building a trip around — a year of the world, across our cities. Find the month, find the reason to go."
+  },
+  "monthLinks": [
+    {
+      "id": "m1",
+      "label": "Jan"
+    },
+    {
+      "id": "m2",
+      "label": "Feb"
+    },
+    {
+      "id": "m3",
+      "label": "Mar"
+    },
+    {
+      "id": "m4",
+      "label": "Apr"
+    },
+    {
+      "id": "m5",
+      "label": "May"
+    },
+    {
+      "id": "m6",
+      "label": "Jun"
+    },
+    {
+      "id": "m7",
+      "label": "Jul"
+    },
+    {
+      "id": "m8",
+      "label": "Aug"
+    },
+    {
+      "id": "m9",
+      "label": "Sep"
+    },
+    {
+      "id": "m10",
+      "label": "Oct"
+    },
+    {
+      "id": "m11",
+      "label": "Nov"
+    },
+    {
+      "id": "m12",
+      "label": "Dec"
+    }
+  ],
+  "months": [
+    {
+      "id": "m1",
+      "name": "January",
+      "count": "35 to time a trip around",
+      "events": [
+        {
+          "name": "Mubadala Abu Dhabi Open",
+          "meta": "Abu Dhabi · late Jan–early Feb",
+          "body": "WTA 500 women's tennis at Zayed Sports City (31 Jan–7 Feb 2026), a strong early-season field.",
+          "href": "/city-abu-dhabi"
+        },
+        {
+          "name": "Al Dhafra Festival",
+          "meta": "Abu Dhabi · late Oct–Jan",
+          "body": "A serious Emirati heritage festival in the Liwa region built around camel-beauty (mazayna) contests — the country's Bedouin culture, not its skyline.",
+          "href": "/city-abu-dhabi"
+        },
+        {
+          "name": "Lohri",
+          "meta": "Amritsar · 13 January",
+          "body": "The Punjabi winter bonfire festival, marked warmly across the city with music and food.",
+          "href": "/city-amritsar"
+        },
+        {
+          "name": "Amsterdam Light Festival",
+          "meta": "Amsterdam · late Nov–mid-Jan",
+          "body": "Illuminated artworks along the canals, best seen from a heated boat on a cold winter evening.",
+          "href": "/city-amsterdam"
+        },
+        {
+          "name": "Subhash Mela",
+          "meta": "Andaman Islands · January",
+          "body": "A festival at the Cellular Jail marking Netaji Subhas Chandra Bose's birthday, tied to the islands' freedom history.",
+          "href": "/city-andaman"
+        },
+        {
+          "name": "Auckland Anniversary Regatta",
+          "meta": "Auckland · late January",
+          "body": "One of the world's largest one-day sailing regattas fills the harbour, the clearest expression of the City of Sails.",
+          "href": "/city-auckland"
+        },
+        {
+          "name": "Cape Town Minstrel Carnival (Kaapse Klopse)",
+          "meta": "Cape Town · early January (5 Jan 2026)",
+          "body": "The city's oldest carnival — thousands of costumed minstrels with banjos and ghoema drums parade through the streets.",
+          "href": "/city-cape-town"
+        },
+        {
+          "name": "Margazhi Music Season",
+          "meta": "Chennai · mid-December–January",
+          "body": "The world's largest classical-music festival, with hundreds of Carnatic concerts across the city; the reason serious culture-lovers come.",
+          "href": "/city-chennai"
+        },
+        {
+          "name": "Pongal",
+          "meta": "Chennai · January (14–17)",
+          "body": "Tamil Nadu's harvest festival, the state's most important, marked with kolam art and feasting.",
+          "href": "/city-chennai"
+        },
+        {
+          "name": "Mylapore Festival",
+          "meta": "Chennai · January",
+          "body": "A heritage street festival around the Kapaleeshwarar temple, with kolam contests, crafts and performance.",
+          "href": "/city-chennai"
+        },
+        {
+          "name": "Chennai Sangamam",
+          "meta": "Chennai · January",
+          "body": "A large open, free festival of Tamil folk arts staged across public spaces alongside Pongal.",
+          "href": "/city-chennai"
+        },
+        {
+          "name": "Duruthu Perahera",
+          "meta": "Colombo · January",
+          "body": "A large temple procession at Kelaniya on the edge of Colombo, with drummers, dancers and caparisoned elephants.",
+          "href": "/city-colombo"
+        },
+        {
+          "name": "Dubai Shopping Festival",
+          "meta": "Dubai · mid-Dec–late Jan",
+          "body": "The city's biggest retail and entertainment season, with nightly fireworks, concerts and citywide sales.",
+          "href": "/city-dubai"
+        },
+        {
+          "name": "TradFest",
+          "meta": "Dublin · Late January",
+          "body": "Traditional and folk music across Dublin Castle, cathedrals and Temple Bar venues.",
+          "href": "/city-dublin"
+        },
+        {
+          "name": "Edinburgh's Hogmanay",
+          "meta": "Edinburgh · Late December to 1 January",
+          "body": "Scotland's landmark New Year celebration, with a torchlight procession and street party.",
+          "href": "/city-edinburgh"
+        },
+        {
+          "name": "Galle Literary Festival",
+          "meta": "Galle · late Jan",
+          "body": "South Asia's leading literary gathering, staged in the fort's colonial buildings — the 2026 edition runs 22–25 January.",
+          "href": "/city-galle"
+        },
+        {
+          "name": "Tet (Vietnamese Lunar New Year)",
+          "meta": "Hanoi · late Jan–mid Feb",
+          "body": "The country's biggest holiday; Hanoi empties of traffic and fills with kumquat trees and peach blossom, though many shops close for several days.",
+          "href": "/city-hanoi"
+        },
+        {
+          "name": "Jaipur Literature Festival",
+          "meta": "Jaipur · late January–February",
+          "body": "The world's largest free literary festival, a genuine cultural draw that fills the city; book lodging far ahead.",
+          "href": "/city-jaipur"
+        },
+        {
+          "name": "Jaisalmer Desert Festival",
+          "meta": "Jaisalmer · late Jan–Feb (Magha full moon)",
+          "body": "Three days of camel races, folk music and dune performances, culminating at Sam sand dunes.",
+          "href": "/city-jaisalmer"
+        },
+        {
+          "name": "Thaipusam at Batu Caves",
+          "meta": "Kuala Lumpur · late Jan–Feb",
+          "body": "One of the world's largest Tamil Hindu processions, with devotees carrying kavadi up the cave steps.",
+          "href": "/city-kuala-lumpur"
+        },
+        {
+          "name": "Royal Langkawi International Regatta",
+          "meta": "Langkawi · January",
+          "body": "An international fleet racing in the Andaman Sea off the island — the calmest, driest month to visit.",
+          "href": "/city-langkawi"
+        },
+        {
+          "name": "Winter Carnival, Manali",
+          "meta": "Manali · January",
+          "body": "A cold-season festival of local culture, food and snow sports in the town.",
+          "href": "/city-manali"
+        },
+        {
+          "name": "Thaipoosam Cavadee",
+          "meta": "Mauritius · late January–February",
+          "body": "Tamil devotees carry flower-decked kavadi and pierce their skin in honour of Lord Muruga.",
+          "href": "/city-mauritius-city"
+        },
+        {
+          "name": "Chinese New Year (Spring Festival)",
+          "meta": "Mauritius · late January–February",
+          "body": "Firecrackers and celebration in Port Louis's Chinatown; dates shift with the lunar calendar.",
+          "href": "/city-mauritius-city"
+        },
+        {
+          "name": "Australian Open",
+          "meta": "Melbourne · Mid–late January",
+          "body": "The year's first tennis Grand Slam, taking over Melbourne Park for a fortnight.",
+          "href": "/city-melbourne"
+        },
+        {
+          "name": "Peak clear-weather season",
+          "meta": "Munnar · Sep–Nov & Jan–March",
+          "body": "The post-monsoon and dry-winter windows give the clearest tea-country light and best walking.",
+          "href": "/city-munnar"
+        },
+        {
+          "name": "Muscat Festival",
+          "meta": "Muscat · Jan–Feb",
+          "body": "A month of crafts, culture and food across the city's parks during the cool season.",
+          "href": "/city-muscat"
+        },
+        {
+          "name": "Republic Day parade",
+          "meta": "New Delhi · 26 Jan",
+          "body": "The nation's grand military and cultural parade down Kartavya Path.",
+          "href": "/city-delhi"
+        },
+        {
+          "name": "Festa de São Sebastião",
+          "meta": "Rio de Janeiro · 20 January",
+          "body": "The city's patron-saint day, marked by a procession through the centre.",
+          "href": "/city-rio-de-janeiro"
+        },
+        {
+          "name": "Mozart Week",
+          "meta": "Salzburg · Late January",
+          "body": "The Mozarteum's festival around the composer's birthday, drawing leading orchestras.",
+          "href": "/city-salzburg"
+        },
+        {
+          "name": "Winter Carnival",
+          "meta": "Shimla · late December–January",
+          "body": "A festive cold-season carnival with music and local culture as the snow sets in.",
+          "href": "/city-shimla"
+        },
+        {
+          "name": "Chinese New Year",
+          "meta": "Singapore · late Jan–Feb",
+          "body": "Chinatown lights up and the Chingay parade fills the streets — the city's biggest celebration.",
+          "href": "/city-singapore-city"
+        },
+        {
+          "name": "Singapore Art Week",
+          "meta": "Singapore · Jan",
+          "body": "Anchored by ART SG, the region's largest fair, with gallery openings across the island.",
+          "href": "/city-singapore-city"
+        },
+        {
+          "name": "Snow Polo World Cup St. Moritz",
+          "meta": "St. Moritz · Late January",
+          "body": "Three days of top-level polo on the frozen lake.",
+          "href": "/city-st-moritz"
+        },
+        {
+          "name": "Shilpgram Utsav",
+          "meta": "Udaipur · late December–early January",
+          "body": "The big crafts-and-folk fair at the Shilpgram rural arts village, drawing artisans from across western India.",
+          "href": "/city-udaipur"
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "name": "February",
+      "count": "37 to time a trip around",
+      "events": [
+        {
+          "name": "Taj Mahotsav",
+          "meta": "Agra · February",
+          "body": "A ten-day arts, crafts and cuisine festival near the Taj celebrating Mughal-era culture.",
+          "href": "/city-agra"
+        },
+        {
+          "name": "Carnaval Porteño",
+          "meta": "Buenos Aires · February",
+          "body": "Neighbourhood murga troupes and free street corsos across more than twenty barrios; a local, unglossed carnival.",
+          "href": "/city-buenos-aires"
+        },
+        {
+          "name": "Carnaval (Cozumel & Cancún)",
+          "meta": "Cancún · February",
+          "body": "Parades, music and costume across the coast in the days before Lent, with Cozumel's carnival the most traditional.",
+          "href": "/city-cancun"
+        },
+        {
+          "name": "Navam Perahera",
+          "meta": "Colombo · February",
+          "body": "Colombo's own grand full-moon procession from the Gangaramaya Temple, with dozens of elephants moving through the city by night.",
+          "href": "/city-colombo"
+        },
+        {
+          "name": "Losar (Tibetan New Year)",
+          "meta": "Darjeeling · Feb–March",
+          "body": "The Buddhist new year, marked with masked dances at the town's Tibetan monasteries.",
+          "href": "/city-darjeeling"
+        },
+        {
+          "name": "Taste of Dubai",
+          "meta": "Dubai · February",
+          "body": "The city's flagship food festival, with restaurant showcases, chef demos and tastings across a weekend.",
+          "href": "/city-dubai"
+        },
+        {
+          "name": "Feast of St Blaise (Sveti Vlaho)",
+          "meta": "Dubrovnik · 3 February",
+          "body": "The patron saint's day, a UNESCO-listed procession — the Old Town at its most local, with no cruise ships in sight.",
+          "href": "/city-dubrovnik"
+        },
+        {
+          "name": "Goa Carnival",
+          "meta": "Goa · February",
+          "body": "A Portuguese-legacy street carnival with floats and parades in the days before Lent, centred on Panjim.",
+          "href": "/city-goa"
+        },
+        {
+          "name": "Dong Da Festival",
+          "meta": "Hanoi · February",
+          "body": "Held on the 5th day of the lunar new year at Dong Da mound, it commemorates Emperor Quang Trung's 1789 rout of the invading Qing army.",
+          "href": "/city-hanoi"
+        },
+        {
+          "name": "Perfume Pagoda Festival",
+          "meta": "Hanoi · Feb–Mar (peaks mid-Mar)",
+          "body": "A months-long pilgrimage southwest of Hanoi where over a million make the boat-and-climb journey to the sacred cave temple.",
+          "href": "/city-hanoi"
+        },
+        {
+          "name": "Tet (Lunar New Year)",
+          "meta": "Ho Chi Minh City · mid-Feb (17 Feb 2026)",
+          "body": "Nguyen Hue walking street becomes a vast flower festival; the city glows but many kitchens and shops close for the holiday.",
+          "href": "/city-ho-chi-minh-city"
+        },
+        {
+          "name": "Chinese New Year Night Parade",
+          "meta": "Hong Kong · February (Lunar New Year)",
+          "body": "Floats and performers process through Tsim Sha Tsui on the first night of the lunar year, followed by harbour fireworks.",
+          "href": "/city-hong-kong"
+        },
+        {
+          "name": "World Sacred Spirit Festival",
+          "meta": "Jodhpur · February",
+          "body": "An intimate festival of devotional and Sufi music held within the fort.",
+          "href": "/city-jodhpur"
+        },
+        {
+          "name": "Losar (Ladakhi New Year)",
+          "meta": "Leh-Ladakh · December–February",
+          "body": "The Buddhist new year, an intimate winter festival for those who brave the cold, closed season.",
+          "href": "/city-leh-ladakh"
+        },
+        {
+          "name": "Maha Shivaratri",
+          "meta": "Mauritius · February–March",
+          "body": "Hundreds of thousands walk barefoot to Grand Bassin carrying kanwars — the island's largest Hindu pilgrimage.",
+          "href": "/city-mauritius-city"
+        },
+        {
+          "name": "Zona Maco",
+          "meta": "Mexico City · Feb",
+          "body": "Latin America's leading contemporary art fair, filling the city with openings.",
+          "href": "/city-mexico-city"
+        },
+        {
+          "name": "Miami International Boat Show",
+          "meta": "Miami · February",
+          "body": "One of the world's largest boat shows, a fixture of the city's on-water calendar over Presidents' Day weekend.",
+          "href": "/city-miami"
+        },
+        {
+          "name": "Milan Fashion Week",
+          "meta": "Milan · Feb & Sept",
+          "body": "The women's shows twice a year turn the city into fashion's world capital.",
+          "href": "/city-milan"
+        },
+        {
+          "name": "Kala Ghoda Arts Festival",
+          "meta": "Mumbai · February",
+          "body": "A well-run nine-day street arts festival in the Fort district, good for design, film and installations.",
+          "href": "/city-mumbai"
+        },
+        {
+          "name": "Qutub / India Art Fair season",
+          "meta": "New Delhi · Feb",
+          "body": "India's leading art fair draws collectors, alongside heritage festivals in the cooler months.",
+          "href": "/city-delhi"
+        },
+        {
+          "name": "Nice Carnival",
+          "meta": "Nice & the Riviera · February",
+          "body": "One of the world's great carnivals, with flower battles and huge floats along the Promenade des Anglais.",
+          "href": "/city-nice-riviera"
+        },
+        {
+          "name": "Fête du Citron (Menton Lemon Festival)",
+          "meta": "Nice & the Riviera · mid-February–early March",
+          "body": "Giant sculptures built from citrus fruit in nearby Menton — a short train ride east.",
+          "href": "/city-nice-riviera"
+        },
+        {
+          "name": "Punakha Drubchen & Tshechu",
+          "meta": "Paro & Thimphu · February–March",
+          "body": "A dramatic re-enactment of a 17th-century battle precedes the tshechu at Punakha Dzong.",
+          "href": "/city-paro"
+        },
+        {
+          "name": "Winter safari season",
+          "meta": "Ranthambore · Nov–Feb",
+          "body": "Cool, comfortable game drives and clear light; the most pleasant conditions for extended safaris.",
+          "href": "/city-ranthambore"
+        },
+        {
+          "name": "Winter Lights Festival",
+          "meta": "Reykjavik · February",
+          "body": "Museums, pools and buildings lit up across the darkest weeks — paired well with aurora season.",
+          "href": "/city-reykjavik"
+        },
+        {
+          "name": "Rio Carnival",
+          "meta": "Rio de Janeiro · February (dates shift; 13–17 Feb in 2026)",
+          "body": "The Sambadrome parades plus hundreds of free street blocos across the city.",
+          "href": "/city-rio-de-janeiro"
+        },
+        {
+          "name": "Shivratri",
+          "meta": "Rishikesh · Feb–March",
+          "body": "A significant night for this Shiva-associated pilgrimage town, with all-night devotion.",
+          "href": "/city-rishikesh"
+        },
+        {
+          "name": "Peak snow season",
+          "meta": "Shimla · Dec–Feb",
+          "body": "The most reliable window for snowfall around Shimla and Kufri, though weekends draw heavy crowds.",
+          "href": "/city-shimla"
+        },
+        {
+          "name": "White Turf",
+          "meta": "St. Moritz · February",
+          "body": "Horse racing and skijoring across three Sundays on the lake.",
+          "href": "/city-st-moritz"
+        },
+        {
+          "name": "Sydney Gay and Lesbian Mardi Gras",
+          "meta": "Sydney · Late February / early March",
+          "body": "Weeks of events building to the Oxford Street parade, one of the world's largest.",
+          "href": "/city-sydney"
+        },
+        {
+          "name": "Pingxi & Taipei Lantern Festival",
+          "meta": "Taipei · late February–mid-March",
+          "body": "The lantern season peaks with sky-lantern releases in Pingxi and large illuminated displays across Taipei around the first full moon of the lunar year.",
+          "href": "/city-taipei"
+        },
+        {
+          "name": "Udaipur World Music Festival",
+          "meta": "Udaipur · February",
+          "body": "A weekend of international and Indian acts across lakeside and heritage stages in the City of Lakes.",
+          "href": "/city-udaipur"
+        },
+        {
+          "name": "Vancouver International Wine Festival",
+          "meta": "Vancouver · Late February / early March",
+          "body": "The city's serious oenophile week, with a themed region and a large public tasting hall.",
+          "href": "/city-vancouver"
+        },
+        {
+          "name": "Mahashivratri",
+          "meta": "Varanasi · Feb–Mar",
+          "body": "The great night of Shiva fills the temples of his holiest city; date follows the lunar calendar.",
+          "href": "/city-varanasi"
+        },
+        {
+          "name": "Carnevale di Venezia",
+          "meta": "Venice · February (7–17 Feb 2026)",
+          "body": "The masked carnival — costumed balls in private palazzi and the flight of the angel over St Mark's Square.",
+          "href": "/city-venice"
+        },
+        {
+          "name": "Vienna Opera Ball",
+          "meta": "Vienna · February",
+          "body": "The grandest night of the ball season, held on the transformed State Opera stage.",
+          "href": "/city-vienna"
+        },
+        {
+          "name": "Sauti za Busara",
+          "meta": "Zanzibar · February",
+          "body": "East Africa's leading music festival fills Stone Town's Old Fort over a long weekend of live African acts.",
+          "href": "/city-zanzibar"
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "name": "March",
+      "count": "26 to time a trip around",
+      "events": [
+        {
+          "name": "Tulip season and Keukenhof",
+          "meta": "Amsterdam · late March–mid-May",
+          "body": "The bulb fields and the gardens outside the city are at their peak; the single reason many travellers time spring here.",
+          "href": "/city-amsterdam"
+        },
+        {
+          "name": "Pasifika Festival",
+          "meta": "Auckland · March",
+          "body": "The largest Pacific-culture festival in the world, with village stages, food and performance at Western Springs.",
+          "href": "/city-auckland"
+        },
+        {
+          "name": "Nyepi (Day of Silence)",
+          "meta": "Bali · March",
+          "body": "The Balinese New Year, preceded by the Ogoh-Ogoh effigy parades and followed by a full day when the entire island falls silent.",
+          "href": "/city-bali"
+        },
+        {
+          "name": "Karaga",
+          "meta": "Bengaluru · March–April",
+          "body": "An ancient, atmospheric night procession through the old city, one of Bengaluru's oldest living traditions.",
+          "href": "/city-bengaluru"
+        },
+        {
+          "name": "Cape Town International Jazz Festival",
+          "meta": "Cape Town · late March (27–28 Mar 2026)",
+          "body": "Africa's grandest jazz gathering, two days of local and international acts across multiple stages at the CTICC.",
+          "href": "/city-cape-town"
+        },
+        {
+          "name": "Señor de los Temblores (Holy Monday)",
+          "meta": "Cusco & Machu Picchu · March/April",
+          "body": "A revered procession of the 'Lord of the Earthquakes' through the old city during Holy Week.",
+          "href": "/city-cusco"
+        },
+        {
+          "name": "First-flush tea season",
+          "meta": "Darjeeling · March–April",
+          "body": "The prized spring plucking, the best time to experience the estates at work.",
+          "href": "/city-darjeeling"
+        },
+        {
+          "name": "Dubai World Cup",
+          "meta": "Dubai · late March",
+          "body": "The world's richest race day at Meydan on the last Saturday of March, a full dress-code social occasion.",
+          "href": "/city-dubai"
+        },
+        {
+          "name": "Art Dubai",
+          "meta": "Dubai · spring (Mar–May)",
+          "body": "The region's leading contemporary and modern art fair at Madinat Jumeirah, anchor of Dubai's art season.",
+          "href": "/city-dubai"
+        },
+        {
+          "name": "St. Patrick's Festival",
+          "meta": "Dublin · Mid-March",
+          "body": "Several days of events around the 17 March parade through the city.",
+          "href": "/city-dublin"
+        },
+        {
+          "name": "Shigmo",
+          "meta": "Goa · March",
+          "body": "Goa's Hindu spring festival, a colourful procession of folk dancers and floats, the local counterpart to Holi.",
+          "href": "/city-goa"
+        },
+        {
+          "name": "Hue Festival",
+          "meta": "Hoi An & Da Nang · late Mar–Apr (biennial)",
+          "body": "A short drive north, the former imperial capital stages a major cultural festival of royal ritual, music and craft.",
+          "href": "/city-hoi-an"
+        },
+        {
+          "name": "Gangaur",
+          "meta": "Jaipur · March–April",
+          "body": "An 18-day festival ending in a grand ceremonial procession, one of Rajasthan's most photographed.",
+          "href": "/city-jaipur"
+        },
+        {
+          "name": "Holi",
+          "meta": "Jaisalmer · March",
+          "body": "Celebrated with folk colour among the sandstone lanes, best experienced at a heritage haveli.",
+          "href": "/city-jaisalmer"
+        },
+        {
+          "name": "Academy Awards",
+          "meta": "Los Angeles · Mid-March",
+          "body": "The ceremony itself is closed, but the city's energy, parties and restaurant scene peak around Oscars weekend.",
+          "href": "/city-los-angeles"
+        },
+        {
+          "name": "ASICS Los Angeles Marathon",
+          "meta": "Los Angeles · March",
+          "body": "The Stadium-to-the-Stars course runs from Dodger Stadium to Century City, closing swathes of the city for a morning.",
+          "href": "/city-los-angeles"
+        },
+        {
+          "name": "Melbourne International Comedy Festival",
+          "meta": "Melbourne · Late March – April",
+          "body": "The world's largest dedicated comedy festival, hundreds of shows across the city.",
+          "href": "/city-melbourne"
+        },
+        {
+          "name": "Ultra Music Festival",
+          "meta": "Miami · Late March",
+          "body": "Electronic-music weekend at Bayfront Park that headlines Miami Music Week.",
+          "href": "/city-miami"
+        },
+        {
+          "name": "Starkbierfest (strong beer season)",
+          "meta": "Munich · March",
+          "body": "Lenten strong-beer festivals, centred on Paulaner's Nockherberg, with far fewer tourists than Oktoberfest.",
+          "href": "/city-munich"
+        },
+        {
+          "name": "WRC Safari Rally Kenya",
+          "meta": "Nairobi & the Mara · March",
+          "body": "The historic World Rally round runs on the rough tracks around Lake Naivasha, a couple of hours from Nairobi.",
+          "href": "/city-nairobi-mara"
+        },
+        {
+          "name": "Paro Tshechu",
+          "meta": "Paro & Thimphu · spring (Mar–Apr)",
+          "body": "Masked dances at Rinpung Dzong, closing with the dawn unfurling of the giant Guru Thongdrel tapestry.",
+          "href": "/city-paro"
+        },
+        {
+          "name": "International Yoga Festival",
+          "meta": "Rishikesh · March",
+          "body": "A week of teachers and practitioners from around the world at Parmarth Niketan, the town's signature gathering.",
+          "href": "/city-rishikesh"
+        },
+        {
+          "name": "Holy Week & Easter",
+          "meta": "Rome · March–April",
+          "body": "Rome's most solemn season, with the papal ceremonies and the Via Crucis at the Colosseum drawing pilgrims from everywhere.",
+          "href": "/city-rome"
+        },
+        {
+          "name": "Tulip Festival",
+          "meta": "Srinagar · late March–April",
+          "body": "Asia's largest tulip garden below the Zabarwan hills blooms for a few weeks; the signature spring event.",
+          "href": "/city-srinagar"
+        },
+        {
+          "name": "Almond blossom season",
+          "meta": "Srinagar · March",
+          "body": "The Badamwari garden's almond trees flower, marking the first sign of the Kashmiri spring.",
+          "href": "/city-srinagar"
+        },
+        {
+          "name": "Cherry blossom (sakura) season",
+          "meta": "Tokyo · late March–early April",
+          "body": "A roughly ten-day window when the city's parks and canals bloom; the most beautiful and most contested time to visit.",
+          "href": "/city-tokyo"
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "name": "April",
+      "count": "25 to time a trip around",
+      "events": [
+        {
+          "name": "Baisakhi",
+          "meta": "Amritsar · 13–14 April",
+          "body": "The Sikh new year and harvest festival, celebrated with great fervour at the Golden Temple; the peak time to witness the faith.",
+          "href": "/city-amritsar"
+        },
+        {
+          "name": "King's Day (Koningsdag)",
+          "meta": "Amsterdam · 27 April",
+          "body": "The whole city turns orange and takes to the streets and canals for the country's biggest party; book rooms far ahead.",
+          "href": "/city-amsterdam"
+        },
+        {
+          "name": "Peak diving & clear-water season",
+          "meta": "Andaman Islands · Nov–April",
+          "body": "The dry season with the calmest seas and best visibility; the window to time a trip around the reefs.",
+          "href": "/city-andaman"
+        },
+        {
+          "name": "Songkran",
+          "meta": "Bangkok · 13–15 April",
+          "body": "Thai New Year, marked by temple blessings and city-wide water fights; joyous but book far ahead and expect to get wet.",
+          "href": "/city-bangkok"
+        },
+        {
+          "name": "Sant Jordi",
+          "meta": "Barcelona · 23 April",
+          "body": "Catalonia's day of books and roses — the streets fill with stalls and readers.",
+          "href": "/city-barcelona"
+        },
+        {
+          "name": "Sinhala & Tamil New Year",
+          "meta": "Galle · mid-April",
+          "body": "Traditional games, sweets and rituals fill the villages around the fort.",
+          "href": "/city-galle"
+        },
+        {
+          "name": "Reunification Day",
+          "meta": "Ho Chi Minh City · 30 April",
+          "body": "Marks the end of the war in 1975 with parades and fireworks, and is felt most sharply in the city where it happened.",
+          "href": "/city-ho-chi-minh-city"
+        },
+        {
+          "name": "Istanbul Tulip Festival",
+          "meta": "Istanbul · April",
+          "body": "Millions of tulips planted across Emirgan Park and the city's squares, honouring the flower's Ottoman origins.",
+          "href": "/city-istanbul"
+        },
+        {
+          "name": "Kochi-Muziris Biennale",
+          "meta": "Kochi · Dec–Apr (biennial)",
+          "body": "India's leading contemporary-art event, staged in warehouses and heritage buildings across the fort.",
+          "href": "/city-kochi"
+        },
+        {
+          "name": "Thrissur Pooram (nearby)",
+          "meta": "Kochi · April–May",
+          "body": "The spectacular caparisoned-elephant temple festival is a short trip north, among India's grandest.",
+          "href": "/city-kochi"
+        },
+        {
+          "name": "Songkran",
+          "meta": "Krabi · 13–15 April",
+          "body": "Thai New Year, marked with water-splashing and temple visits across the province at the height of the hot season.",
+          "href": "/city-krabi"
+        },
+        {
+          "name": "Coachella Valley Music and Arts Festival",
+          "meta": "Los Angeles · April (two weekends)",
+          "body": "Two hours east in Indio; the marquee festival that empties fashionable LA into the desert.",
+          "href": "/city-los-angeles"
+        },
+        {
+          "name": "Carnaval International de Victoria",
+          "meta": "Mahé · April",
+          "body": "A colourful international parade through the capital celebrating the islands' mixed heritage.",
+          "href": "/city-mahe-seychelles"
+        },
+        {
+          "name": "Salone del Mobile (Design Week)",
+          "meta": "Milan · April",
+          "body": "The world's biggest furniture and design fair, spilling into installations across every district.",
+          "href": "/city-milan"
+        },
+        {
+          "name": "Arrowtown Autumn Festival",
+          "meta": "Queenstown · April",
+          "body": "The old gold town celebrates its turning trees with markets and a heritage parade.",
+          "href": "/city-queenstown"
+        },
+        {
+          "name": "Peak tiger-sighting season",
+          "meta": "Ranthambore · April–June",
+          "body": "The hottest months draw tigers to the water, giving the best odds of a sighting despite the heat.",
+          "href": "/city-ranthambore"
+        },
+        {
+          "name": "Natale di Roma",
+          "meta": "Rome · 21 April",
+          "body": "The city's own birthday, marked with historical re-enactments and a costumed parade through the Circus Maximus and the Fori.",
+          "href": "/city-rome"
+        },
+        {
+          "name": "Greek Orthodox Easter",
+          "meta": "Santorini · April/May",
+          "body": "Candlelit processions and fireworks in the villages — the islands' most moving celebration; date follows the Orthodox calendar.",
+          "href": "/city-santorini"
+        },
+        {
+          "name": "Cherry blossom season",
+          "meta": "Seoul · early–mid April",
+          "body": "Yeouido and the palace grounds bloom for roughly a week — the city's prettiest, busiest moment.",
+          "href": "/city-seoul"
+        },
+        {
+          "name": "Longhua Temple Fair",
+          "meta": "Shanghai · late April–early May",
+          "body": "One of Shanghai's oldest folk fairs fills the grounds of its most important temple with performances and craft stalls.",
+          "href": "/city-shanghai"
+        },
+        {
+          "name": "Sipi Fair",
+          "meta": "Shimla · April–May",
+          "body": "A traditional spring fair in nearby Mashobra, a window into local Pahari culture.",
+          "href": "/city-shimla"
+        },
+        {
+          "name": "Angkor Sankranta (Khmer New Year)",
+          "meta": "Siem Reap · mid-April",
+          "body": "Cambodia's biggest celebration, with games and blessings staged around the temples themselves.",
+          "href": "/city-siem-reap"
+        },
+        {
+          "name": "Mewar Festival",
+          "meta": "Udaipur · April (tentatively 12–14 Apr 2026)",
+          "body": "A spring festival tied to Gangaur, with a Lake Pichola boat procession and City Palace celebrations honouring the goddess.",
+          "href": "/city-udaipur"
+        },
+        {
+          "name": "Zermatt Unplugged",
+          "meta": "Zermatt · April",
+          "body": "An acoustic music festival across village and mountain stages — the 2026 edition runs 7–11 April.",
+          "href": "/city-zermatt"
+        },
+        {
+          "name": "Sechseläuten",
+          "meta": "Zurich · Mid-April",
+          "body": "Zurich's guild spring festival, culminating in the burning of the Böögg snowman to predict the summer.",
+          "href": "/city-zurich"
+        }
+      ]
+    },
+    {
+      "id": "m5",
+      "name": "May",
+      "count": "20 to time a trip around",
+      "events": [
+        {
+          "name": "Monsoon (to avoid)",
+          "meta": "Andaman Islands · May–September",
+          "body": "Heavy rain and rough seas disrupt ferries and diving; worth planning around by staying away.",
+          "href": "/city-andaman"
+        },
+        {
+          "name": "Primavera Sound",
+          "meta": "Barcelona · late May–early June",
+          "body": "One of Europe's leading music festivals, drawing global acts to the seafront.",
+          "href": "/city-barcelona"
+        },
+        {
+          "name": "Whale shark season",
+          "meta": "Cancún · mid-May–mid-Sep (peak Jul–Aug)",
+          "body": "The window when whale sharks gather off Isla Mujeres and Isla Holbox; the region's signature wildlife encounter.",
+          "href": "/city-cancun"
+        },
+        {
+          "name": "Vesak",
+          "meta": "Colombo · May",
+          "body": "The most important Buddhist holiday; Colombo fills with lanterns and illuminated pandals, and free food stalls line the streets.",
+          "href": "/city-colombo"
+        },
+        {
+          "name": "Da Nang International Fireworks Festival",
+          "meta": "Hoi An & Da Nang · late May–mid Jul (Sat nights)",
+          "body": "International teams compete over successive Saturday nights along the Han River — the region's biggest set-piece event.",
+          "href": "/city-hoi-an"
+        },
+        {
+          "name": "Cheung Chau Bun Festival",
+          "meta": "Hong Kong · May (around Buddha's Birthday)",
+          "body": "The outlying island's centuries-old festival culminates in a bun-scrambling race up towers and the floating-children Piu Sik parade.",
+          "href": "/city-hong-kong"
+        },
+        {
+          "name": "Aoi Matsuri",
+          "meta": "Kyoto · 15 May",
+          "body": "The oldest of Kyoto's three great festivals — a Heian-era court procession in ox-carts and silk from the Imperial Palace to the Kamo shrines.",
+          "href": "/city-kyoto"
+        },
+        {
+          "name": "LIMA (Langkawi International Maritime & Aerospace Exhibition)",
+          "meta": "Langkawi · May, odd years",
+          "body": "A biennial defence and aerospace showcase with public flying displays over the bay — book far ahead, the island fills.",
+          "href": "/city-langkawi"
+        },
+        {
+          "name": "Chelsea Flower Show",
+          "meta": "London · May",
+          "body": "The RHS's flagship show and a fixture of the London season.",
+          "href": "/city-london"
+        },
+        {
+          "name": "Fiestas de San Isidro",
+          "meta": "Madrid · Mid-May",
+          "body": "Madrid's patron-saint festival brings open-air verbenas, chotis dancing and concerts across the old city.",
+          "href": "/city-madrid"
+        },
+        {
+          "name": "Hadimba Devi Fair",
+          "meta": "Manali · May",
+          "body": "A local temple festival at the atmospheric wooden Hadimba shrine among the cedars.",
+          "href": "/city-manali"
+        },
+        {
+          "name": "Roland-Garros (French Open)",
+          "meta": "Paris · late May–early June",
+          "body": "The clay-court Grand Slam; the toughest ticket in Paris and worth timing a spring trip around.",
+          "href": "/city-paris"
+        },
+        {
+          "name": "Prague Spring International Music Festival",
+          "meta": "Prague · May–early June",
+          "body": "The country's premier classical festival, opening with Smetana's Má vlast.",
+          "href": "/city-prague"
+        },
+        {
+          "name": "Ganga Dussehra",
+          "meta": "Rishikesh · May–June",
+          "body": "A river festival honouring the descent of the Ganga, with special aartis and bathing on the ghats.",
+          "href": "/city-rishikesh"
+        },
+        {
+          "name": "Buddha's Birthday / Lotus Lantern Festival",
+          "meta": "Seoul · May",
+          "body": "A lantern parade through central Seoul and temples strung with color — dates follow the lunar calendar.",
+          "href": "/city-seoul"
+        },
+        {
+          "name": "Summer Festival",
+          "meta": "Shimla · May–June",
+          "body": "A week of cultural performances and events on the Ridge, marking the start of the hill-station season.",
+          "href": "/city-shimla"
+        },
+        {
+          "name": "Vivid Sydney",
+          "meta": "Sydney · Late May – mid-June",
+          "body": "The city lights up nightly with projections, music and ideas across the harbour.",
+          "href": "/city-sydney"
+        },
+        {
+          "name": "Sanja Matsuri",
+          "meta": "Tokyo · mid-May",
+          "body": "Asakusa's wild three-day shrine festival, a hundred mikoshi carried through the streets — old Tokyo at full volume.",
+          "href": "/city-tokyo"
+        },
+        {
+          "name": "Venice Biennale (Art)",
+          "meta": "Venice · May–November (9 May–22 Nov 2026)",
+          "body": "The 61st International Art Exhibition across the Giardini, the Arsenale and pavilions scattered through the city.",
+          "href": "/city-venice"
+        },
+        {
+          "name": "Wiener Festwochen",
+          "meta": "Vienna · Mid-May to mid-June",
+          "body": "The city's leading festival of theatre, opera, dance and music.",
+          "href": "/city-vienna"
+        }
+      ]
+    },
+    {
+      "id": "m6",
+      "name": "June",
+      "count": "27 to time a trip around",
+      "events": [
+        {
+          "name": "Champakulam Moolam Boat Race",
+          "meta": "Alleppey · June–July",
+          "body": "Kerala's oldest snake-boat race, on the Pamba river near Alleppey.",
+          "href": "/city-alleppey"
+        },
+        {
+          "name": "Athens Epidaurus Festival",
+          "meta": "Athens · June–August",
+          "body": "The city's great summer season of theatre, music and dance, staged at the Odeon of Herodes Atticus and the ancient theatre of Epidaurus.",
+          "href": "/city-athens"
+        },
+        {
+          "name": "Bali Arts Festival",
+          "meta": "Bali · mid-June–mid-July",
+          "body": "A month-long celebration of Balinese dance, music and craft centred on Denpasar; the island's cultural high point.",
+          "href": "/city-bali"
+        },
+        {
+          "name": "Inti Raymi",
+          "meta": "Cusco & Machu Picchu · 24 June",
+          "body": "The Inca Festival of the Sun, re-enacted at Sacsayhuamán — the Andes' greatest pageant, fixed on 24 June.",
+          "href": "/city-cusco"
+        },
+        {
+          "name": "Corpus Christi",
+          "meta": "Cusco & Machu Picchu · June",
+          "body": "Saints' processions and feasting fill the Plaza de Armas in the run-up to Inti Raymi.",
+          "href": "/city-cusco"
+        },
+        {
+          "name": "Bloomsday",
+          "meta": "Dublin · 16 June",
+          "body": "The city retraces Joyce's Ulysses in Edwardian dress.",
+          "href": "/city-dublin"
+        },
+        {
+          "name": "Calcio Storico Fiorentino",
+          "meta": "Florence · June (final 24 Jun)",
+          "body": "A brutal, costumed 16th-century football tournament in Piazza Santa Croce, climaxing on the feast of San Giovanni.",
+          "href": "/city-florence"
+        },
+        {
+          "name": "Fête de la Musique",
+          "meta": "Geneva · Late June",
+          "body": "Three days of free concerts across squares and courtyards throughout the old town for the summer solstice.",
+          "href": "/city-geneva"
+        },
+        {
+          "name": "Istanbul Music Festival",
+          "meta": "Istanbul · June (11–26 Jun 2026)",
+          "body": "Turkey's leading classical festival, staging concerts in historic venues from Hagia Irene to Bosphorus palaces.",
+          "href": "/city-istanbul"
+        },
+        {
+          "name": "Istanbul Jazz Festival",
+          "meta": "Istanbul · late June–July (30 Jun–13 Jul 2026)",
+          "body": "Jazz, soul and world music across the city's iconic stages, from parks to waterfront terraces.",
+          "href": "/city-istanbul"
+        },
+        {
+          "name": "Sagra di San Giovanni, Isola Comacina",
+          "meta": "Lake Como · last weekend of June",
+          "body": "The lake's only island lit by fireworks and floating candles, recalling its medieval destruction — Como's most atmospheric night.",
+          "href": "/city-lake-como"
+        },
+        {
+          "name": "Hemis Festival",
+          "meta": "Leh-Ladakh · late June–early July",
+          "body": "The largest monastic festival in Ladakh, with masked cham dances at Hemis Gompa; dates follow the Tibetan calendar.",
+          "href": "/city-leh-ladakh"
+        },
+        {
+          "name": "Sindhu Darshan",
+          "meta": "Leh-Ladakh · June",
+          "body": "A riverside festival on the banks of the Indus celebrating the river and Ladakhi culture.",
+          "href": "/city-leh-ladakh"
+        },
+        {
+          "name": "Festas de Santo António (Santos Populares)",
+          "meta": "Lisbon · Early-mid June",
+          "body": "The city's biggest street party, peaking on the night of the 12th with grilled sardines, marchas and neighbourhood dancing.",
+          "href": "/city-lisbon"
+        },
+        {
+          "name": "Wimbledon",
+          "meta": "London · late June–early July",
+          "body": "The oldest tennis championship, and London's summer social centrepiece.",
+          "href": "/city-london"
+        },
+        {
+          "name": "Spiti / high-pass access season",
+          "meta": "Manali · June–October",
+          "body": "The window when the high roads over Kunzum and towards Spiti open; the reason to time a longer trip.",
+          "href": "/city-manali"
+        },
+        {
+          "name": "Marrakech Comedy Festival (Marrakech du Rire)",
+          "meta": "Marrakech · June (4–6 Jun 2026)",
+          "body": "The city's headline comedy weekend, now under a new name and home at the Palais des Congrès.",
+          "href": "/city-marrakech"
+        },
+        {
+          "name": "Tribeca Festival",
+          "meta": "New York · early June",
+          "body": "Robert De Niro's downtown film festival, when premieres and talks take over lower Manhattan for a fortnight.",
+          "href": "/city-new-york"
+        },
+        {
+          "name": "Fête de la Musique",
+          "meta": "Paris · 21 June",
+          "body": "The whole city becomes a free stage on the solstice — every square and street corner has live music until late.",
+          "href": "/city-paris"
+        },
+        {
+          "name": "Festa de São João do Porto",
+          "meta": "Porto · Night of 23 June",
+          "body": "The city's exuberant midsummer festival of bonfires, grilled sardines, plastic hammers and a midnight fireworks display over the river.",
+          "href": "/city-porto"
+        },
+        {
+          "name": "NOS Primavera Sound",
+          "meta": "Porto · Mid-June",
+          "body": "A three-day international indie and electronic festival in the Parque da Cidade, an offshoot of the Barcelona original.",
+          "href": "/city-porto"
+        },
+        {
+          "name": "Queenstown Winter Festival",
+          "meta": "Queenstown · Late June",
+          "body": "Ten days of fireworks, street parties and mountain events opening the ski season.",
+          "href": "/city-queenstown"
+        },
+        {
+          "name": "Estate Romana",
+          "meta": "Rome · June–September",
+          "body": "The summer-long festival of open-air cinema, concerts and events along the Tiber and across the city's squares.",
+          "href": "/city-rome"
+        },
+        {
+          "name": "Shanghai International Film Festival",
+          "meta": "Shanghai · June",
+          "body": "China's leading film festival brings hundreds of screenings and its Golden Goblet competition to cinemas across the city.",
+          "href": "/city-shanghai"
+        },
+        {
+          "name": "Dragon Boat Festival",
+          "meta": "Taipei · June",
+          "body": "Dragon-boat races on the Keelung and Dahan rivers mark one of Taiwan's oldest holidays, with zongzi eaten citywide.",
+          "href": "/city-taipei"
+        },
+        {
+          "name": "Ravello Festival",
+          "meta": "The Amalfi Coast · late June–September",
+          "body": "A summer-long programme of orchestral concerts and recitals on the Villa Rufolo terrace above the sea.",
+          "href": "/city-amalfi-coast"
+        },
+        {
+          "name": "Zanzibar International Film Festival (ZIFF)",
+          "meta": "Zanzibar · Late June",
+          "body": "Screenings and performances across Stone Town's historic venues, the region's oldest film festival.",
+          "href": "/city-zanzibar"
+        }
+      ]
+    },
+    {
+      "id": "m7",
+      "name": "July",
+      "count": "21 to time a trip around",
+      "events": [
+        {
+          "name": "Jerash Festival",
+          "meta": "Amman & Petra · late July",
+          "body": "Jordan's flagship culture festival, staged among the floodlit Roman ruins north of Amman.",
+          "href": "/city-amman-petra"
+        },
+        {
+          "name": "Cappadocia Balloon Festival (BalonFest)",
+          "meta": "Cappadocia · late Jul–early Aug",
+          "body": "A mass ascension of dozens of special-shape balloons from around the world each morning, free to watch from any ridge.",
+          "href": "/city-cappadocia"
+        },
+        {
+          "name": "Copenhagen Jazz Festival",
+          "meta": "Copenhagen · early July",
+          "body": "Ten days of over a thousand concerts across squares, courtyards and clubs, many of them free and outdoors.",
+          "href": "/city-copenhagen"
+        },
+        {
+          "name": "Dubrovnik Summer Festival",
+          "meta": "Dubrovnik · mid-July–late August",
+          "body": "Six weeks of theatre and classical concerts staged on the ramparts and in courtyards across the Old Town since 1950.",
+          "href": "/city-dubrovnik"
+        },
+        {
+          "name": "Palio di Siena (nearby)",
+          "meta": "Florence · 2 July & 16 August",
+          "body": "An easy excursion to Siena for the bareback horse race around the Piazza del Campo, the great spectacle of Tuscany.",
+          "href": "/city-florence"
+        },
+        {
+          "name": "Esala Perahera season (island-wide)",
+          "meta": "Galle · July–Aug",
+          "body": "The great Kandy procession draws travellers up-country during Galle's dry, bright months.",
+          "href": "/city-galle"
+        },
+        {
+          "name": "Bonalu",
+          "meta": "Hyderabad · July–Aug",
+          "body": "A vibrant folk festival honouring the goddess Mahakali across the twin cities' temples.",
+          "href": "/city-hyderabad"
+        },
+        {
+          "name": "Gion Matsuri",
+          "meta": "Kyoto · July (float parades 17 & 24)",
+          "body": "The month-long summer festival of the Yasaka shrine, peaking with the towering Yamaboko float processions and the yoiyama street evenings before them.",
+          "href": "/city-kyoto"
+        },
+        {
+          "name": "Bellagio e Lago di Como Festival",
+          "meta": "Lake Como · July–August",
+          "body": "A summer season of chamber and orchestral concerts in lakefront churches and villa gardens.",
+          "href": "/city-lake-como"
+        },
+        {
+          "name": "Fiestas Patrias (Independence)",
+          "meta": "Lima · 28–29 July",
+          "body": "Two national holidays of parades and celebration across the capital.",
+          "href": "/city-lima"
+        },
+        {
+          "name": "Mad Cool Festival",
+          "meta": "Madrid · Early-mid July",
+          "body": "The city's major international music festival, held over four days at the Iberdrola Music grounds in Villaverde.",
+          "href": "/city-madrid"
+        },
+        {
+          "name": "Salalah Khareef",
+          "meta": "Muscat · mid-Jul–Aug",
+          "body": "In Oman's far south, the monsoon turns the hills green — a summer escape unlike anywhere else in Arabia.",
+          "href": "/city-muscat"
+        },
+        {
+          "name": "Nice Jazz Fest",
+          "meta": "Nice & the Riviera · July",
+          "body": "A summer institution of over 70 years, staged in the heart of the city.",
+          "href": "/city-nice-riviera"
+        },
+        {
+          "name": "Jazz à Juan (Juan-les-Pins)",
+          "meta": "Nice & the Riviera · July",
+          "body": "The legendary seaside jazz festival along the coast at Antibes.",
+          "href": "/city-nice-riviera"
+        },
+        {
+          "name": "Tenjin Matsuri",
+          "meta": "Osaka · 24–25 July",
+          "body": "One of Japan's three great festivals, ending with a river procession of boats and fireworks over the Okawa.",
+          "href": "/city-osaka"
+        },
+        {
+          "name": "Salzburg Festival",
+          "meta": "Salzburg · Mid-July to end of August",
+          "body": "Six weeks of opera, drama and concerts, the city's cultural centrepiece.",
+          "href": "/city-salzburg"
+        },
+        {
+          "name": "Shikara Festival",
+          "meta": "Srinagar · July–August",
+          "body": "A summer lake festival with decorated-boat races and cultural events on Dal Lake.",
+          "href": "/city-srinagar"
+        },
+        {
+          "name": "Sumida River Fireworks Festival",
+          "meta": "Tokyo · late July",
+          "body": "Around 20,000 fireworks over the river between Asakusa and the Skytree, the city's grandest summer night.",
+          "href": "/city-tokyo"
+        },
+        {
+          "name": "Toronto Caribbean Carnival (Caribana)",
+          "meta": "Toronto · Late July-early August",
+          "body": "North America's largest Caribbean festival, culminating in the Grand Parade along Lakeshore Boulevard.",
+          "href": "/city-toronto"
+        },
+        {
+          "name": "Vivid — Celebration of Light (fireworks)",
+          "meta": "Vancouver · Late July",
+          "body": "Barge-launched international fireworks competition over English Bay across several nights.",
+          "href": "/city-vancouver"
+        },
+        {
+          "name": "Zermatt Marathon",
+          "meta": "Zermatt · July",
+          "body": "A punishing summer run climbing from the valley up towards the Matterhorn.",
+          "href": "/city-zermatt"
+        }
+      ]
+    },
+    {
+      "id": "m8",
+      "name": "August",
+      "count": "23 to time a trip around",
+      "events": [
+        {
+          "name": "Ram Barat",
+          "meta": "Agra · Aug–Sep",
+          "body": "A vast, spectacular local wedding-procession festival unique to Agra, staged with great pageantry.",
+          "href": "/city-agra"
+        },
+        {
+          "name": "Nehru Trophy Boat Race",
+          "meta": "Alleppey · Aug",
+          "body": "Kerala's most famous snake-boat race on Punnamada Lake — the 2026 edition is 22 August.",
+          "href": "/city-alleppey"
+        },
+        {
+          "name": "Onam",
+          "meta": "Alleppey · Aug–Sept",
+          "body": "Kerala's harvest festival, with flower carpets, feasts and village boat races; date follows the Malayalam calendar.",
+          "href": "/city-alleppey"
+        },
+        {
+          "name": "Sziget Festival",
+          "meta": "Budapest · Aug",
+          "body": "One of Europe's largest music festivals, held on an island in the Danube.",
+          "href": "/city-budapest"
+        },
+        {
+          "name": "St Stephen's Day",
+          "meta": "Budapest · 20 Aug",
+          "body": "The national holiday, marked by a grand fireworks display over the Danube.",
+          "href": "/city-budapest"
+        },
+        {
+          "name": "Tango BA Festival y Mundial",
+          "meta": "Buenos Aires · mid-Aug–early Sep",
+          "body": "The world's largest tango gathering, culminating in the World Championship finals at the Gran Rex; free events fill the city.",
+          "href": "/city-buenos-aires"
+        },
+        {
+          "name": "Copenhagen Cooking & Food Festival",
+          "meta": "Copenhagen · late August",
+          "body": "Northern Europe's largest food festival, with tastings, pop-ups and dinners across the city's restaurants and markets.",
+          "href": "/city-copenhagen"
+        },
+        {
+          "name": "Edinburgh Festival Fringe",
+          "meta": "Edinburgh · August",
+          "body": "Roughly the first three weeks of the month; the city's defining event.",
+          "href": "/city-edinburgh"
+        },
+        {
+          "name": "Edinburgh International Festival",
+          "meta": "Edinburgh · August",
+          "body": "The curated classical, opera and theatre programme that runs alongside the Fringe.",
+          "href": "/city-edinburgh"
+        },
+        {
+          "name": "Teej",
+          "meta": "Jaipur · Aug",
+          "body": "A monsoon festival with a colourful royal procession honouring the goddess Parvati through the old city.",
+          "href": "/city-jaipur"
+        },
+        {
+          "name": "Onam",
+          "meta": "Kochi · Aug–Sep",
+          "body": "Kerala's grand harvest festival, with flower carpets, feasts and boat races across the region.",
+          "href": "/city-kochi"
+        },
+        {
+          "name": "Ganesh Chaturthi",
+          "meta": "Mumbai · Aug–Sep",
+          "body": "The city's biggest festival, ending in vast processions to the sea; thrilling but expect road closures and dense crowds.",
+          "href": "/city-mumbai"
+        },
+        {
+          "name": "Onam",
+          "meta": "Munnar · Aug–Sep",
+          "body": "Kerala's harvest festival is celebrated warmly on the estates, with feasts and floral decorations.",
+          "href": "/city-munnar"
+        },
+        {
+          "name": "XLSIOR Festival",
+          "meta": "Mykonos · Late August",
+          "body": "One of the world's largest LGBTQ+ dance festivals, taking over the island's clubs and beach venues for five to six days.",
+          "href": "/city-mykonos"
+        },
+        {
+          "name": "Great Wildebeest Migration river crossings",
+          "meta": "Nairobi & the Mara · August-September",
+          "body": "Peak crossing season in the Mara; the exact days are unpredictable, so allow several nights and book camps 12-18 months ahead.",
+          "href": "/city-nairobi-mara"
+        },
+        {
+          "name": "US Open (tennis)",
+          "meta": "New York · late August–early September",
+          "body": "The season's final Grand Slam in Flushing Meadows, the loudest and latest-running of the four.",
+          "href": "/city-new-york"
+        },
+        {
+          "name": "Ganesh Chaturthi at Trinetra Ganesh (fort temple)",
+          "meta": "Ranthambore · Aug–Sep",
+          "body": "A major pilgrimage to the ancient Ganesh temple inside Ranthambore Fort.",
+          "href": "/city-ranthambore"
+        },
+        {
+          "name": "Reykjavik Culture Night (Menningarnótt)",
+          "meta": "Reykjavik · August",
+          "body": "A single night when the whole city opens its doors with concerts, art and a harbour fireworks finale.",
+          "href": "/city-reykjavik"
+        },
+        {
+          "name": "Outside Lands",
+          "meta": "San Francisco · Aug",
+          "body": "The city's big music, food and wine festival in Golden Gate Park.",
+          "href": "/city-san-francisco"
+        },
+        {
+          "name": "St. Moritz Gourmet Festival",
+          "meta": "St. Moritz · Late August",
+          "body": "Visiting chefs cook across the town's hotels over a week.",
+          "href": "/city-st-moritz"
+        },
+        {
+          "name": "Canadian National Exhibition (CNE)",
+          "meta": "Toronto · Mid-August to Labour Day",
+          "body": "The 18-day fair with rides, pavilions and the Labour Day air show — a long-running end-of-summer tradition.",
+          "href": "/city-toronto"
+        },
+        {
+          "name": "Folklore Festival",
+          "meta": "Zermatt · Aug",
+          "body": "Alpine traditions, yodelling and flag-throwing fill the car-free streets in high summer.",
+          "href": "/city-zermatt"
+        },
+        {
+          "name": "Street Parade",
+          "meta": "Zurich · Early-mid August",
+          "body": "The world's largest techno street party, drawing hundreds of thousands along the lakefront.",
+          "href": "/city-zurich"
+        }
+      ]
+    },
+    {
+      "id": "m9",
+      "name": "September",
+      "count": "23 to time a trip around",
+      "events": [
+        {
+          "name": "Petra Desert Marathon",
+          "meta": "Amman & Petra · early Sep",
+          "body": "A trail race through the ancient city and surrounding desert, drawing runners from around the world.",
+          "href": "/city-amman-petra"
+        },
+        {
+          "name": "La Mercè",
+          "meta": "Barcelona · late Sept",
+          "body": "The city's patron-saint festival, with human towers, fire runs and street concerts.",
+          "href": "/city-barcelona"
+        },
+        {
+          "name": "Dasara (nearby Mysuru)",
+          "meta": "Bengaluru · Sep–Oct",
+          "body": "The royal Mysuru festival is an easy trip away and among South India's grandest, with the illuminated palace.",
+          "href": "/city-bengaluru"
+        },
+        {
+          "name": "Budapest Wine Festival",
+          "meta": "Budapest · Sept",
+          "body": "Hungarian winemakers gather in the Castle District for the harvest-season tasting.",
+          "href": "/city-budapest"
+        },
+        {
+          "name": "Mid-Autumn Festival",
+          "meta": "Hanoi · September",
+          "body": "A children's festival that turns Hang Ma street and the Old Quarter into a lantern market with lion dances and mooncakes.",
+          "href": "/city-hanoi"
+        },
+        {
+          "name": "Mid-Autumn Festival",
+          "meta": "Ho Chi Minh City · late Sep (25 Sep 2026)",
+          "body": "Cho Lon's Chinatown lights up with lanterns, lion dances and mooncake stalls in the city's most atmospheric quarter.",
+          "href": "/city-ho-chi-minh-city"
+        },
+        {
+          "name": "Mid-Autumn Festival",
+          "meta": "Hoi An & Da Nang · late Sep (25 Sep 2026)",
+          "body": "Hoi An is at its most atmospheric now, with lion dances and lantern-making through the old-town lanes.",
+          "href": "/city-hoi-an"
+        },
+        {
+          "name": "Bathukamma",
+          "meta": "Hyderabad · Sept–Oct",
+          "body": "Telangana's flower festival, when women build and float towering floral arrangements.",
+          "href": "/city-hyderabad"
+        },
+        {
+          "name": "Indra Jatra",
+          "meta": "Kathmandu · September",
+          "body": "Eight days of masked deity dances and the Kumari chariot procession around Kathmandu Durbar Square.",
+          "href": "/city-kathmandu"
+        },
+        {
+          "name": "Durga Puja",
+          "meta": "Kolkata · Sep–Oct",
+          "body": "The city's defining festival, a UNESCO-recognised explosion of art, devotion and street life; the single best time to visit.",
+          "href": "/city-kolkata"
+        },
+        {
+          "name": "Ladakh Festival",
+          "meta": "Leh-Ladakh · September",
+          "body": "A week of processions, polo, archery and folk performance across Leh, marking the season's end.",
+          "href": "/city-leh-ladakh"
+        },
+        {
+          "name": "Mistura Food Festival",
+          "meta": "Lima · Early September",
+          "body": "Latin America's largest gastronomy fair, gathering the country's cooks and produce on the coast.",
+          "href": "/city-lima"
+        },
+        {
+          "name": "Grito de Independencia",
+          "meta": "Mexico City · 15–16 Sept",
+          "body": "Independence night, when the Zócalo fills for the president's cry and fireworks.",
+          "href": "/city-mexico-city"
+        },
+        {
+          "name": "Oktoberfest",
+          "meta": "Munich · Mid-September to early October",
+          "body": "The world's largest folk festival on the Theresienwiese; book months ahead.",
+          "href": "/city-munich"
+        },
+        {
+          "name": "Kishiwada Danjiri Matsuri",
+          "meta": "Osaka · mid-September",
+          "body": "Teams race four-tonne wooden floats through the streets of Kishiwada, cornering them at speed in one of the country's most thrilling festivals.",
+          "href": "/city-osaka"
+        },
+        {
+          "name": "Thimphu Tshechu",
+          "meta": "Paro & Thimphu · September",
+          "body": "The capital's grand festival in the courtyard of Tashichho Dzong; dates follow the lunar calendar.",
+          "href": "/city-paro"
+        },
+        {
+          "name": "Snow Machine",
+          "meta": "Queenstown · September",
+          "body": "A multi-day alpine music festival paired with skiing at the resorts.",
+          "href": "/city-queenstown"
+        },
+        {
+          "name": "Singapore Grand Prix",
+          "meta": "Singapore · Sept–early Oct",
+          "body": "The original F1 night race, run through the streets around Marina Bay with headline concerts.",
+          "href": "/city-singapore-city"
+        },
+        {
+          "name": "Toronto International Film Festival (TIFF)",
+          "meta": "Toronto · September",
+          "body": "One of the world's major festivals; premieres and the city's cultural energy peak in early-to-mid September.",
+          "href": "/city-toronto"
+        },
+        {
+          "name": "Vancouver International Film Festival",
+          "meta": "Vancouver · Late September / early October",
+          "body": "One of North America's larger festivals, strong on Asian and Canadian cinema.",
+          "href": "/city-vancouver"
+        },
+        {
+          "name": "Venice Film Festival",
+          "meta": "Venice · early September (2–12 Sep 2026)",
+          "body": "The world's oldest film festival, on the Lido — red carpets, premieres and the Golden Lion.",
+          "href": "/city-venice"
+        },
+        {
+          "name": "Regata Storica",
+          "meta": "Venice · early September (6 Sep 2026)",
+          "body": "A historic pageant of costumed boats and gondola races down the Grand Canal.",
+          "href": "/city-venice"
+        },
+        {
+          "name": "Zurich Film Festival",
+          "meta": "Zurich · Late September–early October",
+          "body": "The city's international film festival brings premieres and stars to venues across the centre.",
+          "href": "/city-zurich"
+        }
+      ]
+    },
+    {
+      "id": "m10",
+      "name": "October",
+      "count": "33 to time a trip around",
+      "events": [
+        {
+          "name": "Diwali",
+          "meta": "Agra · Oct–Nov",
+          "body": "The old city lights up; a fine time to pair the monuments with festive markets, though book early.",
+          "href": "/city-agra"
+        },
+        {
+          "name": "Diwali / Bandi Chhor Divas",
+          "meta": "Amritsar · Oct–Nov",
+          "body": "The temple and city are lit with lamps and fireworks reflected in the sacred tank; a beautiful night here.",
+          "href": "/city-amritsar"
+        },
+        {
+          "name": "Deepavali",
+          "meta": "Bengaluru · Oct–Nov",
+          "body": "The southern Diwali, celebrated warmly with lamps and sweets across the city's homes and temples.",
+          "href": "/city-bengaluru"
+        },
+        {
+          "name": "Cairo Jazz Festival",
+          "meta": "Cairo · October",
+          "body": "A long-running gathering of Egyptian and international jazz musicians across the city's stages.",
+          "href": "/city-cairo"
+        },
+        {
+          "name": "Clear-view autumn season",
+          "meta": "Darjeeling · October–November",
+          "body": "The most reliable window for cloud-free Kanchenjunga views after the monsoon clears.",
+          "href": "/city-darjeeling"
+        },
+        {
+          "name": "Good Food Festival",
+          "meta": "Dubrovnik · October",
+          "body": "A week of tastings, oyster and wine events across the city as the season quietens.",
+          "href": "/city-dubrovnik"
+        },
+        {
+          "name": "Hong Kong Wine & Dine Festival",
+          "meta": "Hong Kong · late October",
+          "body": "The Central Harbourfront fills with wine pavilions and food stalls against the skyline over four evenings.",
+          "href": "/city-hong-kong"
+        },
+        {
+          "name": "Diwali",
+          "meta": "Jaipur · Oct–Nov",
+          "body": "Jaipur is famous for its illuminated markets and lit-up buildings at Diwali; among the best in India to witness.",
+          "href": "/city-jaipur"
+        },
+        {
+          "name": "Diwali",
+          "meta": "Jaisalmer · Oct–Nov",
+          "body": "The golden fort takes on the lamplight beautifully; a quiet, atmospheric time to visit.",
+          "href": "/city-jaisalmer"
+        },
+        {
+          "name": "Rajasthan International Folk Festival (RIFF)",
+          "meta": "Jodhpur · October (around Sharad Purnima)",
+          "body": "A superb roots-music festival staged inside Mehrangarh Fort on the October full moon.",
+          "href": "/city-jodhpur"
+        },
+        {
+          "name": "Marwar Festival",
+          "meta": "Jodhpur · October",
+          "body": "A two-day celebration of Marwari folk music and dance honouring the region's heroes.",
+          "href": "/city-jodhpur"
+        },
+        {
+          "name": "Diwali",
+          "meta": "Jodhpur · Oct–Nov",
+          "body": "The blue city glows with lamps beneath the floodlit fort, a striking sight from the rooftops.",
+          "href": "/city-jodhpur"
+        },
+        {
+          "name": "Dashain",
+          "meta": "Kathmandu · October",
+          "body": "Nepal's longest and most auspicious festival; the country empties home, so plan logistics carefully.",
+          "href": "/city-kathmandu"
+        },
+        {
+          "name": "Tihar",
+          "meta": "Kathmandu · October–November",
+          "body": "The five-day festival of lights; homes and streets glow with oil lamps and marigold.",
+          "href": "/city-kathmandu"
+        },
+        {
+          "name": "Kali Puja & Diwali",
+          "meta": "Kolkata · Oct–Nov",
+          "body": "A dramatic night of goddess worship and lights following close on Durga Puja.",
+          "href": "/city-kolkata"
+        },
+        {
+          "name": "Jidai Matsuri",
+          "meta": "Kyoto · 22 October",
+          "body": "The 'Festival of the Ages' — a costumed pageant marching a thousand years of Japanese history through the streets.",
+          "href": "/city-kyoto"
+        },
+        {
+          "name": "Señor de los Milagros (Lord of Miracles)",
+          "meta": "Lima · October",
+          "body": "Purple-robed processions through the centre all month, the largest on 18 October.",
+          "href": "/city-lima"
+        },
+        {
+          "name": "Frieze London",
+          "meta": "London · Oct",
+          "body": "The contemporary art fair that turns Regent's Park and the whole city into a gallery.",
+          "href": "/city-london"
+        },
+        {
+          "name": "Festival Kreol",
+          "meta": "Mahé · late October",
+          "body": "The country's biggest cultural festival — Creole music, food and dance across a week.",
+          "href": "/city-mahe-seychelles"
+        },
+        {
+          "name": "Kullu Dussehra (nearby)",
+          "meta": "Manali · October",
+          "body": "The week-long valley festival at Kullu, when hundreds of village deities are carried in procession; the region's great event.",
+          "href": "/city-manali"
+        },
+        {
+          "name": "Divali",
+          "meta": "Mauritius · October–November",
+          "body": "The festival of lights, with homes and hillsides across the island lit end to end.",
+          "href": "/city-mauritius-city"
+        },
+        {
+          "name": "Día de Muertos parade",
+          "meta": "Mexico City · late Oct–early Nov",
+          "body": "A grand parade down Paseo de la Reforma into the Zócalo — 2025's runs on the weekend of 1–2 November.",
+          "href": "/city-mexico-city"
+        },
+        {
+          "name": "Diwali",
+          "meta": "Mumbai · Oct–Nov",
+          "body": "The seafront and homes light up; a fine time for the food and shopping but book restaurants early.",
+          "href": "/city-mumbai"
+        },
+        {
+          "name": "Diwali",
+          "meta": "New Delhi · Oct–Nov",
+          "body": "The festival of lights transforms the city with lamps and fireworks; date follows the lunar calendar.",
+          "href": "/city-delhi"
+        },
+        {
+          "name": "Nuit Blanche",
+          "meta": "Paris · early October",
+          "body": "An all-night contemporary-art takeover of the city, museums and monuments open through the small hours.",
+          "href": "/city-paris"
+        },
+        {
+          "name": "Fête des Vendanges de Montmartre",
+          "meta": "Paris · October",
+          "body": "The Montmartre vineyard's harvest festival — parades, tastings and an old-Paris village mood above the city.",
+          "href": "/city-paris"
+        },
+        {
+          "name": "Phuket Vegetarian Festival",
+          "meta": "Phuket · October",
+          "body": "The nine-day Nine Emperor Gods festival, with white-clad devotees, temple processions and dramatic firewalking rituals.",
+          "href": "/city-phuket"
+        },
+        {
+          "name": "Signal Festival",
+          "meta": "Prague · Oct",
+          "body": "A festival of light installations that transforms the historic centre after dark.",
+          "href": "/city-prague"
+        },
+        {
+          "name": "Park reopening after monsoon",
+          "meta": "Ranthambore · October",
+          "body": "The core zones reopen with the park at its greenest and lakes full; a lovely if slightly harder-sighting time.",
+          "href": "/city-ranthambore"
+        },
+        {
+          "name": "Hardly Strictly Bluegrass",
+          "meta": "San Francisco · early Oct",
+          "body": "A free roots-music festival in the park during the city's warmest, clearest weeks.",
+          "href": "/city-san-francisco"
+        },
+        {
+          "name": "Fleet Week",
+          "meta": "San Francisco · Oct",
+          "body": "The Blue Angels roar over the bay in the reliably sunny autumn window.",
+          "href": "/city-san-francisco"
+        },
+        {
+          "name": "Santorini Experience",
+          "meta": "Santorini · early Oct",
+          "body": "An open-water swim and running event set against the caldera, at the season's gentler end.",
+          "href": "/city-santorini"
+        },
+        {
+          "name": "Saffron harvest (Pampore, nearby)",
+          "meta": "Srinagar · late October–November",
+          "body": "The purple crocus fields around Pampore bloom for the world's most prized saffron; a rare sight.",
+          "href": "/city-srinagar"
+        }
+      ]
+    },
+    {
+      "id": "m11",
+      "name": "November",
+      "count": "26 to time a trip around",
+      "events": [
+        {
+          "name": "Guru Nanak Gurpurab",
+          "meta": "Amritsar · November",
+          "body": "The birth anniversary of the founder of Sikhism, when the temple is spectacularly illuminated at night.",
+          "href": "/city-amritsar"
+        },
+        {
+          "name": "Athens Marathon, the Authentic",
+          "meta": "Athens · early November",
+          "body": "The original marathon route from the plain of Marathon into the marble Panathenaic Stadium; the classic reason to visit in autumn.",
+          "href": "/city-athens"
+        },
+        {
+          "name": "Loy Krathong",
+          "meta": "Bangkok · November",
+          "body": "The festival of lights, when candlelit floats are set adrift on the river and canals across the city at dusk.",
+          "href": "/city-bangkok"
+        },
+        {
+          "name": "Cairo International Film Festival",
+          "meta": "Cairo · November",
+          "body": "The oldest film festival in the Arab world and Africa, drawing an international crowd to the city's cinemas and red carpets.",
+          "href": "/city-cairo"
+        },
+        {
+          "name": "Ajyal Film Festival",
+          "meta": "Doha · late Nov",
+          "body": "The Doha Film Institute's week-long festival at Katara, screenings and culture for all ages.",
+          "href": "/city-doha"
+        },
+        {
+          "name": "Kolkata International Film Festival",
+          "meta": "Kolkata · November",
+          "body": "A major, long-running film festival that fills the city's cinemas and its intellectual life.",
+          "href": "/city-kolkata"
+        },
+        {
+          "name": "Loy Krathong",
+          "meta": "Krabi · November",
+          "body": "The festival of lights, celebrated along Krabi's beaches with floating candlelit offerings at dusk.",
+          "href": "/city-krabi"
+        },
+        {
+          "name": "Ironman Malaysia",
+          "meta": "Langkawi · late November",
+          "body": "The full-distance triathlon in the tropical heat, one of Asia's flagship endurance races, based out of Kuah.",
+          "href": "/city-langkawi"
+        },
+        {
+          "name": "Formula 1 Las Vegas Grand Prix",
+          "meta": "Las Vegas · Late November",
+          "body": "The night race runs a street circuit down the Strip past Caesars and the Sphere; book far ahead as the city fills.",
+          "href": "/city-las-vegas"
+        },
+        {
+          "name": "SUBIOS Underwater Festival",
+          "meta": "Mahé · November",
+          "body": "A celebration of Seychelles' marine heritage with film, exhibitions and dive events.",
+          "href": "/city-mahe-seychelles"
+        },
+        {
+          "name": "Republic Day",
+          "meta": "Malé & the Atolls · 11 November",
+          "body": "National celebration with parades and cultural displays in Malé.",
+          "href": "/city-male-maldives"
+        },
+        {
+          "name": "Marrakech International Film Festival",
+          "meta": "Marrakech · late November (20–28 Nov 2026)",
+          "body": "The prestige film festival that brings international directors and stars to the Palais Badii and the medina squares.",
+          "href": "/city-marrakech"
+        },
+        {
+          "name": "Melbourne Cup Carnival",
+          "meta": "Melbourne · Early November",
+          "body": "The race that stops a nation, the centrepiece of the spring racing weeks.",
+          "href": "/city-melbourne"
+        },
+        {
+          "name": "Tollwood Winter Festival",
+          "meta": "Munich · Late November to December",
+          "body": "World music, theatre and a market on the Theresienwiese over the festive season.",
+          "href": "/city-munich"
+        },
+        {
+          "name": "Lamu Cultural Festival",
+          "meta": "Nairobi & the Mara · Late November",
+          "body": "Dhow races, poetry and Swahili weddings on the coastal island — a natural add-on if you extend beyond the safari.",
+          "href": "/city-nairobi-mara"
+        },
+        {
+          "name": "Macy's Thanksgiving Day Parade",
+          "meta": "New York · late November",
+          "body": "The giant-balloon parade down Central Park West on Thanksgiving morning, the start of the city's holiday season.",
+          "href": "/city-new-york"
+        },
+        {
+          "name": "Loy Krathong",
+          "meta": "Phuket · November",
+          "body": "The festival of lights, marked along the island's beaches with floating candlelit krathong at dusk.",
+          "href": "/city-phuket"
+        },
+        {
+          "name": "Christmas markets",
+          "meta": "Prague · late Nov–Dec",
+          "body": "The Old Town and Wenceslas squares fill with wooden stalls and mulled wine.",
+          "href": "/city-prague"
+        },
+        {
+          "name": "Iceland Airwaves",
+          "meta": "Reykjavik · early November",
+          "body": "The country's landmark music festival, with gigs in venues and record shops across downtown Reykjavik.",
+          "href": "/city-reykjavik"
+        },
+        {
+          "name": "Kartik Purnima / Ganga aarti season",
+          "meta": "Rishikesh · November",
+          "body": "The cool-season full moon brings especially devout riverside ceremonies.",
+          "href": "/city-rishikesh"
+        },
+        {
+          "name": "Christmas Market on Residenzplatz",
+          "meta": "Salzburg · Late November to December",
+          "body": "The traditional Christkindlmarkt in the cathedral square.",
+          "href": "/city-salzburg"
+        },
+        {
+          "name": "Seoul Lantern Festival",
+          "meta": "Seoul · Nov",
+          "body": "Illuminated lanterns line the Cheonggyecheon stream through the heart of downtown.",
+          "href": "/city-seoul"
+        },
+        {
+          "name": "Bon Om Touk (Water Festival)",
+          "meta": "Siem Reap · Nov",
+          "body": "Marks the reversal of the Tonlé Sap's flow, with boat races and river festivities.",
+          "href": "/city-siem-reap"
+        },
+        {
+          "name": "Dev Deepawali",
+          "meta": "Varanasi · Nov",
+          "body": "The 'Diwali of the gods' — every ghat lined with thousands of oil lamps on Kartik Purnima.",
+          "href": "/city-varanasi"
+        },
+        {
+          "name": "Ganga Mahotsav",
+          "meta": "Varanasi · Nov",
+          "body": "A festival of classical music and culture on the riverbank, around Dev Deepawali.",
+          "href": "/city-varanasi"
+        },
+        {
+          "name": "Christmas markets",
+          "meta": "Vienna · Mid-November to late December",
+          "body": "Squares from Rathausplatz to Schönbrunn fill with stalls and Punsch.",
+          "href": "/city-vienna"
+        }
+      ]
+    },
+    {
+      "id": "m12",
+      "name": "December",
+      "count": "16 to time a trip around",
+      "events": [
+        {
+          "name": "Formula 1 Abu Dhabi Grand Prix",
+          "meta": "Abu Dhabi · early December",
+          "body": "The season finale at Yas Marina (3–6 December 2026), with Yasalam after-race concerts included for ticket holders.",
+          "href": "/city-abu-dhabi"
+        },
+        {
+          "name": "Qatar National Day",
+          "meta": "Doha · 18 Dec",
+          "body": "A waterfront parade, air and sea displays and fireworks marking the country's unification.",
+          "href": "/city-doha"
+        },
+        {
+          "name": "Fête de l'Escalade",
+          "meta": "Geneva · Weekend nearest 11–12 December",
+          "body": "Geneva's beloved festival marking the 1602 defeat of Savoy, with torch-lit processions in period dress and chocolate cauldrons.",
+          "href": "/city-geneva"
+        },
+        {
+          "name": "Sunburn Festival",
+          "meta": "Goa · late December",
+          "body": "India's largest electronic-music festival draws a big year-end crowd to the north; plan around it either way.",
+          "href": "/city-goa"
+        },
+        {
+          "name": "Feast of St Francis Xavier",
+          "meta": "Goa · 3 December",
+          "body": "A major pilgrimage to Old Goa honouring the state's patron saint, with the relics on rare display in exposition years.",
+          "href": "/city-goa"
+        },
+        {
+          "name": "Cochin Carnival",
+          "meta": "Kochi · last week of December",
+          "body": "A ten-day Fort Kochi street festival ending on New Year's Eve with the burning of the Pappanji effigy.",
+          "href": "/city-kochi"
+        },
+        {
+          "name": "Poush Mela / Christmas season",
+          "meta": "Kolkata · December",
+          "body": "Park Street's famous Christmas lights and the nearby Santiniketan Poush Mela make December especially lively.",
+          "href": "/city-kolkata"
+        },
+        {
+          "name": "Wrangler National Finals Rodeo",
+          "meta": "Las Vegas · Early December",
+          "body": "Ten days of championship rodeo at the Thomas & Mack Center that transform the city's mood.",
+          "href": "/city-las-vegas"
+        },
+        {
+          "name": "New Year's Eve on the Strip",
+          "meta": "Las Vegas · 31 December",
+          "body": "Fireworks launch from the resort rooftops in one of the largest street celebrations in the country.",
+          "href": "/city-las-vegas"
+        },
+        {
+          "name": "Fishermen's Day",
+          "meta": "Malé & the Atolls · 10 December",
+          "body": "A national thank-you to the fishing communities that built the country.",
+          "href": "/city-male-maldives"
+        },
+        {
+          "name": "Art Basel Miami Beach",
+          "meta": "Miami · Early December",
+          "body": "The city's marquee week; the fair anchors dozens of satellite shows and the design world descends.",
+          "href": "/city-miami"
+        },
+        {
+          "name": "Sant'Ambrogio & La Scala opening night",
+          "meta": "Milan · 7 Dec",
+          "body": "The city's patron-saint feast and the opera season's gala premiere on the same night.",
+          "href": "/city-milan"
+        },
+        {
+          "name": "Christmas & New Year",
+          "meta": "Munnar · late December",
+          "body": "The estates and resorts fill with a festive high-season crowd; charming but book far ahead.",
+          "href": "/city-munnar"
+        },
+        {
+          "name": "Réveillon (New Year's Eve on Copacabana)",
+          "meta": "Rio de Janeiro · 31 December",
+          "body": "Two million in white on the sand for fireworks and offerings to the sea goddess Iemanjá.",
+          "href": "/city-rio-de-janeiro"
+        },
+        {
+          "name": "Angkor Wat International Half Marathon",
+          "meta": "Siem Reap · early Dec",
+          "body": "A charity run through the temple grounds at first light — a rare way to see them car-free.",
+          "href": "/city-siem-reap"
+        },
+        {
+          "name": "Sydney New Year's Eve",
+          "meta": "Sydney · 31 December",
+          "body": "The world's headline midnight fireworks, staged off the bridge and harbour.",
+          "href": "/city-sydney"
+        }
+      ]
+    }
+  ]
+}

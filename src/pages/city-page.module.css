@@ -1,0 +1,72 @@
+/* Extracted verbatim from every city-*.html <head> <style> block —
+ * byte-identical across all 110 files (verified), so this is genuinely
+ * shared template CSS, not per-city data. Not in css/site.css. */
+
+ :global(.city-hero){position:relative;min-height:82svh;display:flex;align-items:flex-end;color:#fff;background-size:cover;background-position:center;background-color:#15110d}
+ :global(.city-hero)::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.28) 0%,transparent 26%,transparent 42%,rgba(0,0,0,.72) 100%)}
+ :global(.city-hero) :global(.wrap){position:relative;z-index:2;width:100%;text-align:left;padding-bottom:clamp(38px,5.5vh,74px)}
+ :global(.city-hero) .bc{font-family:var(--fr);font-weight:600;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:rgba(255,255,255,.85);text-decoration:none;display:block;margin-bottom:14px}
+ :global(.city-hero) :global(.eyebrow){display:block;margin-bottom:6px}
+ :global(.city-hero) .bc:hover{color:#fff}
+ /* breadcrumb trail (#29) */
+ .bc-trail{display:flex;flex-wrap:wrap;align-items:center;gap:9px;font-family:var(--fr);font-weight:600;font-size:11px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:16px}
+ .bc-trail a{color:rgba(255,255,255,.72);text-decoration:none;transition:color .25s}
+ .bc-trail a:hover{color:#fff}
+ .bc-trail .bc-sep{color:rgba(255,255,255,.4)}
+ .bc-trail .bc-cur{color:rgba(255,255,255,.95)}
+ /* reassurance beside advisor CTAs (#36) */
+ .ta-reassure{display:flex;align-items:center;gap:9px;font-family:var(--fr);font-size:12.5px;letter-spacing:.01em;color:rgba(255,255,255,.82);margin:16px 0 0;text-shadow:0 1px 3px rgba(0,0,0,.5)}
+ .ta-reassure-c{justify-content:center}
+ .ta-reassure-dot{width:6px;height:6px;border-radius:50%;background:#7DBE8A;box-shadow:0 0 0 3px rgba(125,190,138,.22);flex:none}
+ :global(.city-hero) h1{font-family:var(--serif);font-weight:600;font-size:clamp(56px,9.4vw,124px);line-height:.98;letter-spacing:-.004em;margin:0;text-shadow:0 2px 30px rgba(0,0,0,.4)}
+ :global(.city-hero) .ess{font-size:clamp(17px,1.5vw,21px);line-height:1.5;color:rgba(255,255,255,.93);margin:16px 0 0;max-width:44ch;text-shadow:0 1px 3px rgba(0,0,0,.55)}
+ /* decision ribbon in the hero foot */
+ .ch-facts{display:flex;flex-wrap:wrap;gap:0;margin:26px 0 0;border-top:1px solid rgba(255,255,255,.24)}
+ .ch-fact{padding:16px 30px 2px 0;margin-right:30px;border-right:1px solid rgba(255,255,255,.18)}
+ .ch-fact:last-child{border-right:0;margin-right:0}
+ .ch-fact :global(.fk){display:block;font-family:var(--fr);font-weight:600;font-size:9.5px;letter-spacing:.15em;text-transform:uppercase;color:rgba(255,255,255,.72);margin-bottom:5px}
+ .ch-fact .fv{display:block;font-family:var(--logo);font-weight:500;font-size:clamp(17px,1.6vw,21px);line-height:1.1;color:#fff;text-shadow:0 1px 3px rgba(0,0,0,.5)}
+ .ch-fact .fv small{font-family:var(--fr);font-weight:500;font-size:12px;letter-spacing:.02em;color:rgba(255,255,255,.8)}
+ @media(max-width:720px){.ch-fact{padding-right:20px;margin-right:20px}.ch-facts{gap:6px 0}}
+ /* when-to-go extras */
+ .wm-callout{display:flex;align-items:baseline;justify-content:center;gap:12px;margin:0 auto 20px;font-family:var(--fr)}
+ .wm-co-k{font-weight:600;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--signature)}
+ .wm-co-v{font-family:var(--logo);font-weight:500;font-size:clamp(17px,1.7vw,21px);color:var(--ink)}
+ :global(.wm-row){display:flex;flex-wrap:wrap;gap:8px;justify-content:center;max-width:680px;margin:0 auto}
+ :global(.wm){font-family:var(--fr);font-weight:600;font-size:12px;letter-spacing:.04em;padding:9px 15px;border-radius:999px;border:1px solid var(--line);color:var(--stone)}
+ :global(.wm):global(.wm2){background:var(--accent-2);border-color:var(--accent-2);color:#fff}
+ :global(.wm):global(.wm1){border-color:var(--accent-2);color:var(--accent-2)}
+ :global(.wm-key){display:flex;gap:24px;justify-content:center;margin-top:22px;font-family:var(--fr);font-size:12.5px;color:var(--stone)}
+ :global(.wm-key) i{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:7px;vertical-align:-1px}
+ :global(.wm-key) i:global(.wm2){background:var(--accent-2)}:global(.wm-key) i:global(.wm1){border:1px solid var(--accent-2)}
+ /* perfect-if / skip-if */
+ .ta-fit{display:grid;grid-template-columns:1fr 1fr;gap:clamp(18px,3vw,44px);margin-top:clamp(30px,3.4vw,46px)}
+ .ta-fit-col .fit-k{font-family:var(--fr);font-weight:600;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--signature);display:flex;align-items:center;gap:9px;margin-bottom:12px}
+ .ta-fit-col.skip .fit-k{color:var(--stone)}
+ .ta-fit-col .fit-k i{width:20px;height:1px;background:currentColor;display:inline-block}
+ .ta-fit-col p{font-family:var(--serif);font-size:clamp(18px,1.9vw,23px);line-height:1.34;color:var(--ink);margin:0;font-weight:500}
+ .ta-fit-col.skip p{color:var(--ink-soft)}
+ @media(max-width:680px){.ta-fit{grid-template-columns:1fr;gap:26px}}
+ /* cinematic first-look band */
+ .ta-look{padding:0}
+ .ta-look-hero{position:relative;height:clamp(360px,52vh,640px);background-size:cover;background-position:center;background-color:#15110d}
+ .ta-look-hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 55%,rgba(0,0,0,.55))}
+ .ta-look-cap{position:absolute;left:0;right:0;bottom:0;z-index:2;padding:clamp(22px,3vw,40px) var(--gutter)}
+ .ta-look-cap span{font-family:var(--fr);font-weight:500;font-size:13px;letter-spacing:.02em;color:rgba(255,255,255,.92);text-shadow:0 1px 3px rgba(0,0,0,.6)}
+ .ta-look-grid{display:grid;grid-template-columns:1fr 1fr;gap:2px}
+ .ta-look-grid figure{position:relative;margin:0;height:clamp(220px,26vw,340px);background-size:cover;background-position:center;background-color:#15110d}
+ .ta-look-grid figure::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 60%,rgba(0,0,0,.42))}
+ .ta-look-grid figcaption{position:absolute;left:0;right:0;bottom:0;z-index:2;padding:16px 20px;font-family:var(--fr);font-size:12px;color:rgba(255,255,255,.9);text-shadow:0 1px 3px rgba(0,0,0,.6)}
+ @media(max-width:680px){.ta-look-grid{grid-template-columns:1fr}}
+ /* #58 honest 'no Michelin guide here' note */
+ .ta-guide-note{margin:18px 0 0;max-width:64ch;font-family:var(--fr);font-size:14.5px;line-height:1.62;color:var(--ink-soft);border-left:2px solid var(--accent-2);padding:2px 0 2px 16px}
+ .ta-guide-note .tgn-k{display:block;font-weight:600;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--signature);margin-bottom:5px}
+ /* #30 collections cross-links */
+ .ta-col-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:clamp(26px,3vw,38px)}
+ .ta-col-link{font-family:var(--fr);font-weight:500;font-size:13px;letter-spacing:.02em;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:11px 20px;text-decoration:none;transition:border-color .3s var(--ease),color .3s var(--ease),transform .3s var(--ease)}
+ .ta-col-link:hover{border-color:var(--accent-2);color:var(--accent-2);transform:translateY(-1px)}
+ .ta-col-all{color:var(--accent-2);border-color:transparent;background:transparent}
+ .ta-col-all:hover{transform:none;text-decoration:underline;text-underline-offset:3px}
+ /* pair-with */
+ .ta-pair{font-family:var(--fr);font-size:15px;color:var(--ink-soft)}
+ .ta-pair strong{font-family:var(--fr);font-weight:600;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--signature);margin-right:10px}

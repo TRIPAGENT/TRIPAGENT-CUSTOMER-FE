@@ -1,0 +1,186 @@
+{
+  "seo": {
+    "title": "Flight Intelligence — TripAgent",
+    "description": "The right cabin, the right fare, route by route from India. Business and first are where we are at our best — the aircraft, the flat-beds, the connections, the award space others can't see."
+  },
+  "hero": {
+    "back": {
+      "label": "← Flights",
+      "href": "flights.html"
+    },
+    "eyebrow": "Flight Intelligence",
+    "headingHtml": "The <span class=\"it\">right</span> seat,<br/>route by route.",
+    "lede": "Flying well from India. The carriers, the aircraft, the cabins that are truly flat, the connections we route around. Business and first are where we are at our best.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fflight-guides.jpg&w=2560&q=80",
+    "buttons": [
+      {
+        "label": "Plan a trip",
+        "href": "enquire.html",
+        "kind": "square"
+      },
+      {
+        "label": "How we book flights",
+        "href": "flights.html",
+        "kind": "text"
+      }
+    ]
+  },
+  "pullq": {
+    "quoteHtml": "Two cabins can share a name<br/>and not a <span class=\"it\">night</span>.",
+    "lede": "A guide tells you what an airline sells. It can't hold your fare, see live award space, or rebook you at 2 a.m. when a connection falls through. Read these for the questions. Your advisor answers them for your dates."
+  },
+  "routeGuides": {
+    "eyebrow": "Route guides",
+    "heading": "Premium cabins, from India.",
+    "lede": "The routes our members fly most. The carriers, the aircraft, and the call we'd make on each.",
+    "cards": [
+      {
+        "route": "Delhi → London",
+        "heading": "The non-stop overnight",
+        "body": "A nine-hour redeye that earns its flat-bed. Non-stop on three carriers, plus the one-stops worth a look.",
+        "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=1280&q=80",
+        "href": "route-delhi-london.html"
+      },
+      {
+        "route": "Mumbai → New York",
+        "heading": "Ultra-long-haul, first or business",
+        "body": "Up to sixteen hours in the air. Where first is truly a suite, and where the best business cabin is the wiser call.",
+        "image": "/_vercel/image?url=%2Fimg%2Fband1.jpg&w=1280&q=80",
+        "href": "route-mumbai-new-york.html"
+      },
+      {
+        "route": "Delhi → Singapore",
+        "heading": "The five-hour night hop",
+        "body": "Non-stop on a wide-body, often the same aircraft that flies long-haul. When the flat-bed is worth it, and when it isn't.",
+        "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=1280&q=80",
+        "href": "route-delhi-singapore.html"
+      },
+      {
+        "route": "Bengaluru → Dubai",
+        "heading": "The short Gulf shuttle",
+        "body": "Under four hours, flown often. The case for a recliner-style business cabin, the lounge, and a fare that earns status.",
+        "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=1280&q=80",
+        "href": "route-bengaluru-dubai.html"
+      },
+      {
+        "route": "Delhi → Tokyo",
+        "heading": "Daytime non-stop or the hub",
+        "body": "A long daylight non-stop, or a one-stop with a better cabin. Time in transit against a true flat-bed.",
+        "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=1280&q=80",
+        "href": "route-delhi-tokyo.html"
+      },
+      {
+        "route": "Mumbai → Paris",
+        "heading": "Non-stop or one-stop to Europe",
+        "body": "A non-stop overnight, or a Gulf-hub routing with a stronger cabin. The seat against the clock.",
+        "image": "/_vercel/image?url=%2Fimg%2Famalfi.jpg&w=1280&q=80",
+        "href": "route-mumbai-paris.html"
+      },
+      {
+        "route": "Delhi → Zurich",
+        "heading": "The Alpine gateway",
+        "body": "One non-stop and several capable one-stops — and when the connection is the better seat.",
+        "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=1280&q=80",
+        "href": "route-delhi-zurich.html"
+      },
+      {
+        "route": "Mumbai → London",
+        "heading": "The overnight flat-bed",
+        "body": "Non-stop on three carriers plus the Gulf one-stops — and which business cabin is truly flat.",
+        "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=1280&q=80",
+        "href": "route-mumbai-london.html"
+      },
+      {
+        "route": "Delhi → Bangkok",
+        "heading": "The short hop, the right cabin",
+        "body": "Four and a half hours, flown on everything from narrow-bodies to long-haul aircraft. The trap, and how to avoid it.",
+        "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=1280&q=80",
+        "href": "route-delhi-bangkok.html"
+      },
+      {
+        "route": "Delhi → Malé",
+        "heading": "The seaplane is the connection",
+        "body": "The flight is the easy part. The daylight seaplane or speedboat onward shapes the whole journey.",
+        "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=1280&q=80",
+        "href": "route-delhi-male.html"
+      },
+      {
+        "route": "Bengaluru → Singapore",
+        "heading": "The daytime business hop",
+        "body": "On a daytime four-and-a-half-hour flight, a regional business cabin and a status-earning fare often beat a flat-bed.",
+        "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=1280&q=80",
+        "href": "route-bengaluru-singapore.html"
+      },
+      {
+        "route": "Delhi → Istanbul",
+        "heading": "The big-hub gateway",
+        "body": "A strong non-stop and Gulf one-stops — and the network that makes Istanbul a stopover worth keeping.",
+        "image": "/_vercel/image?url=%2Fimg%2Fdunes.jpg&w=1280&q=80",
+        "href": "route-delhi-istanbul.html"
+      },
+      {
+        "route": "Transit · Dubai (DXB)",
+        "heading": "The Emirates hub",
+        "body": "The lounges, the terminal-change buffers, the minimum connection, and the long layover worth turning into a stopover.",
+        "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=1280&q=80",
+        "href": "hub-dubai.html"
+      },
+      {
+        "route": "Transit · Singapore (SIN)",
+        "heading": "Changi, the airport as a destination",
+        "body": "The lounges, the Jewel, the T4 catch, and the transit that turns a connection into a pleasure.",
+        "image": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=1280&q=80",
+        "href": "hub-singapore.html"
+      },
+      {
+        "route": "Transit · Doha (DOH)",
+        "heading": "Hamad, the quiet connection",
+        "body": "The single-terminal layout, the Qatar lounges, and the short, calm transfers that make it an easy hub.",
+        "image": "/_vercel/image?url=%2Fimg%2Fband1.jpg&w=1280&q=80",
+        "href": "hub-doha.html"
+      },
+      {
+        "route": "Transit · London (LHR)",
+        "heading": "Five terminals, one plan",
+        "body": "Five airports in one. The lounges, the terminal changes as they really are, and a calm arrival into London.",
+        "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=1280&q=80",
+        "href": "hub-london-heathrow.html"
+      }
+    ]
+  },
+  "productGuides": {
+    "eyebrow": "Knowing the cabin",
+    "heading": "Read a fare like an advisor.",
+    "cards": [
+      {
+        "eyebrow": "Product guide",
+        "heading": "Business vs. First — when each is worth it",
+        "body": "The honest line between the two, by flight length and aircraft. When first earns its premium, and when the best business cabin wins.",
+        "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+        "href": "business-vs-first.html"
+      },
+      {
+        "eyebrow": "Product guide",
+        "heading": "How to read a cabin by aircraft",
+        "body": "Flat-bed vs. angled recliner, suites vs. open seats, 1-2-1 vs. 2-2-2. Why the same word can mean a very different night.",
+        "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "href": "cabin-guide.html"
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Our promise",
+    "headingHtml": "Knowing the seat is one thing.<br/>Securing it is <span class=\"it\">ours</span>.",
+    "lede": "These guides set the questions. Your advisor confirms the aircraft and cabin, holds the fare while you decide, and finds the award or upgrade space others can't see.",
+    "buttons": [
+      {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    ]
+  }
+}

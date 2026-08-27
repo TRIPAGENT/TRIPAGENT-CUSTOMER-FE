@@ -1,0 +1,18 @@
+{
+  "seo": {
+    "title": "Lost the thread — TripAgent"
+  },
+  "eyebrow": "404",
+  "headingHtml": "This door doesn't <span class=\"it\">open</span>.",
+  "line": "The page you were looking for isn't here. Let us show you back.",
+  "links": [
+    {
+      "label": "Return home",
+      "href": "index.html"
+    },
+    {
+      "label": "By invitation",
+      "href": "invitation.html"
+    }
+  ]
+}

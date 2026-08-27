@@ -1,0 +1,263 @@
+{
+  "seo": {
+    "title": "Help & FAQ — TripAgent",
+    "description": "Answers on membership, payments, flights, hotels, visas and privacy. Or message your advisor."
+  },
+  "hero": {
+    "eyebrow": "Help",
+    "headingHtml": "The questions, answered <span class=\"it\">plainly</span>.",
+    "lede": "The honest detail on membership, payments, the three things we handle, and how your data is held. If a question isn't here, your advisor is a message away.",
+    "toc": [
+      {
+        "label": "Membership & pricing",
+        "href": "#membership"
+      },
+      {
+        "label": "Payments & points",
+        "href": "#payments"
+      },
+      {
+        "label": "Flights",
+        "href": "#flights"
+      },
+      {
+        "label": "Hotels",
+        "href": "#hotels"
+      },
+      {
+        "label": "Visas",
+        "href": "#visas"
+      },
+      {
+        "label": "Privacy & data",
+        "href": "#privacy"
+      },
+      {
+        "label": "Getting started",
+        "href": "#start"
+      }
+    ],
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fhelp.jpg&w=2560&q=80"
+  },
+  "categories": [
+    {
+      "id": "membership",
+      "eyebrow": "01",
+      "heading": "Membership & pricing",
+      "items": [
+        {
+          "question": "When am I charged for membership?",
+          "answerHtml": "By invitation, at <b>₹12,000 a year</b>, charged to the card you hold when you redeem. You always know before you are billed.",
+          "open": true
+        },
+        {
+          "question": "Is there any lock-in?",
+          "answerHtml": "None. No exit penalty. If you choose not to continue, it simply does not renew. The relationship is <span class=\"it\">earned</span>, not enforced.",
+          "open": false
+        },
+        {
+          "question": "What does the ₹12,000 cover, and what is paid per trip?",
+          "answerHtml": "The ₹12,000 is the membership: a named advisor, the AI concierge, and your flights, hotels and visas handled end to end. Travel itself — fares, rooms, government visa charges — is paid <b>per trip</b>, with taxes shown. See the full breakdown on <a href=\"/membership\">membership</a>.",
+          "open": false
+        },
+        {
+          "question": "Is the membership the same as paying per trip elsewhere?",
+          "answerHtml": "No. A booking site is gone the moment you've paid. Membership is a person who knows you, holds your details, and is there when a flight cancels overnight. One re-booked trip usually returns the year over.",
+          "open": false
+        },
+        {
+          "question": "How does an invitation work?",
+          "answerHtml": "Each invitation carries a one-time code. You redeem it, your card is held, and the service begins. If you have a code, you'll know.",
+          "open": false
+        },
+        {
+          "question": "Is this only flights, hotels and visas?",
+          "answerHtml": "Yes, deliberately. We do three things completely rather than everything adequately. More may follow, only at the same standard.",
+          "open": false
+        }
+      ]
+    },
+    {
+      "id": "payments",
+      "eyebrow": "02",
+      "heading": "Payments & points",
+      "items": [
+        {
+          "question": "Can I pay with a mix of points and cash?",
+          "answerHtml": "Yes. Points and card combine in one checkout. Your advisor tells you when points are the smarter currency and when cash holds more value. More on <a href=\"/points\">points &amp; payments</a>.",
+          "open": false
+        },
+        {
+          "question": "Are there hidden markups on what I book?",
+          "answerHtml": "No. You see the <span class=\"it\">sell price</span> with taxes shown. Any service fee is named and agreed before you confirm — never folded into a fare or room rate. The price is the price.",
+          "open": false
+        },
+        {
+          "question": "Is my payment secure?",
+          "answerHtml": "Yes. Payments run through <b>Razorpay</b> on PCI-compliant infrastructure. We never see or store your full card number — it is handled by the gateway and encrypted end to end.",
+          "open": false
+        },
+        {
+          "question": "How do refunds work?",
+          "answerHtml": "Travel refunds follow each fare's or rate's own rules, which your advisor knows before you book. When something is owed back, we pursue it and make sure no penalty, credit or residual is missed. The membership fee is covered by our <a href=\"/refund\">refund of fees</a> terms.",
+          "open": false
+        },
+        {
+          "question": "What currencies can I pay in?",
+          "answerHtml": "Membership is billed in Indian rupees. Travel is quoted and settled in the currency that serves each booking best, with the conversion shown plainly.",
+          "open": false
+        }
+      ]
+    },
+    {
+      "id": "flights",
+      "eyebrow": "03",
+      "heading": "Flights",
+      "items": [
+        {
+          "question": "Do you only book business and first class?",
+          "answerHtml": "The front of the aircraft is our specialty, but we book every cabin well — economy and premium economy included. We'll also say honestly when a premium cabin is worth it and when it isn't. More on <a href=\"/flights\">flights</a>.",
+          "open": false
+        },
+        {
+          "question": "Can I use my miles and upgrades?",
+          "answerHtml": "Yes, and we tend to get far more from them than self-service does. We see live award and upgrade space across carriers, and time the request to the moment it's most likely to clear.",
+          "open": false
+        },
+        {
+          "question": "What happens if my flight is cancelled at 2 a.m.?",
+          "answerHtml": "This is what we're built for. Because we already hold your full itinerary, your advisor rebooks you — often before the airline's queue has moved — in the same cabin on the next sensible flight, and moves your hotels and transfers to match.",
+          "open": false
+        },
+        {
+          "question": "Can you handle family, group and multi-city travel?",
+          "answerHtml": "Yes. Families seated together, a group on one record, a multi-city itinerary across several carriers. A single change won't unravel the whole journey.",
+          "open": false
+        }
+      ]
+    },
+    {
+      "id": "hotels",
+      "eyebrow": "04",
+      "heading": "Hotels",
+      "items": [
+        {
+          "question": "What kind of stays do you arrange?",
+          "answerHtml": "From the right room in a city hotel to a villa for a family gathering — and the small houses and lodges that never appear on the large sites. We match the place to the moment. More on <a href=\"/hotels\">hotels</a>.",
+          "open": false
+        },
+        {
+          "question": "Do members get better rates or perks?",
+          "answerHtml": "Often, yes. Through preferred-partner programmes we secure upgrades, breakfast, resort credits and early or late check-out that aren't on the public rate — and we'll say plainly when a member rate genuinely beats what you found.",
+          "open": false
+        },
+        {
+          "question": "Can you arrange the details on arrival?",
+          "answerHtml": "Yes. A note on your preferences travels with the booking — the high floor, the quiet side, the anniversary, the dietary need — so the room is ready for <span class=\"it\">you</span>.",
+          "open": false
+        },
+        {
+          "question": "What if a hotel disappoints once I'm there?",
+          "answerHtml": "You message us. A room that isn't right is your advisor's problem, not yours — we'll press the hotel, move you if need be, and make it right while you carry on.",
+          "open": false
+        }
+      ]
+    },
+    {
+      "id": "visas",
+      "eyebrow": "05",
+      "heading": "Visas",
+      "items": [
+        {
+          "question": "What does the visa service actually do?",
+          "answerHtml": "We check what you need, prepare and file the application, and track it to the decision — so you only pack a bag. Government visa charges are paid per application. More on <a href=\"/visas\">visas</a>.",
+          "open": false
+        },
+        {
+          "question": "Can you help if a visa is at risk of refusal?",
+          "answerHtml": "This is where experience earns its place. We know which documents matter and how each consulate reads an application — and we'll tell you honestly when timing or paperwork needs to change before we file.",
+          "open": false
+        },
+        {
+          "question": "How far ahead should I start?",
+          "answerHtml": "As early as you can — processing times vary widely by country and season, and some require biometrics in person. Tell us the trip and we'll work back from your dates.",
+          "open": false
+        },
+        {
+          "question": "Do you handle visas alongside the flights and hotels?",
+          "answerHtml": "Yes — that's the point. Visa, flights and rooms are sequenced as one trip, so the dates line up and nothing is booked that a visa timeline can't support.",
+          "open": false
+        }
+      ]
+    },
+    {
+      "id": "privacy",
+      "eyebrow": "06",
+      "heading": "Privacy & data",
+      "items": [
+        {
+          "question": "What information do you hold about me?",
+          "answerHtml": "Only what's needed to arrange your travel — passport details, contact details, travel preferences and the payment information a booking requires. Nothing for its own sake.",
+          "open": false
+        },
+        {
+          "question": "Where is my data kept, and is it safe?",
+          "answerHtml": "On <b>bank-grade infrastructure</b>, encrypted, with access limited to those arranging your travel. Payment card details are handled by Razorpay's PCI-compliant gateway, not stored by us.",
+          "open": false
+        },
+        {
+          "question": "Will my details ever be sold or shared?",
+          "answerHtml": "Never sold. Shared only with the airlines, hotels and consulates a booking requires, and only as far as it needs. Your advisor is bound to <span class=\"it\">discretion</span>. The full detail is in our <a href=\"/privacy\">privacy policy</a>.",
+          "open": false
+        },
+        {
+          "question": "Can I ask you to delete my data?",
+          "answerHtml": "Yes. Ask us what we hold and to remove it, subject to records we're legally required to keep. One message to your advisor, or to <a href=\"mailto:maison@tripsure.com\">maison@tripsure.com</a>, starts it.",
+          "open": false
+        }
+      ]
+    },
+    {
+      "id": "start",
+      "eyebrow": "07",
+      "heading": "Getting started & contact",
+      "items": [
+        {
+          "question": "How do I get started?",
+          "answerHtml": "Membership is by invitation. <a href=\"/invitation\">Enter your invitation</a> and your advisor replies the same day, learns how you travel, and every journey after begins with a line on WhatsApp.",
+          "open": false
+        },
+        {
+          "question": "How do I reach my advisor?",
+          "answerHtml": "By WhatsApp, day or night. One named person who knows you, a message away, with the AI concierge answering quick things in seconds and your advisor handling the rest.",
+          "open": false
+        },
+        {
+          "question": "Who is behind TripAgent?",
+          "answerHtml": "TripAgent is a private travel maison by <b>Tripsure</b>, at 44 Kingfisher Towers, Bangalore 560 001. Real company, real advisors, and the promise to stay with you <span class=\"it\">until you are home</span>. More <a href=\"/about\">about us</a>.",
+          "open": false
+        },
+        {
+          "question": "I still have a question that isn't here.",
+          "answerHtml": "Then ask it. The fastest answer is your advisor — message us and a person replies. Or write to <a href=\"mailto:maison@tripsure.com\">maison@tripsure.com</a> or visit <a href=\"/contact\">contact</a>.",
+          "open": false
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "headingHtml": "Still wondering?<br/>Your advisor replies within the <span class=\"it\">hour</span>.",
+    "lede": "A real person replies, not a queue. Ask anything.",
+    "image": "/_vercel/image?url=%2Fimg%2Fsantorini.jpg&w=2048&q=80",
+    "buttons": [
+      {
+        "label": "Ask your advisor",
+        "href": "enquire.html"
+      },
+      {
+        "label": "Ways to reach us",
+        "href": "contact.html"
+      }
+    ]
+  }
+}

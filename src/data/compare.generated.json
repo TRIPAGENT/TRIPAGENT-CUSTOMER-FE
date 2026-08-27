@@ -1,0 +1,547 @@
+{
+  "seo": {
+    "title": "Compare destinations — TripAgent",
+    "description": "Compare any two or three destinations side by side — budget, flight time from India, visa, the best months, and who each suits."
+  },
+  "hero": {
+    "eyebrow": "Two minds, one decision",
+    "headingHtml": "Compare, <span class=\"it\">side by side</span>.",
+    "lede": "Torn between two? Put them next to each other — budget, flight time, visa, the best months and who each one suits."
+  },
+  "cityOptions": [
+    {
+      "value": "abu-dhabi",
+      "label": "Abu Dhabi"
+    },
+    {
+      "value": "agra",
+      "label": "Agra"
+    },
+    {
+      "value": "alleppey",
+      "label": "Alleppey"
+    },
+    {
+      "value": "amman-petra",
+      "label": "Amman & Petra"
+    },
+    {
+      "value": "amritsar",
+      "label": "Amritsar"
+    },
+    {
+      "value": "amsterdam",
+      "label": "Amsterdam"
+    },
+    {
+      "value": "andaman",
+      "label": "Andaman Islands"
+    },
+    {
+      "value": "athens",
+      "label": "Athens"
+    },
+    {
+      "value": "auckland",
+      "label": "Auckland"
+    },
+    {
+      "value": "bali",
+      "label": "Bali"
+    },
+    {
+      "value": "bangkok",
+      "label": "Bangkok"
+    },
+    {
+      "value": "barcelona",
+      "label": "Barcelona"
+    },
+    {
+      "value": "bengaluru",
+      "label": "Bengaluru"
+    },
+    {
+      "value": "budapest",
+      "label": "Budapest"
+    },
+    {
+      "value": "buenos-aires",
+      "label": "Buenos Aires"
+    },
+    {
+      "value": "cairo",
+      "label": "Cairo"
+    },
+    {
+      "value": "cancun",
+      "label": "Cancún"
+    },
+    {
+      "value": "cape-town",
+      "label": "Cape Town"
+    },
+    {
+      "value": "cappadocia",
+      "label": "Cappadocia"
+    },
+    {
+      "value": "chennai",
+      "label": "Chennai"
+    },
+    {
+      "value": "colombo",
+      "label": "Colombo"
+    },
+    {
+      "value": "copenhagen",
+      "label": "Copenhagen"
+    },
+    {
+      "value": "cusco",
+      "label": "Cusco & Machu Picchu"
+    },
+    {
+      "value": "darjeeling",
+      "label": "Darjeeling"
+    },
+    {
+      "value": "doha",
+      "label": "Doha"
+    },
+    {
+      "value": "dubai",
+      "label": "Dubai"
+    },
+    {
+      "value": "dublin",
+      "label": "Dublin"
+    },
+    {
+      "value": "dubrovnik",
+      "label": "Dubrovnik"
+    },
+    {
+      "value": "edinburgh",
+      "label": "Edinburgh"
+    },
+    {
+      "value": "florence",
+      "label": "Florence"
+    },
+    {
+      "value": "galle",
+      "label": "Galle"
+    },
+    {
+      "value": "geneva",
+      "label": "Geneva"
+    },
+    {
+      "value": "goa",
+      "label": "Goa"
+    },
+    {
+      "value": "hanoi",
+      "label": "Hanoi"
+    },
+    {
+      "value": "ho-chi-minh-city",
+      "label": "Ho Chi Minh City"
+    },
+    {
+      "value": "hoi-an",
+      "label": "Hoi An & Da Nang"
+    },
+    {
+      "value": "hong-kong",
+      "label": "Hong Kong"
+    },
+    {
+      "value": "hyderabad",
+      "label": "Hyderabad"
+    },
+    {
+      "value": "istanbul",
+      "label": "Istanbul"
+    },
+    {
+      "value": "jaipur",
+      "label": "Jaipur"
+    },
+    {
+      "value": "jaisalmer",
+      "label": "Jaisalmer"
+    },
+    {
+      "value": "jodhpur",
+      "label": "Jodhpur"
+    },
+    {
+      "value": "kathmandu",
+      "label": "Kathmandu"
+    },
+    {
+      "value": "kochi",
+      "label": "Kochi"
+    },
+    {
+      "value": "kolkata",
+      "label": "Kolkata"
+    },
+    {
+      "value": "krabi",
+      "label": "Krabi"
+    },
+    {
+      "value": "kuala-lumpur",
+      "label": "Kuala Lumpur"
+    },
+    {
+      "value": "kyoto",
+      "label": "Kyoto"
+    },
+    {
+      "value": "lake-como",
+      "label": "Lake Como"
+    },
+    {
+      "value": "langkawi",
+      "label": "Langkawi"
+    },
+    {
+      "value": "las-vegas",
+      "label": "Las Vegas"
+    },
+    {
+      "value": "leh-ladakh",
+      "label": "Leh-Ladakh"
+    },
+    {
+      "value": "lima",
+      "label": "Lima"
+    },
+    {
+      "value": "lisbon",
+      "label": "Lisbon"
+    },
+    {
+      "value": "london",
+      "label": "London"
+    },
+    {
+      "value": "los-angeles",
+      "label": "Los Angeles"
+    },
+    {
+      "value": "madrid",
+      "label": "Madrid"
+    },
+    {
+      "value": "mahe-seychelles",
+      "label": "Mahé"
+    },
+    {
+      "value": "male-maldives",
+      "label": "Malé & the Atolls"
+    },
+    {
+      "value": "manali",
+      "label": "Manali"
+    },
+    {
+      "value": "marrakech",
+      "label": "Marrakech"
+    },
+    {
+      "value": "mauritius-city",
+      "label": "Mauritius"
+    },
+    {
+      "value": "melbourne",
+      "label": "Melbourne"
+    },
+    {
+      "value": "mexico-city",
+      "label": "Mexico City"
+    },
+    {
+      "value": "miami",
+      "label": "Miami"
+    },
+    {
+      "value": "milan",
+      "label": "Milan"
+    },
+    {
+      "value": "mumbai",
+      "label": "Mumbai"
+    },
+    {
+      "value": "munich",
+      "label": "Munich"
+    },
+    {
+      "value": "munnar",
+      "label": "Munnar"
+    },
+    {
+      "value": "muscat",
+      "label": "Muscat"
+    },
+    {
+      "value": "mykonos",
+      "label": "Mykonos"
+    },
+    {
+      "value": "nairobi-mara",
+      "label": "Nairobi & the Mara"
+    },
+    {
+      "value": "delhi",
+      "label": "New Delhi"
+    },
+    {
+      "value": "new-york",
+      "label": "New York"
+    },
+    {
+      "value": "nice-riviera",
+      "label": "Nice & the Riviera"
+    },
+    {
+      "value": "osaka",
+      "label": "Osaka"
+    },
+    {
+      "value": "paris",
+      "label": "Paris"
+    },
+    {
+      "value": "paro",
+      "label": "Paro & Thimphu"
+    },
+    {
+      "value": "phuket",
+      "label": "Phuket"
+    },
+    {
+      "value": "porto",
+      "label": "Porto"
+    },
+    {
+      "value": "prague",
+      "label": "Prague"
+    },
+    {
+      "value": "queenstown",
+      "label": "Queenstown"
+    },
+    {
+      "value": "ranthambore",
+      "label": "Ranthambore"
+    },
+    {
+      "value": "reykjavik",
+      "label": "Reykjavik"
+    },
+    {
+      "value": "rio-de-janeiro",
+      "label": "Rio de Janeiro"
+    },
+    {
+      "value": "rishikesh",
+      "label": "Rishikesh"
+    },
+    {
+      "value": "rome",
+      "label": "Rome"
+    },
+    {
+      "value": "salzburg",
+      "label": "Salzburg"
+    },
+    {
+      "value": "san-francisco",
+      "label": "San Francisco"
+    },
+    {
+      "value": "santorini",
+      "label": "Santorini"
+    },
+    {
+      "value": "seoul",
+      "label": "Seoul"
+    },
+    {
+      "value": "shanghai",
+      "label": "Shanghai"
+    },
+    {
+      "value": "shimla",
+      "label": "Shimla"
+    },
+    {
+      "value": "siem-reap",
+      "label": "Siem Reap"
+    },
+    {
+      "value": "singapore-city",
+      "label": "Singapore"
+    },
+    {
+      "value": "srinagar",
+      "label": "Srinagar"
+    },
+    {
+      "value": "st-moritz",
+      "label": "St. Moritz"
+    },
+    {
+      "value": "sydney",
+      "label": "Sydney"
+    },
+    {
+      "value": "taipei",
+      "label": "Taipei"
+    },
+    {
+      "value": "amalfi-coast",
+      "label": "The Amalfi Coast"
+    },
+    {
+      "value": "tokyo",
+      "label": "Tokyo"
+    },
+    {
+      "value": "toronto",
+      "label": "Toronto"
+    },
+    {
+      "value": "udaipur",
+      "label": "Udaipur"
+    },
+    {
+      "value": "vancouver",
+      "label": "Vancouver"
+    },
+    {
+      "value": "varanasi",
+      "label": "Varanasi"
+    },
+    {
+      "value": "venice",
+      "label": "Venice"
+    },
+    {
+      "value": "vienna",
+      "label": "Vienna"
+    },
+    {
+      "value": "zanzibar",
+      "label": "Zanzibar"
+    },
+    {
+      "value": "zermatt",
+      "label": "Zermatt"
+    },
+    {
+      "value": "zurich",
+      "label": "Zurich"
+    }
+  ],
+  "placeholders": {
+    "c0": "Choose a place…",
+    "c1": "Choose a place…",
+    "c2": "Add a third (optional)…"
+  },
+  "ctx": {
+    "label": "Judge it for",
+    "monthLabel": "a trip in",
+    "whoLabel": "for",
+    "monthOptions": [
+      {
+        "value": "0",
+        "label": "any month"
+      },
+      {
+        "value": "1",
+        "label": "January"
+      },
+      {
+        "value": "2",
+        "label": "February"
+      },
+      {
+        "value": "3",
+        "label": "March"
+      },
+      {
+        "value": "4",
+        "label": "April"
+      },
+      {
+        "value": "5",
+        "label": "May"
+      },
+      {
+        "value": "6",
+        "label": "June"
+      },
+      {
+        "value": "7",
+        "label": "July"
+      },
+      {
+        "value": "8",
+        "label": "August"
+      },
+      {
+        "value": "9",
+        "label": "September"
+      },
+      {
+        "value": "10",
+        "label": "October"
+      },
+      {
+        "value": "11",
+        "label": "November"
+      },
+      {
+        "value": "12",
+        "label": "December"
+      }
+    ],
+    "whoOptions": [
+      {
+        "value": "",
+        "label": "anyone"
+      },
+      {
+        "value": "couples",
+        "label": "the two of us"
+      },
+      {
+        "value": "family-kids",
+        "label": "the family"
+      },
+      {
+        "value": "multigen",
+        "label": "three generations"
+      },
+      {
+        "value": "honeymoon",
+        "label": "a honeymoon"
+      },
+      {
+        "value": "solo",
+        "label": "just me"
+      },
+      {
+        "value": "friends",
+        "label": "friends"
+      }
+    ]
+  }
+}

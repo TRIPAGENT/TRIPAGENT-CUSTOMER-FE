@@ -1,0 +1,603 @@
+{
+  "seo": {
+    "title": "Where to go, when — TripAgent",
+    "description": "A month-by-month guide to where it's the right time to be — read against your own calendar: Diwali, Christmas and New Year, the May–June school break, and the long weekends. Seasonal guidance, with the flights and visas to match."
+  },
+  "hero": {
+    "eyebrow": "The calendar · by invitation",
+    "headingHtml": "Where to go, <span class=\"it\">when</span>.",
+    "lede": "Start with the month you can travel. We'll tell you where it's at its best — set against your own holidays and long weekends.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fwhen-to-go.jpg&w=2560&q=80",
+    "ctaLabel": "Plan around a date",
+    "ctaHref": "enquire.html",
+    "jumpLabel": "Jump to a month",
+    "jumpHref": "#months"
+  },
+  "intro": {
+    "eyebrow": "The idea",
+    "note": "Most people pick the place, then fight the season. We start the other way round — from the month you can go.",
+    "statement": "Timing is the whole trip.",
+    "ledeHtml": "The same island is a postcard in May and a crush in August. The same city is golden in October and shuttered in February. Read against your own calendar — Diwali, the winter break, the long May–June school holidays, the scattered long weekends — the question is rarely <em>where</em>. It is <em>when</em>, and what's at its best then. Here is the year, month by month, with the flights and the visas each one asks for."
+  },
+  "months": {
+    "eyebrow": "The calendar",
+    "heading": "Month by month.",
+    "lede": "Twelve pages, each a short answer to one question: where is it the right time to be?",
+    "cards": [
+      {
+        "href": "go-in-january.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F01.jpg&w=1024&q=80",
+        "no": "Month 01",
+        "name": "January",
+        "body": "Deep-winter sun and the Southern summer — Maldives, the Cape, New Zealand."
+      },
+      {
+        "href": "go-in-february.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F02.jpg&w=1024&q=80",
+        "no": "Month 02",
+        "name": "February",
+        "body": "Dry-season clarity — Sri Lanka, Thailand, Egypt, and the desert at its kindest."
+      },
+      {
+        "href": "go-in-march.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F03.jpg&w=1024&q=80",
+        "no": "Month 03",
+        "name": "March",
+        "body": "Spring opens — Japan's blossom, Jordan and Oman before the heat, Europe waking."
+      },
+      {
+        "href": "go-in-april.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F04.jpg&w=1024&q=80",
+        "no": "Month 04",
+        "name": "April",
+        "body": "The shoulder sweet spot — Spain, Portugal, Türkiye, and the last clear desert days."
+      },
+      {
+        "href": "go-in-may.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F05.jpg&w=1024&q=80",
+        "no": "Month 05",
+        "name": "May",
+        "body": "School's out — the Mediterranean before peak, Iceland's long light, Bali dry."
+      },
+      {
+        "href": "go-in-june.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F06.jpg&w=1024&q=80",
+        "no": "Month 06",
+        "name": "June",
+        "body": "The summer break in full — Switzerland, Scandinavia, the white nights up north."
+      },
+      {
+        "href": "go-in-july.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F07.jpg&w=1024&q=80",
+        "no": "Month 07",
+        "name": "July",
+        "body": "Monsoon at home, winter sun abroad — South Africa, the Alps in summer, Bali."
+      },
+      {
+        "href": "go-in-august.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F08.jpg&w=1024&q=80",
+        "no": "Month 08",
+        "name": "August",
+        "body": "Independence-week escapes — East Africa's migration, the Nordics, the high Alps."
+      },
+      {
+        "href": "go-in-september.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F09.jpg&w=1024&q=80",
+        "no": "Month 09",
+        "name": "September",
+        "body": "The connoisseur's month — Greece and Italy emptied, the warm sea still in."
+      },
+      {
+        "href": "go-in-october.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F10.jpg&w=1024&q=80",
+        "no": "Month 10",
+        "name": "October",
+        "body": "Diwali season — Japan's autumn, Jordan and Oman cooling, the islands re-opening."
+      },
+      {
+        "href": "go-in-november.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F11.jpg&w=1024&q=80",
+        "no": "Month 11",
+        "name": "November",
+        "body": "The dry season returns — the Maldives, Vietnam's centre, the Emirates outdoors."
+      },
+      {
+        "href": "go-in-december.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fmcal%2F12.jpg&w=1024&q=80",
+        "no": "Month 12",
+        "name": "December",
+        "body": "The winter break — alpine snow, the Southern summer, the Gulf at its best."
+      }
+    ]
+  },
+  "bestTime": {
+    "eyebrow": "The year, at a glance",
+    "heading": "When each place is at itsbest.",
+    "lede": "73 destinations against the twelve months, by region. A filled mark is the peak window; an open mark, a fine shoulder. Hover a place or a month — then tell us yours.",
+    "legend": [
+      "At its best",
+      "A fine shoulder",
+      "Tap a destination for the detail — your advisor plans around your own dates."
+    ],
+    "months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "regions": [
+      {
+        "name": "Asia",
+        "rows": [
+          {
+            "name": "Bhutan",
+            "slug": "bhutan",
+            "code": "002210001220"
+          },
+          {
+            "name": "Cambodia",
+            "slug": "",
+            "code": "221000000122"
+          },
+          {
+            "name": "China",
+            "slug": "",
+            "code": "001221002210"
+          },
+          {
+            "name": "Hong Kong",
+            "slug": "",
+            "code": "112100001222"
+          },
+          {
+            "name": "India",
+            "slug": "",
+            "code": "221000001222"
+          },
+          {
+            "name": "Indonesia · Bali",
+            "slug": "indonesia",
+            "code": "000122222100"
+          },
+          {
+            "name": "Japan",
+            "slug": "japan",
+            "code": "001220000220"
+          },
+          {
+            "name": "Laos",
+            "slug": "",
+            "code": "221000000122"
+          },
+          {
+            "name": "Malaysia",
+            "slug": "",
+            "code": "111122221000"
+          },
+          {
+            "name": "Myanmar",
+            "slug": "",
+            "code": "221000000122"
+          },
+          {
+            "name": "Nepal",
+            "slug": "",
+            "code": "112210001221"
+          },
+          {
+            "name": "Philippines",
+            "slug": "",
+            "code": "222100000012"
+          },
+          {
+            "name": "Singapore",
+            "slug": "singapore",
+            "code": "122211111111"
+          },
+          {
+            "name": "South Korea",
+            "slug": "",
+            "code": "001221001210"
+          },
+          {
+            "name": "Sri Lanka",
+            "slug": "sri-lanka",
+            "code": "222100110001"
+          },
+          {
+            "name": "Taiwan",
+            "slug": "",
+            "code": "112210000221"
+          },
+          {
+            "name": "Thailand",
+            "slug": "thailand",
+            "code": "222100000122"
+          },
+          {
+            "name": "Vietnam",
+            "slug": "vietnam",
+            "code": "222100000122"
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "rows": [
+          {
+            "name": "Austria",
+            "slug": "austria",
+            "code": "221001222002"
+          },
+          {
+            "name": "Croatia",
+            "slug": "croatia",
+            "code": "000022112100"
+          },
+          {
+            "name": "Czechia",
+            "slug": "",
+            "code": "000222112101"
+          },
+          {
+            "name": "Denmark",
+            "slug": "",
+            "code": "000122221001"
+          },
+          {
+            "name": "England · London",
+            "slug": "",
+            "code": "000122222101"
+          },
+          {
+            "name": "Finland",
+            "slug": "",
+            "code": "222012211002"
+          },
+          {
+            "name": "France",
+            "slug": "france",
+            "code": "000122102200"
+          },
+          {
+            "name": "Germany",
+            "slug": "",
+            "code": "000122222101"
+          },
+          {
+            "name": "Greece",
+            "slug": "greece",
+            "code": "000022112100"
+          },
+          {
+            "name": "Hungary",
+            "slug": "",
+            "code": "000222112201"
+          },
+          {
+            "name": "Iceland",
+            "slug": "iceland",
+            "code": "011002221000"
+          },
+          {
+            "name": "Ireland",
+            "slug": "ireland",
+            "code": "000022222000"
+          },
+          {
+            "name": "Italy",
+            "slug": "italy",
+            "code": "000122102200"
+          },
+          {
+            "name": "Montenegro",
+            "slug": "",
+            "code": "000122112100"
+          },
+          {
+            "name": "Netherlands",
+            "slug": "",
+            "code": "000222111000"
+          },
+          {
+            "name": "Norway",
+            "slug": "",
+            "code": "122012221001"
+          },
+          {
+            "name": "Portugal",
+            "slug": "portugal",
+            "code": "000122102200"
+          },
+          {
+            "name": "Scotland",
+            "slug": "scotland",
+            "code": "000022222000"
+          },
+          {
+            "name": "Spain",
+            "slug": "spain",
+            "code": "000122102200"
+          },
+          {
+            "name": "Sweden",
+            "slug": "",
+            "code": "111012221001"
+          },
+          {
+            "name": "Switzerland",
+            "slug": "switzerland",
+            "code": "221001222002"
+          },
+          {
+            "name": "Türkiye",
+            "slug": "turkiye",
+            "code": "000222002200"
+          }
+        ]
+      },
+      {
+        "name": "Africa & the Middle East",
+        "rows": [
+          {
+            "name": "Botswana",
+            "slug": "",
+            "code": "000122222200"
+          },
+          {
+            "name": "Egypt",
+            "slug": "egypt",
+            "code": "122200000222"
+          },
+          {
+            "name": "Israel",
+            "slug": "",
+            "code": "002220002220"
+          },
+          {
+            "name": "Jordan",
+            "slug": "jordan",
+            "code": "002220001220"
+          },
+          {
+            "name": "Kenya",
+            "slug": "kenya",
+            "code": "220000222200"
+          },
+          {
+            "name": "Morocco",
+            "slug": "morocco",
+            "code": "002220001220"
+          },
+          {
+            "name": "Namibia",
+            "slug": "",
+            "code": "000122222200"
+          },
+          {
+            "name": "Oman",
+            "slug": "oman",
+            "code": "122100000222"
+          },
+          {
+            "name": "Qatar",
+            "slug": "",
+            "code": "222100000122"
+          },
+          {
+            "name": "Rwanda",
+            "slug": "",
+            "code": "110002222001"
+          },
+          {
+            "name": "Saudi Arabia",
+            "slug": "",
+            "code": "222100000122"
+          },
+          {
+            "name": "South Africa",
+            "slug": "south-africa",
+            "code": "122110001221"
+          },
+          {
+            "name": "Tanzania",
+            "slug": "",
+            "code": "220002222201"
+          },
+          {
+            "name": "UAE",
+            "slug": "uae",
+            "code": "222100000122"
+          },
+          {
+            "name": "Zambia · Victoria Falls",
+            "slug": "",
+            "code": "000122222200"
+          }
+        ]
+      },
+      {
+        "name": "The Americas",
+        "rows": [
+          {
+            "name": "Argentina",
+            "slug": "argentina",
+            "code": "221100000122"
+          },
+          {
+            "name": "Brazil",
+            "slug": "brazil",
+            "code": "222100000012"
+          },
+          {
+            "name": "Canada",
+            "slug": "",
+            "code": "221012222001"
+          },
+          {
+            "name": "Chile",
+            "slug": "",
+            "code": "222100000122"
+          },
+          {
+            "name": "Colombia",
+            "slug": "",
+            "code": "221000110002"
+          },
+          {
+            "name": "Costa Rica",
+            "slug": "",
+            "code": "222200000012"
+          },
+          {
+            "name": "Cuba",
+            "slug": "",
+            "code": "222200000012"
+          },
+          {
+            "name": "Ecuador · Galápagos",
+            "slug": "",
+            "code": "111112221112"
+          },
+          {
+            "name": "Mexico",
+            "slug": "mexico",
+            "code": "222200000022"
+          },
+          {
+            "name": "Peru",
+            "slug": "peru",
+            "code": "000122222100"
+          },
+          {
+            "name": "United States",
+            "slug": "united-states",
+            "code": "000122112200"
+          }
+        ]
+      },
+      {
+        "name": "Islands & oceans",
+        "rows": [
+          {
+            "name": "Fiji",
+            "slug": "",
+            "code": "000122222210"
+          },
+          {
+            "name": "French Polynesia",
+            "slug": "",
+            "code": "000122222210"
+          },
+          {
+            "name": "Maldives",
+            "slug": "maldives",
+            "code": "222200000022"
+          },
+          {
+            "name": "Mauritius",
+            "slug": "mauritius",
+            "code": "000022002222"
+          },
+          {
+            "name": "Seychelles",
+            "slug": "seychelles",
+            "code": "000221001220"
+          }
+        ]
+      },
+      {
+        "name": "Australasia",
+        "rows": [
+          {
+            "name": "Australia",
+            "slug": "australia",
+            "code": "112200001221"
+          },
+          {
+            "name": "New Zealand",
+            "slug": "new-zealand",
+            "code": "222100000012"
+          }
+        ]
+      }
+    ]
+  },
+  "season": {
+    "eyebrow": "By season",
+    "heading": "Three ways to read the year.",
+    "cols": [
+      {
+        "kicker": "Chase the sun",
+        "heading": "When home turns grey",
+        "body": "Through the Indian winter, and again in the monsoon, the answer is somewhere warm and dry — the Maldives and Seychelles, the Southern-hemisphere summer of South Africa, Australia and New Zealand, the steady Gulf. We book the festive and New-Year peaks early. The best water villas and suites go first."
+      },
+      {
+        "kicker": "Chase the snow",
+        "heading": "When you want winter",
+        "body": "December to March is the Alps, Hokkaido and the high north — Switzerland, France, Japan, the aurora latitudes. It overlaps the Christmas–New-Year break and the long weekends of the new year. That is exactly why the planning starts months ahead, not weeks."
+      },
+      {
+        "kicker": "Chase the value",
+        "heading": "The shoulder seasons",
+        "body": "The quiet art is the in-between — late April–June and September–October — when Europe and the Mediterranean are warm but emptied, fares ease, and the famous places feel like yours. The shoulder rewards anyone who can travel a week either side of the crowd. We plan for it."
+      }
+    ]
+  },
+  "calendar": {
+    "eyebrow": "Your calendar",
+    "heading": "The dates that shape the year.",
+    "lede": "When the country travels at once, prices rise and seats vanish. Knowing the windows is half the planning.",
+    "items": [
+      {
+        "tag": "Oct–Nov · Diwali",
+        "body": "The festival of lights falls in the autumn — a natural break, and a peak. Demand on long-haul and the nearer escapes climbs sharply. We hold flights and stays well ahead, because the good fares are gone weeks before the dates."
+      },
+      {
+        "tag": "Dec–Jan · Winter break",
+        "body": "Christmas through New Year is the single busiest stretch of the travel year. Alpine snow, the Southern summer and the Gulf all peak together; this is the window to plan furthest in advance — six months is not too early."
+      },
+      {
+        "tag": "May–Jun · Summer holidays",
+        "body": "The long school break is when families travel. Europe, the longer journeys and the cooler escapes fill fast. A June trip to Europe means the Schengen file opens in March. The lead time is the whole game."
+      },
+      {
+        "tag": "The long weekends",
+        "body": "Scattered through the year — Republic Day, Holi, the August cluster, and others — each is a chance at a short, nearer journey. They reward booking early and choosing places within a comfortable flight: the Gulf, Sri Lanka, Thailand, Singapore."
+      }
+    ]
+  },
+  "sig": {
+    "by": "The advantage of timing",
+    "pull": "Tell us when you can go. We'll tell you where it's at its best — and we'll have started early.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh3%2Fwhen-to-go.jpg&w=2560&q=80"
+  },
+  "quiet": {
+    "eyebrow": "The quiet part",
+    "text": "Every month here comes down to two clocks: when to book the flight, and when your advisor should start the visa. Both begin earlier than you'd think. That is rather the point."
+  },
+  "cta": {
+    "eyebrow": "Your move",
+    "heading": "Start from the month.",
+    "lede": "Tell us the dates you can travel, and who's coming. We'll come back with where it's the right time to be — the cabin and the visa already in hand.",
+    "buttons": [
+      {
+        "label": "Plan around a date →",
+        "href": "enquire.html"
+      },
+      {
+        "label": "See all destinations",
+        "href": "destinations.html"
+      }
+    ],
+    "image": "/_vercel/image?url=%2Fimg%2Fdest-santorini-goldenhour.jpg&w=2048&q=80"
+  }
+}

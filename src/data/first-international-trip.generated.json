@@ -1,0 +1,134 @@
+{
+  "seo": {
+    "title": "Your first trip abroad — TripAgent",
+    "description": "Your first trip abroad, looked after end to end. The right flight, the right hotel, the visa filed for you — by a named advisor who stays on the line."
+  },
+  "hero": {
+    "back": {
+      "label": "← All journeys",
+      "href": "itineraries.html"
+    },
+    "eyebrow": "A collection · by invitation",
+    "headingHtml": "Your first time <span class=\"it\">abroad</span>, made easy.",
+    "lede": "The visa, the connection, an airport you've never seen. You face none of it alone. A named advisor takes you through every step, and stays on the line.",
+    "image": "/_vercel/image?url=%2Fimg%2Fjet-welcome-CONCEPT-rebrand.jpg&w=2560&q=80",
+    "ctaGold": {
+      "label": "Plan my first trip",
+      "href": "enquire.html"
+    },
+    "ctaText": {
+      "label": "How the visa works",
+      "href": "#visa"
+    },
+    "metaK": "Your first time abroad",
+    "metaT": "Someone with you, every step."
+  },
+  "intro": {
+    "eyebrow": "The thinking",
+    "note": "The destination isn't the daunting part. It's everything before it — the visa, the documents, the not-knowing. We carry that.",
+    "statement": "You bring the excitement. We carry the rest.",
+    "lede": "No stack of forms. No fear of getting one wrong. Tell your advisor where you'd love to go, and roughly when. They say plainly what's needed, then do it — the visa, the flights, the hotel. One person on WhatsApp, answering every question, until you're standing where you dreamed of standing."
+  },
+  "calm": {
+    "eyebrow": "No question too small",
+    "heading": "You're never on your own.",
+    "cards": [
+      {
+        "k": "Before you go",
+        "heading": "Everything explained, plainly",
+        "body": "What a visa is. Why each document matters. How the connection works. What happens at immigration. Ask anything — a person answers, in your own words."
+      },
+      {
+        "k": "At the airport",
+        "heading": "A hand through the unfamiliar bits",
+        "body": "Check-in, security, the gate, the transfer, the forms at the other end. We walk you through it beforehand, and we're a message away on the day."
+      },
+      {
+        "k": "While you're away",
+        "heading": "One number, always reachable",
+        "body": "A delayed flight, a missed gate, a question in a place you don't know. Your advisor is on the same WhatsApp thread, day or night — and acts before it becomes a problem."
+      }
+    ]
+  },
+  "flights": {
+    "eyebrow": "The flights",
+    "heading": "The easiest way there.",
+    "lede": "On a first long-haul, a simple route matters more than the cabin. We choose the gentlest journey, and explain each leg before you reach the airport.",
+    "items": [
+      {
+        "bodyHtml": "A direct flight where one exists — nothing to connect. Where it doesn't, one easy connection with comfortable margin, never a tight, anxious transfer."
+      },
+      {
+        "bodyHtml": "The right cabin for the distance — premium economy or business on the overnight legs, so you land ready for day one, not recovering from the flight."
+      },
+      {
+        "bodyHtml": "Seats together, the meal you prefer, and airport assistance arranged if an elderly traveller is flying for the first time too. The small asks that keep a long flight calm."
+      },
+      {
+        "bodyHtml": "A clear itinerary in the thread — where to be, when, what each step looks like — so nothing at the airport takes you by surprise."
+      }
+    ]
+  },
+  "stays": {
+    "eyebrow": "The stay",
+    "heading": "The right hotel for a first-timer.",
+    "image": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80",
+    "imageAlt": "A well-located, welcoming hotel for a first trip abroad",
+    "cards": [
+      {
+        "place": "The location · safe and central",
+        "heading": "Somewhere easy to find your feet",
+        "body": "A well-placed hotel where you step out and feel at ease — close to the sights, simple to reach from the airport, with staff used to first-time visitors. Not the cheapest dot on a map. The right place to find your confidence."
+      },
+      {
+        "place": "The arrival · smoothed",
+        "heading": "A transfer, and a room that's ready",
+        "body": "A private car from the airport, so there's no taxi to argue over after a long flight. Early check-in arranged where we can, so you can simply rest before the trip begins."
+      },
+      {
+        "place": "The help · on hand",
+        "heading": "A hotel told to look after you",
+        "body": "We tell the hotel it's a first visit, so the front desk is ready with the small things that matter — directions, a good first dinner, what no guidebook tells you. And your advisor is always the easier first call."
+      }
+    ]
+  },
+  "signature": {
+    "by": "The first morning",
+    "pullHtml": "You step into a city you've only seen in pictures, and everything that worried you is already behind you.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Ffirst-international-trip.jpg&w=2560&q=80"
+  },
+  "visa": {
+    "id": "visa",
+    "eyebrow": "The visa",
+    "heading": "The visa, held from start to stamp.",
+    "lede": "For most first-timers, the visa is the frightening part — the forms, the financials, the appointment, the fear of a refusal. This is where a person makes the difference. We don't send a checklist. We do it with you, and mostly for you.",
+    "items": [
+      "We tell you plainly what your destination needs for an Indian passport — visa-free, visa-on-arrival, e-visa, or a consulate visa with an appointment.",
+      "We fill the form, write the cover letter, arrange the travel insurance, and tell you exactly which documents and financial papers to gather — with examples.",
+      "For consulate visas such as Schengen, we book the biometrics appointment, align it with your confirmed flights and hotels, and tell you what to expect on the day.",
+      "We file it and track it to passport return, and confirm current requirements before you travel. Any follow-up is ours to handle, not yours to worry about."
+    ],
+    "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80",
+    "imageAlt": "Passport and travel documents being prepared for a first visa application"
+  },
+  "when": {
+    "eyebrow": "A note on timing",
+    "text": "Begin early and the first trip is calm, not rushed. A consulate visa can take weeks — the sooner you tell us where you dream of going, the easier every step."
+  },
+  "cta": {
+    "eyebrow": "Your move",
+    "heading": "Plan your first trip abroad.",
+    "lede": "Tell us where you'd love to go, and roughly when. We'll explain it plainly, handle the visa, the flights and the hotel — and stay with you, every step, until you are home.",
+    "image": "/_vercel/image?url=%2Fimg%2Fjet-welcome-CONCEPT-rebrand.jpg&w=2048&q=80",
+    "buttons": [
+      {
+        "label": "Plan my first trip →",
+        "href": "enquire.html"
+      },
+      {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    ]
+  }
+}

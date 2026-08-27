@@ -1,0 +1,22 @@
+{
+  "destination-argentina": "city-buenos-aires",
+  "destination-bhutan": "city-paro",
+  "destination-brazil": "city-rio-de-janeiro",
+  "destination-croatia": "city-dubrovnik",
+  "destination-egypt": "city-cairo",
+  "destination-iceland": "city-reykjavik",
+  "destination-indonesia": "city-bali",
+  "destination-ireland": "city-dublin",
+  "destination-jordan": "city-amman-petra",
+  "destination-kenya": "city-nairobi-mara",
+  "destination-maldives": "city-male-maldives",
+  "destination-mauritius": "city-mauritius-city",
+  "destination-morocco": "city-marrakech",
+  "destination-oman": "city-muscat",
+  "destination-scotland": "city-edinburgh",
+  "destination-seychelles": "city-mahe-seychelles",
+  "destination-singapore": "city-singapore-city",
+  "destination-south-africa": "city-cape-town",
+  "family-stays": "family-travel",
+  "honeymoon-stays": "honeymoon"
+}

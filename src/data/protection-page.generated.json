@@ -1,0 +1,179 @@
+{
+  "seo": {
+    "title": "Protection — TripAgent",
+    "description": "Looked after, end to end. Disruption watched, rebooking done while you sleep, payments kept safe, visas assessed honestly, discretion as standard. Until you are home."
+  },
+  "hero": {
+    "eyebrow": "Protection",
+    "headingHtml": "The trip is the easy part.<br/>Being <span class=\"it\">looked after</span> is the point.",
+    "lede": "Not a document you file later. Disruption watched before you notice it. Rebooking done while you sleep. Payment kept safe, the visa assessed honestly, and a discretion you never have to ask for.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fprotection.jpg&w=2560&q=80",
+    "ctaGold": {
+      "label": "Become a member",
+      "href": "join.html"
+    },
+    "ctaText": {
+      "label": "See how it works",
+      "href": "how-it-works.html"
+    }
+  },
+  "intro": {
+    "headingHtml": "Anyone can make a booking. Protection is what you feel when it <span class=\"it\">breaks</span>.",
+    "lede": "A confirmation number is easy. The rare thing is a hand on your trip when it goes wrong in a city you don’t know — the call already made before you thought to make it. That is what we are for."
+  },
+  "promises": {
+    "eyebrow": "What protection means",
+    "heading": "Six promises, kept quietly.",
+    "items": [
+      {
+        "n": "01",
+        "heading": "Proactive disruption watch",
+        "body": "Every booking is watched, not just made. Delays, cancellations and schedule changes reach us before they reach you — and we are already moving."
+      },
+      {
+        "n": "02",
+        "heading": "One-message rebooking",
+        "body": "When a flight falls, you send one message — or none. No airline queue: we rebook you in the same cabin and re-sequence what follows."
+      },
+      {
+        "n": "03",
+        "heading": "Secure payments, by Tripsure",
+        "body": "Payments run through Razorpay on PCI-DSS-compliant infrastructure, provided by Tripsure. Your card details are handled to the standard they demand."
+      },
+      {
+        "n": "04",
+        "heading": "Visa care, honestly assessed",
+        "body": "We never lodge an application we don’t believe in. Each case is assessed plainly before you pay, and your advisor stays with you through the decision."
+      },
+      {
+        "n": "05",
+        "heading": "Your documents, held safely",
+        "body": "Passports and travel papers are held securely and shared only as a booking requires — with airlines, hotels and consulates. Never beyond it, never sold."
+      },
+      {
+        "n": "06",
+        "heading": "Discretion as standard",
+        "body": "Where you go, what you spend, who you travel with — these stay between you and your advisor. The standard, not an upgrade."
+      }
+    ]
+  },
+  "matters": {
+    "eyebrow": "When it matters",
+    "heading": "The test is 2 a.m.",
+    "lede": "A booking made on a calm afternoon proves nothing. The measure is a cancelled flight in the small hours, in a city you don’t know. Because we already hold your itinerary and onward plans, your advisor is rebooking you before the airline’s queue has moved. You wake to a fix, not a problem.",
+    "items": [
+      "Proactive disruption watch on every booking — we see it before you do.",
+      "One message rebooks you, same cabin, next sensible flight — no airline queue, no hold music.",
+      "Onward hotels and transfers re-sequenced to match, so the whole trip stays whole."
+    ],
+    "image": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80"
+  },
+  "pq": "Anyone can make a booking. Protection is what you feel when it breaks.",
+  "money": {
+    "eyebrow": "Money & data",
+    "heading": "Your money, and your data, in safe hands.",
+    "lede": "Trust is the whole point, so we are plain where others are vague. Payments secured to a recognised standard, prices shown honestly, and your information used only to arrange your travel — nothing more.",
+    "items": [
+      "PCI-DSS-compliant payments through Razorpay, provided by Tripsure — we don’t store raw card numbers.",
+      "Sell prices shown plainly; any fee is named and agreed before you confirm, never folded in quietly.",
+      "Your data is used only to arrange travel and never sold — the detail is in our <a href=\"/privacy\">privacy policy</a> and <a href=\"/terms\">terms</a>."
+    ],
+    "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+  },
+  "signature": {
+    "eyebrow": "Our promise",
+    "headingHtml": "The rebooking is done<br/>while you <span class=\"em\">sleep</span>.",
+    "lede": "You wake to a fix, not a problem. That is what protection means here — present before, during and after, and most of all in the moment it matters.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh3%2Fprotection.jpg&w=2560&q=80"
+  },
+  "steps": {
+    "eyebrow": "When something goes wrong",
+    "heading": "What happens, step by step.",
+    "lede": "You don’t manage the recovery — we do. It begins with a single message and ends with you back on track before the disruption has registered.",
+    "cta": {
+      "label": "Become a member",
+      "href": "join.html"
+    },
+    "items": [
+      {
+        "n": "1",
+        "heading": "One message",
+        "body": "You send a line on WhatsApp — or nothing, because our watch has already flagged it. Either way, we know."
+      },
+      {
+        "n": "2",
+        "heading": "Your advisor acts",
+        "body": "No queue, no ticket number. The person who knows your trip starts working it with the airline or hotel at once."
+      },
+      {
+        "n": "3",
+        "heading": "The trip is re-sequenced",
+        "body": "Same cabin, next sensible flight. The onward hotels and transfers are re-timed to hold together."
+      },
+      {
+        "n": "4",
+        "heading": "A message, waiting",
+        "body": "The fix is confirmed and waiting — often before you’ve fully woken. You read it, not solve it."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "heading": "Good to know",
+    "items": [
+      {
+        "question": "What exactly is covered if a flight is cancelled?",
+        "answerHtml": "The moment a cancellation appears, your advisor goes to work — usually before the airline’s queue has moved. Because we already hold your full itinerary and onward plans, we rebook you in the same cabin on the next sensible flight, then re-sequence the hotels and transfers that depend on it. This is not an insurance payout; it is someone who acts. Often the fix is waiting in a message before you’ve woken. That coordination — not a claims form — is what protection means to us."
+      },
+      {
+        "question": "Do you charge to make a change?",
+        "answerHtml": "No — reworking a ticket, rebooking a room, re-timing a transfer is simply what your advisor does. What can apply are the airline’s or hotel’s own fare rules: a change fee, a fare difference, a non-refundable night. We know those rules before you book and choose fares with your flexibility in mind, so surprises are rare. When a cost is unavoidable, we name it plainly and get your agreement first. Nothing moves on your account without you knowing."
+      },
+      {
+        "question": "How are my passport and payment details kept safe?",
+        "answerHtml": "Payments run through Razorpay on PCI-DSS-compliant infrastructure, provided by Tripsure — we don’t store raw card numbers. Your passport and travel documents are held securely and shared with airlines, hotels and consulates only as a booking requires, never beyond it. We do not sell your data, and we use it only to arrange your travel. Your advisor is bound to discretion. The full detail sits in our <a href=\"/privacy\">privacy policy</a> and <a href=\"/terms\">terms</a>, written plainly rather than buried."
+      },
+      {
+        "question": "What happens if a visa is refused?",
+        "answerHtml": "First, we work to make refusal unlikely: we assess each case honestly and tell you before you pay if we don’t believe an application is ready, rather than lodge it and hope. If a refusal still happens, your advisor stays with you — we read the decision, explain what it means, and advise whether to reapply, appeal, or adjust the trip. Consular fees set by the government are theirs and generally non-refundable, which we make clear from the start. We do not leave you to face it alone."
+      },
+      {
+        "question": "Is there travel insurance?",
+        "answerHtml": "To be honest: we are not an insurer, and we do not sell insurance. What we do is coordinate and act when things go wrong — rebooking, re-sequencing, solving problems in real time. For medical cover, trip cancellation, baggage and the rest, we strongly recommend holding appropriate travel insurance, and your advisor will gladly talk through the cover that suits your trip. Protection and insurance work best side by side; we are clear about which one we are."
+      },
+      {
+        "question": "Who can see my travel details?",
+        "answerHtml": "Your named advisor, and the small senior team who may cover for them, so you’re never left without someone who knows your trip. Beyond that, your details go only to the airlines, hotels and consulates a booking requires, and only the parts they need. We do not share your itinerary with marketers, we do not sell it, and we do not pool it. Want to know exactly who holds what? Ask — we’ll tell you plainly. Discretion is the standard, not a setting."
+      },
+      {
+        "question": "What if I need help in a country where you have no office?",
+        "answerHtml": "Our care isn’t tied to a desk. Your advisor reaches you through the same one message, wherever you are, and works the problem from there — contacting the airline, the hotel, the local partner or the consulate on your behalf, across time zones. We hold relationships in the places our members travel, so you don’t have to navigate a foreign system alone at a bad hour. The office that matters is the one in your phone."
+      },
+      {
+        "question": "Is my deposit or fee protected?",
+        "answerHtml": "Your membership fee and how refunds work are set out plainly in our <a href=\"/terms\">terms</a> and our <a href=\"/refund\">refund-of-fees policy</a>. Money taken for a booking is governed by that supplier’s own deposit and cancellation rules, which we explain before you commit, so you know what is refundable and what is not. Where a refund, residual credit or unused deposit is due back to you, we track it and pursue it on your behalf rather than let it lapse. We treat your money with the care we treat your trip."
+      },
+      {
+        "question": "How fast do you actually respond?",
+        "answerHtml": "Quickly, and faster when it matters. Everyday requests are answered within the hour. When something is time-critical — a cancellation, a missed connection, a closing visa window — your advisor moves at once, because we hold the context and don’t need briefing from scratch. No queue, no ticket number, no hold music — just the same conversation, picked up at speed. We’d rather under-promise on the clock and over-deliver in the moment."
+      },
+      {
+        "question": "Is this only for emergencies?",
+        "answerHtml": "No. The small-hours rescue is the part people picture, but most of protection is quiet and ongoing: watching a fare, holding your documents safely, confirming a detail before it becomes a problem, nudging a refund along, answering a small question before a trip. Being looked after is a steady state, not a panic button. Emergencies are simply where you feel the value most — because the work that prevents them has been happening all along, before, during and after the trip."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Travel. Someone has the rest.",
+    "buttons": [
+      {
+        "label": "Become a member",
+        "href": "join.html"
+      },
+      {
+        "label": "All three services",
+        "href": "services.html"
+      }
+    ]
+  }
+}

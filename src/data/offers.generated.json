@@ -1,0 +1,84 @@
+{
+  "seo": {
+    "title": "What membership opens — TripAgent",
+    "description": "Partner fares in business and first, hotel amenities, visa fast-track windows. The value your advisor holds, on your behalf."
+  },
+  "hero": {
+    "eyebrow": "What membership opens",
+    "headingHtml": "Fares, rooms and welcomes kept for you —<br/>not sold to the <span class=\"it\">public</span>.",
+    "lede": "The fares and rooms your advisor carries. Used quietly, on your behalf.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Foffers.jpg&w=2560&q=80",
+    "metaK": "Flights · Hotels · Visas",
+    "metaT": "The value behind your membership."
+  },
+  "intro": "Not deals. Not coupons. These are the fares and rooms an advisor builds over years — the value a search box never sees. Membership is how you reach it.",
+  "features": [
+    {
+      "id": "flights",
+      "eyebrow": "01 · Flights",
+      "headingHtml": "Business and first, at fares we <span class=\"it\">hold</span>.",
+      "lede": "Business and first are where membership earns its keep. We carry the fares, and the judgement to know when they beat the screen.",
+      "items": [
+        "Partner and negotiated business & first fares, below public prices.",
+        "Held inventory and award space, secured while you decide.",
+        "Upgrades, status and mileage value, put to work for you.",
+        "The lie-flat checked before you board — the seat that is truly flat."
+      ],
+      "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2048&q=80",
+      "imageAlt": "Dubai skyline at dusk",
+      "imageFirst": false
+    },
+    {
+      "id": "hotels",
+      "eyebrow": "02 · Hotels",
+      "headingHtml": "The room, the rate, the <span class=\"it\">welcome</span>.",
+      "lede": "The same suite, with more. Things the public rate never carries, arranged before you land.",
+      "items": [
+        "Preferred-programme rates at leading hotels worldwide.",
+        "Suite upgrades on arrival, subject to availability.",
+        "Daily breakfast and a property credit, included.",
+        "Early check-in, late checkout, and a welcome that already knows you."
+      ],
+      "image": "/_vercel/image?url=%2Fimg%2Fhotel-taj-udaipur.jpg&w=2048&q=80",
+      "imageAlt": "Palace hotel reflected in the lake at Udaipur",
+      "imageFirst": true
+    },
+    {
+      "id": "visas",
+      "eyebrow": "03 · Visas",
+      "headingHtml": "Fast-track windows, <span class=\"it\">held</span> for you.",
+      "lede": "The paperwork no one enjoys, moved to the front of the queue. We know when the windows open, and we file into them for you.",
+      "items": [
+        "Priority and fast-track filing windows where they exist.",
+        "Documents checked, prepared and handled end to end.",
+        "Appointments managed and status tracked, so nothing lapses.",
+        "Timed to your flights and hotels, so nothing clashes."
+      ],
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80",
+      "imageAlt": "Passport and travel documents ready for a visa application",
+      "imageFirst": false
+    }
+  ],
+  "value": {
+    "eyebrow": "What it's worth",
+    "headingHtml": "The membership <span class=\"it\">returns</span> itself before you have packed.",
+    "lede": "One business-class fare to Europe runs into lakhs. A suite upgrade, tens of thousands. Set one against the membership, and the maths makes itself.",
+    "image": "/_vercel/image?url=%2Fimg%2Fband1.jpg&w=2048&q=80"
+  },
+  "cta": {
+    "eyebrow": "By invitation",
+    "headingHtml": "Let your advisor open the <span class=\"em\">door</span>.",
+    "lede": "All of it is kept for members. Hold an invitation, and it is already within reach.",
+    "image": "/_vercel/image?url=%2Fimg%2Fvilla-greece-rooster.jpg&w=2560&q=80",
+    "buttons": [
+      {
+        "label": "Enter your invitation",
+        "href": "invitation.html"
+      },
+      {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+.ci-hero{padding:clamp(118px,15vh,170px) 0 clamp(10px,2vh,26px)}
+.ci-hero :global(.k){font-family:var(--fr);font-weight:600;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--stone)}
+.ci-hero h1{font-family:var(--logo);font-weight:500;font-size:clamp(46px,8vw,100px);line-height:.98;letter-spacing:-.012em;margin:14px 0 0}
+.ci-hero p{font-size:18px;line-height:1.6;color:var(--ink-soft);max-width:56ch;margin:20px 0 0}
+.cigroup{margin-top:clamp(40px,6vh,80px)}
+.cigl{display:flex;align-items:center;gap:18px;margin-bottom:clamp(20px,2.4vw,32px)}
+.cigl .ciline{flex:1;height:1px;background:var(--line)}
+.cigrid{display:grid;grid-template-columns:repeat(4,1fr);gap:clamp(18px,2vw,30px)}
+@media(max-width:900px){.cigrid{grid-template-columns:1fr 1fr}}
+@media(max-width:560px){.cigrid{grid-template-columns:1fr 1fr;gap:14px}}
+:global(.ci){display:block;text-decoration:none;color:inherit}
+:global(.ci) :global(.cipic){aspect-ratio:4/5;overflow:hidden;border-radius:3px;box-shadow:inset 0 0 0 1px rgba(22,20,16,.08);background:var(--paper-2)}
+:global(.ci) :global(.cipic) span{display:block;width:100%;height:100%;background-size:cover;background-position:center;transition:transform .85s var(--ease)}
+:global(.ci):hover :global(.cipic) span{transform:scale(1.05)}
+:global(.ci) .cin{font-family:var(--logo);font-weight:500;font-size:clamp(19px,1.5vw,23px);line-height:1.1;margin-top:13px}
+:global(.ci) .cic{font-family:var(--fr);font-weight:600;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent-2);margin-top:4px}

@@ -1,0 +1,707 @@
+{
+  "seo": {
+    "title": "New & Noteworthy — TripAgent",
+    "description": "What is new in the world worth knowing — the maisons that just opened, the new nonstops from India, fresh Michelin stars, and where to go in 2026."
+  },
+  "hero": {
+    "eyebrow": "New & noteworthy",
+    "headingHtml": "What's <span class=\"it\">new</span> in the world.",
+    "lede": "The openings, the routes, the tables and the moments worth knowing — kept current, so you are always ahead of it."
+  },
+  "sections": [
+    {
+      "heading": "New openings",
+      "sub": "The maisons that opened their doors",
+      "items": [
+        {
+          "title": "Aman Nai Lert Bangkok",
+          "year": "2025",
+          "where": "Bangkok, Thailand",
+          "body": "Aman's first Bangkok address opened on 2 April 2025, a 52-suite urban sanctuary by Jean-Michel Gathy wrapped around a 100-year-old Sompong tree in Nai Lert Park.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-bangkok"
+          }
+        },
+        {
+          "title": "Mandarin Oriental Downtown, Dubai",
+          "year": "2025",
+          "where": "Dubai, UAE",
+          "body": "Opened November 2025 with 259 rooms, 224 residences and ten dining venues across a new landmark tower on Sheikh Zayed Road.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-dubai"
+          }
+        },
+        {
+          "title": "Rosewood Miyakojima",
+          "year": "2025",
+          "where": "Miyako Island, Okinawa, Japan",
+          "body": "Rosewood's first Japan property opened 1 March 2025 with 55 pool villas in Ryukyu limestone by Studio Piet Boon, and earned two Michelin Keys within its first year.",
+          "link": null
+        },
+        {
+          "title": "Six Senses The Palm, Dubai",
+          "year": "2026",
+          "where": "Dubai, UAE",
+          "body": "Six Senses' UAE debut, a LEED-certified beachfront resort on Palm Jumeirah's West Crescent taking bookings from April 2026.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-dubai"
+          }
+        },
+        {
+          "title": "Bvlgari Resort Ranfushi",
+          "year": "2026",
+          "where": "Raa Atoll, Maldives",
+          "body": "A 54-key private-island resort across 20 hectares, with an exclusive Bvlgari Villa on its own islet and Niko Romito's Il Ristorante among four signature restaurants.",
+          "link": null
+        },
+        {
+          "title": "Park Hyatt Phu Quoc",
+          "year": "2026",
+          "where": "Phu Quoc, Vietnam",
+          "body": "Park Hyatt's Vietnam beach debut on the country's largest island, part of a wider luxury build-out of Phu Quoc's southern coast.",
+          "link": null
+        },
+        {
+          "title": "Six Senses AMAALA",
+          "year": "2026",
+          "where": "AMAALA, Saudi Arabia",
+          "body": "A Red Sea wellness flagship on the AMAALA coast with beachfront residences, a hillside village and private villas, opening 2026.",
+          "link": null
+        },
+        {
+          "title": "Rosewood Doha",
+          "year": "2025",
+          "where": "Doha, Qatar",
+          "body": "Rosewood's Qatar debut in Lusail, a twin-tower landmark of hotel and residences in the emirate's new waterfront district.",
+          "link": null
+        },
+        {
+          "title": "Rosewood Red Sea",
+          "year": "2026",
+          "where": "Shura Island, Saudi Arabia",
+          "body": "An over-water and beachfront resort on Shura Island, Rosewood's flagship for Saudi Arabia's Red Sea destination.",
+          "link": null
+        },
+        {
+          "title": "Four Seasons Hotel Hanoi",
+          "year": "2026",
+          "where": "Hanoi, Vietnam",
+          "body": "Four Seasons' first hotel in Vietnam's capital, anchoring the brand's Asia-Pacific expansion into Hanoi's historic centre.",
+          "link": null
+        },
+        {
+          "title": "Nihi Rote",
+          "year": "2026",
+          "where": "Rote Island, Indonesia",
+          "body": "Sister resort to Nihi Sumba, a low-density collection of freestanding coastal and hillside villas on remote Rote, east of Bali.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-bali"
+          }
+        },
+        {
+          "title": "Mandarin Oriental, Bangkok (150th-anniversary restoration)",
+          "year": "2026",
+          "where": "Bangkok, Thailand",
+          "body": "The 1876-founded grande dame completes a full restoration through 2026 as it marks 150 years on the Chao Phraya.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-bangkok"
+          }
+        },
+        {
+          "title": "Rosewood Rome",
+          "year": "2026",
+          "where": "Rome, Italy",
+          "body": "Opening April 2026 in the former Banca Nazionale del Lavoro headquarters on Via Veneto, with 157 rooms, a Roman bathhouse spa set in the bank's original vault and a rooftop Asaya spa.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-rome"
+          }
+        },
+        {
+          "title": "The Carlton Milan, Rocco Forte",
+          "year": "2025",
+          "where": "Milan, Italy",
+          "body": "Opened November 2025 in a 19th-century palazzo on Via della Spiga in the Quadrilatero fashion district, with 71 rooms, an Irene Forte Spa and a rooftop bar.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-milan"
+          }
+        },
+        {
+          "title": "Six Senses Milan",
+          "year": "2026",
+          "where": "Milan, Italy",
+          "body": "The brand's Milan debut, opening late 2026 in the artistic Brera district with 69 rooms, a full Six Senses spa and a suite built around a 41-foot pool for private events.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-milan"
+          }
+        },
+        {
+          "title": "Mandarin Oriental Cristallo, Cortina",
+          "year": "2026",
+          "where": "Cortina d'Ampezzo, Italy",
+          "body": "Mandarin Oriental's first mountain resort, reopening Q4 2026 as a rebuild of the historic Grand Hotel Cristallo with 83 rooms ahead of the Milan-Cortina Winter Olympics.",
+          "link": null
+        },
+        {
+          "title": "Orient Express Palazzo Donà Giovannelli",
+          "year": "2026",
+          "where": "Venice, Italy",
+          "body": "Accor's Orient Express brand debuts in a restored Venetian palazzo in April 2026 with 47 rooms and suites, a fine-dining restaurant with private boat access and a train-themed bar.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-venice"
+          }
+        },
+        {
+          "title": "Mandarin Oriental Punta Negra, Mallorca",
+          "year": "2026",
+          "where": "Calvià, Mallorca, Spain",
+          "body": "Mandarin Oriental's first hotel in Mallorca, opening June 2026 on a private peninsula near Puerto Portals with 131 rooms and a Matsuhisa restaurant overlooking the sea.",
+          "link": null
+        },
+        {
+          "title": "Cheval Blanc Paris (Palace status)",
+          "year": "2026",
+          "where": "Paris, France",
+          "body": "The LVMH flagship in the former Samaritaine building on the Seine was awarded France's official Palace distinction in 2026, joining the country's top hotel tier.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-paris"
+          }
+        },
+        {
+          "title": "Maison Barrière Príncipe Real",
+          "year": "2026",
+          "where": "Lisbon, Portugal",
+          "body": "The Barrière Collection's Portugal debut in Lisbon's Príncipe Real district, launching with 11 suites and a set of one- to three-bedroom apartments.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-lisbon"
+          }
+        },
+        {
+          "title": "Rosewood Blue Palace",
+          "year": "2026",
+          "where": "Elounda, Crete, Greece",
+          "body": "Rosewood's first property in Greece, opening mid-2026 above the Gulf of Elounda with 154 rooms, over 85 with private pools, six restaurants and an Asaya wellness centre.",
+          "link": null
+        },
+        {
+          "title": "The Park Gstaad, A Four Seasons Hotel",
+          "year": "2026",
+          "where": "Gstaad, Switzerland",
+          "body": "Gstaad's original 1910 grand hotel reopens for the 2026-27 winter season under Four Seasons after a full renovation by Joseph Dirand, with 75 rooms and a destination spa.",
+          "link": null
+        },
+        {
+          "title": "Six Senses London, The Whiteley",
+          "year": "2026",
+          "where": "London, United Kingdom",
+          "body": "Six Senses' UK debut, opened March 2026 inside the restored Whiteley in Bayswater with 109 rooms, a 2,300-sqm spa and a members' Six Senses Place club.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-london"
+          }
+        },
+        {
+          "title": "Waldorf Astoria London Admiralty Arch",
+          "year": "2026",
+          "where": "London, United Kingdom",
+          "body": "The Edwardian Admiralty Arch off Trafalgar Square converts to a 100-room Waldorf Astoria in 2026, with a rooftop café facing Buckingham Palace.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-london"
+          }
+        },
+        {
+          "title": "Rocco Forte Costa Smeralda",
+          "year": "2026",
+          "where": "Porto Cervo, Sardinia, Italy",
+          "body": "Rocco Forte's Sardinian debut in the bay of Liscia di Vacca near Porto Cervo, a 64-room resort set in landscaped gardens above the coast.",
+          "link": null
+        },
+        {
+          "title": "Louis Vuitton Hotel, Champs-Élysées",
+          "year": "2026",
+          "where": "Paris, France",
+          "body": "Louis Vuitton's first-ever hotel opens on the Champs-Élysées with roughly ten suites and a rooftop restaurant overlooking Paris.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-paris"
+          }
+        },
+        {
+          "title": "Amanvari",
+          "year": "2026",
+          "where": "Baja California Sur, Mexico",
+          "body": "Aman's first resort in Mexico: an 18-casita retreat on Baja's East Cape where the desert meets the Sea of Cortez, opening August 2026.",
+          "link": null
+        },
+        {
+          "title": "Rosewood Mandarina",
+          "year": "2025",
+          "where": "Riviera Nayarit, Mexico",
+          "body": "Opened April 2025 north of Puerto Vallarta with 134 all-suite residences, each with a private plunge pool, an Asaya spa and a Greg Norman short course.",
+          "link": null
+        },
+        {
+          "title": "Naples Beach Club, A Four Seasons Resort",
+          "year": "2025",
+          "where": "Naples, Florida, USA",
+          "body": "Four Seasons' 2025 debut on 125 Gulf-front acres with 220 rooms across 1,000 feet of white-sand beach and five dining rooms.",
+          "link": null
+        },
+        {
+          "title": "Four Seasons Resort and Residences Puerto Rico",
+          "year": "2025",
+          "where": "Bahia Beach, Puerto Rico",
+          "body": "Four Seasons' first Puerto Rico property, opened November 2025 in three nature reserves along two miles of beach after a reimagining of the former St. Regis Bahia Beach.",
+          "link": null
+        },
+        {
+          "title": "Wilderness Mara",
+          "year": "2026",
+          "where": "Maasai Mara, Kenya",
+          "body": "Wilderness enters Kenya in 2026 with a conservation-led camp in the Mara Triangle, extending its East African circuit to the Great Migration's front row.",
+          "link": null
+        },
+        {
+          "title": "Jaci's Private Lodge, Madikwe",
+          "year": "2026",
+          "where": "Madikwe Game Reserve, South Africa",
+          "body": "Relaunching July 2026 in the malaria-free Madikwe reserve with ten redesigned safari suites and exclusive-use villas with private pools.",
+          "link": null
+        },
+        {
+          "title": "ENVI Paje",
+          "year": "2026",
+          "where": "Paje, Zanzibar",
+          "body": "A 22-villa beachfront wellness lodge opening June 2026 on Paje Beach, barefoot in scale and quiet in tone.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-zanzibar"
+          }
+        },
+        {
+          "title": "Waimarino Lodge",
+          "year": "2026",
+          "where": "Queenstown, New Zealand",
+          "body": "Opening 2026 near Lake Wakatipu with 20 villas and a four-bedroom residence, a rare new ultra-luxury address in the Southern Alps.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-queenstown"
+          }
+        },
+        {
+          "title": "The Oberoi Rajgarh Palace",
+          "year": "2025",
+          "where": "Khajuraho, India",
+          "body": "Opened November 2025 in a restored 350-year-old Bundela-era palace on a 76-acre lakeside estate, the Oberoi Group's newest heritage address.",
+          "link": null
+        },
+        {
+          "title": "Naila Fort, An Oberoi Luxury Residence",
+          "year": "2026",
+          "where": "Jaipur, India",
+          "body": "The Oberoi Group's first private residence: an 1849 Rajput fort restored as a four-bedroom home booked only in its entirety, opening February 2026.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-jaipur"
+          }
+        },
+        {
+          "title": "The Leela Coorg Forest Sanctuary",
+          "year": "2026",
+          "where": "Coorg, Karnataka, India",
+          "body": "The Leela's first wellness-led sanctuary, a 71-villa retreat across 76 forested acres among Coorg's coffee and spice plantations, opening in 2026.",
+          "link": null
+        },
+        {
+          "title": "Taj Lalit Bagh",
+          "year": "2025",
+          "where": "Udaipur, India",
+          "body": "IHCL's new Udaipur palace-style hotel with 155 rooms set across a centuries-old estate of pleasure gardens and themed courtyards.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-udaipur"
+          }
+        },
+        {
+          "title": "Four Seasons Hotel Mykonos",
+          "year": "2026",
+          "where": "Mykonos, Greece",
+          "body": "Four Seasons' Greek-island debut opens for the summer with 94 rooms, villas and suites across 60,000+ sqm of Aegean coastline, two infinity pools, a private beach and a seven-room spa; reservations live for arrivals from 26 June 2026.",
+          "link": null
+        },
+        {
+          "title": "Rosewood Hotel Bauer, Venice",
+          "year": "2026",
+          "where": "Venice, Italy",
+          "body": "Rosewood's long-awaited Venice debut in the restored 1880 Bauer on the Grand Canal, reimagined by architect Alberto Torsello and BAR Studio as an ultra-luxury address; on Rosewood's future-openings roster for 2026.",
+          "link": null
+        },
+        {
+          "title": "Rosewood Amsterdam",
+          "year": "2026",
+          "where": "Amsterdam, Netherlands",
+          "body": "Rosewood's Netherlands debut in the former Palace of Justice on the UNESCO-listed canals: 134 rooms and five signature suites, three restaurants, an in-house distillery and an Asaya spa, with a collection of over 1,000 artworks. Now open.",
+          "link": null
+        },
+        {
+          "title": "Mandarin Oriental The Landmark, Hong Kong",
+          "year": "2026",
+          "where": "Hong Kong",
+          "body": "The flagship Central hotel reopens 1 June 2026 after a full renovation, with 111 rooms and suites newly designed by Joyce Wang, marking a landmark 2026 relaunch of one of Hong Kong's most storied addresses.",
+          "link": null
+        }
+      ]
+    },
+    {
+      "heading": "New from India",
+      "sub": "Nonstop routes worth knowing",
+      "items": [
+        {
+          "title": "IndiGo Mumbai–Manchester and Mumbai–Amsterdam (long-haul debut)",
+          "year": "2025",
+          "where": "Mumbai, India",
+          "body": "IndiGo's first-ever long-haul flights began 1 July 2025 (Manchester) and 2 July (Amsterdam), flown by wet-leased Boeing 787-9s from Norse Atlantic.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-amsterdam"
+          }
+        },
+        {
+          "title": "IndiGo Delhi–London Heathrow nonstop",
+          "year": "2026",
+          "where": "Delhi, India",
+          "body": "Launched 2 February 2026, five weekly on Boeing 787s, giving IndiGo its first direct Delhi–London link alongside its Mumbai–Heathrow service.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-london"
+          }
+        },
+        {
+          "title": "IndiGo Delhi & Mumbai–Athens (India–Greece first)",
+          "year": "2026",
+          "where": "Athens, Greece",
+          "body": "India's first nonstop to Greece, launched 23 January 2026 from Mumbai and 24 January from Delhi on the new Airbus A321XLR, cutting 4–6 hours versus one-stop routings.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-santorini"
+          }
+        },
+        {
+          "title": "IndiGo Delhi–Manchester nonstop",
+          "year": "2025",
+          "where": "Delhi, India",
+          "body": "Began 15 November 2025, five weekly on a wet-leased 787-9, adding a second Indian metro to IndiGo's Manchester network.",
+          "link": null
+        },
+        {
+          "title": "SWISS Bengaluru–Zurich nonstop (first southern-India route)",
+          "year": "2026",
+          "where": "Bengaluru, India",
+          "body": "SWISS's first-ever Bengaluru service, five weekly on the A350 from 25 October 2026, with onward Lufthansa Group links across Europe and the US.",
+          "link": null
+        },
+        {
+          "title": "SAS Copenhagen–Mumbai nonstop (return to India)",
+          "year": "2026",
+          "where": "Mumbai, India",
+          "body": "SAS returned to India after 17 years on 2 June 2026, five weekly on an A330, opening a direct Scandinavia–Mumbai link.",
+          "link": null
+        },
+        {
+          "title": "Air India Mumbai–Tokyo Haneda nonstop",
+          "year": "2026",
+          "where": "Tokyo, Japan",
+          "body": "New overnight service from 15 June 2026, four weekly on the 787-8, giving Mumbai a direct link to central-Tokyo Haneda.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-tokyo"
+          }
+        },
+        {
+          "title": "Air India Delhi–Hanoi nonstop",
+          "year": "2026",
+          "where": "Hanoi, Vietnam",
+          "body": "Air India's first Vietnam route, five weekly from 1 May 2026 on the A320neo with Business, Premium Economy and Economy.",
+          "link": null
+        },
+        {
+          "title": "Air India Delhi–Manila nonstop (India–Philippines first)",
+          "year": "2025",
+          "where": "Manila, Philippines",
+          "body": "India's first nonstop to the Philippines, launched 1 October 2025, five weekly on the three-class A321neo.",
+          "link": null
+        },
+        {
+          "title": "Cathay Pacific Hong Kong–Hyderabad nonstop",
+          "year": "2025",
+          "where": "Hyderabad, India",
+          "body": "Cathay Pacific added Hyderabad to its network in 2025, opening a direct Hong Kong link and onward connections across Asia-Pacific.",
+          "link": null
+        },
+        {
+          "title": "Air Canada Montreal–Delhi nonstop",
+          "year": "2026",
+          "where": "Delhi, India",
+          "body": "New nonstop from April 2026, adding a second Canadian gateway to Delhi alongside the existing Toronto and Vancouver services.",
+          "link": null
+        },
+        {
+          "title": "Riyadh Air Riyadh–India launch",
+          "year": "2026",
+          "where": "Riyadh, Saudi Arabia",
+          "body": "Saudi Arabia's new full-service carrier announced its first India flights in July 2026, opening a premium Gulf gateway for onward global connections.",
+          "link": null
+        },
+        {
+          "title": "Lufthansa Munich–Bengaluru nonstop",
+          "year": "2026",
+          "where": "Bengaluru, India",
+          "body": "Lufthansa adds a new nonstop link between Munich and Bengaluru (LH 764/765) as part of its Summer 2026 India build-out, giving southern India a second German hub with onward connections across Europe and the US.",
+          "link": null
+        }
+      ]
+    },
+    {
+      "heading": "New tables",
+      "sub": "Fresh stars and 50 Best arrivals",
+      "items": [
+        {
+          "title": "Myojaku",
+          "year": "2026",
+          "where": "Tokyo, Japan",
+          "body": "Chef Hidetoshi Nakamura's vegetable- and seafood-led counter took Tokyo's newest third star in the Michelin Guide Tokyo 2026.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-tokyo"
+          }
+        },
+        {
+          "title": "Miyamasou",
+          "year": "2026",
+          "where": "Kyoto, Japan",
+          "body": "The mountain ryokan in Hanase became Kyoto's first new three-star in six years, awarded in the Michelin Guide Kyoto & Osaka 2026.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-kyoto"
+          }
+        },
+        {
+          "title": "Higashiyama Yoshihisa",
+          "year": "2026",
+          "where": "Kyoto, Japan",
+          "body": "One of four Kyoto kaiseki houses promoted to two Michelin stars in the 2026 guide.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-kyoto"
+          }
+        },
+        {
+          "title": "Suhring",
+          "year": "2026",
+          "where": "Bangkok, Thailand",
+          "body": "The Sühring twins' modern German tasting menu became Thailand's second three-star restaurant in the Michelin Guide Thailand 2026.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-bangkok"
+          }
+        },
+        {
+          "title": "Anne-Sophie Pic at Le Normandie",
+          "year": "2026",
+          "where": "Bangkok, Thailand",
+          "body": "The riverside French room at Mandarin Oriental Bangkok was promoted to two Michelin stars in the 2026 Thailand guide.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-bangkok"
+          }
+        },
+        {
+          "title": "Potong",
+          "year": "2025",
+          "where": "Bangkok, Thailand",
+          "body": "Chef Pam's Thai-Chinese counter in Chinatown entered The World's 50 Best Restaurants 2025 at No. 13, the year's Highest New Entry.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-bangkok"
+          }
+        },
+        {
+          "title": "Nusara",
+          "year": "2025",
+          "where": "Bangkok, Thailand",
+          "body": "A new entry at No. 35 on The World's 50 Best Restaurants 2025, serving refined Thai cooking rooted in the chef's grandmother's recipes.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-bangkok"
+          }
+        },
+        {
+          "title": "Maz",
+          "year": "2025",
+          "where": "Tokyo, Japan",
+          "body": "Virgilio Martínez's Peruvian project debuted on Asia's 50 Best Restaurants 2025 at No. 43, bringing Central's altitude-mapped cooking to Tokyo.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-tokyo"
+          }
+        },
+        {
+          "title": "Enigma",
+          "year": "2025",
+          "where": "Barcelona, Spain",
+          "body": "Albert Adrià's avant-garde Barcelona restaurant returned to The World's 50 Best Restaurants 2025 at No. 34.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-barcelona"
+          }
+        },
+        {
+          "title": "Virtus",
+          "year": "2026",
+          "where": "Paris, France",
+          "body": "The intimate Bastille table earned its second Michelin star in the Michelin Guide France 2026.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-paris"
+          }
+        },
+        {
+          "title": "Bonheur by Matt Abe",
+          "year": "2026",
+          "where": "London, United Kingdom",
+          "body": "Opened in the former Le Gavroche site in Mayfair, it took two Michelin stars in the Great Britain & Ireland 2026 guide within months of opening.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-london"
+          }
+        },
+        {
+          "title": "Somssi",
+          "year": "2026",
+          "where": "London, United Kingdom",
+          "body": "Chef Jihun Kim's Korean room at Mandarin Oriental Mayfair won its first Michelin star in the 2026 guide.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-london"
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Where to go now",
+      "sub": "The 2026 picks",
+      "items": [
+        {
+          "title": "The Dolomites & Cortina d'Ampezzo",
+          "year": "2026",
+          "where": "Cortina d'Ampezzo, Italy",
+          "body": "The Milano-Cortina Winter Olympics (6-22 February 2026) put these UNESCO peaks and Italy's most stylish alpine resort at the centre of the year, with new rail and road links tying Milan, Cortina and Verona into one trip.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-milan"
+          }
+        },
+        {
+          "title": "Uluru-Kata Tjuta",
+          "year": "2026",
+          "where": "Northern Territory, Australia",
+          "body": "The Uluru-Kata Tjuta Signature Walk launches April 2026 — a four-night, 33.5-mile guided trek with Anangu storytellers and the first overnight stays inside the national park, at purpose-built camps and a new ecolodge.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-sydney"
+          }
+        },
+        {
+          "title": "Kyoto",
+          "year": "2026",
+          "where": "Kyoto, Japan",
+          "body": "Capella Kyoto opens in 2026 inside a former Miyagawa-cho primary school reworked by Kengo Kuma, anchoring a refined new chapter for the city as Japan's post-Expo momentum continues.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-kyoto"
+          }
+        },
+        {
+          "title": "Maldives, Raa & Noonu Atolls",
+          "year": "2026",
+          "where": "Maldives",
+          "body": "Bulgari's 54-retreat resort on a 50-acre Raa Atoll island and Mondrian's 105-villa Noonu Atoll opening give the Maldives two of 2026's most anticipated overwater debuts.",
+          "link": null
+        },
+        {
+          "title": "Umbria",
+          "year": "2026",
+          "where": "Umbria, Italy",
+          "body": "Named on Travel + Leisure's 50 Best Places to Travel 2026 as Tuscany's quieter neighbour — Assisi's frescoes, Norcia truffle markets and Montefalco's Sagrantino, for travellers who want to belong rather than pass through.",
+          "link": null
+        },
+        {
+          "title": "Sri Lanka",
+          "year": "2026",
+          "where": "Sri Lanka",
+          "body": "On Travel + Leisure's 50 Best Places to Travel 2026, drawing renewed attention for its tea-country estates, wildlife and coast as the island's high-end circuit reopens in full.",
+          "link": null
+        },
+        {
+          "title": "Okavango Delta",
+          "year": "2026",
+          "where": "Okavango Delta, Botswana",
+          "body": "Named on Travel + Leisure's 50 Best Places to Travel 2026 — the low-density, water-and-wildlife safari region that remains the benchmark for private, conservation-led African travel.",
+          "link": null
+        },
+        {
+          "title": "Marrakech",
+          "year": "2026",
+          "where": "Marrakech, Morocco",
+          "body": "Palais Jamai reopens in 2026 after a ten-year restoration, now affiliated with La Mamounia — 94 rooms and a Royal Suite marking the return of a landmark address.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-marrakech"
+          }
+        },
+        {
+          "title": "AlUla",
+          "year": "2026",
+          "where": "AlUla, Saudi Arabia",
+          "body": "Saudi Arabia's cultural centrepiece — the Nabataean tombs of Hegra, with The Chedi Hegra now open as the only hotel inside the UNESCO site, is rising fast as a 2026 luxury frontier.",
+          "link": null
+        },
+        {
+          "title": "Singapore",
+          "year": "2026",
+          "where": "Singapore",
+          "body": "On Travel + Leisure's 50 Best Places to Travel 2026, holding its place as Asia's most polished city-break base for food, design and connectivity.",
+          "link": {
+            "label": "See the city →",
+            "href": "/city-singapore-city"
+          }
+        },
+        {
+          "title": "Sancerre",
+          "year": "2026",
+          "where": "Sancerre, France",
+          "body": "On Travel + Leisure's 50 Best Places to Travel 2026 — Loire wine country at its most charming, built on cellar tastings, market mornings and long lunches for travellers who want calm over crowds.",
+          "link": null
+        },
+        {
+          "title": "Okinawa",
+          "year": "2026",
+          "where": "Okinawa, Japan",
+          "body": "As mainland Japan stays crowded post-Expo, the 150-island Okinawa chain is 2026's rising alternative — clear water, white sand and a 71% jump in global search interest.",
+          "link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3218 @@
+{
+  "visa-australia": {
+    "slug": "australia",
+    "fullSlug": "visa-australia",
+    "seo": {
+      "title": "Australia Visitor Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "The Australian Visitor visa (subclass 600) for Indian passport holders — the fully online application, validity, the intent-to-return case, possible biometrics, the common pitfalls, and how your advisor handles all of it.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-australia.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "Asia-Pacific · Indian passport",
+      "headingHtml": "The Australia<br/><span class=\"it\">visa</span>.",
+      "lede": "Indian passport holders need a visa for Australia — the Visitor visa, subclass 600, lodged entirely online. Often issued multiple-entry over a longer validity, it turns on one thing: a genuine, well-evidenced case that you will come home.",
+      "ctaPrimary": {
+        "label": "Plan an Australia trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "Visitor (subclass 600)",
+        "sub": "Tourist stream"
+      },
+      {
+        "label": "How lodged",
+        "value": "Fully online",
+        "sub": "Via ImmiAccount"
+      },
+      {
+        "label": "Stay",
+        "value": "Up to 3, 6 or 12 months",
+        "sub": "Per the visa granted"
+      },
+      {
+        "label": "Biometrics",
+        "value": "Usually no",
+        "sub": "Possible if requested"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "The Visitor visa, online.",
+        "lede": "Australia issues Indian passport holders a Visitor visa (subclass 600), usually in the Tourist stream, for holidays and visiting family or friends. The whole application is lodged online through an ImmiAccount, with supporting documents uploaded. Stays are commonly granted up to three months, sometimes six or twelve, and the visa is often multiple-entry over a longer validity.",
+        "extraParagraph": "The decision rests heavily on a genuine temporary stay — on your reason to return home reading as clear and credible."
+      },
+      {
+        "eyebrow": "The genuine visit",
+        "heading": "Intent to return.",
+        "lede": "Australia weighs whether you are a genuine visitor who will leave at the end of the stay. Strong ties to India — employment, business, family, property — and finances that fit the trip are what carry that case. A clear purpose and a believable plan count for more than any single form.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "What supports the case.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Passport valid for the duration of travel."
+            },
+            {
+              "symbol": "✦",
+              "html": "The online application lodged through ImmiAccount."
+            },
+            {
+              "symbol": "✦",
+              "html": "Proof of funds — bank statements covering the trip."
+            },
+            {
+              "symbol": "✦",
+              "html": "Employment, business or study evidence."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Travel plans and accommodation for the visit."
+            },
+            {
+              "symbol": "✦",
+              "html": "Evidence of ties to India and intent to return."
+            },
+            {
+              "symbol": "✦",
+              "html": "For visiting family, an invitation and their status."
+            },
+            {
+              "symbol": "✦",
+              "html": "Health or character documents if requested for your case."
+            }
+          ]
+        }
+      ],
+      "hedge": "Requirements and the visa fee (the visa application charge) are set by the Australian Department of Home Affairs and can change. Some applicants are asked for biometrics or health checks. Your advisor confirms the current checklist before lodging."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Online, then a careful wait.",
+      "lede": "Many decisions come within days, some take longer. We lodge a complete case early and answer any request the same day.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Lodge online",
+          "text": "We complete the subclass 600 application in ImmiAccount and upload the supporting documents."
+        },
+        {
+          "n": "02",
+          "heading": "Build the genuine-visit case",
+          "text": "Funds, ties and a clear purpose are assembled to show a genuine temporary stay."
+        },
+        {
+          "n": "03",
+          "heading": "Any requests",
+          "text": "If biometrics, health checks or extra documents are asked for, we respond promptly so nothing stalls."
+        },
+        {
+          "n": "04",
+          "heading": "Decision",
+          "text": "Outcomes can arrive within days or take longer depending on the case and season; we track it and align it with your dates."
+        }
+      ],
+      "hedge": "Processing times vary widely by individual circumstances and time of year, and biometrics or health checks may be requested. Validity and entries are set by the department. Your advisor confirms the current position for your application."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Why it's refused.",
+        "lede": "Australian refusals usually centre on a weak genuine-visitor case:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "Thin evidence of ties to India, raising doubt you'll return."
+            },
+            {
+              "symbol": "✕",
+              "html": "Funds that don't comfortably cover the stated trip."
+            },
+            {
+              "symbol": "✕",
+              "html": "An unclear purpose or a plan that doesn't hang together."
+            },
+            {
+              "symbol": "✕",
+              "html": "Slow or incomplete responses to a department request."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "A genuine, clear case.",
+        "lede": "The case for a genuine temporary stay is everything:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "Strong, documented ties — work, business, family, property."
+            },
+            {
+              "symbol": "✓",
+              "html": "Finances that clearly fund the trip you describe."
+            },
+            {
+              "symbol": "✓",
+              "html": "A coherent purpose and itinerary, consistently presented."
+            },
+            {
+              "symbol": "✓",
+              "html": "Prompt, complete replies to any request from the department."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2560&q=80",
+      "eyebrow": "The genuine visitor",
+      "lineHtml": "Australia grants the visa<br/>to the visitor who will clearly <span class=\"it\">return</span>.",
+      "sub": "Subclass 600 turns on a credible, genuine temporary stay. We build the ties, funds and purpose into one clear case, and answer any request quickly, so the application reads as exactly what it is."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The case, built and <span class=\"it\">lodged</span>.",
+      "lede": "Your advisor lodges the subclass 600 online and assembles the genuine-visit case — then handles every department request for you.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We complete the online application and upload the documents."
+          },
+          {
+            "symbol": "✓",
+            "html": "We build the funds, ties and purpose into a clear case."
+          },
+          {
+            "symbol": "✓",
+            "html": "We respond to any biometrics or health request and track it to a decision."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan an Australia trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "Australia, in short",
+      "items": [
+        {
+          "question": "Do I need to give biometrics?",
+          "answer": "Usually no for the Visitor visa, but the department can request biometrics or a health examination depending on your case. If they do, your advisor arranges it promptly so the application keeps moving."
+        },
+        {
+          "question": "How long can I stay?",
+          "answer": "The Visitor visa is commonly granted for up to three months, sometimes six or twelve, and is often multiple-entry over a longer validity. The exact terms are set by the department for your application."
+        },
+        {
+          "question": "How long does it take?",
+          "answer": "It varies widely — some decisions come within days, others take longer with the season and the case. We lodge a complete application early and respond quickly to any request to avoid delay."
+        },
+        {
+          "question": "What's the most common reason for refusal?",
+          "answer": "Doubt that you're a genuine visitor who will return. We address that head-on with strong ties to India, clear funds and a coherent purpose. No one can promise an outcome, as the decision is the department's."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your Australia visa —<br/>handled, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We'll come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-canada": {
+    "slug": "canada",
+    "fullSlug": "visa-canada",
+    "seo": {
+      "title": "Canada Visitor Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "The Canada Visitor visa (TRV) for Indian passport holders — the online application, biometrics, the long multi-entry validity, the genuine-visitor case, and how your advisor handles all of it.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-canada.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "The Americas · Indian passport",
+      "headingHtml": "The Canada<br/><span class=\"it\">visa</span>.",
+      "lede": "For Canada, an Indian passport holder needs a Visitor visa — the Temporary Resident Visa. It is often granted multiple-entry for up to ten years. It takes an online application, biometrics at a visa centre, and a genuine-visitor case. We make all of it ours.",
+      "ctaPrimary": {
+        "label": "Plan a Canada trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "Visitor visa (TRV)",
+        "sub": "Temporary Resident Visa"
+      },
+      {
+        "label": "Validity",
+        "value": "Often up to 10 years",
+        "sub": "Multiple-entry common"
+      },
+      {
+        "label": "How lodged",
+        "value": "Online",
+        "sub": "Then biometrics at a VAC"
+      },
+      {
+        "label": "Biometrics",
+        "value": "Yes",
+        "sub": "Fingerprints and photo"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "The Temporary Resident Visa.",
+        "lede": "Canada requires a Visitor visa — officially a Temporary Resident Visa, or TRV — from Indian passport holders for tourism and visiting family. It is applied for online, and the visa is frequently issued multiple-entry valid up to ten years (or until the passport expires), letting you visit repeatedly within that window. Each stay is usually up to six months, set by the officer at the border.",
+        "extraParagraph": "As with Australia and the US, the case turns on one thing — showing you are a genuine visitor with reason to return home."
+      },
+      {
+        "eyebrow": "eTA vs visa",
+        "heading": "Indians need the TRV.",
+        "lede": "Canada's Electronic Travel Authorization (eTA) is for visa-exempt nationalities arriving by air — Indian passport holders without an existing visa are generally not in that group and apply for the TRV instead. In some cases, prior Canadian or US visa history can open an eTA route by air. Your advisor confirms which applies to you.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "What builds the case.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Passport valid for the trip, with blank pages."
+            },
+            {
+              "symbol": "✦",
+              "html": "The online application and forms completed accurately."
+            },
+            {
+              "symbol": "✦",
+              "html": "Proof of funds — typically several months of bank statements."
+            },
+            {
+              "symbol": "✦",
+              "html": "Employment, business or study evidence."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Travel plans and accommodation for the visit."
+            },
+            {
+              "symbol": "✦",
+              "html": "Evidence of ties to India and intent to return."
+            },
+            {
+              "symbol": "✦",
+              "html": "For visiting family, an invitation letter and their status."
+            },
+            {
+              "symbol": "✦",
+              "html": "Biometrics given at a Visa Application Centre."
+            }
+          ]
+        }
+      ],
+      "hedge": "Requirements and the visa fee plus the biometrics fee are set by Immigration, Refugees and Citizenship Canada and can change. Your advisor confirms the current checklist before lodging."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Several weeks, varies a lot.",
+      "lede": "Processing swings with the season and your profile. So we lodge a strong case early and book biometrics without delay.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Lodge online",
+          "text": "We complete the application accurately and upload the supporting documents."
+        },
+        {
+          "n": "02",
+          "heading": "Biometrics at a VAC",
+          "text": "You give fingerprints and a photo at a Visa Application Centre; biometrics are valid for ten years for future applications. We book the slot around your calendar."
+        },
+        {
+          "n": "03",
+          "heading": "Build the genuine-visit case",
+          "text": "Funds, ties and a clear purpose are assembled to show a temporary, genuine visit."
+        },
+        {
+          "n": "04",
+          "heading": "Decision & return",
+          "text": "Processing typically takes several weeks but varies; on approval the passport is stamped and returned. We track it throughout."
+        }
+      ],
+      "hedge": "Processing times vary widely by season and individual circumstances. Validity and entries are set by IRCC. Your advisor confirms the current position for your application."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Why it's refused.",
+        "lede": "Canadian refusals usually cite doubt about a genuine, temporary visit:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "Weak evidence of ties to India and intent to return."
+            },
+            {
+              "symbol": "✕",
+              "html": "Funds that don't clearly support the trip, or unexplained deposits."
+            },
+            {
+              "symbol": "✕",
+              "html": "An unclear travel purpose or an inconsistent plan."
+            },
+            {
+              "symbol": "✕",
+              "html": "Leaving biometrics or the application too late for the dates."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "A genuine, funded case.",
+        "lede": "A clear, consistent genuine-visitor case is what wins:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "Strong, documented ties — work, business, family, property."
+            },
+            {
+              "symbol": "✓",
+              "html": "Steady finances that comfortably cover the trip."
+            },
+            {
+              "symbol": "✓",
+              "html": "A coherent purpose and itinerary across the whole file."
+            },
+            {
+              "symbol": "✓",
+              "html": "Biometrics booked early so the timeline holds."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2560&q=80",
+      "eyebrow": "Ten years on one visa",
+      "lineHtml": "Canada often grants a decade —<br/>to the case that is made <span class=\"it\">well</span>.",
+      "sub": "A TRV can be valid up to ten years, multiple-entry. The work is in the genuine-visitor case: ties, funds and purpose, clearly evidenced. We build it, lodge it and book the biometrics, then track it to a decision."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The case, built and <span class=\"it\">tracked</span>.",
+      "lede": "Your advisor lodges the TRV online, builds the genuine-visit case, books your biometrics, and tracks it to a decision. You wait for none of it.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We complete the application and upload the documents."
+          },
+          {
+            "symbol": "✓",
+            "html": "We assemble funds, ties and purpose into a clear case."
+          },
+          {
+            "symbol": "✓",
+            "html": "We book biometrics and track the application to a decision."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan a Canada trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "Canada, in short",
+      "items": [
+        {
+          "question": "Can I use an eTA instead of a visa?",
+          "answer": "Canada's eTA is for visa-exempt nationalities by air. Indian passport holders without an existing visa generally apply for the TRV, though prior Canadian or US visa history can sometimes open an eTA route by air. Your advisor confirms which applies."
+        },
+        {
+          "question": "How long is the visa valid?",
+          "answer": "The TRV is frequently issued multiple-entry, valid up to ten years or until your passport expires. Each stay is usually up to six months, set by the officer at the border."
+        },
+        {
+          "question": "Do I need biometrics?",
+          "answer": "Yes — fingerprints and a photo at a Visa Application Centre. Once given, biometrics are valid for ten years, so a future Canadian application may not need them again."
+        },
+        {
+          "question": "How long does it take?",
+          "answer": "Several weeks is typical, but it varies considerably with the season and your profile. We lodge a strong case and book biometrics early, then track it to a decision."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your Canada visa —<br/>handled, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-egypt": {
+    "slug": "egypt",
+    "fullSlug": "visa-egypt",
+    "seo": {
+      "title": "Egypt Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "The Egypt visa for Indian passport holders — the e-visa applied online before travel, the visa-on-arrival route, validity, documents, pitfalls, and how your advisor prepares and files it.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-egypt.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "Africa · Indian passport",
+      "headingHtml": "The Egypt<br/><span class=\"it\">visa</span>.",
+      "lede": "Egypt is easier to reach than you think. Indian passport holders apply for an e-visa online before travel, single or multiple entry, with a visa-on-arrival route for eligible visitors. A short list of documents, and the Nile is yours.",
+      "ctaPrimary": {
+        "label": "Plan an Egypt trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "e-Visa",
+        "sub": "Single or multiple entry"
+      },
+      {
+        "label": "Duration",
+        "value": "Up to 30 days",
+        "sub": "Per the visa issued"
+      },
+      {
+        "label": "Alternative",
+        "value": "Visa-on-arrival",
+        "sub": "For eligible visitors"
+      },
+      {
+        "label": "Biometrics",
+        "value": "None",
+        "sub": "Fully online"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "An online e-visa.",
+        "lede": "Indian passport holders apply for an Egyptian tourist e-visa online through the official portal before travel. It comes in single-entry and multiple-entry forms, typically permitting a stay of up to 30 days. The e-visa is delivered electronically — no embassy interview, no biometrics — which makes Egypt one of the more accessible long-haul destinations for Indian travellers.",
+        "extraParagraph": "A visa-on-arrival is also available for eligible visitors at Egyptian airports, but the e-visa is the cleaner route as it confirms approval before you fly."
+      },
+      {
+        "eyebrow": "On-arrival route",
+        "heading": "An alternative, with care.",
+        "lede": "Egypt offers a visa-on-arrival at airports for eligible visitors, and travellers holding certain valid visas or residence can qualify in some cases. The e-visa is the calmer choice, because it settles the question before you leave home. Your advisor confirms which route suits your trip.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "A short, clear list.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Passport valid at least six months from arrival, with blank pages."
+            },
+            {
+              "symbol": "✦",
+              "html": "The online e-visa application with your passport details."
+            },
+            {
+              "symbol": "✦",
+              "html": "A passport-style photograph where required."
+            },
+            {
+              "symbol": "✦",
+              "html": "Confirmed return or onward flights."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Hotel bookings or proof of accommodation."
+            },
+            {
+              "symbol": "✦",
+              "html": "Proof of sufficient funds, if requested."
+            },
+            {
+              "symbol": "✦",
+              "html": "The visa fee, as set by the Egyptian authorities, paid online."
+            },
+            {
+              "symbol": "✦",
+              "html": "Any documents specific to a longer or different stay."
+            }
+          ]
+        }
+      ],
+      "hedge": "Requirements, validity and fees are set by the Egyptian authorities and can change. Apply through the official e-visa portal. Your advisor confirms the current checklist and route before anything is filed."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Apply ahead, arrive easy.",
+      "lede": "The e-visa usually issues within a few working days. We apply early, so approval is confirmed before you fly.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Choose the route",
+          "text": "We confirm whether the e-visa or visa-on-arrival suits your trip, and the single or multiple-entry option you need."
+        },
+        {
+          "n": "02",
+          "heading": "Apply online",
+          "text": "The e-visa is lodged on the official portal with your documents and the fee — no interview, no biometrics."
+        },
+        {
+          "n": "03",
+          "heading": "Approval",
+          "text": "Typically within a few working days, the e-visa arrives electronically. We hold it for arrival."
+        },
+        {
+          "n": "04",
+          "heading": "Travel",
+          "text": "You arrive with approval already in hand, sequenced with your flights and hotel."
+        }
+      ],
+      "hedge": "Processing times, validity, entries and fees can change. Apply only through the official channel. Your advisor confirms the live position for your dates."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Easy to avoid.",
+        "lede": "Egypt's e-visa is simple, but a few things catch people:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "Using an unofficial site instead of the official e-visa portal."
+            },
+            {
+              "symbol": "✕",
+              "html": "A passport with under six months' validity from arrival."
+            },
+            {
+              "symbol": "✕",
+              "html": "Choosing single-entry when the itinerary needs multiple."
+            },
+            {
+              "symbol": "✕",
+              "html": "Leaving it to visa-on-arrival when an e-visa would remove the risk."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "Sort it before you go.",
+        "lede": "A confirmed e-visa makes arrival effortless:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "Apply through the official portal, ahead of travel."
+            },
+            {
+              "symbol": "✓",
+              "html": "Check passport validity well before booking."
+            },
+            {
+              "symbol": "✓",
+              "html": "Match single or multiple entry to your itinerary."
+            },
+            {
+              "symbol": "✓",
+              "html": "Carry the approval, return ticket and accommodation proof for arrival."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fdunes.jpg&w=2560&q=80",
+      "eyebrow": "Newly within reach",
+      "lineHtml": "The Nile is nearer<br/>than it <span class=\"it\">feels</span>.",
+      "sub": "Egypt's e-visa is quick and online, but the official-portal-only rule and the six-month passport requirement still catch travellers out. We arrange it ahead, so approval is in hand before you fly."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The e-visa, confirmed <span class=\"it\">ahead</span>.",
+      "lede": "Your advisor files the Egyptian e-visa through the official portal, ahead of travel, so approval is confirmed before you fly. You think about the journey, not the form.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We choose the right route and entry type for your trip."
+          },
+          {
+            "symbol": "✓",
+            "html": "We file on the official e-visa portal with your documents and fee."
+          },
+          {
+            "symbol": "✓",
+            "html": "We hold the approval and sequence it with your flights and hotel."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan an Egypt trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "Egypt, in short",
+      "items": [
+        {
+          "question": "e-Visa or visa-on-arrival?",
+          "answer": "Both exist. The e-visa, applied for online before travel, is the cleaner route because approval is confirmed before you fly. Visa-on-arrival is available for eligible visitors but carries more uncertainty at the airport. Your advisor confirms which suits your trip."
+        },
+        {
+          "question": "How long can I stay?",
+          "answer": "The tourist visa typically permits a stay of up to 30 days, in single-entry or multiple-entry form. We match the entry type to your itinerary. Exact terms are set by the Egyptian authorities."
+        },
+        {
+          "question": "Are biometrics or an interview required?",
+          "answer": "No — the Egyptian tourist e-visa is fully online, with no embassy interview and no fingerprinting. It is one of the more accessible long-haul visas for Indian passport holders."
+        },
+        {
+          "question": "How early should I apply?",
+          "answer": "A few working days is usually enough, but we apply early so approval is in hand well before departure — and only through the official portal, never a reseller."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your Egypt visa —<br/>handled, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-indonesia": {
+    "slug": "indonesia",
+    "fullSlug": "visa-indonesia",
+    "seo": {
+      "title": "Indonesia & Bali Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "Indonesia and Bali for Indian passport holders — the 30-day visa-on-arrival and e-VOA, the extension, the Bali tourism levy, documents, the things people miss, and how your advisor takes care of it.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-indonesia.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "Asia-Pacific · Indian passport",
+      "headingHtml": "The Indonesia<br/><span class=\"it\">visa</span>.",
+      "lede": "For Bali and beyond, Indian passport holders use a visa-on-arrival — or the e-VOA, applied for online before you fly. It runs 30 days, can be extended once, and Bali adds a separate tourism levy. We take care of all of it.",
+      "ctaPrimary": {
+        "label": "Plan a Bali trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "Visa-on-arrival / e-VOA",
+        "sub": "Tourist"
+      },
+      {
+        "label": "Duration",
+        "value": "30 days",
+        "sub": "Extendable once by 30 days"
+      },
+      {
+        "label": "Where",
+        "value": "On arrival or online",
+        "sub": "e-VOA before you fly"
+      },
+      {
+        "label": "Bali levy",
+        "value": "Separate tourist levy",
+        "sub": "Paid in addition to the visa"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "Visa-on-arrival, or online.",
+        "lede": "Indian passport holders can obtain a visa-on-arrival (VOA) at major Indonesian airports including Bali, valid 30 days and extendable once for a further 30. The same can be arranged ahead as an e-VOA, applied for online and approved before departure, so there is no counter to wait at. A fee applies, as set by the Indonesian authorities.",
+        "extraParagraph": "For stays beyond what the VOA allows, or for non-tourist purposes, a different visa is needed. Your advisor confirms the right route for your trip."
+      },
+      {
+        "eyebrow": "The Bali levy",
+        "heading": "A separate charge.",
+        "lede": "Bali charges a tourism levy on foreign visitors, separate from the visa, to support the island. It can be paid online before arrival or on the spot. Small, but easy to forget. We settle it while arranging the trip, so nothing is owed at the gate.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "What you'll need.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Passport valid at least six months from arrival, with a blank page."
+            },
+            {
+              "symbol": "✦",
+              "html": "A confirmed return or onward flight ticket."
+            },
+            {
+              "symbol": "✦",
+              "html": "Proof of accommodation for the stay."
+            },
+            {
+              "symbol": "✦",
+              "html": "Proof of sufficient funds, if asked."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "For the e-VOA: the online application and a passport photo."
+            },
+            {
+              "symbol": "✦",
+              "html": "The visa fee, as set by the Indonesian authorities, paid."
+            },
+            {
+              "symbol": "✦",
+              "html": "The Bali tourism levy, paid separately."
+            },
+            {
+              "symbol": "✦",
+              "html": "Any documents specific to a longer or non-tourist stay."
+            }
+          ]
+        }
+      ],
+      "hedge": "VOA and e-VOA rules, fees and the Bali levy are set by the Indonesian authorities and can change. Your advisor confirms the current requirements — and arranges the e-VOA and levy — before you travel."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Arrive ready.",
+      "lede": "The e-VOA is approved online before you fly. Arrange it and the levy ahead, and you simply walk off the plane.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Choose VOA or e-VOA",
+          "text": "We confirm whether to apply online ahead (e-VOA) or use the on-arrival counter, and which suits your trip."
+        },
+        {
+          "n": "02",
+          "heading": "Apply for the e-VOA",
+          "text": "Where chosen, we lodge it online with your details and the fee, approved before departure."
+        },
+        {
+          "n": "03",
+          "heading": "Settle the Bali levy",
+          "text": "We arrange the separate tourism levy so it isn't a queue on landing."
+        },
+        {
+          "n": "04",
+          "heading": "Travel & extend if needed",
+          "text": "You arrive with the visa and levy in hand; if you'll stay beyond 30 days, we arrange the single extension."
+        }
+      ],
+      "hedge": "The duration, extension rules, fees and the Bali levy can change. For stays beyond the VOA limit or non-tourist visits, a different visa applies. Your advisor confirms the live position for your dates."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Easy to overlook.",
+        "lede": "Indonesia is simple. A few small things still trip people up:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "Forgetting the Bali tourism levy, which is separate from the visa."
+            },
+            {
+              "symbol": "✕",
+              "html": "A passport with under six months' validity."
+            },
+            {
+              "symbol": "✕",
+              "html": "No onward or return ticket to show on arrival."
+            },
+            {
+              "symbol": "✕",
+              "html": "Planning a stay longer than the VOA allows without arranging the extension."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "Sort it before you fly.",
+        "lede": "A little done ahead, and arrival takes care of itself:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "Arrange the e-VOA online ahead to skip the airport queue."
+            },
+            {
+              "symbol": "✓",
+              "html": "Pay the Bali levy in advance."
+            },
+            {
+              "symbol": "✓",
+              "html": "Carry a return or onward ticket and accommodation proof."
+            },
+            {
+              "symbol": "✓",
+              "html": "Plan the extension early if you'll stay beyond 30 days."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=2560&q=80",
+      "eyebrow": "The small print of paradise",
+      "lineHtml": "Bali is simple —<br/>once the levy and visa are <span class=\"it\">sorted</span>.",
+      "sub": "The visa-on-arrival is easy. The separate Bali levy and the six-month passport rule are what catch people out. We handle both ahead, so you walk off the plane and into the trip."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The visa and the levy, <span class=\"it\">arranged</span>.",
+      "lede": "Your advisor arranges the e-VOA and the Bali levy ahead of time, and looks after the extension if your stay runs longer.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We lodge the e-VOA online so it's approved before you fly."
+          },
+          {
+            "symbol": "✓",
+            "html": "We settle the separate Bali tourism levy."
+          },
+          {
+            "symbol": "✓",
+            "html": "We arrange the single extension where your stay runs beyond 30 days."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan a Bali trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "Indonesia, in short",
+      "items": [
+        {
+          "question": "Do I get the visa on arrival or before?",
+          "answer": "Both are possible. Indian passport holders can use a visa-on-arrival at major airports including Bali, or arrange an e-VOA online ahead of travel to skip the counter. We usually arrange the e-VOA for a smoother arrival."
+        },
+        {
+          "question": "What is the Bali tourism levy?",
+          "answer": "A charge Bali places on foreign visitors, separate from the visa, to support the island. It can be paid online before arrival. We settle it as part of arranging your trip so it isn't owed at the gate."
+        },
+        {
+          "question": "How long can I stay?",
+          "answer": "The VOA and e-VOA are valid 30 days and can be extended once for a further 30. For longer or non-tourist stays, a different visa applies, which your advisor arranges."
+        },
+        {
+          "question": "What's the most common slip-up?",
+          "answer": "Two things: forgetting the Bali levy, and a passport with under six months' validity. We check both well before you book so neither becomes a problem on arrival."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your Bali trip —<br/>arranged, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-japan": {
+    "slug": "japan",
+    "fullSlug": "visa-japan",
+    "seo": {
+      "title": "Japan Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "The Japan visa for Indian passport holders — the eVisa route for eligible tourist travel, documents, processing, validity, common pitfalls, and how your advisor prepares and files it for you.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-japan.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "Asia-Pacific · Indian passport",
+      "headingHtml": "The Japan<br/><span class=\"it\">visa</span>.",
+      "lede": "Japan still asks Indian passport holders for a visa. It has become far simpler — an eVisa route for eligible tourists, and a clean consular process otherwise. A clear itinerary and steady funds carry the application. We prepare the file and file it for you.",
+      "ctaPrimary": {
+        "label": "Plan a Japan trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "eVisa / consular",
+        "sub": "Tourist, single or multiple entry"
+      },
+      {
+        "label": "Who needs it",
+        "value": "All Indian passports",
+        "sub": "Required before you travel"
+      },
+      {
+        "label": "Stay",
+        "value": "Up to 90 days",
+        "sub": "Per the visa issued"
+      },
+      {
+        "label": "Biometrics",
+        "value": "Generally none",
+        "sub": "No fingerprinting for short visits"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "A tourist visa, now easier.",
+        "lede": "Indian passport holders need a visa to visit Japan. The good news is that it is now much simpler: an eVisa can be applied for online for eligible tourist travel from India, and where the eVisa route does not apply, a straightforward consular short-stay visa does. Tourist visas are typically issued for stays of up to 90 days, single or multiple entry.",
+        "extraParagraph": "Japan looks closely at a believable, well-funded itinerary. A clear day-by-day plan, with hotels and flights that match it, carries real weight. That is the part we build with you."
+      },
+      {
+        "eyebrow": "The eVisa route",
+        "heading": "Online, where eligible.",
+        "lede": "Japan operates an eVisa for single-entry, short-term tourism for travellers applying from select countries including India — applied for online, with the visa delivered electronically. Eligibility and the exact channel can change, and not every case fits the eVisa. Your advisor confirms whether you apply by eVisa or through the consulate before anything is filed.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "What goes in the file.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Passport valid for the trip, with blank pages."
+            },
+            {
+              "symbol": "✦",
+              "html": "Completed application and a recent photograph to specification."
+            },
+            {
+              "symbol": "✦",
+              "html": "Confirmed return flights and hotel bookings for the whole trip."
+            },
+            {
+              "symbol": "✦",
+              "html": "A detailed day-by-day itinerary that matches your dates."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Proof of funds — recent bank statements, often with ITRs."
+            },
+            {
+              "symbol": "✦",
+              "html": "Employment or business proof, and leave approval where relevant."
+            },
+            {
+              "symbol": "✦",
+              "html": "For multiple-entry, any history that supports it."
+            },
+            {
+              "symbol": "✦",
+              "html": "For sponsored or family trips, the relevant relationship and funding proof."
+            }
+          ]
+        }
+      ],
+      "hedge": "Exact requirements depend on whether you apply by eVisa or through the consulate, and fees are as set by the Japanese authorities and any appointed agency. Your advisor confirms the current checklist and channel before anything is submitted."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Fast, with a careful file.",
+      "lede": "Tourist visas often process in around a week once a complete file is in. We still apply with a margin.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Confirm the route",
+          "text": "We check whether your trip qualifies for the eVisa or needs a consular application, and route it correctly."
+        },
+        {
+          "n": "02",
+          "heading": "Prepare the itinerary",
+          "text": "Japan rewards a believable plan — we build the day-by-day itinerary, flights, hotels and funds into one consistent file."
+        },
+        {
+          "n": "03",
+          "heading": "Apply & submit",
+          "text": "The eVisa is filed online; a consular case goes via the appointed agency or embassy with the full document set."
+        },
+        {
+          "n": "04",
+          "heading": "Decision & delivery",
+          "text": "Processing is often around a week for a complete file; the eVisa arrives electronically, or the passport is returned with the visa. We track it throughout."
+        }
+      ],
+      "hedge": "Processing times, eVisa eligibility and the appointed agency can change. Validity and number of entries are set by the issuing office. Your advisor confirms the current position for your trip."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Why files stall.",
+        "lede": "Japan refusals and delays usually trace to a thin or inconsistent application:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "A vague itinerary that doesn't match the flights and hotels."
+            },
+            {
+              "symbol": "✕",
+              "html": "Funds that look too thin for the trip, or unexplained deposits."
+            },
+            {
+              "symbol": "✕",
+              "html": "Gaps between the form, the dates and the supporting documents."
+            },
+            {
+              "symbol": "✕",
+              "html": "Applying by the wrong channel for your eligibility."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "A clean, believable case.",
+        "lede": "A consistent, well-evidenced file moves quickly:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "A detailed day-by-day itinerary that lines up with bookings."
+            },
+            {
+              "symbol": "✓",
+              "html": "Steady finances that comfortably cover the trip."
+            },
+            {
+              "symbol": "✓",
+              "html": "Clear ties to India and a purpose that reads honestly."
+            },
+            {
+              "symbol": "✓",
+              "html": "The correct channel — eVisa or consular — confirmed before you file."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2560&q=80",
+      "eyebrow": "The believable plan",
+      "lineHtml": "Japan grants the visa<br/>to the trip that makes <span class=\"it\">sense</span>.",
+      "sub": "More than any single document, Japan looks for a coherent, well-funded itinerary. We build that plan, and the file around it, so the application reads true at first glance."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The right channel, the right <span class=\"it\">file</span>.",
+      "lede": "Your advisor confirms whether you go by eVisa or consulate, then prepares and files the whole application around a clean itinerary. You hand it over once, and we carry it from there.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We confirm eVisa eligibility or route a consular application correctly."
+          },
+          {
+            "symbol": "✓",
+            "html": "We build the itinerary, funds and bookings into one consistent file."
+          },
+          {
+            "symbol": "✓",
+            "html": "We track it to issuance and confirm current rules before you book."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan a Japan trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "Japan, in short",
+      "items": [
+        {
+          "question": "Can I apply for an eVisa?",
+          "answer": "For eligible single-entry, short-term tourism applied for from India, yes — Japan's eVisa is filed online and delivered electronically. Not every case qualifies, and the rules can change, so your advisor confirms whether you use the eVisa or the consular route before filing."
+        },
+        {
+          "question": "Do I need to give biometrics?",
+          "answer": "For short tourist visits, Japan generally does not require fingerprinting from Indian applicants. Your advisor confirms the exact requirement for your visa type, as procedures can change."
+        },
+        {
+          "question": "How long does it take?",
+          "answer": "A complete tourist application often processes in around a week, but it varies with the season and the channel. We apply with a margin and track it to issuance."
+        },
+        {
+          "question": "What matters most to the decision?",
+          "answer": "A believable, well-funded itinerary. Japan looks for a clear day-by-day plan with matching flights, hotels and funds, plus evidence you'll return. We build the file precisely around that."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your Japan visa —<br/>handled, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-schengen": {
+    "slug": "schengen",
+    "fullSlug": "visa-schengen",
+    "seo": {
+      "title": "Schengen Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "The Schengen short-stay (Type C) visa for Indian passport holders — one visa for 29 European countries. Documents, biometrics, timelines, common rejection reasons, and how your advisor prepares and files it for you.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-schengen.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "Schengen & Europe · Indian passport",
+      "headingHtml": "The Schengen<br/><span class=\"it\">visa</span>.",
+      "lede": "One short-stay visa, 29 European countries. For Indian passport holders it means biometrics, a careful file, and a peak-season appointment that can be hard to find. Here is how it works, and how we handle it for you.",
+      "ctaPrimary": {
+        "label": "Plan a Europe trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "Short-stay, Type C",
+        "sub": "Uniform Schengen visa for tourism"
+      },
+      {
+        "label": "Who needs it",
+        "value": "All Indian passports",
+        "sub": "Required before you travel"
+      },
+      {
+        "label": "How long you can stay",
+        "value": "90 days / 180",
+        "sub": "Across the whole Schengen area"
+      },
+      {
+        "label": "Biometrics",
+        "value": "Yes — in person",
+        "sub": "Reusable for ~59 months once given"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "One visa, a whole continent.",
+        "lede": "The Schengen area is a group of 29 European countries that share one visa. A short-stay (Type C) visa lets you travel for up to 90 days in any 180-day period for tourism — across all of them, on a single document. Indian passport holders need it; there is no visa-free or visa-on-arrival route for short tourist visits.",
+        "extraParagraph": "You apply through the country that is your main destination — where you'll spend the most nights. If nights are equal, you apply through your country of first entry. Get this wrong and the application can be returned. We get it right."
+      },
+      {
+        "eyebrow": "The 180-day rule",
+        "heading": "Count carefully.",
+        "lede": "\"90 days in any 180\" is a rolling window, not a calendar year. On any given day, you can have spent no more than 90 of the previous 180 days inside Schengen. It is easy to miscount on a second trip in the same season. Your advisor keeps the count, so you never overstay by accident.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "What goes in the file.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Passport valid at least three months beyond your intended departure, with two blank pages and issued within the last ten years."
+            },
+            {
+              "symbol": "✦",
+              "html": "Completed application form and a recent photograph to the exact Schengen specification."
+            },
+            {
+              "symbol": "✦",
+              "html": "Travel medical insurance covering at least €30,000, valid across the whole Schengen area for your dates."
+            },
+            {
+              "symbol": "✦",
+              "html": "Confirmed return flights and hotel bookings for the full itinerary — the proof the consulate wants to see."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Proof of funds — typically the last three to six months of bank statements, often with ITRs and Form 16 or salary slips."
+            },
+            {
+              "symbol": "✦",
+              "html": "A cover letter explaining the trip, plus employment or business proof and leave approval where relevant."
+            },
+            {
+              "symbol": "✦",
+              "html": "A day-by-day itinerary that matches your flights, hotels and the number of days requested."
+            },
+            {
+              "symbol": "✦",
+              "html": "For minors, parents or sponsors: additional consent, relationship and financial documents your advisor confirms."
+            }
+          ]
+        }
+      ],
+      "hedge": "Exact requirements differ by the country you apply through and can change between seasons. Fees are as set by each consulate and its appointed visa centre. Your advisor confirms the current, precise checklist for your application before anything is submitted."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Apply early. Especially in summer.",
+      "lede": "You can apply up to six months before travel, and we recommend you do. In peak season, biometrics slots go early.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Choose the right country",
+          "text": "We identify the correct consulate to apply through based on your main destination, then route the application to its appointed visa centre (often VFS Global or BLS) in India."
+        },
+        {
+          "n": "02",
+          "heading": "Book the appointment",
+          "text": "Schengen biometrics are given in person. Appointments are scarce from roughly April to August — we secure the earliest viable slot and build the file around it."
+        },
+        {
+          "n": "03",
+          "heading": "Biometrics & submission",
+          "text": "Fingerprints and a photo are taken at the centre, valid for around 59 months so future Schengen trips may skip this step. The complete file is submitted on the same visit."
+        },
+        {
+          "n": "04",
+          "heading": "Processing & decision",
+          "text": "The standard processing time is around 15 calendar days, though it can extend to 45 days or more in busy periods or if extra documents are requested. We track it to passport return."
+        }
+      ],
+      "hedge": "Validity and number of entries are set by the consulate — a first-time applicant often receives a visa matched to the trip dates, while frequent travellers with clean histories may receive longer multi-entry visas. Your advisor confirms what to expect for your profile."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Why applications get refused.",
+        "lede": "Most Schengen refusals come from avoidable gaps, not bad luck. The frequent ones:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "Applying through the wrong country, or an itinerary that doesn't match the stated main destination."
+            },
+            {
+              "symbol": "✕",
+              "html": "Insufficient or unexplained funds — large recent deposits with no source, or balances too thin for the trip."
+            },
+            {
+              "symbol": "✕",
+              "html": "Weak proof of ties to India, raising doubt that you'll return."
+            },
+            {
+              "symbol": "✕",
+              "html": "Itinerary, flights, hotels and dates that don't line up; missing or inadequate insurance."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "What makes a clean case.",
+        "lede": "A credible, consistent file is what carries the day:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "A clear cover letter that tells the story of the trip and who is paying for it."
+            },
+            {
+              "symbol": "✓",
+              "html": "Steady bank statements; if a deposit is large, a short explanation of where it came from."
+            },
+            {
+              "symbol": "✓",
+              "html": "Evidence of ties — employment, business, property, family — that you have reason to come home."
+            },
+            {
+              "symbol": "✓",
+              "html": "Everything internally consistent: the dates on the form, flights, hotels and itinerary all agree."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2560&q=80",
+      "eyebrow": "The summer crush",
+      "lineHtml": "In peak season, the visa<br/>is harder to get than the <span class=\"it\">hotel</span>.",
+      "sub": "Schengen appointments for Indian applicants go months ahead in summer. We move first — the slot held, the file built around it — so Europe stays within reach."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The whole file, prepared and <span class=\"it\">filed</span>.",
+      "lede": "Your advisor carries the Schengen application from first check to passport in hand, and sets its timing against the flights and hotels we are already holding for you.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We choose the correct country, prepare the form, cover letter, itinerary, insurance and financials to standard."
+          },
+          {
+            "symbol": "✓",
+            "html": "We secure the scarce biometrics appointment and submit the complete file."
+          },
+          {
+            "symbol": "✓",
+            "html": "We track it to decision, chase if it stalls, and confirm current requirements before you commit to dates."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan a Europe trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "Schengen, in short",
+      "items": [
+        {
+          "question": "Can one Schengen visa cover several countries?",
+          "answer": "Yes — that is the point of it. A short-stay visa is valid across all 29 Schengen countries for up to 90 days in any 180. You apply through your main destination, then travel freely between members during your stay."
+        },
+        {
+          "question": "How long does it take, and how early should I apply?",
+          "answer": "Standard processing is around 15 days but can stretch to 45 days or more in busy periods. You can apply up to six months before travel, and in peak summer you should — biometrics appointments for Indian applicants fill up well ahead. We secure the slot early."
+        },
+        {
+          "question": "Do I have to give biometrics every time?",
+          "answer": "Not necessarily. Fingerprints are valid for roughly 59 months, so if you have given them recently for a previous Schengen visa, a future application may not need them again. Your advisor confirms whether your biometrics are still on file."
+        },
+        {
+          "question": "What if I'm refused?",
+          "answer": "We sharply reduce that risk by checking eligibility honestly and preparing a consistent, well-evidenced file — most refusals come from avoidable gaps. No one can promise an outcome; the decision rests with the consulate. If there is a problem, your advisor guides the next step calmly."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your Europe visa —<br/>handled, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the Schengen visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-singapore": {
+    "slug": "singapore",
+    "fullSlug": "visa-singapore",
+    "seo": {
+      "title": "Singapore Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "The Singapore e-Visa for Indian passport holders — filed online through an authorised agent, fast to clear, often multi-entry. Documents, process, validity, pitfalls, and how your advisor handles it.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-singapore.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "Asia-Pacific · Indian passport",
+      "headingHtml": "The Singapore<br/><span class=\"it\">visa</span>.",
+      "lede": "Indian passport holders need a visa for Singapore. This is one of the gentle ones. An e-Visa, filed online through an authorised agent, usually cleared in a few working days, often with multiple entries.",
+      "ctaPrimary": {
+        "label": "Plan a Singapore trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "e-Visa",
+        "sub": "Tourist / short-term visit"
+      },
+      {
+        "label": "How filed",
+        "value": "Authorised agent",
+        "sub": "Online, no embassy queue"
+      },
+      {
+        "label": "Validity",
+        "value": "Often multi-entry",
+        "sub": "Set by the authorities"
+      },
+      {
+        "label": "Biometrics",
+        "value": "None",
+        "sub": "Fully electronic"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "A clean electronic visa.",
+        "lede": "Singapore requires a visa from Indian passport holders, issued electronically. There is no arrival counter to navigate. The application is lodged online through an authorised visa agent, and the e-Visa arrives by email. It is often granted multiple-entry, and it clears quickly when the documents are complete the first time.",
+        "extraParagraph": "The duration of each permitted stay is set by the immigration officer at the checkpoint, within the validity of the visa."
+      },
+      {
+        "eyebrow": "How it's filed",
+        "heading": "Through an authorised agent.",
+        "lede": "Singapore visas for Indian nationals are submitted through authorised agents — local contacts, certain airlines, or appointed visa centres — not by walking into an embassy. A file that is complete on the first pass keeps it moving, with no back-and-forth. Your advisor lodges it for you.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "A short, exact list.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Passport valid at least six months from travel, with blank pages."
+            },
+            {
+              "symbol": "✦",
+              "html": "A recent colour photograph to Singapore's specification."
+            },
+            {
+              "symbol": "✦",
+              "html": "The completed application form (Form 14A) lodged through the agent."
+            },
+            {
+              "symbol": "✦",
+              "html": "Confirmed return flights for the trip."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Hotel booking or proof of accommodation."
+            },
+            {
+              "symbol": "✦",
+              "html": "Proof of funds for the stay where requested."
+            },
+            {
+              "symbol": "✦",
+              "html": "Employment or business proof, and ties to India."
+            },
+            {
+              "symbol": "✦",
+              "html": "The visa fee, as set by the authorities and agent, paid online."
+            }
+          ]
+        }
+      ],
+      "hedge": "The list is short but precise, and fees are as set by the Singapore authorities and the authorised agent. Your advisor confirms the current checklist before anything is filed."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Quick, when it's complete.",
+      "lede": "Most applications clear in a few working days, provided the file is right the first time.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Prepare the file",
+          "text": "We complete Form 14A, the photo and supporting documents to Singapore's exact standard."
+        },
+        {
+          "n": "02",
+          "heading": "Lodge through the agent",
+          "text": "The application is submitted online via an authorised agent — no embassy queue, no interview."
+        },
+        {
+          "n": "03",
+          "heading": "Processing",
+          "text": "Most cases clear within a few working days. A complete, consistent file avoids the requests that cause delay."
+        },
+        {
+          "n": "04",
+          "heading": "e-Visa delivered",
+          "text": "The visa arrives by email; we sequence it with your flights and hotel."
+        }
+      ],
+      "hedge": "Processing times and the precise document set can change, and entries and validity are set by the authorities. Your advisor confirms the current details for your trip."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "What causes back-and-forth.",
+        "lede": "Singapore is straightforward, but incomplete files get queries:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "A photo that doesn't meet the exact specification."
+            },
+            {
+              "symbol": "✕",
+              "html": "Missing accommodation or return-flight proof."
+            },
+            {
+              "symbol": "✕",
+              "html": "Passport validity under six months."
+            },
+            {
+              "symbol": "✕",
+              "html": "An application filed through an unauthorised channel."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "First time, complete.",
+        "lede": "A complete file is the whole trick:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "A compliant photo and a valid passport with months to spare."
+            },
+            {
+              "symbol": "✓",
+              "html": "Confirmed flights and accommodation attached."
+            },
+            {
+              "symbol": "✓",
+              "html": "Funds and ties evidenced where asked."
+            },
+            {
+              "symbol": "✓",
+              "html": "Filed through a proper authorised agent."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2560&q=80",
+      "eyebrow": "The smooth one",
+      "lineHtml": "Singapore clears quickly —<br/>if the file is right the <span class=\"it\">first time</span>.",
+      "sub": "The Singapore e-Visa rarely causes trouble when it is prepared properly. We lodge a complete, consistent file through an authorised agent, so it clears without the back-and-forth."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "Filed clean, cleared <span class=\"it\">fast</span>.",
+      "lede": "Your advisor prepares and lodges the Singapore e-Visa through an authorised agent, complete on the first pass. You hear from us when it is done.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We complete Form 14A, the photo and documents to standard."
+          },
+          {
+            "symbol": "✓",
+            "html": "We lodge through an authorised agent and track it."
+          },
+          {
+            "symbol": "✓",
+            "html": "We sequence the e-Visa with your flights and hotel, and confirm current rules."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan a Singapore trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "Singapore, in short",
+      "items": [
+        {
+          "question": "How is the visa applied for?",
+          "answer": "Singapore visas for Indian passport holders are lodged online through an authorised agent rather than at an embassy counter. Your advisor handles the submission and supporting documents for you."
+        },
+        {
+          "question": "How long does it take?",
+          "answer": "Most applications clear in a few working days when the file is complete. An incomplete file triggers queries that slow it down, which is exactly what careful preparation avoids."
+        },
+        {
+          "question": "Is it multiple-entry?",
+          "answer": "It is often granted with multiple entries, though validity and entries are set by the authorities. The length of each stay is decided by the officer at the checkpoint within that validity."
+        },
+        {
+          "question": "Are biometrics needed?",
+          "answer": "No — the Singapore tourist visa is fully electronic, with no fingerprinting for short visits. It is one of the more straightforward visas an Indian passport holder applies for."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your Singapore visa —<br/>handled, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-sri-lanka": {
+    "slug": "sri-lanka",
+    "fullSlug": "visa-sri-lanka",
+    "seo": {
+      "title": "Sri Lanka ETA Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "The Sri Lanka ETA for Indian passport holders — the Electronic Travel Authorisation applied online before you fly, its validity, the fees and rules that keep moving, the common slips, and how your advisor takes care of it.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-sri-lanka.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "Asia-Pacific · Indian passport",
+      "headingHtml": "The Sri Lanka<br/><span class=\"it\">visa</span>.",
+      "lede": "Sri Lanka is a short hop away. It asks Indian passport holders for an Electronic Travel Authorisation — the ETA, applied for online before you fly. It is quick to obtain. But the system, the fees and the rules keep moving, so confirming where they stand today is what matters.",
+      "ctaPrimary": {
+        "label": "Plan a Sri Lanka trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "ETA",
+        "sub": "Electronic Travel Authorisation"
+      },
+      {
+        "label": "How applied",
+        "value": "Online",
+        "sub": "Before you travel"
+      },
+      {
+        "label": "Stay",
+        "value": "Short-stay tourist",
+        "sub": "Single or double entry typically"
+      },
+      {
+        "label": "Note",
+        "value": "Rules in flux",
+        "sub": "Fees & system recently changed"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "The ETA, applied online.",
+        "lede": "Indian passport holders travel to Sri Lanka on an Electronic Travel Authorisation — an online approval obtained before departure, rather than a visa stamped in advance. It covers short tourist stays and is normally quick to issue. The ETA links to your passport, so you carry the approval and present it on arrival.",
+        "extraParagraph": "Sri Lanka has revised its ETA platform and fee structure more than once recently, and at times offered fee waivers for certain nationalities. So the exact cost and process for your trip should be confirmed at the time of travel."
+      },
+      {
+        "eyebrow": "A moving target",
+        "heading": "Confirm before you fly.",
+        "lede": "Because Sri Lanka's ETA system, official portal and fees have changed recently, the single most useful step is to check the current, official position close to travel — including whether a free or reduced fee applies. Your advisor confirms it and applies through the correct official channel, away from the unofficial sites that overcharge.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "A short list.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Passport valid at least six months from arrival."
+            },
+            {
+              "symbol": "✦",
+              "html": "The online ETA application with your passport details."
+            },
+            {
+              "symbol": "✦",
+              "html": "A confirmed return or onward flight ticket."
+            },
+            {
+              "symbol": "✦",
+              "html": "Proof of accommodation for the stay."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Proof of sufficient funds, if requested."
+            },
+            {
+              "symbol": "✦",
+              "html": "The ETA fee, as set by the Sri Lankan authorities, where it applies."
+            },
+            {
+              "symbol": "✦",
+              "html": "A contact address in Sri Lanka."
+            },
+            {
+              "symbol": "✦",
+              "html": "Any documents specific to a longer or different stay."
+            }
+          ]
+        }
+      ],
+      "hedge": "Sri Lanka's ETA system, official portal and fees have changed recently and may change again. Apply only through the official government channel. Your advisor confirms the current process and cost — and whether any fee waiver applies — before you travel."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Quick, but verify first.",
+      "lede": "The ETA usually issues fast. The step that protects you is confirming the current official process and fee for your dates.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Confirm the current rule",
+          "text": "We check the live ETA process, the official portal and the fee in force for your travel dates — this is the step that protects you."
+        },
+        {
+          "n": "02",
+          "heading": "Apply through the official channel",
+          "text": "The application is lodged on the correct government platform, avoiding the unofficial sites that overcharge."
+        },
+        {
+          "n": "03",
+          "heading": "Approval",
+          "text": "The ETA is usually approved quickly and linked to your passport; we hold the confirmation for arrival."
+        },
+        {
+          "n": "04",
+          "heading": "Travel",
+          "text": "You arrive with the ETA in order, sequenced with your flights and hotel."
+        }
+      ],
+      "hedge": "Validity, entries, fees and the official platform are subject to change. Your advisor confirms the live requirement and applies through the official channel before you commit to dates."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Where people get caught.",
+        "lede": "The ETA is simple, but the moving rules cause slips:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "Using an unofficial third-party site that overcharges or misfiles."
+            },
+            {
+              "symbol": "✕",
+              "html": "Relying on an old fee or process that has since changed."
+            },
+            {
+              "symbol": "✕",
+              "html": "A passport with under six months' validity."
+            },
+            {
+              "symbol": "✕",
+              "html": "Arriving without a return ticket or accommodation proof."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "Official channel, current rule.",
+        "lede": "A clean ETA is mostly about getting the basics right:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "Apply only through the official government portal."
+            },
+            {
+              "symbol": "✓",
+              "html": "Confirm the current fee and process close to travel."
+            },
+            {
+              "symbol": "✓",
+              "html": "Check passport validity well before booking."
+            },
+            {
+              "symbol": "✓",
+              "html": "Carry a return ticket and accommodation details for arrival."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=2560&q=80",
+      "eyebrow": "The rules that keep moving",
+      "lineHtml": "Sri Lanka is close —<br/>just confirm the current <span class=\"it\">ETA</span>.",
+      "sub": "Sri Lanka's ETA fees and portal have shifted more than once. We confirm the live, official process for your dates and apply through the right channel, so a simple visa never becomes a costly mistake."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The official ETA, done <span class=\"it\">right</span>.",
+      "lede": "Your advisor confirms the current ETA rule and fee, applies through the official channel, and holds the approval ready for your arrival.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We confirm the live ETA process and fee for your dates."
+          },
+          {
+            "symbol": "✓",
+            "html": "We apply through the official government portal, not a reseller."
+          },
+          {
+            "symbol": "✓",
+            "html": "We hold the approval and sequence it with your flights and hotel."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan a Sri Lanka trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "Sri Lanka, in short",
+      "items": [
+        {
+          "question": "What exactly is the ETA?",
+          "answer": "An Electronic Travel Authorisation — an online approval Indian passport holders obtain before flying to Sri Lanka, linked to the passport. It replaces a pre-stamped visa for short tourist stays and is usually quick to issue."
+        },
+        {
+          "question": "Why does the fee keep changing?",
+          "answer": "Sri Lanka has revised its ETA platform and fee structure more than once recently, and has at times offered waivers for certain nationalities. Because of this, your advisor confirms the live, official fee close to your travel date."
+        },
+        {
+          "question": "Can I apply on any website?",
+          "answer": "You should apply only through the official government ETA portal. Many unofficial sites overcharge or mishandle applications. We apply through the correct official channel for you."
+        },
+        {
+          "question": "What should I have for arrival?",
+          "answer": "A valid passport with at least six months left, the ETA approval, a return or onward ticket, and accommodation details. We prepare these so entry is a formality."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your Sri Lanka trip —<br/>handled, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-thailand": {
+    "slug": "thailand",
+    "fullSlug": "visa-thailand",
+    "seo": {
+      "title": "Thailand Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "Thailand for Indian passport holders — visa-exemption for short stays, the e-visa where it applies, the documents arrival may check, and how your advisor confirms the current rule before you fly.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-thailand.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "Asia-Pacific · Indian passport",
+      "headingHtml": "The Thailand<br/><span class=\"it\">visa</span>.",
+      "lede": "For Indian passport holders, Thailand is one of the easiest places to go. Short tourist stays are visa-exempt, with an e-visa for longer or different visits. One thing matters: the rule has shifted recently, so it needs confirming for your dates.",
+      "ctaPrimary": {
+        "label": "Plan a Thailand trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Short tourist stays",
+        "value": "Visa-exempt",
+        "sub": "For Indian passports, up to 60 days"
+      },
+      {
+        "label": "Longer / other visits",
+        "value": "e-Visa",
+        "sub": "Applied online before travel"
+      },
+      {
+        "label": "On arrival",
+        "value": "Documents may be checked",
+        "sub": "Onward ticket, funds, hotel"
+      },
+      {
+        "label": "Biometrics",
+        "value": "None for short visits",
+        "sub": "Visa-free or e-visa"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "Visa-free, for short stays.",
+        "lede": "Thailand currently allows Indian passport holders to enter visa-exempt for short tourist stays — recent rules have set this at up to 60 days, with a possible extension. For stays beyond the exemption, for non-tourist purposes, or where a formal visa is preferred, Thailand offers an e-Visa applied for online before travel. There is no fee for the visa-exempt entry itself.",
+        "extraParagraph": "These rules have changed more than once recently. So the one step that matters is confirming where they stand for your dates, before you fly."
+      },
+      {
+        "eyebrow": "On arrival",
+        "heading": "What may be checked.",
+        "lede": "Even with visa-free entry, immigration can ask to see proof of onward or return travel, confirmed accommodation, and sufficient funds for the stay. Travellers are occasionally turned back at the airport for lacking these. We ready those documents, so arrival is never in doubt.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "What to have ready.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Passport valid at least six months from entry."
+            },
+            {
+              "symbol": "✦",
+              "html": "A confirmed return or onward flight ticket."
+            },
+            {
+              "symbol": "✦",
+              "html": "Hotel bookings or proof of where you'll stay."
+            },
+            {
+              "symbol": "✦",
+              "html": "Proof of sufficient funds for the trip, if asked."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "For the e-Visa: the online application and photograph."
+            },
+            {
+              "symbol": "✦",
+              "html": "For the e-Visa: supporting documents per the visa type."
+            },
+            {
+              "symbol": "✦",
+              "html": "The e-Visa fee, as set by the Thai authorities, where it applies."
+            },
+            {
+              "symbol": "✦",
+              "html": "Any documents specific to a non-tourist purpose."
+            }
+          ]
+        }
+      ],
+      "hedge": "Thailand's entry rules for Indian passport holders have changed recently and may change again, including the length of visa-free stay and any future electronic arrival registration. Fees are as set by the Thai authorities. Your advisor confirms the current rule for your exact dates before you travel."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Mostly nothing to file.",
+      "lede": "For a short visit, there is usually no application at all — just the documents arrival may require.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Confirm the current rule",
+          "text": "We check the visa-free stay length and any registration requirement in force for your travel dates — this is the step that matters most."
+        },
+        {
+          "n": "02",
+          "heading": "Visa-free or e-Visa",
+          "text": "For a short tourist trip, no visa is filed; for a longer or different stay, we prepare and lodge the e-Visa online."
+        },
+        {
+          "n": "03",
+          "heading": "Ready the arrival file",
+          "text": "Return ticket, accommodation and funds prepared, so immigration checks are a formality."
+        },
+        {
+          "n": "04",
+          "heading": "Travel",
+          "text": "You arrive with everything in order — we've sequenced it with your flights and hotel."
+        }
+      ],
+      "hedge": "Visa-free duration, extension rules and any electronic travel/arrival registration are subject to change. Your advisor confirms the live requirement before you commit to dates."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Where it trips people.",
+        "lede": "Thailand is easy, but assumptions cause problems:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "Assuming an old visa-free length still applies — the rule has changed."
+            },
+            {
+              "symbol": "✕",
+              "html": "Arriving without an onward ticket, funds proof or hotel booking."
+            },
+            {
+              "symbol": "✕",
+              "html": "Overstaying the visa-free period, which carries fines."
+            },
+            {
+              "symbol": "✕",
+              "html": "Travelling for a purpose the exemption doesn't cover."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "Confirm, then relax.",
+        "lede": "A short visit is simple once the basics are in hand:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "Confirm the current visa-free length for your dates."
+            },
+            {
+              "symbol": "✓",
+              "html": "Carry a return or onward ticket and accommodation proof."
+            },
+            {
+              "symbol": "✓",
+              "html": "Keep within the permitted stay to avoid overstay fines."
+            },
+            {
+              "symbol": "✓",
+              "html": "Use the e-Visa for anything beyond a standard short tourist trip."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2560&q=80",
+      "eyebrow": "The rule that moved",
+      "lineHtml": "Thailand is easy —<br/>once you know the current <span class=\"it\">rule</span>.",
+      "sub": "Thailand's visa-free terms for Indian passports have shifted more than once. We confirm where they stand for your dates and ready the documents arrival may require, so an easy trip stays easy."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The current rule, <span class=\"it\">confirmed</span>.",
+      "lede": "Your advisor confirms the current entry rule, files the e-Visa only where it is needed, and readies the documents arrival may require.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We confirm the visa-free length and any registration for your dates."
+          },
+          {
+            "symbol": "✓",
+            "html": "We prepare the e-Visa where a longer or different stay applies."
+          },
+          {
+            "symbol": "✓",
+            "html": "We ready the return ticket, funds and accommodation proof for arrival."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan a Thailand trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "Thailand, in short",
+      "items": [
+        {
+          "question": "Do I need a visa for Thailand?",
+          "answer": "For a short tourist stay, Indian passport holders can currently enter visa-exempt — recently set at up to 60 days. For longer or non-tourist visits, an e-Visa applies. Because the rule has changed recently, your advisor confirms the live position for your dates."
+        },
+        {
+          "question": "What might I be asked for on arrival?",
+          "answer": "Even visa-free, immigration may check a return or onward ticket, confirmed accommodation and sufficient funds. We prepare these so entry is a formality."
+        },
+        {
+          "question": "Is there an electronic registration to do before I fly?",
+          "answer": "Thailand has been introducing and adjusting digital arrival requirements. Whether one applies to your trip depends on the rules in force at the time — your advisor confirms and handles it before you travel."
+        },
+        {
+          "question": "What happens if I overstay?",
+          "answer": "Thailand charges overstay fines per day and it can affect future entry. We make sure your stay fits comfortably within the permitted period, and arrange the e-Visa if you need longer."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your Thailand trip —<br/>confirmed, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-uae": {
+    "slug": "uae",
+    "fullSlug": "visa-uae",
+    "seo": {
+      "title": "UAE Tourist Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "The UAE tourist e-visa for Indian passport holders — 30 or 60 days, no consulate visit, fast turnaround, plus the visa-on-arrival route for US/UK/Schengen visa holders. How your advisor handles it.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-uae.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "The Middle East · Indian passport",
+      "headingHtml": "The UAE tourist<br/><span class=\"it\">visa</span>.",
+      "lede": "One of the easiest visas in the world. A 30 or 60-day tourist e-visa, arranged online, no consulate visit, often issued in a few working days. And if you already hold a US, UK or Schengen visa, you may qualify for visa-on-arrival. Your advisor handles all of it.",
+      "ctaPrimary": {
+        "label": "Plan a UAE trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "Tourist e-visa",
+        "sub": "Or visa-on-arrival if eligible"
+      },
+      {
+        "label": "Duration",
+        "value": "30 or 60 days",
+        "sub": "Single or multiple-entry options"
+      },
+      {
+        "label": "Processing",
+        "value": "A few working days",
+        "sub": "Express available when close"
+      },
+      {
+        "label": "Biometrics",
+        "value": "None",
+        "sub": "Fully online — no consulate visit"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "A fast, online e-visa.",
+        "lede": "Indian passport holders apply for a UAE tourist visa online before travel — there is no embassy interview and no biometrics. It comes in several forms: a 30-day or 60-day visa, single or multiple-entry, with the e-visa typically issued in a few working days. It is among the quickest visas anywhere our members go.",
+        "extraParagraph": null
+      },
+      {
+        "eyebrow": "Visa-on-arrival route",
+        "heading": "If you hold the right visa.",
+        "lede": "Indian passport holders who hold a valid US, UK or Schengen visa or residence permit — or are US/UK/EU residents — are generally eligible for visa-on-arrival in the UAE, with a fee paid at the airport. If you don't, the e-visa is the route. Your advisor tells you which applies, so you never have to guess.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "A short list.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Passport valid at least six months from your date of entry."
+            },
+            {
+              "symbol": "✦",
+              "html": "A clear passport-style colour photograph to specification."
+            },
+            {
+              "symbol": "✦",
+              "html": "A scanned copy of the passport's bio page."
+            },
+            {
+              "symbol": "✦",
+              "html": "Confirmed return flights for the trip."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Hotel booking or proof of where you'll stay."
+            },
+            {
+              "symbol": "✦",
+              "html": "The visa fee, as set by the issuing authority or airline, paid online."
+            },
+            {
+              "symbol": "✦",
+              "html": "Sometimes proof of funds for the trip, depending on the visa."
+            },
+            {
+              "symbol": "✦",
+              "html": "For visa-on-arrival: the qualifying US/UK/Schengen visa or residence proof."
+            }
+          ]
+        }
+      ],
+      "hedge": "Requirements are light but exact, and fees are as set by the UAE authorities and your chosen visa type. Your advisor confirms the current list — and whether visa-on-arrival applies to you — before anything is filed."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Quick, but don't cut it fine.",
+      "lede": "Most e-visas issue in a few working days; express options exist when a trip is close. We still apply with room to spare.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Choose the right visa",
+          "text": "We match the visa to your trip — 30 or 60 days, single or multiple-entry — or confirm visa-on-arrival eligibility from an existing US/UK/Schengen visa."
+        },
+        {
+          "n": "02",
+          "heading": "Apply online",
+          "text": "The application is submitted with your documents and the fee. No interview, no biometrics, no consulate visit."
+        },
+        {
+          "n": "03",
+          "heading": "e-Visa issued",
+          "text": "Typically within a few working days, the e-visa arrives by email. Express processing can compress this when timing is tight."
+        },
+        {
+          "n": "04",
+          "heading": "Travel",
+          "text": "Carry the e-visa for entry. We sequence it against your flights and hotel so everything lands together."
+        }
+      ],
+      "hedge": "Validity, entries and the date your stay begins differ by visa type and rules can change. Your advisor confirms the current details for your trip."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Small things, big delays.",
+        "lede": "The UAE visa is easy, but slips still happen:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "A passport with under six months' validity, which can block entry."
+            },
+            {
+              "symbol": "✕",
+              "html": "A photo or passport scan that doesn't meet the spec, delaying issuance."
+            },
+            {
+              "symbol": "✕",
+              "html": "Choosing the wrong duration or entry type for the trip you've planned."
+            },
+            {
+              "symbol": "✕",
+              "html": "Assuming visa-on-arrival applies when your qualifying visa has expired."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "Keep it clean.",
+        "lede": null,
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "Check passport validity well before you book."
+            },
+            {
+              "symbol": "✓",
+              "html": "Use a compliant photo and a clear bio-page scan."
+            },
+            {
+              "symbol": "✓",
+              "html": "Match the visa duration to your actual nights, with a margin."
+            },
+            {
+              "symbol": "✓",
+              "html": "Mind the overstay rules — UAE fines apply per day if you exceed the visa."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2560&q=80",
+      "eyebrow": "The easy one",
+      "lineHtml": "No interview, no biometrics —<br/>just the trip, <span class=\"it\">arranged</span>.",
+      "sub": "The UAE is among the simplest visas an Indian passport can hold. We still handle it end to end, sequenced with your flights and stay, so even the easy one is off your mind."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The whole thing, <span class=\"it\">online</span>.",
+      "lede": "Your advisor arranges the UAE visa end to end — no consulate visit for you — and confirms whether visa-on-arrival spares you even the application. One person, who knows your trip.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We pick the right visa type and check passport validity and documents."
+          },
+          {
+            "symbol": "✓",
+            "html": "We file online and follow it to issuance, with express where a trip is close."
+          },
+          {
+            "symbol": "✓",
+            "html": "We sequence it with your flights and hotel, and confirm current rules before you go."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan a UAE trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "The UAE visa, in short",
+      "items": [
+        {
+          "question": "Do I need a visa if I already hold a US or UK visa?",
+          "answer": "You may not need to apply in advance. Indian passport holders with a valid US, UK or Schengen visa or residence permit are generally eligible for visa-on-arrival in the UAE, with a fee at the airport. If you don't hold one, the online tourist e-visa is the route. Your advisor confirms which applies."
+        },
+        {
+          "question": "How fast is it?",
+          "answer": "The e-visa is usually issued within a few working days, and express options exist when a trip is close. It is among the fastest visas anywhere — but we still apply with a margin so nothing is left to the last hours."
+        },
+        {
+          "question": "How long can I stay?",
+          "answer": "Tourist visas commonly come in 30-day and 60-day forms, single or multiple-entry. We match the duration to your trip. Note the UAE charges overstay fines per day, so the visa should comfortably cover your nights."
+        },
+        {
+          "question": "Is there an interview or biometrics?",
+          "answer": "No. The UAE tourist e-visa is fully online — no embassy interview, no fingerprints, no consulate visit. It is one of the most straightforward visas an Indian passport holder applies for."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your UAE visa —<br/>handled, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-uk": {
+    "slug": "uk",
+    "fullSlug": "visa-uk",
+    "seo": {
+      "title": "UK Standard Visitor Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "The UK Standard Visitor visa for Indian passport holders — the online application, biometrics, the 6-month visit, long-term options, common pitfalls, and how your advisor prepares it and sees it through.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-uk.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "United Kingdom · Indian passport",
+      "headingHtml": "The UK visitor<br/><span class=\"it\">visa</span>.",
+      "lede": "The UK sits outside Schengen, so it asks for its own visa — the Standard Visitor, usually up to six months. You apply online, give biometrics at a visa centre, and the case is made on paper. Here is how it works, and how we carry it for you.",
+      "ctaPrimary": {
+        "label": "Plan a UK trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "Standard Visitor",
+        "sub": "Tourism, business, family, study <6m"
+      },
+      {
+        "label": "Who needs it",
+        "value": "All Indian passports",
+        "sub": "Separate from any Schengen visa"
+      },
+      {
+        "label": "How long you can stay",
+        "value": "Usually up to 6 months",
+        "sub": "Long-term 2/5/10-yr options exist"
+      },
+      {
+        "label": "Biometrics",
+        "value": "Yes — at a visa centre",
+        "sub": "Fingerprints and photo"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "The Standard Visitor visa.",
+        "lede": "One visa covers most short visits to the UK — tourism, seeing family or friends, business meetings, and certain short courses. It is usually granted for up to six months. It is entirely separate from the Schengen visa: a trip that pairs Europe with London needs both.",
+        "extraParagraph": "If you travel to the UK often, you can apply for a long-term visitor visa valid two, five or ten years, still capped at six months per visit."
+      },
+      {
+        "eyebrow": "A note on the ETA",
+        "heading": "Indians still need a visa.",
+        "lede": "The UK has introduced an Electronic Travel Authorisation (ETA) for nationalities that don't need a visa — but Indian passport holders are not in that group for tourism. You apply for the Standard Visitor visa, not an ETA. Your advisor confirms the current position before you travel, so there is nothing to second-guess.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents required",
+      "heading": "What makes the case.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "A valid passport with at least one blank page for the visa."
+            },
+            {
+              "symbol": "✦",
+              "html": "The completed online application and the visa fee, paid (plus the Immigration Health Surcharge only if it applies to your visit)."
+            },
+            {
+              "symbol": "✦",
+              "html": "Proof of funds — typically six months of bank statements — to show you can support the trip."
+            },
+            {
+              "symbol": "✦",
+              "html": "Travel and accommodation details for your stay."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Evidence of employment, business or studies, and your ties to India."
+            },
+            {
+              "symbol": "✦",
+              "html": "If visiting someone, their invitation and immigration status; if sponsored, their financial details."
+            },
+            {
+              "symbol": "✦",
+              "html": "Travel history — previous visas and stamps strengthen the case."
+            },
+            {
+              "symbol": "✦",
+              "html": "A clear statement of purpose and intent to leave at the end of the visit."
+            }
+          ]
+        }
+      ],
+      "hedge": "Exact requirements depend on your circumstances, and fees are as set by the UK Home Office. Your advisor confirms the current checklist — and whether the health surcharge applies — before anything is submitted. You don't assemble this alone."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "Online first, then in person.",
+      "lede": "The standard decision is usually around three weeks once you've given biometrics, with priority options often available. We hold the timeline so you don't have to.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "Apply online",
+          "text": "We complete the application on the official UK system, pay the fee, and prepare the supporting documents to the Home Office's standard."
+        },
+        {
+          "n": "02",
+          "heading": "Book the visa-centre slot",
+          "text": "You attend a UK Visa Application Centre in India to give fingerprints and a photograph and submit documents. We book the appointment around your calendar."
+        },
+        {
+          "n": "03",
+          "heading": "Decision",
+          "text": "The standard service is generally about three weeks; priority and super-priority options can shorten this for an additional fee where available. We track the application throughout."
+        },
+        {
+          "n": "04",
+          "heading": "Passport return",
+          "text": "The visa is placed in your passport and returned to you — we follow it to delivery and align it with your travel dates."
+        }
+      ],
+      "hedge": "Processing times and priority availability vary by season and centre. The UK is moving toward digital immigration records (eVisas) — your advisor confirms the current format and process for your application."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Why applications fail.",
+        "lede": "UK refusals usually come from a file that raises doubt rather than a single missing form:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "Funds that look insufficient, or unexplained large deposits in the bank statements."
+            },
+            {
+              "symbol": "✕",
+              "html": "Weak evidence of ties to India and of intent to leave the UK."
+            },
+            {
+              "symbol": "✕",
+              "html": "Inconsistencies between the form, the funds and the stated purpose."
+            },
+            {
+              "symbol": "✕",
+              "html": "A thin or unexplained travel history, or gaps the caseworker can't reconcile."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "A credible file.",
+        "lede": "The UK decides on documents, so the file has to tell a clean story:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "Steady, well-explained finances that comfortably cover the trip."
+            },
+            {
+              "symbol": "✓",
+              "html": "Clear employment or business proof, plus property or family ties."
+            },
+            {
+              "symbol": "✓",
+              "html": "A concise cover note setting out the purpose and your plan to return."
+            },
+            {
+              "symbol": "✓",
+              "html": "Every detail consistent across the form, documents and itinerary."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2560&q=80",
+      "eyebrow": "Two visas, one trip",
+      "lineHtml": "London with Paris means<br/>two visas, not <span class=\"it\">one</span>.",
+      "sub": "The UK sits outside Schengen, so a trip that pairs Britain with Europe needs both applications, properly sequenced. We map the whole route so neither window is missed, and neither one slips."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The case, made <span class=\"it\">cleanly</span>.",
+      "lede": "Your advisor carries the UK application from the first check to the passport in your hand — and if your trip pairs the UK with Europe, sequences both visas together.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We complete the online application and prepare finances, ties and purpose to standard."
+          },
+          {
+            "symbol": "✓",
+            "html": "We book the visa-centre slot and submit the supporting documents."
+          },
+          {
+            "symbol": "✓",
+            "html": "We track it to decision and return, and confirm current requirements before you book."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan a UK trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "The UK visa, in short",
+      "items": [
+        {
+          "question": "Does my Schengen visa cover the UK?",
+          "answer": "No. The UK is not part of the Schengen area and requires its own Standard Visitor visa. A trip combining Europe and Britain needs both visas, which we sequence together."
+        },
+        {
+          "question": "How long can I stay, and is there a long-term visa?",
+          "answer": "The Standard Visitor visa is usually granted for up to six months per visit. Frequent travellers can apply for a long-term version valid two, five or ten years — still six months maximum per stay — which can be worthwhile if you visit often."
+        },
+        {
+          "question": "Do I need an ETA instead?",
+          "answer": "The UK's Electronic Travel Authorisation is for nationalities that don't need a visa. Indian passport holders are not in that group for tourist travel, so you apply for the Standard Visitor visa. Your advisor confirms the current rule before you go."
+        },
+        {
+          "question": "How long does it take?",
+          "answer": "The standard decision is generally about three weeks after biometrics, with priority and super-priority services often available for an extra fee. Timings vary by season and centre; we plan with buffer and can pursue a faster service where it exists."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your UK visa —<br/>handled, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  },
+  "visa-usa": {
+    "slug": "usa",
+    "fullSlug": "visa-usa",
+    "seo": {
+      "title": "US B1/B2 Visa Guide for Indian Passport Holders — TripAgent",
+      "description": "The US B1/B2 visitor visa for Indian passport holders — the DS-160, the interview, biometrics, the long validity, interview waivers, common pitfalls, and how your advisor prepares and tracks it.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisa-usa.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← All visa guides",
+        "href": "visa-guides.html"
+      },
+      "eyebrow": "The Americas · Indian passport",
+      "headingHtml": "The US visitor<br/><span class=\"it\">visa</span>.",
+      "lede": "The B1/B2 is often issued to Indians for up to ten years. It takes a DS-160, an in-person interview and a wait that swings wildly by city. The one rule that matters: start months ahead.",
+      "ctaPrimary": {
+        "label": "Plan a US trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "How we handle it",
+        "href": "#how"
+      }
+    },
+    "facts": [
+      {
+        "label": "Visa type",
+        "value": "B1/B2 visitor",
+        "sub": "Business (B1) & tourism (B2)"
+      },
+      {
+        "label": "Validity",
+        "value": "Often up to 10 years",
+        "sub": "Multiple-entry, set by the officer"
+      },
+      {
+        "label": "Process",
+        "value": "DS-160 + interview",
+        "sub": "In person at a consulate"
+      },
+      {
+        "label": "The catch",
+        "value": "Interview waits",
+        "sub": "Vary sharply by city — plan early"
+      }
+    ],
+    "what": [
+      {
+        "eyebrow": "What it is",
+        "heading": "B1/B2, the visitor visa.",
+        "lede": "The B1 covers business — meetings, conferences, negotiations — and the B2 covers tourism, visiting family and medical treatment. They are usually issued together as a single B1/B2 visa. For Indian passport holders it is frequently granted with a long validity, often up to ten years. That is what makes the effort worth it.",
+        "extraParagraph": "A long-validity visa does not set how long you can stay each visit — that is decided by the officer at the border, commonly up to six months per entry."
+      },
+      {
+        "eyebrow": "Who needs it",
+        "heading": "Every Indian traveller.",
+        "lede": "India is not part of the US Visa Waiver Programme, so Indian passport holders need a visa for tourism or business. There is no ESTA route. The visa must be in hand before you board, and the interview is the heart of it.",
+        "extraParagraph": null
+      }
+    ],
+    "docs": {
+      "eyebrow": "Documents & the interview",
+      "heading": "What to bring.",
+      "lists": [
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "A completed DS-160 online form and its confirmation page — accuracy here is essential."
+            },
+            {
+              "symbol": "✦",
+              "html": "Passport valid at least six months beyond your stay, plus any older passports showing travel history."
+            },
+            {
+              "symbol": "✦",
+              "html": "The visa fee paid (the MRV fee, as set by the US Department of State) and your interview and biometrics appointments."
+            },
+            {
+              "symbol": "✦",
+              "html": "A photograph to US specification, uploaded with the DS-160."
+            }
+          ]
+        },
+        {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✦",
+              "html": "Proof of funds and ties to India — employment, business, property, family — to show you'll return."
+            },
+            {
+              "symbol": "✦",
+              "html": "Your travel purpose and rough plans; for business, an invitation or supporting letter."
+            },
+            {
+              "symbol": "✦",
+              "html": "For visiting family, the sponsor's details and relationship proof where relevant."
+            },
+            {
+              "symbol": "✦",
+              "html": "Any documents that support an honest, consistent account of the trip at interview."
+            }
+          ]
+        }
+      ],
+      "hedge": "The visa is granted at the consular officer's discretion, based largely on the interview. Fees are as set by the US Department of State. Your advisor confirms the current process — including the two-step appointment system — before you apply."
+    },
+    "process": {
+      "eyebrow": "The process & timeline",
+      "heading": "The wait is the whole problem.",
+      "lede": "Interview slots are the bottleneck. At busy times the wait runs to many months. Start the moment a US trip is on the horizon.",
+      "steps": [
+        {
+          "n": "01",
+          "heading": "File the DS-160",
+          "text": "We complete the online application accurately — the form the interview is built on — and pay the visa fee."
+        },
+        {
+          "n": "02",
+          "heading": "Book the appointments",
+          "text": "Most first-time applicants attend two: a biometrics visit at a Visa Application Centre and an interview at the consulate. We secure the earliest viable interview slot for your city."
+        },
+        {
+          "n": "03",
+          "heading": "The interview",
+          "text": "A short conversation with a consular officer about your trip, ties and intent. We prepare you so it's calm and consistent. Approval is at the officer's discretion."
+        },
+        {
+          "n": "04",
+          "heading": "Issuance & return",
+          "text": "On approval, the passport is sent for visa stamping and returned to you. We track it to delivery, and time the whole thing against your travel dates."
+        }
+      ],
+      "hedge": "Some renewals may qualify for an interview waiver (the \"dropbox\") that skips the in-person interview — eligibility rules change, and your advisor confirms whether you qualify. Wait times differ greatly between cities and seasons; nothing here guarantees a slot or an outcome."
+    },
+    "pitfalls": [
+      {
+        "eyebrow": "Common pitfalls",
+        "heading": "Why it goes wrong.",
+        "lede": "US refusals — often under section 214(b) — usually come down to doubt about intent or an inconsistent file:",
+        "list": {
+          "warn": true,
+          "points": [
+            {
+              "symbol": "✕",
+              "html": "Failing to show strong ties to India, so the officer doubts you'll return."
+            },
+            {
+              "symbol": "✕",
+              "html": "An answer at interview that contradicts the DS-160 or the stated purpose."
+            },
+            {
+              "symbol": "✕",
+              "html": "Vague plans, or funds that don't match the trip you describe."
+            },
+            {
+              "symbol": "✕",
+              "html": "Leaving it too late — and losing the trip to interview waits, not to a refusal."
+            }
+          ]
+        }
+      },
+      {
+        "eyebrow": "Tips that help",
+        "heading": "A calm, clean interview.",
+        "lede": "The interview rewards honesty and consistency:",
+        "list": {
+          "warn": false,
+          "points": [
+            {
+              "symbol": "✓",
+              "html": "Answer briefly and truthfully; your story should match your DS-160 exactly."
+            },
+            {
+              "symbol": "✓",
+              "html": "Be clear on your purpose, your funding and your reason to come home."
+            },
+            {
+              "symbol": "✓",
+              "html": "Carry supporting documents, but lead with a confident, simple account."
+            },
+            {
+              "symbol": "✓",
+              "html": "Above all, start early — the date you book is the date that decides the trip."
+            }
+          ]
+        }
+      }
+    ],
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fband1.jpg&w=2560&q=80",
+      "eyebrow": "The waiting list",
+      "lineHtml": "The US visa isn't refused<br/>nearly as often as it's left <span class=\"it\">too late</span>.",
+      "sub": "Interview slots can be months out. We move the instant a US trip is on your horizon. The appointment booked, the file ready, you prepared — so the wait never costs you the journey."
+    },
+    "how": {
+      "anchorId": "how",
+      "eyebrow": "How TripAgent handles it",
+      "headingHtml": "The form, the slot, the <span class=\"it\">prep</span>.",
+      "lede": "Your advisor owns the US application from end to end. Where a renewal qualifies for an interview waiver, they pursue it, to spare you the consulate entirely.",
+      "list": {
+        "warn": false,
+        "points": [
+          {
+            "symbol": "✓",
+            "html": "We complete the DS-160 accurately and pay the fee."
+          },
+          {
+            "symbol": "✓",
+            "html": "We secure the earliest viable interview slot and prepare you for it."
+          },
+          {
+            "symbol": "✓",
+            "html": "We track the passport to return — or pursue an interview waiver where a renewal qualifies."
+          }
+        ]
+      },
+      "ctaPrimary": {
+        "label": "Plan a US trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "All visa guides",
+        "href": "visa-guides.html"
+      },
+      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    },
+    "faq": {
+      "eyebrow": "Before you apply",
+      "heading": "The US visa, in short",
+      "items": [
+        {
+          "question": "How long is the visa valid, and how long can I stay?",
+          "answer": "For Indian applicants the B1/B2 is often issued for up to ten years, multiple-entry. That is the validity of the visa, not the length of each stay — how long you may remain each visit is set by the officer at the border, commonly up to six months."
+        },
+        {
+          "question": "Can I skip the interview on a renewal?",
+          "answer": "Sometimes. Certain renewals qualify for an interview waiver — the \"dropbox\" — that avoids an in-person interview. Eligibility rules change over time, so your advisor confirms whether your renewal qualifies before you apply."
+        },
+        {
+          "question": "How far ahead should I start?",
+          "answer": "As early as possible. Interview wait times in Indian cities can run to many months at busy periods, and they are the single most common reason a US trip slips. We begin the moment a trip is on your horizon."
+        },
+        {
+          "question": "What if I'm refused?",
+          "answer": "We reduce the risk by preparing an honest, consistent file and readying you for the interview — most refusals turn on doubt about intent rather than paperwork. The decision is the consular officer's alone, and no one can promise an outcome."
+        }
+      ]
+    },
+    "closing": {
+      "eyebrow": "Your move",
+      "headingHtml": "Your US visa —<br/>handled, until you are <span class=\"it\">home</span>.",
+      "lede": "Tell us your dates and who is travelling. We come back with the flights, the stays and the visa, all looked after. Membership is by invitation.",
+      "ctaPrimary": {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    }
+  }
+}

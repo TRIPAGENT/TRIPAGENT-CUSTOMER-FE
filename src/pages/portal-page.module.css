@@ -1,0 +1,34 @@
+/* Verbatim from portal.html's own <style> block, minus dead-in-source rules
+   (:global(.svc).tile — unused anywhere in portal.html's markup) and the #portal-member/
+   .pm-* member-home styles, which belong to the auth-gated widget this port
+   intentionally omits (see extract_portal_page.py's docstring). */
+:global(.deep-img){border-radius:var(--r-lg);overflow:hidden;aspect-ratio:4/3;background-size:cover;background-position:center;box-shadow:var(--shadow);min-height:280px}
+:global(.incl).plain li{border-color:var(--line-soft)}
+.soon-tag{display:inline-block;font-family:var(--fr);font-weight:600;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--accent-2);border:1px solid var(--line);border-radius:var(--r-pill);padding:6px 14px;margin-bottom:18px}
+.hero-prt{position:relative;isolation:isolate;text-align:left;align-items:stretch;overflow:hidden}
+.hero-prt::after{background:linear-gradient(100deg,rgba(0,0,0,.72) 0%,rgba(0,0,0,.5) 30%,rgba(0,0,0,.15) 58%,transparent 78%),linear-gradient(180deg,rgba(0,0,0,.22) 0%,transparent 32%,transparent 60%,rgba(0,0,0,.48) 100%)}
+.hero-prt :global(.hero-inner){margin:0;max-width:none;width:100%;display:flex;flex-direction:column;justify-content:center;min-height:inherit}
+.hero-prt :global(.hs-copy){max-width:680px;opacity:0;transform:translateY(16px);animation:prtRise 1s cubic-bezier(.22,.61,.36,1) .15s forwards}
+@keyframes prtRise{to{opacity:1;transform:none}}
+.hero-prt :global(.display){font-size:clamp(44px,6.2vw,92px);line-height:1.04;margin:0}
+:global(.btn-square){border-radius:2px!important;padding:16px 34px!important;letter-spacing:.02em;font-weight:600}
+.hero-prt :global(.hero-cta-row){display:flex;align-items:center;gap:28px;margin-top:34px;flex-wrap:wrap}
+.prt-textlink{font-family:var(--fr);font-weight:600;font-size:14px;letter-spacing:.04em;text-transform:uppercase;color:#fff;display:inline-flex;align-items:center;gap:8px;text-shadow:var(--shadow-dark);background-image:linear-gradient(#fff,#fff);background-size:0 1px;background-position:0 100%;background-repeat:no-repeat;transition:background-size .45s var(--ease);padding-bottom:3px}
+.prt-textlink::after{content:"→";font-weight:400;transition:transform .4s var(--ease)}
+.prt-textlink:hover{background-size:100% 1px}.prt-textlink:hover::after{transform:translateX(4px)}
+.idx{border-top:1px solid var(--hair-strong)}
+.idx .row{display:grid;grid-template-columns:auto 1fr;gap:clamp(18px,3.4vw,56px);align-items:baseline;padding:clamp(22px,2.8vw,38px) 0;border-bottom:1px solid var(--hair-strong)}
+.idx .row :global(.nn){font-family:var(--logo);font-size:clamp(26px,2.6vw,40px);color:var(--accent-2);line-height:1;font-weight:500}
+.idx .row .bd h3{font-family:var(--logo);font-size:clamp(22px,2.3vw,32px);font-weight:500;line-height:1.14;margin-bottom:6px}
+.idx .row .bd p{color:var(--ink-soft);font-size:16px;max-width:58ch;line-height:1.55}
+@media(min-width:821px){.idx.two{display:grid;grid-template-columns:1fr 1fr;column-gap:clamp(40px,5vw,90px)}.idx.two .row:nth-child(2){border-top:1px solid var(--hair-strong)}}
+:global(.sig){position:relative;min-height:62svh;display:flex;align-items:center;color:#fff;background-size:cover;background-position:center 50%;background-color:#111}
+:global(.sig)::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.68) 0%,rgba(0,0,0,.42) 44%,transparent 80%),linear-gradient(180deg,transparent 55%,rgba(0,0,0,.4))}
+:global(.sig) :global(.wrap){position:relative;z-index:2}
+:global(.sig) :global(.eyebrow){color:rgba(255,255,255,.92)}
+:global(.sig) :global(.rule){background:#fff;opacity:.6;margin-left:0;margin-right:auto}
+:global(.sig) h2{color:#fff;font-size:clamp(38px,5.2vw,80px);line-height:1.06;max-width:16ch;text-shadow:0 2px 30px rgba(0,0,0,.4)}
+:global(.sig) :global(.em){color:#fff}
+:global(.sig) p{color:#fff;max-width:48ch;margin-top:22px;text-shadow:0 1px 2px rgba(0,0,0,.55)}
+@media(max-width:720px){.hero-prt :global(.hero-cta-row){gap:20px}:global(.btn-square){width:100%;justify-content:center}}
+@media(prefers-reduced-motion:reduce){.hero-prt :global(.hs-copy){animation:none;opacity:1;transform:none}}

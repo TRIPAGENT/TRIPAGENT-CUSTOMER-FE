@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "title": "Stay Intelligence — TripAgent",
+    "description": "How your advisor chooses the suite, the villa or the room itself — and how preferred-partner programmes add upgrades, breakfast and credits to a stay."
+  },
+  "hero": {
+    "back": {
+      "label": "← Hotels",
+      "href": "hotels.html"
+    },
+    "eyebrow": "Stay Intelligence",
+    "headingHtml": "The <span class=\"it\">right</span> room,<br/>not just a room.",
+    "lede": "A quiet library on staying well. When a suite is worth it. When a villa beats a hotel. How the room itself is chosen — and how preferred-partner programmes add upgrades, breakfast and credits. Two rooms at the same rate can be worlds apart. This is how we tell.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fstay-guides.jpg&w=2560&q=80",
+    "buttons": [
+      {
+        "label": "Plan a trip",
+        "href": "enquire.html",
+        "kind": "square"
+      },
+      {
+        "label": "How we book stays",
+        "href": "hotels.html",
+        "kind": "text"
+      }
+    ]
+  },
+  "pullq": {
+    "quoteHtml": "The room is easy to book.<br/>The <span class=\"it\">right</span> room isn't.",
+    "lede": "A guide can name a category and list what a programme may include. It can't read the floor plan, hold the upgrade in writing, or have the property expecting you by name. Read these to know the questions. Your advisor answers them."
+  },
+  "routeGuides": {
+    "eyebrow": "Choosing the stay",
+    "heading": "How a stay is really chosen.",
+    "lede": "The suite, the villa, the room, the occasion — and how your advisor weighs each one for you.",
+    "cards": [
+      {
+        "route": "Suite vs. room",
+        "heading": "When a suite is worth it",
+        "body": "What a suite actually buys you, and the nights it pays for itself. The honest line between the upgrade and a good room.",
+        "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=1280&q=80",
+        "href": "suites-worth-it.html"
+      },
+      {
+        "route": "Villa vs. hotel",
+        "heading": "When a villa beats a hotel",
+        "body": "Space, privacy and a kitchen of your own against a hotel's service and address. When each one wins.",
+        "image": "/_vercel/image?url=%2Fimg%2Fvilla-mallorca-pool.jpg&w=1280&q=80",
+        "href": "villa-or-hotel.html"
+      },
+      {
+        "route": "The room itself",
+        "heading": "How the right room is chosen",
+        "body": "Two rooms, one rate, worlds apart. The view, the floor, the wing — and how your advisor asks for the right one.",
+        "image": "/_vercel/image?url=%2Fimg%2Fsuite-bath-welcome.jpg&w=1280&q=80",
+        "href": "the-right-room.html"
+      },
+      {
+        "route": "For families",
+        "heading": "Stays that work for families",
+        "body": "Connecting rooms, a villa with a pool, the layout that keeps everyone together — and what to confirm before you go.",
+        "image": "/_vercel/image?url=%2Fimg%2Friviera-pool-dining.jpg&w=1280&q=80",
+        "href": "family-stays.html"
+      },
+      {
+        "route": "For two",
+        "heading": "A honeymoon, done right",
+        "body": "Romance without the cliché — the right suite, the quiet table, and an occasion the property already knows about.",
+        "image": "/_vercel/image?url=%2Fimg%2Fcouple-rooftop-sunset.jpg&w=1280&q=80",
+        "href": "honeymoon-stays.html"
+      },
+      {
+        "route": "Preferred partners",
+        "heading": "How programmes add value",
+        "body": "Upgrades, breakfast, a property credit, a later checkout — what preferred-partner programmes include, and how they reach you.",
+        "image": "/_vercel/image?url=%2Fimg%2Fterrace-espresso-amalfi.jpg&w=1280&q=80",
+        "href": "hotel-programmes.html"
+      }
+    ]
+  },
+  "productGuides": {
+    "eyebrow": "The advantage",
+    "heading": "Read a stay like an advisor.",
+    "cards": [
+      {
+        "eyebrow": "Programme guide",
+        "heading": "Preferred-partner programmes, explained",
+        "body": "How recognised relationships add an upgrade, breakfast, a resort credit and a later checkout to the same room.",
+        "image": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80",
+        "href": "hotel-programmes.html"
+      },
+      {
+        "eyebrow": "Category guide",
+        "heading": "Suite vs. room — the honest line",
+        "body": "When the second room, the larger terrace and the lounge are worth the premium — and when a good room is the smarter call.",
+        "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+        "href": "suites-worth-it.html"
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Our promise",
+    "headingHtml": "Knowing the room is one thing.<br/>Securing it is <span class=\"it\">ours</span>.",
+    "lede": "These guides set the questions. Your advisor asks for the right room and the upgrade in writing, holds it while you decide, and briefs the property so you arrive expected — with the inclusions a public rate never carries.",
+    "buttons": [
+      {
+        "label": "Plan a trip",
+        "href": "enquire.html"
+      },
+      {
+        "label": "By invitation",
+        "href": "invitation.html"
+      }
+    ]
+  }
+}

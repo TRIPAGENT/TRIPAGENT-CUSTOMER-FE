@@ -1,0 +1,374 @@
+{
+  "seo": {
+    "title": "The Journal — Where to go, where to stay · TripAgent",
+    "description": "A trend-led journal of destination and stay recommendations from TripAgent's advisors — the new openings and the places worth your year, with a quiet word on how we secure them."
+  },
+  "magazine": {
+    "kicker": "World of TripAgent",
+    "heading": "The Journal",
+    "lede": "Where to go and where to stay, read against the year — the cabin, the suite, the visa, and the quiet art of arriving well.",
+    "tabs": [
+      {
+        "cat": "all",
+        "label": "All"
+      },
+      {
+        "cat": "cabin",
+        "label": "The Cabin"
+      },
+      {
+        "cat": "stay",
+        "label": "The Stay"
+      },
+      {
+        "cat": "visas",
+        "label": "Visas & Entry"
+      },
+      {
+        "cat": "art",
+        "label": "The Art of Travel"
+      },
+      {
+        "cat": "seasons",
+        "label": "Seasons"
+      }
+    ],
+    "featured": {
+      "href": "journal-the-art-of-arrival.html",
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-the-art-of-arrival.jpg&w=1600&q=80",
+      "kicker": "The Art of Travel",
+      "heading": "The art of arrival.",
+      "body": "The right car, the right door, a room already prepared — what the first hour of a journey does to all the ones after it.",
+      "meta": "6 min read"
+    },
+    "cards": [
+      {
+        "cat": "cabin",
+        "href": "journal-business-or-first.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-business-or-first.jpg&w=1024&q=80",
+        "kicker": "The Cabin",
+        "heading": "Business, or first?",
+        "meta": "7 min read"
+      },
+      {
+        "cat": "cabin",
+        "href": "journal-the-overnight-flight.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-the-overnight-flight.jpg&w=1024&q=80",
+        "kicker": "The Cabin",
+        "heading": "The overnight flight.",
+        "meta": "7 min read"
+      },
+      {
+        "cat": "stay",
+        "href": "journal-the-villa-week.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-the-villa-week.jpg&w=1024&q=80",
+        "kicker": "The Stay",
+        "heading": "The villa week.",
+        "meta": "7 min read"
+      },
+      {
+        "cat": "stay",
+        "href": "journal-the-quiet-suite.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-the-quiet-suite.jpg&w=1024&q=80",
+        "kicker": "The Stay",
+        "heading": "The quiet suite.",
+        "meta": "6 min read"
+      },
+      {
+        "cat": "cabin",
+        "href": "journal-private-terminals.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-private-terminals.jpg&w=1024&q=80",
+        "kicker": "The Cabin",
+        "heading": "The private terminal.",
+        "meta": "6 min read"
+      },
+      {
+        "cat": "cabin",
+        "href": "journal-the-right-seat.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-the-right-seat.jpg&w=1024&q=80",
+        "kicker": "The Cabin",
+        "heading": "The right seat.",
+        "meta": "7 min read"
+      },
+      {
+        "cat": "cabin",
+        "href": "journal-the-art-of-the-upgrade.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-the-art-of-the-upgrade.jpg&w=1024&q=80",
+        "kicker": "The Cabin",
+        "heading": "The art of the upgrade.",
+        "meta": "6 min read"
+      },
+      {
+        "cat": "cabin",
+        "href": "journal-points-vs-cash.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-points-vs-cash.jpg&w=1024&q=80",
+        "kicker": "The Cabin",
+        "heading": "Points, or cash?",
+        "meta": "7 min read"
+      },
+      {
+        "cat": "visas",
+        "href": "journal-schengen-first-time.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-schengen-first-time.jpg&w=1024&q=80",
+        "kicker": "Visas & Entry",
+        "heading": "Your first Schengen.",
+        "meta": "8 min read"
+      },
+      {
+        "cat": "visas",
+        "href": "journal-evisa-or-sticker.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-evisa-or-sticker.jpg&w=1024&q=80",
+        "kicker": "Visas & Entry",
+        "heading": "eVisa, or sticker visa?",
+        "meta": "6 min read"
+      },
+      {
+        "cat": "visas",
+        "href": "journal-visa-free-for-indians.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-visa-free-for-indians.jpg&w=1024&q=80",
+        "kicker": "Visas & Entry",
+        "heading": "Where Indians travel easily.",
+        "meta": "6 min read"
+      },
+      {
+        "cat": "art",
+        "href": "journal-the-return-home.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-the-return-home.jpg&w=1024&q=80",
+        "kicker": "The Art of Travel",
+        "heading": "The return home.",
+        "meta": "5 min read"
+      },
+      {
+        "cat": "art",
+        "href": "journal-the-2am-save.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-the-2am-save.jpg&w=1024&q=80",
+        "kicker": "The Art of Travel",
+        "heading": "The 2am save.",
+        "meta": "5 min read"
+      },
+      {
+        "cat": "art",
+        "href": "journal-long-haul-with-children.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-long-haul-with-children.jpg&w=1024&q=80",
+        "kicker": "The Art of Travel",
+        "heading": "Long-haul, with children.",
+        "meta": "7 min read"
+      },
+      {
+        "cat": "seasons",
+        "href": "journal-india-to-europe-spring.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-india-to-europe-spring.jpg&w=1024&q=80",
+        "kicker": "Seasons",
+        "heading": "India to Europe, in spring.",
+        "meta": "7 min read"
+      },
+      {
+        "cat": "seasons",
+        "href": "journal-multi-city-europe.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-multi-city-europe.jpg&w=1024&q=80",
+        "kicker": "Seasons",
+        "heading": "Europe, city by city.",
+        "meta": "8 min read"
+      },
+      {
+        "cat": "seasons",
+        "href": "journal-shoulder-season.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-shoulder-season.jpg&w=1024&q=80",
+        "kicker": "Seasons",
+        "heading": "The case for the shoulder.",
+        "meta": "6 min read"
+      },
+      {
+        "cat": "seasons",
+        "href": "journal-monsoon-escapes.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-monsoon-escapes.jpg&w=1024&q=80",
+        "kicker": "Seasons",
+        "heading": "When the rains come.",
+        "meta": "7 min read"
+      },
+      {
+        "cat": "seasons",
+        "href": "journal-diwali-getaways.html",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fjournal-diwali-getaways.jpg&w=1024&q=80",
+        "kicker": "Seasons",
+        "heading": "Away for Diwali.",
+        "meta": "7 min read"
+      }
+    ]
+  },
+  "library": {
+    "kicker": "The Library",
+    "heading": "The reading room.",
+    "lede": "Everything worth reading before you go — read against the seasons, against the mood, and the quiet craft of travelling well. The essays above; the indexes below. When you're ready to plan, your advisor is one tap away.",
+    "season": {
+      "leadLabel": "When to go — tell us when, we'll tell you where →",
+      "leadHref": "when-to-go.html",
+      "links": [
+        {
+          "label": "Away in January",
+          "href": "go-in-january.html"
+        },
+        {
+          "label": "Away in February",
+          "href": "go-in-february.html"
+        },
+        {
+          "label": "Away in March",
+          "href": "go-in-march.html"
+        },
+        {
+          "label": "Away in April",
+          "href": "go-in-april.html"
+        },
+        {
+          "label": "Away in May",
+          "href": "go-in-may.html"
+        },
+        {
+          "label": "Away in June",
+          "href": "go-in-june.html"
+        },
+        {
+          "label": "Away in July",
+          "href": "go-in-july.html"
+        },
+        {
+          "label": "Away in August",
+          "href": "go-in-august.html"
+        },
+        {
+          "label": "Away in September",
+          "href": "go-in-september.html"
+        },
+        {
+          "label": "Away in October",
+          "href": "go-in-october.html"
+        },
+        {
+          "label": "Away in November",
+          "href": "go-in-november.html"
+        },
+        {
+          "label": "Away in December",
+          "href": "go-in-december.html"
+        }
+      ]
+    },
+    "mood": {
+      "leadLabel": "The collections — every way to travel →",
+      "leadHref": "collections.html",
+      "links": [
+        {
+          "label": "Honeymoons",
+          "href": "browse-honeymoon.html"
+        },
+        {
+          "label": "Romantic escapes",
+          "href": "browse-romance.html"
+        },
+        {
+          "label": "With children",
+          "href": "browse-family-kids.html"
+        },
+        {
+          "label": "Three generations",
+          "href": "browse-multigen.html"
+        },
+        {
+          "label": "For the food",
+          "href": "browse-food.html"
+        },
+        {
+          "label": "Wine country",
+          "href": "browse-wine.html"
+        },
+        {
+          "label": "Art & museums",
+          "href": "browse-art.html"
+        },
+        {
+          "label": "Culture & history",
+          "href": "browse-culture.html"
+        },
+        {
+          "label": "Beach & sun",
+          "href": "browse-beach.html"
+        },
+        {
+          "label": "Safaris",
+          "href": "browse-safari.html"
+        },
+        {
+          "label": "Wildlife",
+          "href": "browse-wildlife.html"
+        },
+        {
+          "label": "Skiing",
+          "href": "browse-ski.html"
+        },
+        {
+          "label": "Snow & mountains",
+          "href": "browse-snow.html"
+        },
+        {
+          "label": "Spa & retreats",
+          "href": "browse-spa.html"
+        },
+        {
+          "label": "Wellness & calm",
+          "href": "browse-wellness.html"
+        },
+        {
+          "label": "Slow & quiet",
+          "href": "browse-slow.html"
+        },
+        {
+          "label": "Adventure",
+          "href": "browse-adventure.html"
+        },
+        {
+          "label": "Diving & snorkelling",
+          "href": "browse-dive.html"
+        },
+        {
+          "label": "Sacred places",
+          "href": "browse-pilgrimage.html"
+        },
+        {
+          "label": "After dark",
+          "href": "browse-nightlife.html"
+        }
+      ]
+    },
+    "guides": {
+      "leadLabel": "Your first trip abroad →",
+      "leadHref": "first-international-trip.html",
+      "links": [
+        {
+          "label": "Flight guides — routes from India",
+          "href": "flight-guides.html"
+        },
+        {
+          "label": "The cabin, class by class",
+          "href": "cabin-guide.html"
+        },
+        {
+          "label": "Business, or first?",
+          "href": "business-vs-first.html"
+        },
+        {
+          "label": "Stay guides — the maison groups",
+          "href": "stay-guides.html"
+        },
+        {
+          "label": "Visa guides — for the Indian passport",
+          "href": "visa-guides.html"
+        },
+        {
+          "label": "Points & payments",
+          "href": "points.html"
+        }
+      ]
+    }
+  }
+}

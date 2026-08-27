@@ -1,0 +1,161 @@
+{
+  "seo": {
+    "title": "Points & payments — TripAgent",
+    "description": "Your bank points and your card, in one clear transaction. Sell prices only. No hidden markups. The fee shown before you confirm."
+  },
+  "hero": {
+    "eyebrow": "Points & payments",
+    "headingHtml": "Your points,<br/>put to <span class=\"it\">good use</span>.",
+    "lede": "Years of earning, spent like cash. Points and card together, in one clear transaction. Nothing hidden.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fpoints.jpg&w=2560&q=80",
+    "metaK": "Points + card · one tap",
+    "metaT": "Sell prices only. Nothing hidden."
+  },
+  "howItWorks": {
+    "eyebrow": "How it works",
+    "headingHtml": "Four steps. No <span class=\"it\">guesswork</span>.",
+    "lede": "Points are valuable and rarely explained well. We make yours the simplest part of the trip. You pay the smart way; we do the maths.",
+    "steps": [
+      {
+        "n": "1",
+        "heading": "Tell us your cards & programmes",
+        "body": "Once. We note your cards and programmes — bank, airline, hotel — and keep them on file for every trip."
+      },
+      {
+        "n": "2",
+        "heading": "We find where points beat cash",
+        "body": "For each fare or room, we find where your points are worth most, and where they are better kept. You see the recommendation, not a spreadsheet."
+      },
+      {
+        "n": "3",
+        "heading": "Pay points + card, one transaction",
+        "body": "Settle your split in one clear checkout — points for one part, card for the rest. Taxes and any fee shown, before you confirm."
+      },
+      {
+        "n": "4",
+        "heading": "Earn where it's smart",
+        "body": "The card part keeps earning as usual. When it is wiser to earn than to spend, your advisor says so."
+      }
+    ]
+  },
+  "worked": {
+    "eyebrow": "A worked example",
+    "headingHtml": "A business-class fare, paid the <span class=\"it\">smart</span> way.",
+    "lede": "An illustration, not a quote. Your advisor builds the real split around the points you hold.",
+    "splitPtsWidth": "60%",
+    "splitCardWidth": "40%",
+    "keyPts": "60% reward points",
+    "keyCard": "40% card",
+    "tag": "Indicative example",
+    "route": "Mumbai → London, business class",
+    "fare": "Total fare ₹4,20,000 · taxes included",
+    "rows": [
+      {
+        "label": "Paid with reward points (60%)",
+        "value": "₹2,52,000",
+        "total": false
+      },
+      {
+        "label": "Paid on card (40%)",
+        "value": "₹1,68,000",
+        "total": false
+      },
+      {
+        "label": "Taxes & airline charges",
+        "value": "shown, included",
+        "total": false
+      },
+      {
+        "label": "Hidden markup",
+        "value": "₹0",
+        "total": false
+      },
+      {
+        "label": "You pay, in one tap",
+        "value": "₹4,20,000",
+        "total": true
+      }
+    ],
+    "note": "Figures are illustrative and rounded. Points value varies by programme; your advisor confirms the exact split and rate before you confirm."
+  },
+  "whatWorks": {
+    "eyebrow": "What works",
+    "heading": "The currencies we put to work.",
+    "lede": "The reward currencies Indian travellers actually hold — banks, airlines, hotels. Tell us yours; we tell you where each goes furthest.",
+    "tiles": [
+      {
+        "heading": "Leading Indian bank reward programmes",
+        "body": "The points and miles your premium and co-branded cards earn, put to serious use against real travel."
+      },
+      {
+        "heading": "Major airline & hotel loyalty",
+        "body": "Frequent-flyer miles and hotel points, applied to fares, rooms and suites — including award space when it's better value."
+      },
+      {
+        "heading": "Transfer partners",
+        "body": "Where moving points between programmes is worth more, we map the route — so a balance in one place can pay in another."
+      }
+    ],
+    "note": "Programmes and eligibility vary, and are confirmed for your cards and bookings. Categories shown are indicative, not a list of partnerships."
+  },
+  "transparency": {
+    "eyebrow": "Transparency",
+    "headingHtml": "What you're quoted is what you <span class=\"it\">pay</span>.",
+    "columns": [
+      [
+        "<b>Sell prices only.</b> The real price of the fare or room — never quietly inflated on its way to you.",
+        "<b>No hidden markups.</b> Taxes and airline charges itemised. Nothing buried in the total."
+      ],
+      [
+        "<b>The fee is disclosed first.</b> Any service fee is shown before you confirm, never after.",
+        "<b>Secure by default.</b> Payments run through Razorpay on PCI-DSS compliant infrastructure. We never store your full card details."
+      ]
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "heading": "Good to know",
+    "items": [
+      {
+        "summary": "Can I mix points and cash?",
+        "bodyHtml": "Yes. Almost any booking can be part points, part card, in one checkout. You choose the split, or your advisor suggests one — all points, all card, or anything between.",
+        "open": true
+      },
+      {
+        "summary": "Which programmes can I use?",
+        "bodyHtml": "Leading Indian bank programmes, major airline and hotel loyalty, and, where they help, their transfer partners. Tell us what you hold; we'll tell you where each one is worth using, and where it isn't.",
+        "open": false
+      },
+      {
+        "summary": "Do I still earn points when I pay?",
+        "bodyHtml": "Yes. The card part earns as usual. Where it is smarter to earn than to spend, your advisor will say so.",
+        "open": false
+      },
+      {
+        "summary": "Is there a markup on what I pay?",
+        "bodyHtml": "No hidden markup. Sell prices, taxes and charges itemised, any service fee shown before you confirm. What you are quoted is what you pay.",
+        "open": false
+      },
+      {
+        "summary": "Is payment secure?",
+        "bodyHtml": "Yes. Payments run through Razorpay on PCI-DSS compliant infrastructure — a regulated Indian gateway. We never store your full card details.",
+        "open": false
+      }
+    ]
+  },
+  "cta": {
+    "headingHtml": "Let your points <span class=\"em\">carry you further</span>.",
+    "lede": "Once you're a member, your advisor maps your programmes the same day — so your next trip is paid the smart way.",
+    "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=2048&q=80",
+    "buttons": [
+      {
+        "label": "Enter your invitation",
+        "href": "invitation.html"
+      },
+      {
+        "label": "See membership",
+        "href": "membership.html"
+      }
+    ]
+  }
+}

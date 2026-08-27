@@ -1,0 +1,123 @@
+{
+  "seo": {
+    "title": "Business vs. First — When Each Is Worth It — TripAgent",
+    "description": "The honest line between business and first, by flight length and aircraft. When first is worth it, when the best business seat is the smarter buy, and how your advisor secures it ex-India."
+  },
+  "hero": {
+    "back": {
+      "label": "← Flight Intelligence",
+      "href": "flight-guides.html"
+    },
+    "eyebrow": "Product guide · The cabins",
+    "headingHtml": "Business or first?<br/>The honest <span class=\"it\">line</span>.",
+    "lede": "First isn't simply better than business. It's a different thing — worth it on some flights, not on others. Here's how we judge it.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fbusiness-vs-first.jpg&w=2560&q=80",
+    "ctaGold": {
+      "label": "Ask your advisor",
+      "href": "enquire.html"
+    },
+    "ctaText": {
+      "label": "How we decide",
+      "href": "#decide"
+    },
+    "metaK": "Our specialty",
+    "metaT": "The front of the aircraft."
+  },
+  "compare": {
+    "eyebrow": "What they really are",
+    "heading": "Two cabins, two ideas.",
+    "lede": "Modern business has closed the gap. On many aircraft, it's the value choice. First earns its place where it gives you what business can't — space, privacy and a ground experience that change the journey.",
+    "cols": [
+      {
+        "tag": "Business class",
+        "heading": "The sensible flat-bed.",
+        "items": [
+          "On the best aircraft: 1-2-1 layout, direct aisle access, a fully flat bed.",
+          "Quietly private — sliding doors and high partitions on the newest \"suite\" cabins.",
+          "Lounge, priority and good dining, without the first-class premium.",
+          "The right answer on most routes, and the benchmark we measure against."
+        ]
+      },
+      {
+        "tag": "First class",
+        "heading": "The private suite.",
+        "items": [
+          "A separate suite — often with a door, a wider seat and a distinct bed.",
+          "On flagships, what business doesn't have: an onboard shower, a bar, à-la-carte dining.",
+          "A different ground experience — dedicated lounges, sometimes a private terminal and transfer.",
+          "Worth it only when it's truly first, not a slightly wider seat with the same bed."
+        ]
+      }
+    ]
+  },
+  "decide": {
+    "eyebrow": "How we decide",
+    "heading": "By the flight, not the brochure.",
+    "lede": "The right cabin depends on the length, the time of day, the aircraft and what you need on arrival. We weigh all four — never just the name on the fare.",
+    "items": [
+      {
+        "bodyHtml": "<strong>Length first.</strong> Under five or six hours, a flat-bed is a bonus, not a need, and first is rarely justified. Beyond ten hours overnight, a true bed matters — and on the longest flights, a real first suite can be worth it."
+      },
+      {
+        "bodyHtml": "<strong>Day or night.</strong> An overnight rewards a bed and privacy. A daytime flight forgives a good seat. In daylight, business often beats first at night-time prices."
+      },
+      {
+        "bodyHtml": "<strong>The aircraft, not the flight number.</strong> \"First\" on one tail is a true suite; on another, a wide recliner. \"Business\" can be a 1-2-1 suite or a dated 2-2-2. We confirm the metal before we advise."
+      },
+      {
+        "bodyHtml": "<strong>The ground experience.</strong> Where first adds a private terminal, a chauffeur transfer or a flagship lounge, the value lives as much on the ground as in the air. We weigh it in."
+      },
+      {
+        "bodyHtml": "<strong>Miles and value.</strong> First often prices far better on points than in cash. We compare cash and award value across both cabins, and tell you where the money is best spent."
+      }
+    ],
+    "id": "decide"
+  },
+  "firstWins": {
+    "eyebrow": "When first wins",
+    "heading": "The case for the suite.",
+    "ledes": [
+      "First is worth it when it's a real private suite on a long overnight, or when the ground experience is the point. On the right flagship, it's a different journey — not just a wider seat.",
+      "It isn't worth it when \"first\" is a token cabin barely beyond business, when the flight is short, or when the best business seat on the route already gives you privacy and a flat-bed. We'll always tell you which it is."
+    ],
+    "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+    "imageAlt": "First class private suite",
+    "flipped": false
+  },
+  "signature": {
+    "by": "The honest answer",
+    "pullHtml": "The best business beats a token first. We'll tell you when that's the case.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh3%2Fbusiness-vs-first.jpg&w=2560&q=80"
+  },
+  "businessWins": {
+    "eyebrow": "When business wins",
+    "heading": "The value is often up front.",
+    "ledes": [
+      "On the newest aircraft, a \"suite\" business cabin gives you a door, a fully flat bed and direct aisle access — most of what first once promised, for far less than first.",
+      "On shorter flights, daytime departures, or routes where first is only a token cabin, the best business seat is simply the smarter buy. Spend the difference where it changes the journey."
+    ],
+    "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+    "imageAlt": "Modern business class suite cabin",
+    "flipped": true
+  },
+  "ask": {
+    "eyebrow": "The short version",
+    "text": "A long overnight, a true suite, or a ground experience that matters — first can be worth it. Shorter, daytime, or a token first — business is the smarter buy. Your advisor judges it flight by flight."
+  },
+  "cta": {
+    "eyebrow": "Your move",
+    "heading": "Not sure which to book?",
+    "lede": "Tell us the route and your dates. We'll tell you honestly whether first is worth it or the best business cabin is the smarter call — and secure the seat.",
+    "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+    "buttons": [
+      {
+        "label": "Ask your advisor →",
+        "href": "enquire.html"
+      },
+      {
+        "label": "Read a cabin by aircraft",
+        "href": "cabin-guide.html"
+      }
+    ]
+  }
+}

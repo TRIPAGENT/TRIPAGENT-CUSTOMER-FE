@@ -1,0 +1,148 @@
+{
+  "seo": {
+    "title": "Plan a trip — TripAgent",
+    "description": "Tell us where you'd like to go, and when. Your advisor reads it, shapes the journey, and is in touch within the hour."
+  },
+  "aside": {
+    "eyebrow": "Plan a trip",
+    "headingHtml": "Tell us the trip.<br/>We take it <span class=\"it\">from here</span>.",
+    "lede": "A few lines are enough. Your named advisor reads them, shapes the journey, and comes back to you — flights, hotels and visas, all of it.",
+    "incl": [
+      "A real advisor replies, within the hour.",
+      "Nothing to chase. The arranging is ours.",
+      "The fare you see is the fare. No hidden markups."
+    ]
+  },
+  "form": {
+    "heading": "Start your enquiry",
+    "muted": "Just the essentials, and a line about the trip if you like. Your advisor carries the rest.",
+    "fields": [
+      {
+        "id": "f-name",
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "labelHtml": "Full name",
+        "placeholder": "Your name",
+        "required": true,
+        "options": null
+      },
+      {
+        "id": "f-phone",
+        "tag": "input",
+        "type": "tel",
+        "name": "phone",
+        "labelHtml": "Mobile",
+        "placeholder": "+91",
+        "required": true,
+        "options": null
+      },
+      {
+        "id": "f-dest",
+        "tag": "input",
+        "type": "text",
+        "name": "destination",
+        "labelHtml": "Where to? <span style=\"text-transform:none;letter-spacing:0;color:var(--stone)\">— or the trip you've been building</span>",
+        "placeholder": "Maldives, Amalfi, Tokyo…",
+        "required": false,
+        "options": null
+      },
+      {
+        "id": "f-email",
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "labelHtml": "Email",
+        "placeholder": "you@email.com",
+        "required": true,
+        "options": null
+      },
+      {
+        "id": "f-dates",
+        "tag": "input",
+        "type": "text",
+        "name": "dates",
+        "labelHtml": "Rough dates / month",
+        "placeholder": "Late November, or flexible",
+        "required": false,
+        "options": null
+      },
+      {
+        "id": "f-travellers",
+        "tag": "input",
+        "type": "number",
+        "name": "travellers",
+        "labelHtml": "Travellers",
+        "placeholder": "2",
+        "required": false,
+        "options": null
+      },
+      {
+        "id": "f-type",
+        "tag": "select",
+        "type": null,
+        "name": "trip_type",
+        "labelHtml": "Trip type",
+        "placeholder": null,
+        "required": false,
+        "options": [
+          "Leisure",
+          "Family",
+          "Honeymoon",
+          "Business",
+          "Special occasion"
+        ]
+      },
+      {
+        "id": "f-cabin",
+        "tag": "select",
+        "type": null,
+        "name": "cabin",
+        "labelHtml": "Cabin preference",
+        "placeholder": null,
+        "required": false,
+        "options": [
+          "Economy",
+          "Premium economy",
+          "Business",
+          "First"
+        ]
+      },
+      {
+        "id": "f-budget",
+        "tag": "select",
+        "type": null,
+        "name": "budget",
+        "labelHtml": "Indicative budget",
+        "placeholder": null,
+        "required": false,
+        "options": [
+          "Rather not say",
+          "Under ₹2 lakh",
+          "₹2–5 lakh",
+          "₹5–10 lakh",
+          "₹10–25 lakh",
+          "₹25 lakh +"
+        ]
+      },
+      {
+        "id": "f-notes",
+        "tag": "textarea",
+        "type": null,
+        "name": "notes",
+        "labelHtml": "Anything else",
+        "placeholder": "Occasion, who's travelling, hotels you love, must-dos…",
+        "required": false,
+        "options": null
+      }
+    ],
+    "trust": "Your details stay private. A person reads every enquiry, never a bot.",
+    "submitLabel": "Hand it to my advisor",
+    "emailPrompt": "Rather write to us directly?",
+    "emailCta": {
+      "label": "Email your advisor",
+      "href": "mailto:maison@tripsure.com"
+    }
+  },
+  "thanksHeadingHtml": "It's <span class=\"it\">in hand</span>."
+}

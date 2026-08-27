@@ -1,0 +1,210 @@
+{
+  "seo": {
+    "title": "Journeys — the great multi-city trips — TripAgent",
+    "description": "The great multi-city routes — Golden Triangle, Classic Japan, the Greek Isles and more, planned night by night by your advisor."
+  },
+  "hero": {
+    "eyebrow": "Journeys",
+    "heading": "The great multi-city trips.",
+    "lede": "Routes worth taking as one trip. The right order, the right number of nights, planned with your advisor."
+  },
+  "cards": [
+    {
+      "meta": "7 nights · 3 stops",
+      "titleHtml": "The Golden Triangle",
+      "body": "The founding circuit of Indian travel, paced so no city is rushed and Agra is seen at dawn.",
+      "cities": "New Delhi · Agra · Jaipur",
+      "href": "/route-golden-triangle"
+    },
+    {
+      "meta": "11 nights · 4 stops",
+      "titleHtml": "Royal Rajasthan",
+      "body": "Four princely cities in descending scale, ending on the lake so the desert gives way to water.",
+      "cities": "Jaipur · Jodhpur · Jaisalmer · Udaipur",
+      "href": "/route-royal-rajasthan"
+    },
+    {
+      "meta": "8 nights · 3 stops",
+      "titleHtml": "Kerala, Coast to Hills",
+      "body": "From colonial port up to the tea hills and down to the still water, following the land as it descends.",
+      "cities": "Kochi · Munnar · Alleppey",
+      "href": "/route-kerala-backwaters"
+    },
+    {
+      "meta": "9 nights · 2 stops",
+      "titleHtml": "The Himalayan North",
+      "body": "Vale of Kashmir first, then the high desert of Ladakh, so the body climbs by degrees.",
+      "cities": "Srinagar · Leh-Ladakh",
+      "href": "/route-himalayan-north"
+    },
+    {
+      "meta": "9 nights · 3 stops",
+      "titleHtml": "Classic Japan",
+      "body": "The capital, the old court city, and the kitchen of the nation, linked by the fastest train on earth.",
+      "cities": "Tokyo · Kyoto · Osaka",
+      "href": "/route-classic-japan"
+    },
+    {
+      "meta": "9 nights · 3 stops",
+      "titleHtml": "Grand Italy",
+      "body": "The classic triangle, taken slowly — antiquity, the Renaissance, then the lagoon.",
+      "cities": "Rome · Florence · Venice",
+      "href": "/route-grand-italy"
+    },
+    {
+      "meta": "7 nights · 2 stops",
+      "titleHtml": "Rome &amp; the Amalfi Coast",
+      "body": "The eternal city first, then down to the cliffs to let the pace fall away.",
+      "cities": "Rome · The Amalfi Coast",
+      "href": "/route-rome-amalfi"
+    },
+    {
+      "meta": "5 nights · 2 stops",
+      "titleHtml": "Milan &amp; the Italian Lakes",
+      "body": "A short city opening, then the water and mountains of Como.",
+      "cities": "Milan · Lake Como",
+      "href": "/route-italian-lakes-milan"
+    },
+    {
+      "meta": "8 nights · 3 stops",
+      "titleHtml": "The Swiss Alps",
+      "body": "A gentle arrival, the Matterhorn, then the light of the Engadine.",
+      "cities": "Zurich · Zermatt · St. Moritz",
+      "href": "/route-swiss-alps"
+    },
+    {
+      "meta": "8 nights · 2 stops",
+      "titleHtml": "Paris &amp; the Riviera",
+      "body": "The city in full, then down to the sea and the light of the Côte d'Azur.",
+      "cities": "Paris · Nice & the Riviera",
+      "href": "/route-paris-riviera"
+    },
+    {
+      "meta": "7 nights · 2 stops",
+      "titleHtml": "Barcelona &amp; Madrid",
+      "body": "Mediterranean modernism, then the weight of the capital.",
+      "cities": "Barcelona · Madrid",
+      "href": "/route-spain-classic"
+    },
+    {
+      "meta": "9 nights · 3 stops",
+      "titleHtml": "Athens &amp; the Greek Isles",
+      "body": "Antiquity first, then two islands with distinct tempers.",
+      "cities": "Athens · Santorini · Mykonos",
+      "href": "/route-greek-isles"
+    },
+    {
+      "meta": "6 nights · 2 stops",
+      "titleHtml": "Istanbul &amp; Cappadocia",
+      "body": "The city of two continents, then the quiet of the high plateau.",
+      "cities": "Istanbul · Cappadocia",
+      "href": "/route-turkiye-classic"
+    },
+    {
+      "meta": "6 nights · 2 stops",
+      "titleHtml": "Lisbon &amp; Porto",
+      "body": "The light of the south, then the river and the wine.",
+      "cities": "Lisbon · Porto",
+      "href": "/route-portugal-classic"
+    },
+    {
+      "meta": "6 nights · 2 stops",
+      "titleHtml": "Dubai &amp; Abu Dhabi",
+      "body": "The theatre of the new city, then the calmer, cultural capital.",
+      "cities": "Dubai · Abu Dhabi",
+      "href": "/route-emirates-gulf"
+    },
+    {
+      "meta": "9 nights · 3 stops",
+      "titleHtml": "Bangkok &amp; the Andaman Coast",
+      "body": "City first, then a slow unwind west into the Andaman Sea.",
+      "cities": "Bangkok · Phuket · Krabi",
+      "href": "/route-thailand-beach-city"
+    },
+    {
+      "meta": "10 nights · 3 stops",
+      "titleHtml": "Vietnam, North to South",
+      "body": "The country read top to bottom, from northern mist to the Mekong's warmth.",
+      "cities": "Hanoi · Hoi An & Da Nang · Ho Chi Minh City",
+      "href": "/route-vietnam-north-south"
+    },
+    {
+      "meta": "8 nights · 2 stops",
+      "titleHtml": "Singapore &amp; Bali",
+      "body": "A polished city overture before the island slows everything down.",
+      "cities": "Singapore · Bali",
+      "href": "/route-bali-singapore"
+    },
+    {
+      "meta": "6 nights · 2 stops",
+      "titleHtml": "Colombo &amp; the Southern Coast",
+      "body": "A brief city start, then the fort towns and beaches of the south.",
+      "cities": "Colombo · Galle",
+      "href": "/route-sri-lanka-south"
+    },
+    {
+      "meta": "9 nights · 2 stops",
+      "titleHtml": "Safari &amp; Zanzibar",
+      "body": "The plains of the Mara first, then the Indian Ocean to soften the landing.",
+      "cities": "Nairobi & the Mara · Zanzibar",
+      "href": "/route-kenya-zanzibar"
+    },
+    {
+      "meta": "6 nights · 2 stops",
+      "titleHtml": "Lima to Machu Picchu",
+      "body": "Coast to high Andes, ending at the citadel above the clouds.",
+      "cities": "Lima · Cusco & Machu Picchu",
+      "href": "/route-peru-inca"
+    },
+    {
+      "meta": "9 nights · 3 stops",
+      "titleHtml": "California &amp; Las Vegas",
+      "body": "Pacific light and hills, then a night of the desert's excess.",
+      "cities": "San Francisco · Los Angeles · Las Vegas",
+      "href": "/route-usa-west"
+    },
+    {
+      "meta": "8 nights · 2 stops",
+      "titleHtml": "New York &amp; Miami",
+      "body": "The city's pace, then warm water and slower days.",
+      "cities": "New York · Miami",
+      "href": "/route-usa-east-sun"
+    },
+    {
+      "meta": "8 nights · 2 stops",
+      "titleHtml": "Sydney &amp; Melbourne",
+      "body": "Harbour and headland, then the quiet confidence of the south.",
+      "cities": "Sydney · Melbourne",
+      "href": "/route-australia-classic"
+    },
+    {
+      "meta": "7 nights · 2 stops",
+      "titleHtml": "Auckland &amp; Queenstown",
+      "body": "A soft landing in the north, then the drama of the Southern Alps.",
+      "cities": "Auckland · Queenstown",
+      "href": "/route-new-zealand-classic"
+    },
+    {
+      "meta": "8 nights · 2 stops",
+      "titleHtml": "Kathmandu &amp; Bhutan",
+      "body": "From the temple-dense valley of Nepal to the quiet, guarded kingdom next door.",
+      "cities": "Kathmandu · Paro & Thimphu",
+      "href": "/route-himalayan-kingdoms"
+    }
+  ],
+  "cta": {
+    "eyebrow": "Make it yours",
+    "heading": "A route in mind, or one all your own?",
+    "lede": "These are starting points. Your advisor sets the order, the nights and the pace to your dates — then holds the flights, the stays and the visas.",
+    "buttons": [
+      {
+        "label": "Have your advisor build this",
+        "href": "enquire.html"
+      },
+      {
+        "label": "Not sure where yet?",
+        "href": "where-to-go.html"
+      }
+    ]
+  }
+}

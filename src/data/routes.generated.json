@@ -1,0 +1,2754 @@
+{
+  "route-bengaluru-dubai": {
+    "slug": "route-bengaluru-dubai",
+    "kind": "route",
+    "seo": {
+      "title": "Bengaluru to Dubai in Business & First — TripAgent",
+      "description": "The Bengaluru–Dubai premium-cabin guide: carriers and aircraft on the short Gulf shuttle, where business class earns its place, and how your TripAgent advisor secures the right seat ex-India.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-bengaluru-dubai.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · BLR → DXB",
+      "headingHtml": "Bengaluru to Dubai,<br/>the Gulf <span class=\"it\">shuttle</span>.",
+      "lede": "Under four hours, flown many times a day. The flat-bed is rarely the point here. The right cabin, the lounge and a fare that earns its keep are.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "Business done well, ex-Bengaluru."
+      }
+    },
+    "facts": [
+      {
+        "label": "Flying time",
+        "value": "~3.5–4 hrs",
+        "text": "Short enough that a flat-bed is rarely the point. Comfort and the ground are."
+      },
+      {
+        "label": "Frequency",
+        "value": "Many daily",
+        "text": "One of the busiest India–Gulf corridors. Timing is easy to get right."
+      },
+      {
+        "label": "Where the value is",
+        "value": "Ground & lounge",
+        "text": "The lounge, fast-track and a smooth Dubai arrival usually matter more than the seat."
+      },
+      {
+        "label": "The hub angle",
+        "value": "Onward beyond",
+        "text": "Dubai connects to Europe, Africa and beyond. The cabin sets up the long leg."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "A short, frequent hop where a flat-bed is a comfort, not a need. So the maths changes.",
+      "statement": "On four hours, the seat isn't the story.",
+      "lede": "Bengaluru–Dubai is short enough that a true lie-flat is rarely worth paying up for on its own. What business class buys here is everything around the flight: priority at a busy airport, the lounge before departure, generous baggage, and a smoother, faster arrival into Dubai. The real question is whether Dubai is the destination or a doorway onward. If you carry on to Europe or beyond, the long leg is where we put the spend."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "Several non-stops, with cabins that range from full-service business to a premium seat on a low-cost arm. Your advisor confirms the exact product for your dates.",
+      "items": [
+        {
+          "name": "Emirates",
+          "tag": "non-stop",
+          "text": "Non-stop BLR–DXB, often on the Boeing 777 and at times the A380, with a full business cabin and lounge access at Dubai. The strongest choice when you want the ground experience and an onward Emirates connection."
+        },
+        {
+          "name": "Air India",
+          "tag": "Star Alliance",
+          "text": "Non-stop on narrow- and wide-bodies depending on the rotation, with business class and the refreshed cabins now appearing across the fleet. A solid full-service choice. We confirm the aircraft so you know the cabin."
+        },
+        {
+          "name": "IndiGo",
+          "tag": "point-to-point",
+          "text": "Frequent non-stops with a premium seat rather than a true business class. Worth knowing the difference, so you're never paying business money for a roomier economy seat."
+        },
+        {
+          "name": "flydubai",
+          "tag": "non-stop",
+          "text": "The Dubai-based carrier flies a Business Class with lie-flat seats on some aircraft and connects neatly into the Emirates network. A real premium option, worth checking by aircraft."
+        },
+        {
+          "name": "Etihad via Abu Dhabi",
+          "tag": "alternative hub",
+          "text": "Not Dubai itself, but Abu Dhabi is close, and Etihad can be the better answer for onward routing or award space. We weigh it when the wider trip calls for it."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Is business worth it?",
+      "heading": "What you're really buying.",
+      "lede": "Not a bed. Comfort and the ground. On a short hop, business earns its place through the lounge, the priority, the baggage and an easy Dubai arrival — not the recline.",
+      "points": [
+        "<strong>Lounge &amp; fast-track</strong> — calm before a busy departure, and a quick path through a large airport.",
+        "<strong>A recliner is fine here</strong> — a true flat-bed is a bonus, not the reason to book. We won't oversell it on four hours.",
+        "<strong>The connection is the case</strong> — if Dubai feeds a long onward leg, we secure the cabin and timing that protect it.",
+        "<strong>Status that compounds</strong> — a route you fly often is a good place to earn or hold status that pays off on bigger trips."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-bengaluru-dubai.jpg&w=2048&q=80",
+        "alt": "Dubai skyline and airport"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2560&q=80",
+      "by": "The Gulf hub",
+      "pull": "On a four-hour shuttle, the lounge and the arrival do more for you than the seat ever will."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>\"Business\" that's a premium seat.</strong> On low-cost arms, the front cabin can be a wider economy seat without lounge or baggage. We confirm exactly what the fare includes.",
+        "<strong>Spending on the wrong leg.</strong> If Dubai is a connection, paying up for this short hop and flying economy onward is backwards. We put the budget on the long leg.",
+        "<strong>The Dubai connection clock.</strong> DXB is vast; a tight inbound-to-onward transfer needs real time. We build it in, and keep the journey on one protected record.",
+        "<strong>Lounge and arrival access.</strong> Not every fare or hub grants the lounge or fast-track you expect. We confirm the ground entitlements before you book."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "The right cabin, well judged.",
+      "lede": "On a short, frequent route the skill is value: the right entitlements, the smart connection, and never overpaying for a bed you won't use.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the cabin",
+          "text": "Real business, premium seat or onward-leg priority — exactly what's included."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide."
+        },
+        {
+          "n": "3",
+          "title": "We work the ground",
+          "text": "Lounge, fast-track and baggage arranged, and status earned where it helps."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay or a tight Dubai connection is handled in real time."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "High frequency makes this an easy route to time, but peak periods and major Dubai events still tighten premium seats. Book a little ahead for the best cabin. Your advisor watches for award value."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Bengaluru–Dubai, done well.",
+      "lede": "Tell us your dates, and whether Dubai is the destination or a doorway. We'll come back with the right cabin and the ground sorted.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-bengaluru-singapore": {
+    "slug": "route-bengaluru-singapore",
+    "kind": "route",
+    "seo": {
+      "title": "Bengaluru to Singapore in Business — TripAgent",
+      "description": "The Bengaluru–Singapore premium-cabin guide: the non-stop carriers and aircraft, why a daytime business cabin beats a flat-bed here, the connection traps, and how your advisor holds the fare and finds the right seat.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-bengaluru-singapore.jpg&w=2560&q=80",
+      "imagePosition": "58% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · BLR → SIN",
+      "headingHtml": "Bengaluru to Singapore,<br/>the <span class=\"it\">working</span> hop.",
+      "lede": "Four hours in daylight, with strong non-stops. Here a good business cabin and a fare that earns status matter more than a flat-bed you won't use.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "The right cabin, ex-Bengaluru."
+      }
+    },
+    "facts": [
+      {
+        "label": "Non-stop time",
+        "value": "~4.5 hours",
+        "text": "An eastbound daytime hop; frequent departures across the day."
+      },
+      {
+        "label": "Best as",
+        "value": "A day flight",
+        "text": "Too short for a bed. The seat is about space, a little work, and a fresh arrival."
+      },
+      {
+        "label": "Cabins to want",
+        "value": "Regional business",
+        "text": "A genuine business cabin, ideally on a wide-body, with status-earning fares."
+      },
+      {
+        "label": "Distance",
+        "value": "~3,100 km",
+        "text": "Short enough that schedule, hub connection and miles matter most."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "A short, frequent route into one of the world's great hubs. Here the seat is about value, not sleep.",
+      "statement": "A short daytime hop rarely justifies a flat-bed.",
+      "lede": "Bengaluru–Singapore carries business and onward travel across Asia–Pacific. At four and a half hours in daylight, the lie-flat is seldom the point. What counts is a comfortable business cabin, lounge access, a fare that earns status, and a clean connection through Changi if you are flying onward. We place you in a strong regional business seat and keep the premium spend for the long-hauls that warrant it."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "A well-served route with several daily non-stops. Aircraft mix between wide-body and single-aisle, so your advisor confirms the exact cabin before you commit.",
+      "items": [
+        {
+          "name": "Singapore Airlines",
+          "tag": "Star Alliance",
+          "text": "Non-stop BLR–SIN, often on wide-body aircraft with a polished regional business cabin and a clean connection into the Changi hub for onward Asia, Australia and beyond. Often the benchmark for service on the route."
+        },
+        {
+          "name": "Air India",
+          "tag": "Star Alliance",
+          "text": "Non-stop on a mix of wide-body and single-aisle aircraft. The business cabin varies by type, so we confirm the tail. A wide-body business seat is a different flight from a narrow-body recliner."
+        },
+        {
+          "name": "IndiGo & Indian carriers",
+          "tag": "non-stop",
+          "text": "High-frequency service, mostly on single-aisle aircraft with a simpler premium offering. Strong for timing and value. We tell you honestly what the cabin is rather than oversell a short-haul seat."
+        },
+        {
+          "name": "Scoot & low-cost options",
+          "tag": "non-stop",
+          "text": "Budget service runs on the route, and it is useful for price. We tell you plainly where the comfort and flexibility gap with a full-service business cabin is worth paying to close."
+        },
+        {
+          "name": "Via a hub",
+          "tag": "one-stop",
+          "text": "Rarely needed on so short a route, but a connection via a Gulf or Malaysian hub can suit a wider itinerary or a particular award redemption. We route around only when it genuinely helps."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Day vs. overnight",
+      "heading": "When the cabin is worth it.",
+      "lede": "On a four-hour daytime hop, comfort beats a bed. What you want is a wide-body business cabin, lounge access at both ends, a status-earning fare, and a connection through Changi that holds. We match the cabin to the clock rather than default to the priciest seat.",
+      "points": [
+        "<strong>Wide-body over narrow-body</strong> — where both fly the route, we put you on the aircraft with a genuine business cabin rather than a denser single-aisle seat.",
+        "<strong>The fare that earns status</strong> — a short hop is a good place to bank miles and tier credit. We choose the booking class that builds toward your next upgrade.",
+        "<strong>The Changi connection</strong> — if you are flying onward, we time the arrival and protect the transfer through one of the world's best transit hubs.",
+        "<strong>Save the premium</strong> — a strong regional business cabin here, and first-class spend kept for the long-hauls that truly reward it."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80",
+        "alt": "Regional business class cabin"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-bengaluru-singapore.jpg&w=2560&q=80",
+      "by": "The value trap",
+      "pull": "On a short hop, the right seat is rarely the most expensive one."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>Narrow-body sold as business.</strong> A single-aisle recliner and a wide-body cabin can fly the same BLR–SIN number across a week. We confirm the aircraft so the seat matches what you expect and pay for.",
+        "<strong>Overpaying for lie-flat.</strong> A flat-bed on a four-hour day flight is rarely value. We say so, and move the saving toward the legs that warrant it.",
+        "<strong>The missed onward link.</strong> If Singapore is a connection, a tight transfer can unravel the trip. We build in real time through Changi and keep you on a single protected record.",
+        "<strong>Split tickets.</strong> Booked across two separate fares, no airline owns the whole journey if the first leg runs late. We keep you on one protected booking wherever possible."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "Holding the fare, finding the value.",
+      "lede": "Knowing the route is half of it. The rest is judgement: the right aircraft, a status-earning fare, lounge access arranged, and a connection that holds through Changi.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the cabin",
+          "text": "The exact aircraft and seat for your dates — not just the flight number."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We work the miles",
+          "text": "The booking class that earns status, plus award and upgrade space others cannot see."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay or a missed connection is reworked in real time. No queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "A high-frequency route, so fares move with demand. The best wide-body business seats still fill around the year-end holidays, the F1 weekend and school breaks. Book ahead for the better aircraft, and your advisor watches for award space."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Bengaluru–Singapore, done well.",
+      "lede": "Tell us your dates and how you like to fly. We come back with the right aircraft, the fare held, and a short hop that earns its keep.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-delhi-bangkok": {
+    "slug": "route-delhi-bangkok",
+    "kind": "route",
+    "seo": {
+      "title": "Delhi to Bangkok in Business — TripAgent",
+      "description": "Delhi to Bangkok in a premium cabin: the non-stop carriers and aircraft, why the seat matters more than the bed on a short route, the connection traps, and how TripAgent holds the fare and finds the better cabin.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-bangkok.jpg&w=2560&q=80",
+      "imagePosition": "58% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · DEL → BKK",
+      "headingHtml": "Delhi to Bangkok,<br/>the <span class=\"it\">easy</span> hop.",
+      "lede": "Four hours, plenty of non-stops. The question here isn't whether to fly business. It's which business is worth it.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "The right cabin, out of Delhi."
+      }
+    },
+    "facts": [
+      {
+        "label": "Non-stop time",
+        "value": "~4.5 hours",
+        "text": "A short hop east. Flights leave morning, afternoon and late evening."
+      },
+      {
+        "label": "Best as",
+        "value": "A day flight",
+        "text": "Too short to need a bed. The seat is about space and a calm arrival."
+      },
+      {
+        "label": "Cabins to want",
+        "value": "Wide-body business",
+        "text": "A proper wide-body business cabin beats a narrow-body recliner on the same route."
+      },
+      {
+        "label": "Distance",
+        "value": "~2,900 km",
+        "text": "Short enough that the schedule and the aircraft matter more than the bed."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "Many carriers fly this route. So the aircraft, not the bed, is the decision.",
+      "statement": "Four hours rewards the seat, not the bed.",
+      "lede": "Delhi–Bangkok is a busy, well-served route for both leisure and business, and at roughly four and a half hours it rarely justifies a true lie-flat. What matters is the aircraft you draw: a wide-body with a real business cabin, or a single-aisle jet with a denser recliner sold under the same name. We pick the schedule and the aircraft that make a short flight feel effortless, and we save the premium spend for the long-hauls that earn it."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "A crowded route with several daily non-stops. Aircraft and schedules shift by season, so your advisor confirms the exact cabin before you commit.",
+      "items": [
+        {
+          "name": "Thai Airways",
+          "tag": "Star Alliance",
+          "text": "Non-stop DEL–BKK, often on wide-body aircraft with Royal Silk business and a smooth connection into its Bangkok hub for onward Asia–Pacific travel. A strong pick when the wide-body is flying and onward links matter."
+        },
+        {
+          "name": "Air India",
+          "tag": "Star Alliance",
+          "text": "Non-stop on a mix of wide-body and single-aisle aircraft. The business cabin varies sharply by type, so we confirm the aircraft before you book. A wide-body business seat is a different flight from a narrow-body recliner."
+        },
+        {
+          "name": "IndiGo & Vistara-era successors",
+          "tag": "non-stop",
+          "text": "Indian carriers fly the route often, mostly on single-aisle aircraft with a simpler premium offering. Excellent for schedule and frequency. We tell you honestly what the cabin is rather than oversell a short-haul seat."
+        },
+        {
+          "name": "Bangkok Airways & Thai partners",
+          "tag": "non-stop / regional",
+          "text": "Useful for timing and onward island connections within Thailand, with a boutique service style. We weigh frequency and onward links against the cabin where it counts."
+        },
+        {
+          "name": "Via a hub",
+          "tag": "one-stop",
+          "text": "Rarely necessary on so short a route, but a connection via Singapore, Kuala Lumpur or a Gulf hub can occasionally suit a wider itinerary or a particular award redemption. We route around only when it genuinely helps."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Day vs. overnight",
+      "heading": "When the cabin is worth it.",
+      "lede": "On a four-hour daytime hop, a flat-bed is rarely the point. The win is space, a wide-body cabin, the lounge before you board, and an arrival calm enough for the evening ahead. We match the cabin to the clock rather than reach for the priciest seat.",
+      "points": [
+        "<strong>Wide-body over narrow-body</strong> — where both fly the route, we steer you to the aircraft with a genuine business cabin rather than a denser single-aisle seat.",
+        "<strong>Late-evening departures</strong> — if you would rather arrive and sleep on the ground, we time the flight so the short hop costs you no rest.",
+        "<strong>Lounge and ground time</strong> — much of the comfort on a short trip comes before boarding. We make sure the lounge and fast-track are part of the plan.",
+        "<strong>Save the premium</strong> — we will often place you in a strong business cabin here and keep first-class spend for the long-hauls that truly reward it."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "alt": "Regional business class cabin"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-delhi-bangkok.jpg&w=2560&q=80",
+      "by": "The cabin trap",
+      "pull": "On a short hop, the aircraft is the difference. Same fare, two very different flights."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>Narrow-body sold as business.</strong> A single-aisle recliner and a wide-body suite can fly the same DEL–BKK number across a week. We confirm the aircraft so the cabin is the one you expect.",
+        "<strong>The wrong airport.</strong> Bangkok has two airports. We make sure you land at the one that suits your onward plans, with transfers and visas-on-arrival accounted for.",
+        "<strong>Unnecessary connections.</strong> On so short a route, a one-stop adds hours for little gain. We route via a hub only when an award, a wider itinerary or the timings genuinely call for it.",
+        "<strong>Split tickets.</strong> On two separate fares, no airline owns the whole journey if the first leg runs late. We keep you on a single protected record wherever possible."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "Holding the fare, finding the space.",
+      "lede": "Knowing the route is half of it. The rest is access: the fare held, the right aircraft, the lounge arranged, and the timing to clear an upgrade or award seat.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the cabin",
+          "text": "The exact aircraft and seat for your dates, not just the flight number."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We work the miles",
+          "text": "Award and upgrade space others cannot see, timed with your status to clear."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay or a missed connection is reworked in real time. No queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "A high-frequency route, so fares move with demand rather than scarcity. Even so, the best wide-body business seats fill around Thai New Year, the winter season and school holidays. Book ahead for the better aircraft, and your advisor watches for award space."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Delhi–Bangkok, done well.",
+      "lede": "Tell us your dates and how you like to fly. We will come back with the right aircraft, the fare held, and a short hop made effortless.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-delhi-istanbul": {
+    "slug": "route-delhi-istanbul",
+    "kind": "route",
+    "seo": {
+      "title": "Delhi to Istanbul in Business — TripAgent",
+      "description": "The Delhi–Istanbul premium-cabin guide: the Turkish Airlines non-stop and the one-stop alternatives, the overnight that earns a flat-bed, the connection traps, and how TripAgent holds the fare and finds you the right seat.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-istanbul.jpg&w=2560&q=80",
+      "imagePosition": "54% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · DEL → IST",
+      "headingHtml": "Delhi to Istanbul,<br/>the <span class=\"it\">crossroads</span>.",
+      "lede": "Six and a half hours to where Asia meets Europe. One strong non-stop, and a hub that opens dozens of cities beyond.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "Business & first, ex-Delhi."
+      }
+    },
+    "facts": [
+      {
+        "label": "Non-stop time",
+        "value": "~6.5 hours",
+        "text": "Westbound DEL–IST; eastbound runs a little longer into headwinds."
+      },
+      {
+        "label": "Best as",
+        "value": "A night flight",
+        "text": "Late departures land into an Istanbul morning. Sleep the leg, arrive ready."
+      },
+      {
+        "label": "Cabins to want",
+        "value": "True flat-bed",
+        "text": "1-2-1 with direct aisle access on the long-haul wide-bodies."
+      },
+      {
+        "label": "Distance",
+        "value": "~4,500 km",
+        "text": "Far enough that the cabin matters. The hub beyond matters more."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "A destination in its own right — and one of the great connecting hubs to Europe, Africa and the Americas.",
+      "statement": "Six and a half hours, and a hub that opens a continent.",
+      "lede": "Istanbul is two trips in one. A city worth flying to on its own, and a vast hub onward to Europe, Africa and the Americas. On the overnight, a true lie-flat earns its keep. If you are continuing, the cabin and the connection both matter. We book the right seat for the long leg and look after the transfer through one of the world's busiest airports."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "The non-stop first, then the one-stops worth a look. Fleets and schedules shift by season, so your advisor confirms the exact aircraft and cabin before you commit to anything.",
+      "items": [
+        {
+          "name": "Turkish Airlines",
+          "tag": "Star Alliance",
+          "text": "The principal non-stop DEL–IST, often on wide-body aircraft into the vast Istanbul Airport hub. Its business cabin is well regarded, the onward network is enormous, and a long layover can become a guided city tour or a hotel stay on longer connections. We confirm the aircraft and target the better cabin."
+        },
+        {
+          "name": "IndiGo",
+          "tag": "non-stop",
+          "text": "Indian low-cost service connects Delhi and Istanbul on single-aisle aircraft. Strong for price and timing; we set cabin expectations honestly, since the premium offering is simpler than a full-service business product."
+        },
+        {
+          "name": "Gulf carriers",
+          "tag": "one-stop",
+          "text": "Emirates (via Dubai), Qatar Airways (via Doha) and Etihad (via Abu Dhabi) reach Istanbul with a stop. Worth it when their flagship cabins — Qsuite, the A380 — beat the non-stop, or when award and upgrade space is better. We weigh the extra hours against the better bed."
+        },
+        {
+          "name": "European hubs",
+          "tag": "one-stop",
+          "text": "Lufthansa, Air France and others route via their hubs into Istanbul. Rarely the fastest, but occasionally the answer for a particular alliance, award availability, or a wider European itinerary."
+        },
+        {
+          "name": "Onward from Istanbul",
+          "tag": "connection",
+          "text": "If Istanbul is a waypoint, Turkish's network opens onward cities across Europe, Africa and the Americas. We choose the long leg's cabin and the transfer time together so the whole journey holds."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Day vs. overnight",
+      "heading": "When the flat-bed is worth it.",
+      "lede": "On the overnight, a lie-flat pays off — most of all if you are connecting onward and want to land ready. A daytime departure forgives a lesser seat. The judgement is in matching cabin to clock, and to what comes after Istanbul.",
+      "points": [
+        "<strong>Late out of Delhi</strong> — the overnight is where lie-flat earns its keep, particularly before an onward European or American leg.",
+        "<strong>The seat that's truly flat</strong> — we steer you to a 1-2-1 cabin with direct aisle access over an older or denser layout sold under the same \"business\" name.",
+        "<strong>The long layover, used well</strong> — Turkish offers transit perks on qualifying connections; we make a long stop a city visit or a hotel rest, not dead time.",
+        "<strong>First and the lounge</strong> — where available, the premium ground experience in Istanbul is a genuine draw; we say plainly when it's worth it."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "alt": "Business class flat-bed cabin"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-delhi-istanbul.jpg&w=2560&q=80",
+      "by": "The connection trap",
+      "pull": "A vast hub can be a gift or a maze — the transfer time is the difference."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>The big-hub transfer.</strong> Istanbul Airport is enormous; a connection that looks short on paper can be a long walk and a second security check. We build in real transfer time so an onward flight isn't at risk.",
+        "<strong>Cabin by aircraft type.</strong> The business seat varies across Turkish's wide-body fleet. We confirm the tail so the cabin matches the fare, and target the better one where it counts.",
+        "<strong>Self-transfer and split tickets.</strong> Booked across two separate fares, no airline owns the whole journey if leg one runs late. We keep you on a single protected record wherever possible.",
+        "<strong>Visas and transit rules.</strong> Onward connections and any stopover can carry visa or transit conditions. We check them ahead so nothing surprises you at the desk."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "Holding the fare, finding the space.",
+      "lede": "Knowing the route is half of it. The rest is access — held fares, live premium-cabin inventory, a transfer we keep watch over through the hub, and the timing to clear an upgrade or award seat.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the cabin",
+          "text": "The exact aircraft and seat for your dates — not just the flight number."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We work the miles",
+          "text": "Award and upgrade space others can't see, timed with your status to clear."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay or a missed connection is reworked in real time — no queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium seats and onward connections fill early — especially around European summer, the year-end holidays and Diwali. Book ahead for the best cabin and a protected transfer; your advisor watches for award space to open closer in."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Delhi–Istanbul, done well.",
+      "lede": "Tell us your dates, and whether Istanbul is the destination or the doorway. We will come back with the right cabin, the fare held, and a connection that holds.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-delhi-london": {
+    "slug": "route-delhi-london",
+    "kind": "route",
+    "seo": {
+      "title": "Delhi to London in Business & First — TripAgent",
+      "description": "The Delhi–London premium-cabin guide: non-stop carriers and aircraft, the overnight that earns a flat-bed, the one-stop traps, and how TripAgent holds the fare and finds award space ex-India.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-london.jpg&w=2560&q=80",
+      "imagePosition": "58% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · DEL → LHR",
+      "headingHtml": "Delhi to London,<br/>at the <span class=\"it\">front</span>.",
+      "lede": "A nine-hour overnight that earns its flat-bed — and enough carriers fly it that the right cabin is yours to choose.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "Business & first, ex-Delhi."
+      }
+    },
+    "facts": [
+      {
+        "label": "Non-stop time",
+        "value": "~9 hours",
+        "text": "Westbound DEL–LHR; eastbound runs a little longer into headwinds."
+      },
+      {
+        "label": "Best as",
+        "value": "An overnight",
+        "text": "Evening departures land into a London morning — sleep the leg, arrive ready."
+      },
+      {
+        "label": "Cabins to want",
+        "value": "True flat-bed",
+        "text": "1-2-1 with direct aisle access on the newer wide-bodies."
+      },
+      {
+        "label": "Distance",
+        "value": "~6,700 km",
+        "text": "Long enough that the cabin, not the clock, defines the trip."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "One of the busiest premium routes out of India — which is why the seat varies so much.",
+      "statement": "Nine hours, overnight, earns a bed.",
+      "lede": "This is the route where a flat-bed pays for itself. Most departures leave India in the evening and land into a London morning, so a true lie-flat cabin gives you a working day on arrival instead of a lost one. The catch: \"business\" on this route can mean a modern 1-2-1 suite or an older, denser cabin on the same airline, depending on the aircraft flying that day. We book the aircraft, not just the flight number."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "The non-stops first, then the one-stops worth a look. Fleets shift by season and by day, so your advisor confirms the exact aircraft and cabin before you commit.",
+      "items": [
+        {
+          "name": "Air India",
+          "tag": "Star Alliance",
+          "text": "Non-stop DEL–LHR, typically on Boeing 787 and 777 wide-bodies, with the refreshed cabins rolling through the fleet. Business is the one to confirm here — newer aircraft carry a far better seat than older ones, and we hold out for the right tail."
+        },
+        {
+          "name": "British Airways",
+          "tag": "Oneworld",
+          "text": "Non-stop to Heathrow on the 787 and 777, with Club Suite (a 1-2-1 cabin with a door) progressively replacing the older Club World layout. The First cabin appears on some 777s. We target the Club Suite aircraft when it matters."
+        },
+        {
+          "name": "Virgin Atlantic",
+          "tag": "SkyTeam",
+          "text": "Non-stop on the A350 and 787, with Upper Class as the business product and, on the A350, the Retreat Suite at the front. A strong, design-led cabin; no separate first class."
+        },
+        {
+          "name": "The Gulf carriers",
+          "tag": "one-stop",
+          "text": "Emirates (via Dubai), Qatar Airways (via Doha) and Etihad (via Abu Dhabi) connect DEL–LHR with a stop. Worth it when their flagship cabins — Qsuite, Emirates' First, the A380 — beat the non-stop, or when award and upgrade space is better. We weigh the extra hours against the better bed."
+        },
+        {
+          "name": "European hubs",
+          "tag": "one-stop",
+          "text": "Lufthansa, Air France, KLM and others route via their hubs. Rarely the fastest, but occasionally the answer for award availability, a particular alliance, or onward connections beyond London."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Day vs. overnight",
+      "heading": "When the flat-bed is worth it.",
+      "lede": "On a nine-hour overnight, almost always. The night flight is the one to book for the bed; a rare daytime departure forgives a lesser seat. The judgement is in matching cabin to clock.",
+      "points": [
+        "<strong>Evening out of Delhi</strong> — the redeye is where lie-flat earns its keep. Sleep over Central Asia, breakfast over Europe, land able to work.",
+        "<strong>The seat that's truly flat</strong> — we steer you to a 1-2-1 cabin with direct aisle access over an older angled or 2-3-2 layout sold under the same \"business\" name.",
+        "<strong>Eastbound, returning</strong> — a daytime LHR–DEL is gentler on the body; we'll often prioritise schedule over the absolute best seat on that leg.",
+        "<strong>First, selectively</strong> — on the carriers that still offer it, first can be worth it for a true suite and the ground experience; we say plainly when it isn't."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "alt": "Business class flat-bed cabin"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-delhi-london.jpg&w=2560&q=80",
+      "by": "The connection trap",
+      "pull": "A cheaper one-stop can cost you the morning — and sometimes the bag."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>Old metal on a new fare.</strong> Two aircraft can fly the same DEL–LHR number across a week. We confirm the tail so the cabin matches what you're paying for, and hold out for the better one where it counts.",
+        "<strong>The tight connection.</strong> A one-stop that looks cheaper can hinge on a 60-minute transfer — fine until a delay turns it into a missed flight and a re-protected booking. We build in real connection time and protect the itinerary.",
+        "<strong>Self-transfer and split tickets.</strong> Booked across two separate fares, no airline owns the whole journey if leg one runs late. We keep you on a single protected record wherever possible.",
+        "<strong>Terminal and bag realities.</strong> Heathrow terminals and a mid-point hub change can complicate baggage and arrival. We check it through, so nothing is left to chance at the desk."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "Holding the fare, finding the space.",
+      "lede": "Knowing the route is half of it. The rest is access — the held fare, live premium-cabin inventory, and the timing to clear an upgrade or award seat.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the cabin",
+          "text": "The exact aircraft and seat for your dates — not just the flight number."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We work the miles",
+          "text": "Award and upgrade space others can't see, timed with your status to clear."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay or a missed connection is reworked in real time — no queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium-cabin seats are limited and go early — especially around UK summer, Christmas and Diwali. Book ahead for the best cabin and fare; your advisor watches for award space to open closer in."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Delhi–London, done well.",
+      "lede": "Tell us your dates and how you like to fly. We come back with the right cabin, the fare held, and the seat that is actually flat.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-delhi-male": {
+    "slug": "route-delhi-male",
+    "kind": "route",
+    "seo": {
+      "title": "Delhi to Maldives in Business — TripAgent",
+      "description": "The Delhi–Malé premium-cabin guide: non-stop and one-stop carriers, why the seaplane or speedboat transfer is the part that matters, the timing that trips people up, and how TripAgent plans the whole journey to the resort.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-male.jpg&w=2560&q=80",
+      "imagePosition": "54% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · DEL → MLE",
+      "headingHtml": "Delhi to the Maldives,<br/>door to <span class=\"it\">water villa</span>.",
+      "lede": "The flight is the short part. What matters is the seaplane or speedboat to the resort — and getting that right is the whole journey.",
+      "ctaPrimary": {
+        "label": "Plan this journey",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "What we look after",
+        "value": "The flight and the transfer."
+      }
+    },
+    "facts": [
+      {
+        "label": "Non-stop time",
+        "value": "~4 hours",
+        "text": "Direct DEL–MLE when scheduled; otherwise a quick one-stop via a hub."
+      },
+      {
+        "label": "The part that matters",
+        "value": "Seaplane or boat",
+        "text": "Resort transfers run by daylight. Your landing time decides everything."
+      },
+      {
+        "label": "The cabin to take",
+        "value": "Day business",
+        "text": "Short enough that the seat is about arriving calm and fresh, not sleeping."
+      },
+      {
+        "label": "Distance",
+        "value": "~2,500 km",
+        "text": "The flying is easy. Timing it to the island is the craft."
+      }
+    ],
+    "intro": {
+      "eyebrow": "Why the timing comes first",
+      "note": "A short flight, then a transfer most travellers underestimate. We plan around it first.",
+      "statement": "The flight is easy. The arrival window is everything.",
+      "lede": "Delhi–Malé is barely four hours, so the cabin matters less than the timing. The detail that decides your day is the onward transfer. Many resorts are reached by seaplane, which generally operates only in daylight, so an evening landing can mean a night in Malé before you reach the island. Speedboat resorts are more forgiving, but they still run to a schedule. So we book the flight to fit the transfer, not the other way around, and plan the whole door-to-villa journey as one."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "Direct service comes and goes by season; one-stops via the Gulf or South India are common. Your advisor confirms the exact aircraft, the cabin, and above all the arrival time before you commit.",
+      "items": [
+        {
+          "name": "Indian carriers",
+          "tag": "non-stop / seasonal",
+          "text": "IndiGo and other Indian airlines fly DEL–MLE directly, mostly on single-aisle aircraft, with frequency rising around peak season. The schedule is excellent. We are honest about the cabin, and we time the landing for a same-day transfer."
+        },
+        {
+          "name": "Via a South India hub",
+          "tag": "one-stop",
+          "text": "Connections via Bengaluru, Cochin or Chennai can give you better timings into Malé and a smoother same-day seaplane window. Useful when the direct flight lands too late for the onward transfer."
+        },
+        {
+          "name": "Gulf carriers",
+          "tag": "one-stop",
+          "text": "Emirates (via Dubai), Qatar Airways (via Doha) and Etihad (via Abu Dhabi) serve Malé with full premium cabins. Worth it for a true business or first product on the long leg, for award space, or when their morning arrivals suit the transfer better than a direct evening one."
+        },
+        {
+          "name": "Sri Lankan & regional",
+          "tag": "one-stop",
+          "text": "A connection via Colombo or another regional hub can line up the timings or the fare neatly. We weigh the extra hour against the better arrival window."
+        },
+        {
+          "name": "The resort transfer",
+          "tag": "seaplane / speedboat",
+          "text": "Not an airline, but the leg that matters most. Trans Maldivian and resort-run boats carry you from Malé to the island. Daylight seaplane windows, luggage and lounge waits all turn on your flight time. We book it as part of the journey."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Timing the arrival",
+      "heading": "When the landing time is worth more than the seat.",
+      "lede": "On a four-hour flight, the seat matters less than arriving in time for the seaplane. The skill is choosing a routing that lands you with daylight to spare and a transfer waiting, so your first night is in the water villa, not an airport hotel.",
+      "points": [
+        "<strong>Land before the seaplane cut-off.</strong> We work back from the resort's last daylight transfer and pick the flight that makes it, with room to spare.",
+        "<strong>A morning arrival on the long days.</strong> A Gulf one-stop landing mid-morning can beat a late direct flight if it saves a night in Malé.",
+        "<strong>Day business over a bed.</strong> The leg is short, so we point you to a calm wide-body cabin and lounge rather than pay for lie-flat you won't use.",
+        "<strong>The return, planned too.</strong> Seaplane back to Malé, lounge, and the homeward flight timed so the last day isn't lost to waiting."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-delhi-male.jpg&w=2048&q=80",
+        "alt": "Maldives water villa and lagoon"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=2560&q=80",
+      "by": "The transfer trap",
+      "pull": "Land too late and the island waits until morning. The flight was never the hard part."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>The late landing.</strong> Seaplane transfers generally run by daylight only. A flight that lands in the evening can leave you in Malé overnight. We confirm the resort's transfer window and book the flight to meet it.",
+        "<strong>The tight self-transfer.</strong> Booking the flight and the seaplane as separate pieces leaves gaps. We hold both together, with a buffer, so a flight delay doesn't cost you the boat.",
+        "<strong>Baggage and equipment.</strong> Seaplanes have weight and piece limits that differ from your airline's. We check the allowances ahead, so dive gear and extra bags aren't a surprise at the lagoon.",
+        "<strong>Split tickets.</strong> Across two separate fares, no airline owns the whole journey if the first leg runs late. We keep you on a single protected record wherever we can."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "The flight, the transfer, the whole arc.",
+      "lede": "Knowing the route is half of it. The rest is the order of things: the right landing time, the seaplane held, the lounge waits managed, and one advisor watching the whole chain.",
+      "cta": {
+        "label": "Plan this journey",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the cabin",
+          "text": "The exact aircraft and seat for your dates, and a landing time that makes the transfer."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We time the transfer",
+          "text": "Seaplane or speedboat set to your arrival, with luggage and lounge waits planned."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay that threatens the boat is reworked in real time. No queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Resorts, water villas and seaplane slots are few, and they go early, especially around the dry season, Christmas, New Year and Diwali. Book the room and the transfer together, ahead of time. Your advisor watches for award space on the flights."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Delhi to the Maldives, done well.",
+      "lede": "Tell us your resort and your dates. We come back with the right flight, the fare held, and the transfer timed so your first night is over the water.",
+      "ctaPrimary": {
+        "label": "Plan this journey →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-delhi-singapore": {
+    "slug": "route-delhi-singapore",
+    "kind": "route",
+    "seo": {
+      "title": "Delhi to Singapore in Business & First — TripAgent",
+      "description": "The Delhi–Singapore premium-cabin guide: non-stop carriers and wide-body aircraft, the night hop and when a flat-bed earns its keep, and how TripAgent finds you the right seat ex-India.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-singapore.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · DEL → SIN",
+      "headingHtml": "Delhi to Singapore,<br/>the night <span class=\"it\">hop</span>.",
+      "lede": "Around five and a half hours, non-stop on a wide-body — often the same aircraft built for long-haul. The route is simple. The cabin is the real question.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "What we do",
+        "value": "Business & first, ex-Delhi."
+      }
+    },
+    "facts": [
+      {
+        "label": "Non-stop time",
+        "value": "~5.5 hrs",
+        "text": "Short enough to question a flat-bed. Long enough to want one on a redeye."
+      },
+      {
+        "label": "Often flown by",
+        "value": "Long-haul metal",
+        "text": "Wide-bodies that also fly the longest routes — so the cabin can be very good indeed."
+      },
+      {
+        "label": "Best as",
+        "value": "Night or day",
+        "text": "A redeye wants a flat-bed. A daytime hop is fine in a strong regional cabin."
+      },
+      {
+        "label": "Why it matters",
+        "value": "A hub onward",
+        "text": "Singapore opens up Asia and Australia. The seat you take sets up the whole trip."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "A short route, flown by big aircraft. The cabin can be far better than the distance suggests.",
+      "statement": "Short flight, sometimes a long-haul bed.",
+      "lede": "At around five and a half hours, Delhi–Singapore sits on the line where a flat-bed is a luxury, not a necessity. But the route is often flown by wide-bodies that also work long-haul, so a genuine 1-2-1 lie-flat seat is sometimes within reach. On a redeye, take it. In daylight, a strong regional business cabin is usually enough. We match the cabin to the hour you fly, and to whether Singapore is the destination or the doorway onward."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "Several strong non-stops, with cabins that vary by aircraft. Your advisor confirms the exact seat and product for your dates, so you know what you are flying before you fly it.",
+      "items": [
+        {
+          "name": "Singapore Airlines",
+          "tag": "Star Alliance",
+          "text": "Non-stop on wide-bodies including the A350 and, at times, larger aircraft. Among the most consistent business cabins in the sky, with service to match. Often the benchmark on this route."
+        },
+        {
+          "name": "Air India",
+          "tag": "Star Alliance",
+          "text": "Non-stop DEL–SIN on 787 and other wide-bodies, with refreshed cabins now appearing across the fleet. Worth confirming the aircraft to land the better seat."
+        },
+        {
+          "name": "Vistara legacy & partners",
+          "tag": "Star Alliance",
+          "text": "Following the Air India–Vistara integration, full-service options continue under the combined airline. Cabins and schedules are still settling, so your advisor confirms the current product."
+        },
+        {
+          "name": "Low-cost & regional",
+          "tag": "point-to-point",
+          "text": "Carriers such as Scoot and IndiGo serve the route without a true premium cabin. We mention them only when they genuinely suit the trip — which, for a member who values the front, they rarely do."
+        },
+        {
+          "name": "One-stop via the Gulf",
+          "tag": "one-stop",
+          "text": "Rarely necessary given the strong non-stops, but now and then the answer for award space or a wider itinerary. On a route this short, we weigh the extra hours carefully."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Day vs. overnight",
+      "heading": "When the flat-bed is worth it.",
+      "lede": "On the late-night departures, yes. Arriving rested into a Singapore morning is worth a real bed. In daylight, a strong regional business cabin usually does the job, and we steer the spend to where it counts.",
+      "points": [
+        "<strong>Redeye out of Delhi</strong> — a true lie-flat means you land ready for the day, or for the onward connection.",
+        "<strong>Daytime hop</strong> — a good recliner or regional business seat is often enough. We save the premium for a longer leg.",
+        "<strong>The onward connection</strong> — if Singapore is a doorway to Asia or Australia, we choose the cabin and timing that protect the next flight.",
+        "<strong>Status and lounges</strong> — we often hold a fare that earns status and opens the lounge that makes the connection easy."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "alt": "Business class cabin on a wide-body aircraft"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-delhi-singapore.jpg&w=2560&q=80",
+      "by": "The doorway",
+      "pull": "Singapore is rarely the end of the journey. More often, it is where the rest of it begins."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>Paying long-haul prices for a hop.</strong> A flat-bed is lovely on five hours, but not always worth the premium. We help you spend on the legs that warrant it, and hold back on the ones that don't.",
+        "<strong>A no-frills cabin sold as \"business.\"</strong> Some operators on this route offer only a modest premium seat. We confirm the actual product, so the fare matches the cabin.",
+        "<strong>The Changi connection clock.</strong> Singapore is a superb hub, but a tight onward connection still needs real time. We build it in and hold the itinerary together on a single record.",
+        "<strong>Aircraft swaps.</strong> The wide-body you booked for can change to a smaller jet. We watch the metal and re-seat you the moment the cabin shifts."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "Holding the fare, finding the space.",
+      "lede": "The skill on a short route is knowing when to spend and when not to, and finding the better cabin without overpaying for it.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the cabin",
+          "text": "Whether the wide-body brings a true flat-bed on your dates."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide."
+        },
+        {
+          "n": "3",
+          "title": "We work the miles",
+          "text": "Award and upgrade space, plus a fare that earns status where it helps."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay or a tight Changi connection, handled in real time."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Frequent service gives you more room than a long-haul route, but premium seats over peak holidays and major Singapore events still fill. Book ahead for the best cabin. Your advisor times award space for value."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Delhi–Singapore, done well.",
+      "lede": "Tell us your dates and where you go next. We come back with the right cabin for the hour you fly, and the fare held.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-delhi-tokyo": {
+    "slug": "route-delhi-tokyo",
+    "kind": "route",
+    "seo": {
+      "title": "Delhi to Tokyo in Business & First — TripAgent",
+      "description": "The Delhi–Tokyo premium-cabin guide: non-stop and one-stop carriers, daytime vs overnight, the trade between elapsed time and a true flat-bed, and how your advisor secures the right seat ex-India.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-tokyo.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · DEL → NRT / HND",
+      "headingHtml": "Delhi to Tokyo,<br/>time vs. the <span class=\"it\">bed</span>.",
+      "lede": "A long daylight non-stop, or a one-stop in a better cabin. The real choice on this route is simple: how much time, and the seat you spend it in.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "Business & first, ex-Delhi."
+      }
+    },
+    "facts": [
+      {
+        "label": "Non-stop time",
+        "value": "~7.5–8 hrs",
+        "text": "A substantial daytime flight; one-stops run longer but can fly a better cabin."
+      },
+      {
+        "label": "Airports",
+        "value": "Narita / Haneda",
+        "text": "NRT and HND serve Tokyo differently — Haneda is closer to the city."
+      },
+      {
+        "label": "Best as",
+        "value": "Day or overnight",
+        "text": "Daytime non-stops favour a good seat; overnight one-stops reward a flat-bed."
+      },
+      {
+        "label": "The trade",
+        "value": "Time vs. cabin",
+        "text": "Fastest isn't always best-rested — the seat can outweigh an hour or two saved."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "On this route, the fastest flight and the one you step off rested are not always the same flight.",
+      "statement": "Sometimes the slower flight lands you fresher.",
+      "lede": "Delhi–Tokyo comes down to one honest trade: time against the seat. A non-stop saves hours but, depending on the carrier and aircraft, may not offer the best seat. A one-stop via a strong hub adds time but can put you in a superb 1-2-1 business cabin or a true first suite, often arriving better rested. The choice also depends on the airport — Haneda sits closer to central Tokyo than Narita — and on whether you fly out in daylight or overnight. Your advisor weighs all of it for your dates, rather than reaching for the fastest line on the screen."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "The non-stops first, then the one-stops worth the extra hours for a better bed. Aircraft and cabins vary, so your advisor confirms the seat you'll actually get for your dates.",
+      "items": [
+        {
+          "name": "Japan Airlines",
+          "tag": "Oneworld",
+          "text": "Non-stop to Tokyo on wide-bodies such as the Boeing 787, with a refined business cabin and, on some aircraft, first class. Renowned service; a strong choice when the schedule fits."
+        },
+        {
+          "name": "All Nippon Airways",
+          "tag": "Star Alliance",
+          "text": "Non-stop on the 787 and other wide-bodies, with \"The Room\" business cabin on certain aircraft — among the most spacious business seats flying. Worth targeting that product by tail."
+        },
+        {
+          "name": "Air India",
+          "tag": "Star Alliance",
+          "text": "Non-stop DEL–Tokyo on wide-bodies depending on the season, with business and the refreshed cabins appearing across the fleet. Confirm the aircraft for the seat."
+        },
+        {
+          "name": "Singapore Airlines via Singapore",
+          "tag": "Star Alliance · one-stop",
+          "text": "A one-stop that can land you in a benchmark business or even first suite. Adds time, but sometimes the better-rested arrival, especially overnight."
+        },
+        {
+          "name": "Gulf & other hubs",
+          "tag": "one-stop",
+          "text": "Cathay Pacific via Hong Kong, Thai via Bangkok, or the Gulf carriers can each be the answer for a particular cabin, award space, or onward routing. We weigh the detour against the bed."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Day vs. overnight",
+      "heading": "Matching cabin to clock.",
+      "lede": "A daytime non-stop forgives a good-but-not-flat seat. An overnight one-stop rewards a true flat-bed. The right call depends on when you fly and how you want to feel on arrival.",
+      "points": [
+        "<strong>Daytime non-stop</strong> — fastest door-to-door; a strong business seat is plenty when you're not sleeping the leg.",
+        "<strong>Overnight via a hub</strong> — a true flat-bed and a smart connection can land you fresher than a non-stop in a lesser seat.",
+        "<strong>Haneda vs. Narita</strong> — we choose the airport that suits where you're staying and your onward plans.",
+        "<strong>The best cabin by tail</strong> — products like ANA's \"The Room\" are worth seeking out; we target the right aircraft."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-delhi-tokyo.jpg&w=2048&q=80",
+        "alt": "Business class cabin interior"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2560&q=80",
+      "by": "The honest trade",
+      "pull": "The fastest flight and the best-rested arrival are not always the same line."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>Defaulting to the fastest.</strong> The non-stop isn't always the best night. We weigh a slightly longer one-stop against a markedly better cabin and arrival.",
+        "<strong>Narita when you wanted Haneda.</strong> The two airports change your transfer into Tokyo. We match the arrival airport to your stay.",
+        "<strong>A tight hub connection.</strong> A one-stop hinges on a real transfer window. We build in time and keep the journey protected on one record.",
+        "<strong>Missing the standout cabin.</strong> Specific aircraft carry far better seats than their siblings. We confirm the tail so you actually get the product you're after."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "Holding the fare, finding the space.",
+      "lede": "The value here is judgement — knowing when to trade time for the bed — and the access to hold the standout cabin and the right award space.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We weigh the trade",
+          "text": "Non-stop speed against a better cabin and a fresher arrival."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide."
+        },
+        {
+          "n": "3",
+          "title": "We work the miles",
+          "text": "Award and upgrade space, timed with your status to clear."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay or a tight hub connection, reworked in real time."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium seats tighten around the cherry-blossom and autumn-leaf seasons and Japanese holidays. Book ahead for the standout cabins; your advisor times award space and watches for the better aircraft."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Delhi–Tokyo, done well.",
+      "lede": "Tell us your dates and how you like to fly. We'll weigh time against the bed, then come back with the right cabin and the fare held.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-delhi-zurich": {
+    "slug": "route-delhi-zurich",
+    "kind": "route",
+    "seo": {
+      "title": "Delhi to Zurich in Business & First — TripAgent",
+      "description": "The Delhi–Zurich premium-cabin guide: the SWISS non-stop and the one-stop alternatives, the day flight that suits the body, the connection traps, and how TripAgent holds the fare and finds the better cabin ex-India.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-zurich.jpg&w=2560&q=80",
+      "imagePosition": "54% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · DEL → ZRH",
+      "headingHtml": "Delhi to Zurich,<br/>flown <span class=\"it\">well</span>.",
+      "lede": "One daily non-stop into a clean European gateway — and a route where, often enough, the one-stop is the better seat, not the lesser one.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "Business & first, ex-Delhi."
+      }
+    },
+    "facts": [
+      {
+        "label": "Non-stop time",
+        "value": "~8.5 hours",
+        "text": "SWISS flies the only non-stop; eastbound runs a little longer into headwinds."
+      },
+      {
+        "label": "Best as",
+        "value": "A day flight",
+        "text": "The non-stop often runs in daylight — gentle on the body, with a same-evening arrival."
+      },
+      {
+        "label": "Cabins to want",
+        "value": "True flat-bed",
+        "text": "1-2-1 with direct aisle access on the long-haul wide-bodies."
+      },
+      {
+        "label": "Distance",
+        "value": "~6,400 km",
+        "text": "Long enough that the cabin, and the connection, define the trip."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "One non-stop carrier, several capable one-stops. The choice is real, and worth making well.",
+      "statement": "One non-stop. Many ways to fly it.",
+      "lede": "Zurich is one of Europe's easiest arrivals — small, quick, simple to clear. SWISS holds the only non-stop from Delhi. That makes the route simple to plan and easy to get wrong: when its premium seats are tight or richly priced, a one-stop on a Gulf or European carrier can give you a better cabin for similar money. We look at the whole picture, not just the direct line."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "The non-stop first, then the one-stops worth a look. Fleets and schedules shift by season, so your advisor confirms the exact aircraft and cabin before you commit.",
+      "items": [
+        {
+          "name": "SWISS",
+          "tag": "Star Alliance",
+          "text": "The only non-stop DEL–ZRH, typically on a long-haul Airbus wide-body. SWISS Business is a solid lie-flat product, with a small, sought-after First cabin on some aircraft. We confirm the aircraft type, since the seat and First availability vary by tail."
+        },
+        {
+          "name": "Lufthansa & Austrian",
+          "tag": "Star Alliance · one-stop",
+          "text": "Via Frankfurt, Munich or Vienna into Zurich. Useful for award space within the same alliance, for Allegris and newer Lufthansa cabins, or when SWISS non-stop fares run high. A short final hop after the long-haul leg."
+        },
+        {
+          "name": "Emirates & Qatar Airways",
+          "tag": "one-stop",
+          "text": "Emirates via Dubai and Qatar Airways via Doha both serve Zurich. Worth it when their flagship cabins — Qsuite, Emirates' First and A380 Business — beat the non-stop, or when award and upgrade space is simply better. We weigh the extra hours against the better bed."
+        },
+        {
+          "name": "Air France & KLM",
+          "tag": "SkyTeam · one-stop",
+          "text": "Via Paris or Amsterdam. Rarely the fastest, but occasionally the answer for SkyTeam redemptions, a particular fare, or onward European connections beyond Zurich."
+        },
+        {
+          "name": "Turkish Airlines",
+          "tag": "Star Alliance · one-stop",
+          "text": "Via Istanbul, with a strong business cabin and wide award reach. A capable alternative when timings or miles favour it over the SWISS non-stop."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Day vs. overnight",
+      "heading": "When the flat-bed is worth it.",
+      "lede": "On the daytime non-stop, a good seat matters more for working than for sleeping. On a one-stop that runs long and late, a true lie-flat earns its keep. The judgement is in matching the cabin to the clock.",
+      "points": [
+        "<strong>The daytime non-stop</strong> — eight and a half hours awake is comfortable in a good business cabin; we steer you to the better seat without overpaying for a bed you may not need.",
+        "<strong>The seat that's truly flat</strong> — on the one-stops, we hold out for a 1-2-1 cabin with direct aisle access over an older 2-2-2 layout sold under the same \"business\" name.",
+        "<strong>A late one-stop</strong> — if a connection lands you into the small hours, the flat-bed on the long leg is the difference between arriving fresh and arriving wrecked.",
+        "<strong>First, selectively</strong> — SWISS First and the Gulf First cabins can be worth it for the suite and the ground experience; we say plainly when they aren't."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "alt": "Business class flat-bed cabin"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-delhi-zurich.jpg&w=2560&q=80",
+      "by": "The connection trap",
+      "pull": "A cheaper one-stop can cost you the day — and sometimes the bag."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>The single daily non-stop.</strong> SWISS flies DEL–ZRH once a day; miss it and the alternative is a connection. We book early for premium space and keep a protected fallback in mind for tight dates.",
+        "<strong>The tight transfer.</strong> A one-stop that looks cheaper can hinge on a short connection at a busy hub. We build in real transfer time and protect the itinerary so a delay doesn't strand you.",
+        "<strong>Self-transfer and split tickets.</strong> Booked across two separate fares, no airline owns the whole journey if leg one runs late. We keep you on a single protected record wherever possible.",
+        "<strong>Terminal and bag realities.</strong> A hub change and Zurich's arrival flow can complicate baggage. We check it through, so nothing is left to chance at the desk."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "Holding the fare, finding the space.",
+      "lede": "Knowing the route is half of it. The rest is access: held fares, live premium-cabin inventory, and the timing to clear an upgrade or award seat.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the cabin",
+          "text": "The exact aircraft and seat for your dates — not just the flight number."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We work the miles",
+          "text": "Award and upgrade space others can't see, timed with your status to clear."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay or a missed connection is reworked in real time — no queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium seats on a single daily non-stop go early — especially around Alpine summer, the ski season and Diwali. Book ahead for the best cabin and fare; your advisor watches for award space to open closer in."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Delhi–Zurich, done well.",
+      "lede": "Tell us your dates and how you like to fly. We'll come back with the right cabin, the fare held, and a routing that holds.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-mumbai-london": {
+    "slug": "route-mumbai-london",
+    "kind": "route",
+    "seo": {
+      "title": "Mumbai to London in Business & First — TripAgent",
+      "description": "The Mumbai–London premium-cabin guide: the non-stop carriers and aircraft, the overnight that earns a flat-bed, the one-stop traps to avoid, and how your TripAgent advisor holds the fare and finds award space ex-Mumbai.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-mumbai-london.jpg&w=2560&q=80",
+      "imagePosition": "58% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · BOM → LHR",
+      "headingHtml": "Mumbai to London,<br/>at the <span class=\"it\">front</span>.",
+      "lede": "An overnight long enough to earn its flat-bed, flown by enough carriers that the right cabin is a real choice. We find it for you.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "Business & first, ex-Mumbai."
+      }
+    },
+    "facts": [
+      {
+        "label": "Non-stop time",
+        "value": "~9.5 hours",
+        "text": "Westbound BOM–LHR; eastbound runs a little longer into headwinds."
+      },
+      {
+        "label": "Best as",
+        "value": "An overnight",
+        "text": "Evening departures land into a London morning. Sleep the leg, arrive ready."
+      },
+      {
+        "label": "Cabins to want",
+        "value": "True flat-bed",
+        "text": "1-2-1 with direct aisle access on the newer wide-bodies."
+      },
+      {
+        "label": "Distance",
+        "value": "~7,200 km",
+        "text": "Long enough that the cabin, not the clock, defines the journey."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "One of India's busiest premium routes — which is exactly why the seat varies so much.",
+      "statement": "Nine and a half hours, overnight, earns a bed.",
+      "lede": "Mumbai–London is the route where a flat-bed pays for itself. Most departures leave India in the evening and land into a London morning, so a true lie-flat cabin gives you back the working day on arrival rather than a lost one. The catch: \"business\" on this route can mean a modern 1-2-1 suite or an older, denser cabin on the same airline, depending on the aircraft assigned that day. So we book the aircraft, not just the flight number."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "The non-stops first, then the one-stops worth a look. Fleets shift by season and by day, so your advisor confirms the exact aircraft and cabin before you commit.",
+      "items": [
+        {
+          "name": "Air India",
+          "tag": "Star Alliance",
+          "text": "Non-stop BOM–LHR, typically on Boeing 787 and 777 wide-bodies, with the refreshed cabins rolling through the fleet. Business is the one to confirm here: newer aircraft carry a far better seat than older ones, and we hold out for the right one."
+        },
+        {
+          "name": "British Airways",
+          "tag": "Oneworld",
+          "text": "Non-stop to Heathrow on the 787 and 777, with Club Suite (a 1-2-1 cabin with a door) progressively replacing the older Club World layout. First appears on some 777s. We target the Club Suite aircraft when it matters."
+        },
+        {
+          "name": "Virgin Atlantic",
+          "tag": "SkyTeam",
+          "text": "Non-stop on the wide-body fleet, with Upper Class as the business product — a design-led cabin with a strong bar and lounge culture at Heathrow. No separate first class. We confirm the aircraft, as the seat differs across types."
+        },
+        {
+          "name": "The Gulf carriers",
+          "tag": "one-stop",
+          "text": "Emirates (via Dubai), Qatar Airways (via Doha) and Etihad (via Abu Dhabi) connect BOM–LHR with a stop. Worth it when their flagship cabins — Qsuite, Emirates' First, the A380 — beat the non-stop, or when award and upgrade space is better. We weigh the extra hours against the better bed."
+        },
+        {
+          "name": "European hubs",
+          "tag": "one-stop",
+          "text": "Lufthansa, Air France, KLM and others route via their hubs. Rarely the fastest, but occasionally the answer for award availability, a particular alliance, or onward connections beyond London."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Day vs. overnight",
+      "heading": "When the flat-bed is worth it.",
+      "lede": "On a nine-and-a-half-hour overnight, almost always. The night flight is the one to book for the bed; a rare daytime departure is more forgiving of a lesser seat. The judgement is in matching the cabin to the clock, and that is ours to make.",
+      "points": [
+        "<strong>Evening out of Mumbai</strong> — the redeye is where lie-flat earns its keep. Sleep over the Arabian Sea and Europe, land able to work.",
+        "<strong>The seat that's truly flat</strong> — we steer you to a 1-2-1 cabin with direct aisle access over an older angled or 2-3-2 layout sold under the same \"business\" name.",
+        "<strong>Eastbound, returning</strong> — a daytime LHR–BOM is gentler on the body; we'll often prioritise schedule over the absolute best seat on that leg.",
+        "<strong>First, selectively</strong> — on the carriers that still offer it, first can be worth it for a true suite and the ground experience; we say plainly when it isn't."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "alt": "Business class flat-bed cabin"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-mumbai-london.jpg&w=2560&q=80",
+      "by": "The connection trap",
+      "pull": "A cheaper one-stop can cost you the morning — and sometimes the bag."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>Old metal on a new fare.</strong> Two aircraft can fly the same BOM–LHR number across a week. We confirm the tail so the cabin matches what you're paying for, and hold out for the better one where it counts.",
+        "<strong>The tight connection.</strong> A one-stop that looks cheaper can hinge on a 60-minute transfer — fine until a delay turns it into a missed flight and a re-protected booking. We build in real connection time and protect the itinerary.",
+        "<strong>Self-transfer and split tickets.</strong> Booked across two separate fares, no airline owns the whole journey if leg one runs late. We keep you on a single protected record wherever possible.",
+        "<strong>Terminal and bag realities.</strong> Heathrow terminals and a mid-point hub change can complicate baggage and arrival. We check it through, so nothing is left to chance at the desk."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "Holding the fare, finding the space.",
+      "lede": "Knowing the route is half of it. The rest is access: held fares, live premium-cabin inventory, and the timing to clear an upgrade or an award seat.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the cabin",
+          "text": "The exact aircraft and seat for your dates — not just the flight number."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We work the miles",
+          "text": "Award and upgrade space others can't see, timed with your status to clear."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay or a missed connection is reworked in real time — no queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium-cabin seats are limited and go early — especially around UK summer, Christmas and Diwali. Book ahead for the best cabin and fare; your advisor watches for award space to open closer in."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Mumbai–London, done well.",
+      "lede": "Tell us your dates and how you like to fly. We come back with the right cabin, the fare held, and the seat that is actually flat.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-mumbai-new-york": {
+    "slug": "route-mumbai-new-york",
+    "kind": "route",
+    "seo": {
+      "title": "Mumbai to New York in Business & First — TripAgent",
+      "description": "The Mumbai–New York premium-cabin guide: non-stop and one-stop carriers, ultra-long-haul aircraft and cabins, when first is truly a suite, and how your advisor secures the right seat ex-India.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-mumbai-new-york.jpg&w=2560&q=80",
+      "imagePosition": "55% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · BOM → JFK / EWR",
+      "headingHtml": "Mumbai to New York,<br/>the <span class=\"it\">long</span> way well.",
+      "lede": "Up to sixteen hours in the air. On this route the cabin isn't indulgence. It is the difference between arriving and recovering.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "What we do well",
+        "value": "First & business, ex-Mumbai."
+      }
+    },
+    "facts": [
+      {
+        "label": "Flying time",
+        "value": "~15–16 hrs",
+        "text": "Non-stop. One-stop routings run longer in total, but can fly a better cabin."
+      },
+      {
+        "label": "Best as",
+        "value": "A rest leg",
+        "text": "Long enough that how well you sleep decides how you land. The cabin is the trip."
+      },
+      {
+        "label": "Cabins to want",
+        "value": "Suite or top business",
+        "text": "First where it is a true suite. Otherwise the best 1-2-1 business on the route."
+      },
+      {
+        "label": "Airports",
+        "value": "JFK / EWR",
+        "text": "Newark and JFK both reach the city. The right one depends on where you are headed."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "One of the longest flights a traveller from India takes. And the one where the seat you choose matters most.",
+      "statement": "Sixteen hours changes the maths.",
+      "lede": "On a flight this long, a flat bed is not a comfort. It is the whole point. The real question is first versus business. First earns its premium only where it is a true private suite, with a separate bed and a ground experience to match. Where \"first\" is simply a wider recliner, the money is better spent on the best business cabin on the route. We tell you which is which, and where first is worth it on this run and where it is not."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "The non-stops, and the one-stops with a better bed. Aircraft and cabins change, so your advisor confirms the exact product for your dates.",
+      "items": [
+        {
+          "name": "Air India",
+          "tag": "Star Alliance",
+          "text": "Non-stop BOM/DEL to New York (JFK and Newark) on the Boeing 777-200LR and other wide-bodies. Business and first appear on some aircraft; cabins vary by tail through the fleet refresh, so confirming the seat is essential here."
+        },
+        {
+          "name": "United Airlines",
+          "tag": "Star Alliance",
+          "text": "Non-stop from Mumbai/Delhi to Newark on the 777 and 787, with the Polaris business cabin — a 1-2-1 lie-flat product. No first class, but a consistent, modern business seat."
+        },
+        {
+          "name": "Qatar Airways",
+          "tag": "Oneworld · one-stop",
+          "text": "Via Doha on the 777 and A350, with Qsuite — a 1-2-1 business cabin with a closing door, widely regarded among the best. Often the wisest call: a stop, but a far better bed than some non-stops."
+        },
+        {
+          "name": "Emirates",
+          "tag": "one-stop",
+          "text": "Via Dubai, including A380 service with a full First Class suite and onboard shower on the flagship. When you want first done properly and the schedule allows, this is the way to have it."
+        },
+        {
+          "name": "Etihad & European hubs",
+          "tag": "one-stop",
+          "text": "Etihad via Abu Dhabi, plus Lufthansa, Air France, KLM, British Airways and others via their hubs. Worth weighing for award space, a specific cabin, or a particular alliance and status run."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "First vs. business",
+      "heading": "When first is worth it.",
+      "lede": "Only when \"first\" is truly a suite — privacy, a separate bed, a real difference on the ground and in the service. Where it is a slightly wider seat, the best business cabin is the honest choice, and we will say so.",
+      "points": [
+        "<strong>First, when it is a true suite</strong> — a door, a separate bed, a lounge and dining worth the premium on a 16-hour night.",
+        "<strong>Best business, when first is not</strong> — Qsuite, Polaris and the newest 1-2-1 cabins often beat a lesser first, for far less.",
+        "<strong>Non-stop or the better bed</strong> — sometimes a one-stop in a finer cabin lands you fresher than a non-stop in an older seat.",
+        "<strong>JFK or Newark</strong> — we choose the airport and routing that suit your onward plans, not just the headline fare."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+        "alt": "First class suite cabin"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-mumbai-new-york.jpg&w=2560&q=80",
+      "by": "The long-haul truth",
+      "pull": "Over sixteen hours, the seat you sleep in is the trip. Everything else is detail."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>\"First\" that isn't.</strong> The same word means a private suite on one aircraft and a wide recliner on another. We confirm the actual product, so a first-class fare buys a first-class night.",
+        "<strong>The marathon transfer.</strong> A cheap one-stop can mean a long, awkward layover that erases the time it saved. We weigh the total journey and the quality of the connection, not just the price.",
+        "<strong>JFK and Newark, confused.</strong> The two airports are not interchangeable for onward plans. We match the arrival airport to where you are actually headed.",
+        "<strong>Tight returns and ESTA/visa basics.</strong> US entry formalities and a snug return connection both reward planning. We sequence the itinerary so nothing is left to the gate."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "Holding the fare, finding the space.",
+      "lede": "Premium award and upgrade space on this route is scarce, and rarely visible online. Access and timing are everything.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the cabin",
+          "text": "The exact aircraft and seat. First only where it is truly first."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide."
+        },
+        {
+          "n": "3",
+          "title": "We work the miles",
+          "text": "Scarce premium award and upgrade space, timed with your status to clear."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A long-haul disruption is reworked in real time. No queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium cabins on this route sell out early, especially over US holidays and the Indian wedding and festival seasons. Book well ahead for first and the best business. Your advisor watches for award seats to open closer in."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Mumbai–New York, done well.",
+      "lede": "Tell us your dates and how you like to fly. We come back with first where it is worth it, the best business where it is not, and the fare held.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "route-mumbai-paris": {
+    "slug": "route-mumbai-paris",
+    "kind": "route",
+    "seo": {
+      "title": "Mumbai to Paris in Business & First — TripAgent",
+      "description": "Mumbai to Paris in business and first: the non-stop overnight, the Gulf-hub one-stop, the flat-bed worth the detour, and how your advisor finds the right seat ex-India.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-mumbai-paris.jpg&w=2560&q=80",
+      "imagePosition": "50% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Route guide · BOM → CDG",
+      "headingHtml": "Mumbai to Paris,<br/>cabin over the <span class=\"it\">clock</span>.",
+      "lede": "A non-stop overnight, or a Gulf-hub one-stop with a finer cabin. We know when the better bed is worth the extra hour.",
+      "ctaPrimary": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "Who flies it",
+        "href": "#carriers"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "Business & first, ex-Mumbai."
+      }
+    },
+    "facts": [
+      {
+        "label": "Non-stop time",
+        "value": "~9.5–10 hrs",
+        "text": "A long overnight; one-stops via the Gulf add time but can fly a better cabin."
+      },
+      {
+        "label": "Best as",
+        "value": "An overnight",
+        "text": "Sleep the leg, land into a Paris morning with the day still ahead of you."
+      },
+      {
+        "label": "Cabins to want",
+        "value": "True flat-bed",
+        "text": "A 1-2-1 lie-flat with direct aisle access on the newer wide-bodies."
+      },
+      {
+        "label": "Schengen note",
+        "value": "Visa applies",
+        "text": "France is in Schengen. Your advisor aligns the visa with your confirmed bookings."
+      }
+    ],
+    "intro": {
+      "eyebrow": "The case for the cabin",
+      "note": "A classic overnight to Europe, where the non-stop and the better cabin sometimes pull in different directions.",
+      "statement": "The better bed can be worth the detour.",
+      "lede": "Mumbai–Paris is a near-ten-hour overnight, so a true flat-bed earns its place easily. The choice is between a non-stop and a one-stop via a Gulf hub. The non-stop is the simplest. The one-stop can put you in a standout cabin — a Qsuite or a flagship first — and sometimes land you better rested despite the connection. France being a Schengen country, we also align the visa with your confirmed flights and hotels, so the paperwork never quietly decides your dates."
+    },
+    "list": {
+      "anchorId": "carriers",
+      "eyebrow": "Who flies it",
+      "heading": "Carriers & aircraft.",
+      "lede": "The non-stops first, then the Gulf-hub one-stops worth weighing. Aircraft and cabins vary by date, so your advisor confirms the seat for yours.",
+      "items": [
+        {
+          "name": "Air France",
+          "tag": "SkyTeam",
+          "text": "Non-stop BOM–Paris (Charles de Gaulle) on wide-bodies such as the Boeing 777 and 787, with a modern business cabin and, on some aircraft, La Première first class. The natural non-stop into its home hub."
+        },
+        {
+          "name": "Air India",
+          "tag": "Star Alliance",
+          "text": "Non-stop to Paris on wide-bodies depending on the season, with business and the refreshed cabins arriving across the fleet. Confirm the aircraft for the seat."
+        },
+        {
+          "name": "Qatar Airways",
+          "tag": "Oneworld · one-stop",
+          "text": "Via Doha on the 777 and A350 with Qsuite — a 1-2-1 business cabin with a door, widely rated among the best. Often the right call when the better bed outweighs the extra hours."
+        },
+        {
+          "name": "Emirates & Etihad",
+          "tag": "one-stop",
+          "text": "Via Dubai or Abu Dhabi, including A380 service and full first-class suites on Emirates' flagships. The way to go when you want first done properly and the schedule allows."
+        },
+        {
+          "name": "Other European & Gulf hubs",
+          "tag": "one-stop",
+          "text": "Lufthansa, KLM, Turkish and others can route via their hubs. Worth weighing for award space, a particular cabin, or onward connections beyond Paris."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "Non-stop vs. one-stop",
+      "heading": "When the flat-bed is worth it.",
+      "lede": "On a ten-hour overnight, almost always. The only question is whether to take the simple non-stop or detour for a standout cabin. We weigh the bed against the clock for your dates.",
+      "points": [
+        "<strong>The non-stop overnight</strong> — direct and simple; a true flat-bed lands you into Paris ready for the day.",
+        "<strong>The Gulf-hub one-stop</strong> — a finer cabin, sometimes a fresher arrival, when the seat earns the connection.",
+        "<strong>First, selectively</strong> — worth it where it's a genuine suite with a real ground experience. We say plainly when it isn't.",
+        "<strong>The seat that's truly flat</strong> — we steer you to 1-2-1 with direct aisle access over an older, denser cabin under the same name."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fh3%2Froute-mumbai-paris.jpg&w=2048&q=80",
+        "alt": "Paris skyline at dusk"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2560&q=80",
+      "by": "The overnight to Europe",
+      "pull": "Land into a Paris morning rested, and the trip begins the moment you step off the aircraft."
+    },
+    "traps": {
+      "eyebrow": "Routing & traps",
+      "heading": "What we route around.",
+      "items": [
+        "<strong>Old metal on a new fare.</strong> The same flight number can fly two cabins across a week. We confirm the tail so the seat matches the price.",
+        "<strong>The tight Gulf connection.</strong> A one-stop's value disappears if the transfer is too short and a delay breaks it. We build in real time and hold the booking on one record.",
+        "<strong>Schengen surprises.</strong> France needs a Schengen visa for Indian passports; we align it with confirmed flights and hotels — your advisor confirms current requirements before you travel.",
+        "<strong>CDG transfer realities.</strong> Charles de Gaulle is large, and onward European connections can run tight. We check it through so nothing is left to the desk."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we secure it",
+      "heading": "Holding the fare, finding the space.",
+      "lede": "Knowing the route is half of it. The rest is access — the standout cabin held, the award space found, the visa aligned, so the trip simply works.",
+      "cta": {
+        "label": "Plan this flight",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We weigh the trade",
+          "text": "Non-stop simplicity against a better cabin and a fresher arrival."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide."
+        },
+        {
+          "n": "3",
+          "title": "We work the miles & visa",
+          "text": "Award space timed to clear, the Schengen visa aligned with your bookings."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay or a Gulf connection, reworked in real time."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium seats tighten over European summer, Christmas and the Indian festival season — and the Schengen visa wants lead time. Book ahead for the best cabin. Your advisor times the award space and the paperwork."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Fly Mumbai–Paris, done well.",
+      "lede": "Tell us your dates and how you like to fly. We weigh the cabin against the clock, hold the fare, and align the visa, so nothing is yours to chase.",
+      "ctaPrimary": {
+        "label": "Plan this flight →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More route guides",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "hub-doha": {
+    "slug": "hub-doha",
+    "kind": "hub",
+    "seo": {
+      "title": "Doha (DOH) — The Connecting Hub Guide — TripAgent",
+      "description": "How a premium traveller passes through Hamad International (DOH): the single-terminal layout, Al Mourjan and Al Safwa lounges, realistic minimum connections, the arrival, and how your advisor makes a layover work.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fhub-doha.jpg&w=2560&q=80",
+      "imagePosition": "58% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Hub guide · DOH",
+      "headingHtml": "Doha,<br/>the <span class=\"it\">considered</span> connection.",
+      "lede": "Qatar Airways' single-terminal hub at Hamad International. Compact, calm and easy to pass through, with lounges that set the bar for premium cabins.",
+      "ctaPrimary": {
+        "label": "Plan a trip through DOH",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "The lounges",
+        "href": "#lounges"
+      },
+      "cornerLabel": {
+        "key": "What we do",
+        "value": "Connections that hold."
+      }
+    },
+    "facts": [
+      {
+        "label": "Layout",
+        "value": "One terminal",
+        "text": "A single, well-signed terminal with concourses under one roof. Simple to move through."
+      },
+      {
+        "label": "Comfortable connection",
+        "value": "~75 min+",
+        "text": "Transfers are short. We still leave a real buffer for security re-checks."
+      },
+      {
+        "label": "The draw",
+        "value": "Al Mourjan & Al Safwa",
+        "text": "Qatar's flagship Business and First lounges, widely rated among the best."
+      },
+      {
+        "label": "A long layover",
+        "value": "Becomes a stay",
+        "text": "Given enough time, a hotel or a night in Doha is on the table."
+      }
+    ],
+    "intro": {
+      "eyebrow": "Why it matters",
+      "note": "A leading single stop from India to Europe, Africa and the Americas, and one of the easiest large hubs to move through.",
+      "statement": "A big hub that feels small, in the best way.",
+      "lede": "Hamad International is Qatar Airways' home and, unusually for a hub of its scale, sits under a single roof. Concourses are linked airside, transfers are short, and the design is calm and clear. For premium travellers, the Al Mourjan Business lounges and the rarefied Al Safwa First lounge are real highlights. We match your connection to the right concourse and leave sensible time, so passing through becomes a pleasure."
+    },
+    "list": {
+      "anchorId": "lounges",
+      "eyebrow": "Terminal & lounges",
+      "heading": "Where premium lives.",
+      "lede": "The lay of the land for a Business or First traveller. Lounge access and concourse assignments change, so your advisor confirms the detail for your flights.",
+      "items": [
+        {
+          "name": "Single terminal, linked concourses",
+          "tag": "the hub",
+          "text": "Hamad International runs as one terminal with concourses connected airside. Most India connections move between concourses on foot or by an internal train — a short, clear transfer with strong signage."
+        },
+        {
+          "name": "Al Mourjan — Business",
+          "tag": "flagship",
+          "text": "Qatar Airways' Business lounges are vast, multi-zone spaces with à la carte dining, quiet areas and shower suites — often named among the world's best. We confirm which one your fare and status open."
+        },
+        {
+          "name": "Al Safwa — First",
+          "tag": "rarefied",
+          "text": "The First lounge is a calm, gallery-like space with private rooms and fine dining, kept for First guests and select premium passengers. Where your itinerary opens it, you will know."
+        },
+        {
+          "name": "Ground service & fast-track",
+          "tag": "arranged",
+          "text": "Premium check-in, fast-track and help for tight or complex connections, depending on fare and status. Where it is open to you, we set it up in advance rather than improvise."
+        },
+        {
+          "name": "The arrival experience",
+          "tag": "into the city",
+          "text": "If Doha is your destination, premium arrival means a swift path through immigration and a smooth handover to your transfer. We sequence the airport-to-hotel leg so the trip begins calmly."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "The connection",
+      "heading": "What a layover can become.",
+      "lede": "Doha's compact layout makes short connections easy; a longer one shouldn't be wasted. The judgement is in reading your transfer — concourse, time and status — and shaping it with intent.",
+      "points": [
+        "<strong>Short, simple transfers</strong> — moving between concourses is usually quick on foot or the internal train; we still leave a buffer for security re-checks.",
+        "<strong>A real buffer</strong> — for tight schedules we build in honest time, so one delay doesn't cost the onward flight.",
+        "<strong>The long layover, used well</strong> — the flagship lounge, a transit hotel within the airport, or a Doha stopover where time and visa allow.",
+        "<strong>A planned stopover</strong> — turn the hub into a night or two in Doha; we arrange the hotel, the transfers and the onward flight as one journey."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2048&q=80",
+        "alt": "Hamad International Airport interior"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Fhub-doha.jpg&w=2560&q=80",
+      "by": "The truth about transits",
+      "pull": "Even a calm hub rewards a sensible buffer over a heroic dash."
+    },
+    "traps": {
+      "eyebrow": "What we watch",
+      "heading": "The transit details.",
+      "items": [
+        "<strong>The concourse walk.</strong> A single terminal still spans long distances. A \"short\" connection on paper can be a brisk walk or a train ride; we confirm the concourses and build in the time.",
+        "<strong>Minimum connection time.</strong> The published minimum is a floor, not a comfort margin. We plan to a realistic transfer time given your cabin, status and the hour.",
+        "<strong>Baggage through-check.</strong> On a single record, bags usually follow you through; on split tickets they may not. We keep you on one protected booking wherever we can.",
+        "<strong>Visa &amp; stopover rules.</strong> Leaving the airport, or a long layover, can carry visa conditions. We check them ahead, so a planned stopover is a pleasure and not a problem."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we handle it",
+      "heading": "The hub, made effortless.",
+      "lede": "Knowing the airport is half of it. The rest is sequencing — the right connection time, the lounge confirmed, the transfer arranged, and one advisor watching the whole chain.",
+      "cta": {
+        "label": "Plan a trip through DOH",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the connection",
+          "text": "Concourses, transfer time and lounge access for your exact flights."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We shape the layover",
+          "text": "Lounge, a transit hotel or a city stopover, planned rather than left to chance."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay that threatens the connection is reworked in real time. No queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium seats and the best connections fill early — especially around winter sun, the year-end holidays and Diwali. Book ahead for the right cabin and a comfortable transfer; your advisor watches for award space to open closer to the date."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Doha, passed through well.",
+      "lede": "Tell us where you're headed and how you like to fly. We'll come back with the right cabin, a connection that holds, and a layover shaped to suit you.",
+      "ctaPrimary": {
+        "label": "Plan a trip through DOH →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More flight intelligence",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "hub-dubai": {
+    "slug": "hub-dubai",
+    "kind": "hub",
+    "seo": {
+      "title": "Dubai (DXB) — The Connecting Hub Guide — TripAgent",
+      "description": "How to transit Dubai International (DXB) well: the terminals, the lounges, connections that hold, the arrival in business and first, and how your TripAgent advisor shapes the time on the ground.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fhub-dubai.jpg&w=2560&q=80",
+      "imagePosition": "58% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Hub guide · DXB",
+      "headingHtml": "Dubai,<br/>where the world <span class=\"it\">connects</span>.",
+      "lede": "One of the busiest hubs in the world, and one of the best to pass through — once you know the terminals, the lounges, and how much time a connection truly needs.",
+      "ctaPrimary": {
+        "label": "Plan a trip through DXB",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "The lounges",
+        "href": "#lounges"
+      },
+      "cornerLabel": {
+        "key": "What we do here",
+        "value": "Connections that hold."
+      }
+    },
+    "facts": [
+      {
+        "label": "Main terminals",
+        "value": "T3, T1, T2",
+        "text": "Emirates and flydubai own T3. Most other long-haul carriers use T1."
+      },
+      {
+        "label": "Comfortable connection",
+        "value": "~90 min+",
+        "text": "Same-terminal transfers can be quick. We still leave a real buffer."
+      },
+      {
+        "label": "The draw",
+        "value": "Flagship lounges",
+        "text": "Emirates' multi-floor T3 lounges are among the largest premium spaces anywhere."
+      },
+      {
+        "label": "A long layover",
+        "value": "Becomes a stay",
+        "text": "With enough time, Dubai itself — a hotel, the city — is yours to enjoy."
+      }
+    ],
+    "intro": {
+      "eyebrow": "Why it matters",
+      "note": "For Indian travellers, Dubai is the most common single stop to Europe, Africa and the Americas. It is also the one most worth getting right.",
+      "statement": "A hub to enjoy, when it is planned.",
+      "lede": "Dubai International is vast and well run. Its scale is also the catch. The right terminal, a realistic connection time and a clear plan for the lounge turn a transit from a chore into a pleasure. Most through-traffic from India flows through Emirates at Terminal 3 — a self-contained world with metro links to the other concourses. We map your specific connection and tell you exactly what the time on the ground can become."
+    },
+    "list": {
+      "anchorId": "lounges",
+      "eyebrow": "Terminals & lounges",
+      "heading": "Where premium lives.",
+      "lede": "The lay of the land for a business or first traveller. Terminals and lounge access change, so your advisor confirms the detail for your exact flights.",
+      "items": [
+        {
+          "name": "Terminal 3 — Emirates & flydubai",
+          "tag": "the hub",
+          "text": "Emirates' home, and where most India connections happen. Concourses A, B and C are linked by an internal train. The Emirates Business and First Class lounges here are vast, multi-floor spaces with direct boarding to many gates — reason enough to leave a little extra time."
+        },
+        {
+          "name": "Terminal 1",
+          "tag": "most long-haul partners",
+          "text": "Home to many international carriers beyond Emirates, with contract and airline lounges. If your itinerary mixes Emirates with another carrier, a terminal change may be involved, and we plan the time for it."
+        },
+        {
+          "name": "First & Business lounges",
+          "tag": "flagship",
+          "text": "Emirates' premium lounges set the standard at DXB — dining, spa and quiet zones, with First guests in a more private setting. We confirm which lounge your fare and status open, so there is no surprise at the door."
+        },
+        {
+          "name": "Ground service & fast-track",
+          "tag": "arranged",
+          "text": "Chauffeur-drive on qualifying Emirates premium fares, fast-track immigration, and a hand for tight or complex connections. Where it is open to you, we set it up in advance rather than leaving it to the moment."
+        },
+        {
+          "name": "The arrival experience",
+          "tag": "into the city",
+          "text": "If Dubai is your destination, a premium arrival means a swift path through immigration and a smooth handover to your transfer. We sequence the airport-to-hotel leg so the trip begins calmly."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "The connection",
+      "heading": "What a layover can become.",
+      "lede": "A short connection should be calm, not a sprint. A long one should not be wasted. The judgement lies in reading your transfer — terminal, time and status — and shaping it on purpose.",
+      "points": [
+        "<strong>Same-terminal transfers</strong> — within Terminal 3, a connection can be quick and walkable. We still leave a sensible buffer for the internal train and security.",
+        "<strong>A genuine buffer</strong> — for terminal changes or tight schedules, we build in real time, so one delay does not cost the onward flight.",
+        "<strong>The long layover, used well</strong> — several hours can mean the flagship lounge, a day room, or, with enough time and the right visa, the city itself.",
+        "<strong>A planned stopover</strong> — turn the hub into a night or two in Dubai. We arrange the hotel, the transfers and the onward flight as one journey."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fh3%2Fhub-dubai.jpg&w=2048&q=80",
+        "alt": "Dubai skyline and airport"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2560&q=80",
+      "by": "The transit truth",
+      "pull": "A great hub rewards the prepared. It punishes the rushed."
+    },
+    "traps": {
+      "eyebrow": "What we watch",
+      "heading": "The transit details.",
+      "items": [
+        "<strong>The terminal change.</strong> An itinerary that mixes Emirates with a partner can mean moving between T3 and T1. We confirm the terminals and build the time, so a \"short\" connection is not a long walk in disguise.",
+        "<strong>Minimum connection time.</strong> The published minimum is a floor, not a comfort margin. We plan to a realistic transfer time given your cabin, status and the hour.",
+        "<strong>Baggage through-check.</strong> On a single record, bags usually follow you through. On split tickets they may not. We keep you on one protected booking wherever possible.",
+        "<strong>Visa &amp; stopover rules.</strong> Leaving the airport, or a long layover, can carry visa conditions. We check them ahead, so a planned stopover is a pleasure and not a problem."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we handle it",
+      "heading": "The hub, made effortless.",
+      "lede": "Knowing the airport is half of it. The rest is sequencing — the right connection time, the lounge confirmed, the transfer arranged, and one advisor watching the whole chain.",
+      "cta": {
+        "label": "Plan a trip through DXB",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the connection",
+          "text": "Terminals, transfer time and lounge access for your exact flights."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We shape the layover",
+          "text": "Lounge, day room or a city stopover — planned, not left to chance."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay that threatens the connection is reworked in real time. No queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium seats and the best connections fill early — especially around winter sun, the year-end holidays and Diwali. Book ahead for the right cabin and a comfortable transfer. Your advisor watches for award space to open closer in."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Transit Dubai, done well.",
+      "lede": "Tell us where you are headed and how you like to fly. We will come back with the right cabin, a connection that holds, and a layover shaped to suit you.",
+      "ctaPrimary": {
+        "label": "Plan a trip through DXB →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More flight intelligence",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "hub-london-heathrow": {
+    "slug": "hub-london-heathrow",
+    "kind": "hub",
+    "seo": {
+      "title": "London Heathrow (LHR) — The Connecting Hub Guide — TripAgent",
+      "description": "The premium traveller's guide to transiting and arriving at London Heathrow (LHR): the five terminals, the flagship lounges, realistic terminal-change connections, the business and first arrival, and how TripAgent makes it work.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fhub-london-heathrow.jpg&w=2560&q=80",
+      "imagePosition": "58% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Hub guide · LHR",
+      "headingHtml": "Heathrow,<br/>the <span class=\"it\">gateway</span> with five doors.",
+      "lede": "Europe's great long-haul gateway. Across five terminals, the one you land in and the one you leave from decide how the day goes. We hold both ends.",
+      "ctaPrimary": {
+        "label": "Plan a trip through LHR",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "The lounges",
+        "href": "#lounges"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "Terminal changes, handled."
+      }
+    },
+    "facts": [
+      {
+        "label": "Terminals",
+        "value": "T2–T5",
+        "text": "BA & Iberia at T5; Star Alliance largely at T2; others across T3 and T4."
+      },
+      {
+        "label": "Comfortable connection",
+        "value": "~90 min+",
+        "text": "Same-terminal is easy; a terminal change needs real time and often transfer security."
+      },
+      {
+        "label": "The draw",
+        "value": "Flagship lounges",
+        "text": "BA's Galleries and Concorde Room at T5; partner flagship lounges at T2 and T3."
+      },
+      {
+        "label": "Premium arrival",
+        "value": "Into London",
+        "text": "Fast-track, the Heathrow Express or a car — sequenced to the city."
+      }
+    ],
+    "intro": {
+      "eyebrow": "Why it matters",
+      "note": "For most Indian travellers, Heathrow is either the destination or the doorway onward to Europe and the Americas.",
+      "statement": "The terminal is the whole story.",
+      "lede": "Heathrow's terminals are effectively separate airports, linked by transfer buses and trains. British Airways and partners cluster at Terminal 5; many Star Alliance carriers use Terminal 2; others sit across Terminals 3 and 4. A connection that stays in one terminal is simple. One that crosses terminals can mean a bus, a fresh security check and a real walk. We confirm both terminals before you book and plan the time, so a tight transfer never becomes a missed flight."
+    },
+    "list": {
+      "anchorId": "lounges",
+      "eyebrow": "Terminals & lounges",
+      "heading": "Where premium lives.",
+      "lede": "The lay of the land for a business or first traveller. Terminal assignments and lounge access change, so your advisor confirms the detail for your exact flights.",
+      "items": [
+        {
+          "name": "Terminal 5 — British Airways",
+          "tag": "Oneworld",
+          "text": "BA's home, and where most India–London services arrive and depart. The Galleries First and Club lounges sit here, with the exclusive Concorde Room for First. If you're connecting onto another BA flight, the transfer is usually within T5 — the simplest case."
+        },
+        {
+          "name": "Terminal 2 — The Queen's Terminal",
+          "tag": "Star Alliance",
+          "text": "Home to many Star Alliance carriers, including Air India and partners, with flagship partner lounges. Clean and modern; connections within T2 are straightforward."
+        },
+        {
+          "name": "Terminals 3 & 4",
+          "tag": "other carriers",
+          "text": "Virgin Atlantic and a range of carriers use T3; several others, including some Gulf and SkyTeam airlines, use T4. A connection that mixes terminals here will involve a transfer — we plan for it explicitly."
+        },
+        {
+          "name": "Flagship lounges",
+          "tag": "premium",
+          "text": "BA's Concorde Room and Galleries First at T5, plus partner first and business lounges across T2 and T3. We confirm which your fare and status open, so there's no doubt at the door."
+        },
+        {
+          "name": "The arrival experience",
+          "tag": "into London",
+          "text": "If London is your destination, premium arrival means fast-track immigration where eligible, and a smooth onward choice — the Heathrow Express, the Elizabeth line, or a private car. We sequence the airport-to-city leg so the trip starts calmly."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "The connection",
+      "heading": "What a transfer really takes.",
+      "lede": "At Heathrow, the difference between an easy connection and a stressful one is almost always the terminal change. The judgement is in reading your transfer — terminals, time and status — and building the right buffer.",
+      "points": [
+        "<strong>Same-terminal connections</strong> — staying within T5 or T2 is generally simple; we still leave time for the walk and any flight-connections security.",
+        "<strong>The terminal change</strong> — crossing terminals means a transfer bus or train and a fresh security check; we build in real time so it's comfortable, not a sprint.",
+        "<strong>The flagship lounge</strong> — a longer connection is a chance to use the Concorde Room or a partner first lounge well, rather than wait at the gate.",
+        "<strong>Arriving for London</strong> — if Heathrow is the destination, we point you to fast-track and the right onward transfer, and book the flights and the stay that make the stopover work."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2048&q=80",
+        "alt": "London cityscape near Heathrow"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Fhub-london-heathrow.jpg&w=2560&q=80",
+      "by": "The transit truth",
+      "pull": "At Heathrow, the terminal change is the connection — plan for it, or it plans you."
+    },
+    "traps": {
+      "eyebrow": "What we watch",
+      "heading": "The transit details.",
+      "items": [
+        "<strong>The terminal change.</strong> Heathrow's terminals are separate airports; a cross-terminal transfer means a bus or train and a new security check. We confirm both terminals and build the time, not the bare minimum.",
+        "<strong>Minimum connection time.</strong> The published minimum is a floor, not a comfort margin — especially across terminals at peak hours. We plan to a realistic transfer time given your cabin and status.",
+        "<strong>Baggage and single tickets.</strong> On one protected record, bags and re-protection usually flow through; on split tickets they may not. We keep you on a single booking wherever possible.",
+        "<strong>Onward visas &amp; transit rules.</strong> Some connections and any landside stop can carry conditions for UK transit or onward travel. We check them ahead so nothing surprises you."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we handle it",
+      "heading": "The hub, made effortless.",
+      "lede": "Knowing the airport is half of it. The rest is sequencing — the right connection time, the correct terminals, the lounge confirmed, the transfer arranged, and one advisor watching the whole chain.",
+      "cta": {
+        "label": "Plan a trip through LHR",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the terminals",
+          "text": "Arrival and departure terminals, transfer time and lounge access for your exact flights."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We plan the transfer",
+          "text": "The terminal change, fast-track and the onward leg into London or beyond — arranged."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "A delay that threatens the connection is reworked in real time — no queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium seats and the smoothest connections fill early — especially around UK summer, Christmas and Diwali. Book ahead for the right cabin and a comfortable transfer; your advisor watches for award space to open closer in."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Heathrow, done well.",
+      "lede": "Tell us where you're headed and how you like to fly. We'll come back with the right cabin, the correct terminals, a connection that holds, and a calm arrival into London. We stay with it until you are home.",
+      "ctaPrimary": {
+        "label": "Plan a trip through LHR →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More flight intelligence",
+        "href": "flight-guides.html"
+      }
+    }
+  },
+  "hub-singapore": {
+    "slug": "hub-singapore",
+    "kind": "hub",
+    "seo": {
+      "title": "Singapore (SIN) — The Connecting Hub Guide — TripAgent",
+      "description": "A considered guide to transiting Changi (SIN): the terminals and Jewel, the lounges, realistic minimum connections, the business and first arrival, and how TripAgent turns a layover into time you look forward to.",
+      "ogImage": "https://tripagent-site.vercel.app/img/og.jpg"
+    },
+    "hero": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fhub-singapore.jpg&w=2560&q=80",
+      "imagePosition": "58% 50%",
+      "backLink": {
+        "label": "← Flight Intelligence",
+        "href": "flight-guides.html"
+      },
+      "eyebrow": "Hub guide · SIN",
+      "headingHtml": "Changi,<br/>the hub you'd <span class=\"it\">choose</span>.",
+      "lede": "Routinely rated the world's best airport, and the rare hub where a layover is something to look forward to. The difference is knowing how to use it.",
+      "ctaPrimary": {
+        "label": "Plan a trip through SIN",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "The lounges",
+        "href": "#lounges"
+      },
+      "cornerLabel": {
+        "key": "Our specialty",
+        "value": "A layover worth having."
+      }
+    },
+    "facts": [
+      {
+        "label": "Main terminals",
+        "value": "T1–T4 + Jewel",
+        "text": "Singapore Airlines spans T1–T3; Jewel links T1, T2 and T3 landside."
+      },
+      {
+        "label": "Comfortable connection",
+        "value": "~90 min+",
+        "text": "The inter-terminal Skytrains are quick. We still leave a real buffer."
+      },
+      {
+        "label": "The draw",
+        "value": "SilverKris & The Private Room",
+        "text": "Singapore Airlines' flagship lounges, with The Private Room for First."
+      },
+      {
+        "label": "A long layover",
+        "value": "Becomes a pleasure",
+        "text": "Jewel's Rain Vortex, the gardens, a transit tour, or the city itself."
+      }
+    ],
+    "intro": {
+      "eyebrow": "Why it matters",
+      "note": "For travel onward to Australia, New Zealand and the Pacific, Changi is the natural and most pleasant single stop.",
+      "statement": "The one hub no one minds waiting in.",
+      "lede": "Changi is calm, fast and green — its four terminals linked by Skytrains, with Jewel's gardens and Rain Vortex tying the complex together landside. For premium travellers, Singapore Airlines' SilverKris and First-class lounges are a reason to arrive early. The rest is simple: match the connection to the right terminal, and leave sensible time. Do that, and the layover becomes the best part of the day rather than a wait."
+    },
+    "list": {
+      "anchorId": "lounges",
+      "eyebrow": "Terminals & lounges",
+      "heading": "Where premium lives.",
+      "lede": "The lay of the land for a business or first traveller. Terminal assignments and lounge access change, so your advisor confirms the detail for your exact flights.",
+      "items": [
+        {
+          "name": "Terminals 1–3 — Singapore Airlines",
+          "tag": "the hub",
+          "text": "SIA and its Star Alliance partners spread across T1, T2 and T3, linked airside by Skytrain. Most India connections route through here. The terminals are quiet and walkable, the signage is clear, and the transfers between them are short."
+        },
+        {
+          "name": "SilverKris & The Private Room",
+          "tag": "flagship",
+          "text": "Singapore Airlines' Business and First SilverKris lounges in T3 are the centrepiece, with The Private Room kept for First and Suites guests — a calm, restaurant-style space. We confirm which your fare and status open."
+        },
+        {
+          "name": "Terminal 4 & partner lounges",
+          "tag": "selected carriers",
+          "text": "Some carriers operate from T4, which is not airside-linked to the others — a transfer here means landside movement and time. If your itinerary touches T4, we plan for it explicitly."
+        },
+        {
+          "name": "Jewel",
+          "tag": "landside",
+          "text": "The Rain Vortex, indoor gardens and dining sit landside, within reach if your connection and visa allow you to clear immigration. A long layover can genuinely become a visit. We tell you when there's time to enjoy it."
+        },
+        {
+          "name": "The arrival experience",
+          "tag": "into the city",
+          "text": "If Singapore is your destination, the premium arrival is swift — fast immigration and an easy handover to your transfer. We sequence the airport-to-hotel leg so the trip begins calmly."
+        }
+      ]
+    },
+    "connection": {
+      "eyebrow": "The connection",
+      "heading": "What a layover can become.",
+      "lede": "At Changi, a short connection is easy and a long one is a gift. The judgement is in reading your own transfer — terminal, time and status — and shaping it on purpose.",
+      "points": [
+        "<strong>Airside Skytrain transfers</strong> — moving between T1, T2 and T3 is quick; we still leave a sensible buffer for the train and any security re-check.",
+        "<strong>Mind Terminal 4</strong> — a transfer involving T4 means landside movement and more time; we plan it rather than assume an airside walk.",
+        "<strong>The long layover, used well</strong> — the flagship lounge, Jewel's gardens, a complimentary transit tour where eligible, or a rest in a transit hotel.",
+        "<strong>A planned stopover</strong> — turn the hub into a night or two in Singapore; we arrange the hotel, the transfers and the onward flight as one journey."
+      ],
+      "image": {
+        "src": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80",
+        "alt": "Changi Airport interior gardens"
+      }
+    },
+    "signature": {
+      "image": "/_vercel/image?url=%2Fimg%2Fh3%2Fhub-singapore.jpg&w=2560&q=80",
+      "by": "The transit truth",
+      "pull": "The best hub in the world is still only as good as your connection time."
+    },
+    "traps": {
+      "eyebrow": "What we watch",
+      "heading": "The transit details.",
+      "items": [
+        "<strong>The Terminal 4 catch.</strong> T4 is not airside-connected to the other terminals. A connection that touches it needs landside time; we confirm the terminals and build the buffer.",
+        "<strong>Minimum connection time.</strong> The published minimum is a floor, not a comfort margin. We plan to a realistic transfer time given your cabin, status and the hour.",
+        "<strong>Baggage through-check.</strong> On a single record, bags usually follow you through; on split tickets they may not. We keep you on one protected booking wherever possible.",
+        "<strong>Visa &amp; transit rules.</strong> Clearing immigration for Jewel, a city tour or a stopover can carry conditions. We check them ahead so a planned break is a pleasure, not a problem."
+      ]
+    },
+    "secure": {
+      "eyebrow": "How we handle it",
+      "heading": "The hub, made effortless.",
+      "lede": "Knowing the airport is half of it. The rest is sequencing — the right connection time, the lounge confirmed, the transfer arranged, and one advisor watching the whole chain.",
+      "cta": {
+        "label": "Plan a trip through SIN",
+        "href": "enquire.html"
+      },
+      "steps": [
+        {
+          "n": "1",
+          "title": "We confirm the connection",
+          "text": "Terminals, transfer time and lounge access for your exact flights."
+        },
+        {
+          "n": "2",
+          "title": "We hold the fare",
+          "text": "Price and seats held together while you decide, so neither slips away."
+        },
+        {
+          "n": "3",
+          "title": "We shape the layover",
+          "text": "Lounge, Jewel, a transit tour or a city stopover — planned, not left to chance."
+        },
+        {
+          "n": "4",
+          "title": "We stay, in the air too",
+          "text": "If a delay threatens the connection, we rework it in real time — no queue, no hold music."
+        }
+      ]
+    },
+    "whenToBook": {
+      "eyebrow": "When to book",
+      "text": "Premium seats and the best connections fill early — especially around the year-end holidays, the F1 weekend and school breaks. Book ahead for the right cabin and a comfortable transfer; your advisor watches for award space to open closer in."
+    },
+    "closing": {
+      "image": null,
+      "eyebrow": "Your move",
+      "heading": "Transit Changi, done well.",
+      "lede": "Tell us where you're headed and how you like to fly. We'll come back with the right cabin, a connection that holds, and a layover shaped around you.",
+      "ctaPrimary": {
+        "label": "Plan a trip through SIN →",
+        "href": "enquire.html"
+      },
+      "ctaSecondary": {
+        "label": "More flight intelligence",
+        "href": "flight-guides.html"
+      }
+    }
+  }
+}

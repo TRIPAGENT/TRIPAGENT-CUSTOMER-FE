@@ -1,0 +1,27 @@
+/* Extracted verbatim from every journal-*.html <head> <style> block —
+ * identical across all 20 files (verified; one has an extra comment
+ * line, no functional difference). Not in css/site.css. */
+
+  .art-hero{position:relative;isolation:isolate;overflow:hidden}
+  .art-hero::after{background:
+    linear-gradient(100deg,rgba(0,0,0,.7) 0%,rgba(0,0,0,.46) 32%,rgba(0,0,0,.14) 60%,transparent 78%),
+    linear-gradient(180deg,rgba(0,0,0,.22) 0%,transparent 34%,transparent 58%,rgba(0,0,0,.52) 100%)}
+  .art-hero :global(.hero-inner){max-width:none;width:100%}
+  .art-hero :global(.hs-copy){max-width:760px}
+  .art-hero :global(.display){font-size:clamp(40px,5.6vw,80px);line-height:1.04;margin:0;letter-spacing:-.01em}
+  .art-hero .backlink{margin-bottom:18px}
+  .art-kicker{font-family:var(--fr);font-weight:600;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.78)}
+  .art-meta{margin-top:22px;font-family:var(--fr);font-weight:600;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:rgba(255,255,255,.74);display:flex;flex-wrap:wrap;gap:8px 18px}
+  :global(.prose){max-width:720px;margin:0 auto}
+  :global(.prose) .standfirst{font-family:var(--logo);font-weight:500;font-size:clamp(21px,2.4vw,29px);line-height:1.34;color:var(--ink);margin:0 0 8px;text-wrap:pretty}
+  :global(.prose) h2{font-family:var(--logo);font-weight:500;font-size:clamp(26px,3vw,38px);line-height:1.14;letter-spacing:-.006em;margin:46px 0 4px}
+  :global(.prose) h2 :global(.it),:global(.prose) .standfirst :global(.it){font-style:italic;color:var(--accent-2)}
+  :global(.prose) p{font-size:17px;line-height:1.66;color:var(--ink-soft);margin:18px 0 0;text-wrap:pretty}
+  :global(.prose) p b{color:var(--ink);font-weight:600}
+  :global(.prose) .lead-cap::first-letter{initial-letter:2.6;font-family:var(--logo);font-weight:600;color:var(--accent-2);margin-right:10px}
+  :global(.prose) blockquote{margin:40px 0;padding:0 0 0 26px;border-left:2px solid var(--accent-2);font-family:var(--logo);font-style:italic;font-weight:500;font-size:clamp(22px,2.6vw,30px);line-height:1.3;color:var(--ink)}
+  :global(.prose) ul{margin:18px 0 0;padding:0;list-style:none}
+  :global(.prose) ul li{position:relative;padding:11px 0 11px 26px;border-top:1px solid var(--line);font-size:16.5px;line-height:1.58;color:var(--ink)}
+  :global(.prose) ul li:last-child{border-bottom:1px solid var(--line)}
+  :global(.prose) ul li::before{content:"✦";position:absolute;left:0;top:11px;color:var(--accent-2);font-size:13px}
+  .art-rule{width:54px;height:2px;background:var(--ink);margin:34px auto;opacity:.6}

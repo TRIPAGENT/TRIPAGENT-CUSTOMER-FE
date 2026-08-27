@@ -1,0 +1,118 @@
+{
+  "seo": {
+    "title": "About — TripAgent",
+    "description": "A private travel maison by Tripsure. We brought back the travel agent — one real person, with AI behind them — to look after every journey the way a private banker looks after your money."
+  },
+  "hero": {
+    "eyebrow": "About",
+    "headingHtml": "A private travel <span class=\"it\">maison</span>.",
+    "lede": "We brought back the travel agent — the one who knew your name, your seat, your anniversary. And gave them the speed of AI.",
+    "image": "/_vercel/image?url=%2Fimg%2Fh%2Fabout.jpg&w=2560&q=80"
+  },
+  "pullQuote": {
+    "quoteHtml": "The last luxury is no longer the room. It is a person who <span class=\"em\">knows you</span>, and answers in the moment that matters.",
+    "cite": "The conviction TripAgent is built around"
+  },
+  "belief": {
+    "eyebrow": "The belief",
+    "headingHtml": "Anyone can book a villa now.<br/>Care is the rare <span class=\"it\">thing</span>.",
+    "ledes": [
+      "The room isn't rare anymore. A person who knows you is. Who remembers the seat you like, the anniversary you'd never mention, and sees what you'll need before you ask.",
+      "TripAgent is built around that one idea. Not more choice, not faster search — those are solved. Care is what's missing: a named person who looks after the whole journey, the way a private banker looks after your money."
+    ],
+    "image": "/_vercel/image?url=%2Fimg%2Fhost-guest-view.jpg&w=2048&q=80",
+    "imageAlt": "One person showing another the view — companionship, care"
+  },
+  "lineage": {
+    "eyebrow": "The lineage",
+    "headingHtml": "A quiet service, on rails trusted by <span class=\"it\">millions</span>.",
+    "ledes": [
+      "TripAgent is a maison by Tripsure — part of Reward360, which quietly powers travel and rewards for some of India's most trusted banks. You've likely used these rails without ever seeing the name. That's the point.",
+      "The systems beneath your messages already move money and miles for those banks. We didn't build them in a hurry. We inherited them, and wrapped them in one human voice."
+    ],
+    "items": [
+      "<b>Trusted infrastructure</b> — the systems that move money and miles for major institutions.",
+      "<b>Kept out of sight</b> — fares, payments, points and visas, all behind one calm thread.",
+      "<b>Watched around the clock</b> — so a person steps in the moment it matters, not the morning after."
+    ],
+    "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2048&q=80",
+    "imageAlt": "Trusted infrastructure behind a quiet service"
+  },
+  "pq": "The same person each time, so you never start from the beginning.",
+  "stats": {
+    "eyebrow": "Quietly, behind everything",
+    "heading": "A human service, on rails that move millions.",
+    "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2048&q=80",
+    "items": [
+      {
+        "value": "Every",
+        "label": "Airline & alliance"
+      },
+      {
+        "value": "3,00,000+",
+        "label": "Hotels & villas"
+      },
+      {
+        "value": "190+",
+        "label": "Countries"
+      },
+      {
+        "value": "24/7",
+        "label": "Your advisor, on call"
+      }
+    ]
+  },
+  "partners": {
+    "eyebrow": "The company we keep",
+    "heading": "Built on partnerships, not promises.",
+    "lede": "We stand on real relationships with leading airlines and hotels, and on infrastructure trusted by India's most established banks. That access lets one advisor do, in a sentence, what would take you a dozen open tabs.",
+    "items": [
+      "Leading airlines & alliances",
+      "The world's hotel groups",
+      "India's most trusted banks",
+      "Major loyalty programmes"
+    ]
+  },
+  "people": {
+    "eyebrow": "The people who care for you",
+    "heading": "One advisor of record. Yours.",
+    "ledeHtml": "Every member gets one named advisor. Not a rota, not a queue, not whoever picks up. The same person each time, who keeps your history so you never start from the beginning. Behind them, AI drafts, researches and remembers in seconds — which is what frees the human to be human.",
+    "lede2Html": "One advisor and the AI behind them, working as one. <a class=\"cta\" href=\"/how-it-works\">See how it works</a>",
+    "feats": [
+      {
+        "label": "Chosen, not assigned",
+        "heading": "Matched to how you travel",
+        "body": "We pair you with an advisor whose strengths fit your routes, your pace, and how you like to be looked after."
+      },
+      {
+        "label": "Vetted",
+        "heading": "Has stayed there",
+        "body": "Chosen for first-hand knowledge — the room, the route, the city — not a brochure read at a desk."
+      },
+      {
+        "label": "Never alone",
+        "heading": "A person, supported by AI",
+        "body": "Speed from the machine. Judgement and warmth from the human. You only ever feel the person."
+      }
+    ]
+  },
+  "values": {
+    "headingHtml": "Looked after the way a private banker looks after your money.",
+    "lede": "Discreet. Assured. Warm. Spare. We stay until you are home. That is the whole standard.",
+    "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2048&q=80"
+  },
+  "cta": {
+    "headingHtml": "The whole of a journey, <span class=\"it\">cared</span> for.",
+    "lede": "One named advisor, rails trusted by India's most established houses, and a single conviction: you should be looked after, all the way home.",
+    "buttons": [
+      {
+        "label": "Become a member",
+        "href": "join.html"
+      },
+      {
+        "label": "How it works",
+        "href": "how-it-works.html"
+      }
+    ]
+  }
+}

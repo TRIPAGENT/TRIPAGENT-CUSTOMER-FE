@@ -1,0 +1,1092 @@
+{
+  "seo": {
+    "title": "Health & Longevity — TripAgent",
+    "description": "The world's finest hospitals, specialists and longevity clinics — quietly arranged, from India."
+  },
+  "hero": {
+    "crumbLabel": "What we handle",
+    "crumbHref": "services.html",
+    "hereLabel": "Health & Longevity",
+    "eyebrow": "What we handle/Health & Longevity",
+    "heading": "Live well, for longer.",
+    "lede": "The world’s finest longevity retreats, preventive care and specialists — quietly arranged, in confidence.",
+    "kicker": "A research & coordination area — not a booked service. We help you navigate the field and arrange the travel around it; the care itself rests with accredited providers.",
+    "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>"
+  },
+  "disclaimer": {
+    "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M12 11v5.4M12 7.7h.01\"></path>",
+    "text": "TripAgent Health coordinates access, travel and logistics. It is not a medical provider and does not give medical advice or diagnosis. All clinical decisions rest with accredited providers and your own physicians. Costs shown are indicative; a formal quote follows evaluation."
+  },
+  "stats": [
+    {
+      "value": "14",
+      "label": "Countries"
+    },
+    {
+      "value": "57",
+      "label": "Hospitals & clinics"
+    },
+    {
+      "value": "18",
+      "label": "Specialties"
+    },
+    {
+      "value": "13",
+      "label": "Longevity retreats"
+    }
+  ],
+  "longevity": {
+    "eyebrowIconSvg": "<path d=\"M12 3l1.8 5 5 1.8-5 1.8L12 17l-1.8-5.4-5-1.8 5-1.8z\"></path>",
+    "eyebrow": "Longevity & wellness",
+    "heading": "Where the world goes to feel younger.",
+    "lede": "The great houses for longevity, regeneration and medical detox. Serious science, beautifully done.",
+    "cards": [
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Montreux, Switzerland",
+        "name": "Clinique La Prairie",
+        "body": "A medical longevity clinic on Lake Geneva, running since 1931, where more than fifty on-site doctors combine cellular revitalisation with detox, nutrition and diagnostics.",
+        "href": "/health-longevity-clinique-la-prairie-montreux"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Marienstein, Germany",
+        "name": "Lanserhof Tegernsee",
+        "body": "A doctor-led medical retreat built around the LANS Med Concept and intestinal regeneration, blending naturopathy with cutting-edge diagnostic medicine.",
+        "href": "/health-longevity-lanserhof-tegernsee"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Sylt, Germany",
+        "name": "Lanserhof Sylt",
+        "body": "The North Sea sister of the Lanserhof group, opened in 2022, delivering the full Lanserhof medical portfolio in a striking thatched-roof island retreat.",
+        "href": "/health-longevity-lanserhof-sylt"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "El Albir, Alicante, Spain",
+        "name": "SHA Wellness Clinic",
+        "body": "A medicalised wellness clinic above the Mediterranean pairing Western medicine and precision diagnostics with therapeutic nutrition and regenerative therapies.",
+        "href": "/health-longevity-sha-wellness-clinic-alicante"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Weggis, Switzerland",
+        "name": "Chenot Palace Weggis",
+        "body": "A 5,000 sqm medical spa on Lake Lucerne applying the Chenot Method of advanced diagnostics, detoxification and the plant-based Chenot Diet across seven-day cures.",
+        "href": "/health-longevity-chenot-palace-weggis"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Bad Ragaz, Switzerland",
+        "name": "Grand Resort Bad Ragaz",
+        "body": "A grand thermal resort whose Tamina Health Center offers physician-led longevity and preventive medicine with its own lab, drawing on nearly 800 years of healing waters.",
+        "href": "/health-longevity-grand-resort-bad-ragaz"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Merano, Italy",
+        "name": "Palace Merano - Espace Henri Chenot",
+        "body": "One of the founding homes of the Chenot Method in South Tyrol, blending traditional Chinese medicine with Western diagnostics for deep organic detoxification.",
+        "href": "/health-longevity-palace-merano-espace-henri-chenot"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Narendra Nagar, Uttarakhand, India",
+        "name": "Ananda in the Himalayas",
+        "body": "A Himalayan palace-estate retreat above Rishikesh integrating authentic Ayurveda, yoga and Vedanta with modern wellness across 7 to 21-night programmes.",
+        "href": "/health-longevity-ananda-in-the-himalayas"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Koh Samui, Thailand",
+        "name": "Kamalaya",
+        "body": "A holistic wellness sanctuary built around a monk's cave, blending Eastern healing traditions with integrative medicine across nineteen personalised programmes.",
+        "href": "/health-longevity-kamalaya-koh-samui"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Bang Krachao, Bangkok, Thailand",
+        "name": "RAKxa Integrative Wellness",
+        "body": "Thailand's fully integrative medical retreat in Bangkok's green lung, pairing in-depth diagnostics with Ayurveda and Traditional Chinese Medicine.",
+        "href": "/health-longevity-rakxa-bangkok"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Tucson, Arizona, USA",
+        "name": "Canyon Ranch",
+        "body": "A pioneering American wellness resort whose Health & Performance Center and LONGEVITY8 programme deliver physician-led diagnostics across hundreds of biomarkers.",
+        "href": "/health-longevity-canyon-ranch-tucson"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Lanai, Hawaii, USA",
+        "name": "Sensei Lanai, A Four Seasons Resort",
+        "body": "An evidence-led wellbeing retreat co-founded by Dr David Agus, measuring biomarkers to design data-driven itineraries across movement, nourishment and rest.",
+        "href": "/health-longevity-sensei-lanai"
+      },
+      {
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "sub": "Ibiza, Spain (also Rome and Douro Valley)",
+        "name": "Six Senses RoseBar Longevity",
+        "body": "Six Senses' longevity clinic built on functional medicine, epigenetic testing and AI-analysed biomarkers, with three and seven-day programmes and ongoing membership.",
+        "href": "/health-longevity-six-senses-rosebar-ibiza"
+      }
+    ]
+  },
+  "preventive": {
+    "eyebrowIconSvg": "<path d=\"M6 4v4.5a4 4 0 008 0V4M6 4H4.5m1.5 0h1m5 0h1m1 0h1.5M14 14.2v1.3a3.5 3.5 0 003.5 3.5A3.5 3.5 0 0021 15.5v-1.6\"></path><circle cx=\"19\" cy=\"12\" r=\"2\"></circle>",
+    "eyebrow": "Stay ahead",
+    "heading": "Preventive & executive health.",
+    "lede": "A few days of thorough screening. Nothing left to chance.",
+    "chips": [
+      {
+        "label": "Executive health check-ups",
+        "href": "/health-specialty-executive-preventive-health"
+      },
+      {
+        "label": "Longevity & regenerative medicine",
+        "href": "/health-specialty-longevity-regenerative"
+      }
+    ]
+  },
+  "explorer": {
+    "eyebrowIconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M15.6 8.4l-2.3 5.3-5.3 2.3 2.3-5.3z\"></path>",
+    "eyebrow": "When you need the best",
+    "heading": "The finest care, matched to you.",
+    "lede": "When something serious arises, the world’s leading specialists and hospitals — chosen for your case.",
+    "buttons": [
+      {
+        "id": "oncology",
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"1.4\"></circle><ellipse cx=\"12\" cy=\"12\" rx=\"9\" ry=\"4\"></ellipse><ellipse cx=\"12\" cy=\"12\" rx=\"9\" ry=\"4\" transform=\"rotate(60 12 12)\"></ellipse><ellipse cx=\"12\" cy=\"12\" rx=\"9\" ry=\"4\" transform=\"rotate(120 12 12)\"></ellipse>",
+        "label": "Oncology & Cancer Care"
+      },
+      {
+        "id": "cardiac-cardiovascular",
+        "iconSvg": "<path d=\"M12 20s-7-4.6-9.2-9C1.5 8 3 4.6 6.3 4.6c1.9 0 3.1 1 3.7 2 .6-1 1.8-2 3.7-2 3.3 0 4.8 3.4 3.5 6.4C19 15.4 12 20 12 20z\"></path>",
+        "label": "Cardiac & Cardiovascular Surgery"
+      },
+      {
+        "id": "orthopaedics-joint",
+        "iconSvg": "<path d=\"M2.5 12h4l2-6 4 12 2-6h7\"></path>",
+        "label": "Orthopaedics & Joint Replacement"
+      },
+      {
+        "id": "neurology-neurosurgery-spine",
+        "iconSvg": "<path d=\"M9 4a2.6 2.6 0 00-2.6 2.6A2.6 2.6 0 005 11.6 2.6 2.6 0 006.4 16 2.6 2.6 0 009 18.5V4z\"></path><path d=\"M15 4a2.6 2.6 0 012.6 2.6A2.6 2.6 0 0119 11.6 2.6 2.6 0 0117.6 16 2.6 2.6 0 0115 18.5V4z\"></path>",
+        "label": "Neurology, Neurosurgery & Spine"
+      },
+      {
+        "id": "fertility-ivf",
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "label": "Fertility & IVF"
+      },
+      {
+        "id": "transplant",
+        "iconSvg": "<path d=\"M2.5 12h4l2-6 4 12 2-6h7\"></path>",
+        "label": "Organ & Bone-Marrow Transplant"
+      },
+      {
+        "id": "executive-preventive-health",
+        "iconSvg": "<path d=\"M6 4v4.5a4 4 0 008 0V4M6 4H4.5m1.5 0h1m5 0h1m1 0h1.5M14 14.2v1.3a3.5 3.5 0 003.5 3.5A3.5 3.5 0 0021 15.5v-1.6\"></path><circle cx=\"19\" cy=\"12\" r=\"2\"></circle>",
+        "label": "Executive & Preventive Health Check-ups"
+      },
+      {
+        "id": "longevity-regenerative",
+        "iconSvg": "<path d=\"M8 3c0 4 8 6 8 9s-8 5-8 9M16 3c0 4-8 6-8 9s8 5 8 9M8.5 7h7M8.5 17h7M10 10h4M10 14h4\"></path>",
+        "label": "Longevity & Regenerative Medicine"
+      },
+      {
+        "id": "bariatric-metabolic",
+        "iconSvg": "<path d=\"M2.5 12h4l2-6 4 12 2-6h7\"></path>",
+        "label": "Bariatric & Metabolic Surgery"
+      },
+      {
+        "id": "ophthalmology",
+        "iconSvg": "<path d=\"M2 12s3.6-6.4 10-6.4S22 12 22 12s-3.6 6.4-10 6.4S2 12 2 12z\"></path><circle cx=\"12\" cy=\"12\" r=\"2.4\"></circle>",
+        "label": "Ophthalmology & Eye Care"
+      },
+      {
+        "id": "cosmetic-reconstructive",
+        "iconSvg": "<path d=\"M12 3l1.8 5 5 1.8-5 1.8L12 17l-1.8-5.4-5-1.8 5-1.8z\"></path>",
+        "label": "Cosmetic & Reconstructive Surgery"
+      },
+      {
+        "id": "advanced-dental",
+        "iconSvg": "<path d=\"M12 4.2c-1.8-1.4-4.6-1.4-5.6.8-.9 2 0 5.4.4 8.2.3 2.4.4 4.8 1.7 4.8 1.2 0 1-2.6 1.5-3.7.4-.9 1.6-.9 2 0 .5 1.1.3 3.7 1.5 3.7 1.3 0 1.4-2.4 1.7-4.8.4-2.8 1.3-6.2.4-8.2-1-2.2-3.8-2.2-5.5-.8z\"></path>",
+        "label": "Advanced Dental & Implantology"
+      },
+      {
+        "id": "paediatric",
+        "iconSvg": "<path d=\"M12 20s-7-4.6-9.2-9C1.5 8 3 4.6 6.3 4.6c1.9 0 3.1 1 3.7 2 .6-1 1.8-2 3.7-2 3.3 0 4.8 3.4 3.5 6.4C19 15.4 12 20 12 20z\"></path>",
+        "label": "Paediatric Specialist Care"
+      },
+      {
+        "id": "robotic-minimally-invasive",
+        "iconSvg": "<path d=\"M12 6v12M6 12h12\"></path>",
+        "label": "Robotic & Minimally-Invasive Surgery"
+      },
+      {
+        "id": "second-opinions",
+        "iconSvg": "<path d=\"M6 4v4.5a4 4 0 008 0V4M6 4H4.5m1.5 0h1m5 0h1m1 0h1.5M14 14.2v1.3a3.5 3.5 0 003.5 3.5A3.5 3.5 0 0021 15.5v-1.6\"></path><circle cx=\"19\" cy=\"12\" r=\"2\"></circle>",
+        "label": "World-Expert Second Opinions"
+      },
+      {
+        "id": "rehabilitation-recovery",
+        "iconSvg": "<path d=\"M2.5 12h4l2-6 4 12 2-6h7\"></path>",
+        "label": "Rehabilitation & Recovery"
+      },
+      {
+        "id": "proton-advanced-radiotherapy",
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"1.4\"></circle><ellipse cx=\"12\" cy=\"12\" rx=\"9\" ry=\"4\"></ellipse><ellipse cx=\"12\" cy=\"12\" rx=\"9\" ry=\"4\" transform=\"rotate(60 12 12)\"></ellipse><ellipse cx=\"12\" cy=\"12\" rx=\"9\" ry=\"4\" transform=\"rotate(120 12 12)\"></ellipse>",
+        "label": "Proton & Advanced Radiotherapy"
+      },
+      {
+        "id": "womens-health",
+        "iconSvg": "<path d=\"M12 20s-7-4.6-9.2-9C1.5 8 3 4.6 6.3 4.6c1.9 0 3.1 1 3.7 2 .6-1 1.8-2 3.7-2 3.3 0 4.8 3.4 3.5 6.4C19 15.4 12 20 12 20z\"></path>",
+        "label": "Women's Health"
+      }
+    ],
+    "panels": [
+      {
+        "id": "oncology",
+        "heading": "Oncology & Cancer Care",
+        "dek": "Comprehensive cancer care — from precise diagnostics and tumour-board planning to surgery, systemic therapy and advanced radiotherapy — delivered by teams who see your case in full.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "MD Anderson Cancer Center",
+            "location": "Houston, USA",
+            "href": null
+          },
+          {
+            "name": "Memorial Sloan Kettering Cancer Center",
+            "location": "New York",
+            "href": "/health-hospital-memorial-sloan-kettering"
+          },
+          {
+            "name": "Asan Medical Center",
+            "location": "Seoul",
+            "href": "/health-hospital-asan-medical-center-seoul"
+          },
+          {
+            "name": "National Cancer Center Hospital East (Kashiwa)",
+            "location": "Kashiwa (Chiba)",
+            "href": "/health-hospital-national-cancer-center-hospital-east-japan"
+          },
+          {
+            "name": "Tata Memorial Hospital",
+            "location": "Mumbai",
+            "href": null
+          },
+          {
+            "name": "Apollo Proton Cancer Centre",
+            "location": "Chennai",
+            "href": null
+          },
+          {
+            "name": "Fortis Memorial Research Institute (Gurugram)",
+            "location": "Gurugram",
+            "href": "/health-hospital-fortis-memorial-research-institute-gurugram"
+          }
+        ]
+      },
+      {
+        "id": "cardiac-cardiovascular",
+        "heading": "Cardiac & Cardiovascular Surgery",
+        "dek": "Heart and vascular care spanning valve repair, bypass, complex arrhythmia and structural interventions, in centres with deep surgical volumes and modern cath labs.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Cleveland Clinic",
+            "location": "Cleveland, Ohio",
+            "href": "/health-hospital-cleveland-clinic"
+          },
+          {
+            "name": "Mount Elizabeth Hospital",
+            "location": "Singapore",
+            "href": "/health-hospital-mount-elizabeth-hospital-singapore"
+          },
+          {
+            "name": "German Heart Centre",
+            "location": "Berlin/Munich, Germany",
+            "href": null
+          },
+          {
+            "name": "Narayana Health City / Narayana Institute of Cardiac Sciences (Bengaluru)",
+            "location": "Bengaluru",
+            "href": "/health-hospital-narayana-health-city-bengaluru"
+          },
+          {
+            "name": "Medanta — The Medicity (Gurugram)",
+            "location": "Gurugram",
+            "href": "/health-hospital-medanta-the-medicity-gurugram"
+          },
+          {
+            "name": "Apollo Hospitals, Greams Road (Chennai)",
+            "location": "Chennai",
+            "href": "/health-hospital-apollo-hospitals-chennai"
+          }
+        ]
+      },
+      {
+        "id": "orthopaedics-joint",
+        "heading": "Orthopaedics & Joint Replacement",
+        "dek": "Hip, knee and shoulder replacement, complex trauma and sports-injury reconstruction, increasingly with robotic and navigation-assisted precision.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Hospital for Special Surgery",
+            "location": "New York, USA",
+            "href": null
+          },
+          {
+            "name": "Schön Klinik & university centres",
+            "location": "Germany",
+            "href": null
+          },
+          {
+            "name": "Bumrungrad International Hospital",
+            "location": "Bangkok",
+            "href": "/health-hospital-bumrungrad-international-hospital-bangkok"
+          },
+          {
+            "name": "Fortis",
+            "location": "Delhi NCR",
+            "href": null
+          },
+          {
+            "name": "Apollo Hospitals, Greams Road (Chennai)",
+            "location": "Chennai",
+            "href": "/health-hospital-apollo-hospitals-chennai"
+          },
+          {
+            "name": "Indraprastha Apollo Hospitals (Delhi)",
+            "location": "New Delhi",
+            "href": "/health-hospital-indraprastha-apollo-delhi"
+          }
+        ]
+      },
+      {
+        "id": "neurology-neurosurgery-spine",
+        "heading": "Neurology, Neurosurgery & Spine",
+        "dek": "Care for brain, nerve and spinal conditions — from epilepsy and movement disorders to complex tumour and spine surgery — in high-acuity academic centres.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Massachusetts General Hospital",
+            "location": "Boston, Massachusetts",
+            "href": "/health-hospital-massachusetts-general"
+          },
+          {
+            "name": "Charité – Universitätsmedizin Berlin",
+            "location": "Berlin",
+            "href": "/health-hospital-charite-berlin"
+          },
+          {
+            "name": "National Neuroscience Institute",
+            "location": "Singapore",
+            "href": null
+          },
+          {
+            "name": "NIMHANS",
+            "location": "Bengaluru",
+            "href": null
+          },
+          {
+            "name": "Medanta — The Medicity (Gurugram)",
+            "location": "Gurugram",
+            "href": "/health-hospital-medanta-the-medicity-gurugram"
+          },
+          {
+            "name": "Fortis Memorial Research Institute (Gurugram)",
+            "location": "Gurugram",
+            "href": "/health-hospital-fortis-memorial-research-institute-gurugram"
+          }
+        ]
+      },
+      {
+        "id": "fertility-ivf",
+        "heading": "Fertility & IVF",
+        "dek": "Assisted reproduction — IVF, ICSI, fertility preservation and donor programmes — handled with discretion and clear, honest counselling on expectations.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Leading fertility centres",
+            "location": "Spain",
+            "href": null
+          },
+          {
+            "name": "IVI/university-affiliated clinics",
+            "location": "Spain",
+            "href": null
+          },
+          {
+            "name": "Established clinics",
+            "location": "UK, Singapore",
+            "href": null
+          },
+          {
+            "name": "Nova IVF",
+            "location": "multiple cities",
+            "href": null
+          },
+          {
+            "name": "Apollo Fertility",
+            "location": "multiple cities",
+            "href": null
+          },
+          {
+            "name": "Established academic centres",
+            "location": "India",
+            "href": null
+          }
+        ]
+      },
+      {
+        "id": "transplant",
+        "heading": "Organ & Bone-Marrow Transplant",
+        "dek": "Liver, kidney and bone-marrow/stem-cell transplantation in high-volume centres with mature donor-workup, immunology and long-term follow-up programmes.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Cleveland Clinic",
+            "location": "Cleveland, Ohio",
+            "href": "/health-hospital-cleveland-clinic"
+          },
+          {
+            "name": "Asan Medical Center",
+            "location": "Seoul",
+            "href": "/health-hospital-asan-medical-center-seoul"
+          },
+          {
+            "name": "University Hospital Zurich (Universitätsspital Zürich, USZ)",
+            "location": "Zurich",
+            "href": "/health-hospital-university-hospital-zurich"
+          },
+          {
+            "name": "Medanta — The Medicity (Gurugram)",
+            "location": "Gurugram",
+            "href": "/health-hospital-medanta-the-medicity-gurugram"
+          },
+          {
+            "name": "Apollo Hospitals, Greams Road (Chennai)",
+            "location": "Chennai",
+            "href": "/health-hospital-apollo-hospitals-chennai"
+          },
+          {
+            "name": "Global/Gleneagles centres",
+            "location": "India",
+            "href": null
+          }
+        ]
+      },
+      {
+        "id": "executive-preventive-health",
+        "heading": "Executive & Preventive Health Check-ups",
+        "dek": "In-depth, single-visit health assessments — imaging, cardiology, bloodwork and specialist consults — designed to catch issues early and give you a clear plan.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Mayo Clinic",
+            "location": "Rochester, Minnesota",
+            "href": "/health-hospital-mayo-clinic"
+          },
+          {
+            "name": "Mount Elizabeth Hospital",
+            "location": "Singapore",
+            "href": "/health-hospital-mount-elizabeth-hospital-singapore"
+          },
+          {
+            "name": "Leading private clinics",
+            "location": "Switzerland",
+            "href": null
+          },
+          {
+            "name": "Apollo Hospitals, Greams Road (Chennai)",
+            "location": "Chennai",
+            "href": "/health-hospital-apollo-hospitals-chennai"
+          },
+          {
+            "name": "Fortis",
+            "location": "Delhi NCR",
+            "href": null
+          },
+          {
+            "name": "Medanta — The Medicity (Gurugram)",
+            "location": "Gurugram",
+            "href": "/health-hospital-medanta-the-medicity-gurugram"
+          }
+        ]
+      },
+      {
+        "id": "longevity-regenerative",
+        "heading": "Longevity & Regenerative Medicine",
+        "dek": "Evidence-informed healthspan programmes — advanced diagnostics, metabolic and cardiovascular optimisation and supervised recovery — framed honestly, without hype.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Established longevity clinics",
+            "location": "Switzerland",
+            "href": null
+          },
+          {
+            "name": "Academic preventive-medicine centres",
+            "location": "USA",
+            "href": null
+          },
+          {
+            "name": "Private clinics",
+            "location": "UAE, Singapore",
+            "href": null
+          },
+          {
+            "name": "Preventive & wellness programmes at Apollo",
+            "location": "India",
+            "href": null
+          },
+          {
+            "name": "Integrative wellness retreats",
+            "location": "India",
+            "href": null
+          },
+          {
+            "name": "Hospital-based longevity clinics",
+            "location": "India",
+            "href": null
+          }
+        ]
+      },
+      {
+        "id": "bariatric-metabolic",
+        "heading": "Bariatric & Metabolic Surgery",
+        "dek": "Weight and metabolic surgery — sleeve, bypass and related procedures — with the nutrition, psychology and long-term follow-up that make results last.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Major US academic centres",
+            "location": "USA",
+            "href": null
+          },
+          {
+            "name": "Bumrungrad International Hospital",
+            "location": "Bangkok",
+            "href": "/health-hospital-bumrungrad-international-hospital-bangkok"
+          },
+          {
+            "name": "University Hospital Zurich (Universitätsspital Zürich, USZ)",
+            "location": "Zurich",
+            "href": "/health-hospital-university-hospital-zurich"
+          },
+          {
+            "name": "Apollo Hospitals, Greams Road (Chennai)",
+            "location": "Chennai",
+            "href": "/health-hospital-apollo-hospitals-chennai"
+          },
+          {
+            "name": "Fortis",
+            "location": "Delhi NCR",
+            "href": null
+          },
+          {
+            "name": "Max Healthcare",
+            "location": "Delhi NCR",
+            "href": null
+          }
+        ]
+      },
+      {
+        "id": "ophthalmology",
+        "heading": "Ophthalmology & Eye Care",
+        "dek": "Vision care from cataract and refractive surgery to complex retina, cornea and glaucoma treatment, in centres with modern surgical platforms.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Bascom Palmer / Wills Eye",
+            "location": "USA",
+            "href": null
+          },
+          {
+            "name": "Singapore National Eye Centre",
+            "location": "Singapore",
+            "href": null
+          },
+          {
+            "name": "Moorfields",
+            "location": "London, UK",
+            "href": null
+          },
+          {
+            "name": "Sankara Nethralaya",
+            "location": "Chennai",
+            "href": null
+          },
+          {
+            "name": "L V Prasad Eye Institute",
+            "location": "Hyderabad",
+            "href": null
+          },
+          {
+            "name": "Aravind Eye Care",
+            "location": "Tamil Nadu",
+            "href": null
+          }
+        ]
+      },
+      {
+        "id": "cosmetic-reconstructive",
+        "heading": "Cosmetic & Reconstructive Surgery",
+        "dek": "Aesthetic and reconstructive surgery handled with taste and discretion — from facial and body procedures to reconstruction after illness or injury.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Leading plastic-surgery centres",
+            "location": "South Korea",
+            "href": null
+          },
+          {
+            "name": "Established clinics",
+            "location": "USA",
+            "href": null
+          },
+          {
+            "name": "University-affiliated units",
+            "location": "Belgium, Turkey",
+            "href": null
+          },
+          {
+            "name": "Apollo Hospitals, Greams Road (Chennai)",
+            "location": "Chennai",
+            "href": "/health-hospital-apollo-hospitals-chennai"
+          },
+          {
+            "name": "Fortis",
+            "location": "Delhi NCR",
+            "href": null
+          },
+          {
+            "name": "Established accredited plastic-surgery units",
+            "location": "India",
+            "href": null
+          }
+        ]
+      },
+      {
+        "id": "advanced-dental",
+        "heading": "Advanced Dental & Implantology",
+        "dek": "Full-mouth rehabilitation, implants, and complex restorative and cosmetic dentistry, often completed efficiently within a planned visit.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Established implant centres",
+            "location": "Turkey",
+            "href": null
+          },
+          {
+            "name": "University dental hospitals",
+            "location": "Germany",
+            "href": null
+          },
+          {
+            "name": "Leading private clinics",
+            "location": "UAE, Thailand",
+            "href": null
+          },
+          {
+            "name": "Apollo Dental",
+            "location": "multiple cities",
+            "href": null
+          },
+          {
+            "name": "Hospital-based dental units",
+            "location": "India",
+            "href": null
+          },
+          {
+            "name": "Accredited specialist clinics",
+            "location": "India",
+            "href": null
+          }
+        ]
+      },
+      {
+        "id": "paediatric",
+        "heading": "Paediatric Specialist Care",
+        "dek": "Specialist care for children — from paediatric cardiology and oncology to complex surgery — in child-focused centres with families kept close throughout.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Boston Children's Hospital",
+            "location": "USA",
+            "href": null
+          },
+          {
+            "name": "Great Ormond Street Hospital (GOSH) — International and Private Care",
+            "location": "London",
+            "href": "/health-hospital-great-ormond-street-hospital"
+          },
+          {
+            "name": "KK Women's and Children's Hospital",
+            "location": "Singapore",
+            "href": null
+          },
+          {
+            "name": "Rainbow Children's Hospital",
+            "location": "multiple cities",
+            "href": null
+          },
+          {
+            "name": "Apollo Children's",
+            "location": "Chennai",
+            "href": null
+          },
+          {
+            "name": "Fortis paediatric units",
+            "location": "Delhi NCR",
+            "href": null
+          }
+        ]
+      },
+      {
+        "id": "robotic-minimally-invasive",
+        "heading": "Robotic & Minimally-Invasive Surgery",
+        "dek": "Precision surgery through small incisions — often robot-assisted — across urology, gynaecology, gastrointestinal and thoracic procedures, aiming for faster recovery.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Major US academic centres",
+            "location": "USA",
+            "href": null
+          },
+          {
+            "name": "Samsung Medical Center",
+            "location": "Seoul",
+            "href": "/health-hospital-samsung-medical-center-seoul"
+          },
+          {
+            "name": "Singapore General Hospital",
+            "location": "Singapore",
+            "href": null
+          },
+          {
+            "name": "Medanta — The Medicity (Gurugram)",
+            "location": "Gurugram",
+            "href": "/health-hospital-medanta-the-medicity-gurugram"
+          },
+          {
+            "name": "Apollo Hospitals, Greams Road (Chennai)",
+            "location": "Chennai",
+            "href": "/health-hospital-apollo-hospitals-chennai"
+          },
+          {
+            "name": "Fortis Memorial Research Institute (Gurugram)",
+            "location": "Gurugram",
+            "href": "/health-hospital-fortis-memorial-research-institute-gurugram"
+          }
+        ]
+      },
+      {
+        "id": "second-opinions",
+        "heading": "World-Expert Second Opinions",
+        "dek": "A considered, independent review of your diagnosis and plan by a recognised expert — often remotely — before you commit to a major decision.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Mayo Clinic",
+            "location": "Rochester, Minnesota",
+            "href": "/health-hospital-mayo-clinic"
+          },
+          {
+            "name": "Charité – Universitätsmedizin Berlin",
+            "location": "Berlin",
+            "href": "/health-hospital-charite-berlin"
+          },
+          {
+            "name": "Leading academic centres",
+            "location": "UK, Singapore",
+            "href": null
+          },
+          {
+            "name": "Tata Memorial Hospital",
+            "location": "Mumbai",
+            "href": null
+          },
+          {
+            "name": "Medanta — The Medicity (Gurugram)",
+            "location": "Gurugram",
+            "href": "/health-hospital-medanta-the-medicity-gurugram"
+          },
+          {
+            "name": "Apollo Hospitals, Greams Road (Chennai)",
+            "location": "Chennai",
+            "href": "/health-hospital-apollo-hospitals-chennai"
+          }
+        ]
+      },
+      {
+        "id": "rehabilitation-recovery",
+        "heading": "Rehabilitation & Recovery",
+        "dek": "Structured recovery after surgery, stroke or injury — physiotherapy, neuro-rehab and reconditioning — in dedicated units that measure progress carefully.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Sheba Medical Center (Tel HaShomer)",
+            "location": "Ramat Gan (Tel Aviv area)",
+            "href": "/health-hospital-sheba-medical-center"
+          },
+          {
+            "name": "Specialist rehab centres",
+            "location": "Germany, Switzerland",
+            "href": null
+          },
+          {
+            "name": "Leading US rehabilitation institutes",
+            "location": "USA",
+            "href": null
+          },
+          {
+            "name": "Indian Spinal Injuries Centre",
+            "location": "New Delhi",
+            "href": null
+          },
+          {
+            "name": "Apollo rehabilitation units",
+            "location": "India",
+            "href": null
+          },
+          {
+            "name": "Hospital-based rehab programmes",
+            "location": "India",
+            "href": null
+          }
+        ]
+      },
+      {
+        "id": "proton-advanced-radiotherapy",
+        "heading": "Proton & Advanced Radiotherapy",
+        "dek": "Highly targeted radiotherapy — proton beam and advanced techniques — that spares healthy tissue, valuable in paediatric, brain and hard-to-treat tumours.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "MD Anderson Proton Therapy Center",
+            "location": "Houston, USA",
+            "href": null
+          },
+          {
+            "name": "University proton centres",
+            "location": "Germany",
+            "href": null
+          },
+          {
+            "name": "Advanced radiotherapy centres",
+            "location": "South Korea, Japan",
+            "href": null
+          },
+          {
+            "name": "Apollo Proton Cancer Centre",
+            "location": "Chennai",
+            "href": null
+          },
+          {
+            "name": "Tata Memorial Hospital",
+            "location": "Mumbai",
+            "href": null
+          },
+          {
+            "name": "Advanced radiotherapy units at Apollo",
+            "location": "India",
+            "href": null
+          }
+        ]
+      },
+      {
+        "id": "womens-health",
+        "heading": "Women's Health",
+        "dek": "Comprehensive care for women — gynaecology, high-risk obstetrics, gynae-oncology and menopause medicine — delivered with sensitivity and privacy.",
+        "indexLabel": "Where the world leads",
+        "rows": [
+          {
+            "name": "Leading US academic women's centres",
+            "location": "USA",
+            "href": null
+          },
+          {
+            "name": "KK Women's and Children's Hospital",
+            "location": "Singapore",
+            "href": null
+          },
+          {
+            "name": "University Hospital Zurich (Universitätsspital Zürich, USZ)",
+            "location": "Zurich",
+            "href": "/health-hospital-university-hospital-zurich"
+          },
+          {
+            "name": "Apollo Cradle & Fortis La Femme",
+            "location": "India",
+            "href": null
+          },
+          {
+            "name": "Medanta women's health",
+            "location": "Gurugram",
+            "href": null
+          },
+          {
+            "name": "Established academic obstetrics units",
+            "location": "India",
+            "href": null
+          }
+        ]
+      }
+    ]
+  },
+  "destinations": {
+    "eyebrowIconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+    "eyebrow": "By destination",
+    "heading": "Where the world leads.",
+    "cards": [
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "United States",
+        "name": "United States",
+        "body": "Home to the world's most-recognised academic medical centres and the deepest bench of sub-specialists, chosen for the most complex, rare or last-resort cases.",
+        "href": "/health-destination-usa"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "Germany",
+        "name": "Germany",
+        "body": "A byword for rigorous, engineering-grade medicine — strong in oncology, cardiac, neurosurgery and complex surgery through large university hospitals.",
+        "href": "/health-destination-germany"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "Switzerland",
+        "name": "Switzerland",
+        "body": "Discreet, exacting private medicine and premium preventive and longevity care in a setting built for confidentiality.",
+        "href": "/health-destination-switzerland"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "United Kingdom",
+        "name": "United Kingdom",
+        "body": "World-renowned private centres in London and beyond, strong in second opinions, paediatrics, oncology and specialist medicine, in English throughout.",
+        "href": "/health-destination-uk"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "Singapore",
+        "name": "Singapore",
+        "body": "Asia's benchmark for clinical quality and safety — close to India, English-speaking, with world-ranked hospitals and strong international-patient services.",
+        "href": "/health-destination-singapore"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "Thailand",
+        "name": "Thailand",
+        "body": "A mature, service-oriented medical-travel hub — strong value, JCI-accredited hospitals and famously smooth international-patient experiences.",
+        "href": "/health-destination-thailand"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "South Korea",
+        "name": "South Korea",
+        "body": "A technology-forward medical power — top-ranked in oncology, transplant, robotic surgery and aesthetics, with government-backed medical-tourism support.",
+        "href": "/health-destination-south-korea"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "United Arab Emirates",
+        "name": "United Arab Emirates",
+        "body": "World-class hospitals a short flight from India, with a large Indian community, familiar food and language, and streamlined medical-visa processes.",
+        "href": "/health-destination-uae"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "Japan",
+        "name": "Japan",
+        "body": "Precision medicine and advanced diagnostics with a strong track record in cancer detection, imaging and meticulous surgical care.",
+        "href": "/health-destination-japan"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "Türkiye",
+        "name": "Türkiye (Turkey)",
+        "body": "A fast-growing, high-volume medical-travel hub offering strong value across hair and dental work, cosmetic surgery, transplant and oncology, with US-affiliated centres.",
+        "href": "/health-destination-turkiye"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "Spain",
+        "name": "Spain",
+        "body": "A European leader in fertility and transplant medicine, with strong oncology and orthopaedics and a welcoming international-patient culture.",
+        "href": "/health-destination-spain"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "Belgium",
+        "name": "Belgium",
+        "body": "Quietly excellent European medicine through strong university hospitals, well regarded in complex surgery, oncology and bariatric and metabolic care.",
+        "href": "/health-destination-belgium"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "Israel",
+        "name": "Israel",
+        "body": "A small country with outsized medical strength — a globally top-ranked flagship hospital and a standout reputation in oncology, rehabilitation and innovation.",
+        "href": "/health-destination-israel"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "India",
+        "name": "India",
+        "body": "For Indian patients, exceptional care close to home — JCI/NABH-accredited quaternary hospitals, world-class specialists and unmatched value, in your own language and culture.",
+        "href": "/health-destination-india"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "France",
+        "name": "France",
+        "body": "A strong European academic-medicine tradition — well regarded in oncology, cardiac care, transplant and reconstructive surgery through leading teaching hospitals.",
+        "href": "/health-destination-france"
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18\"></path>",
+        "sub": "Malaysia",
+        "name": "Malaysia",
+        "body": "A well-established, affordable Asian medical-travel destination with JCI-accredited hospitals, English widely spoken and a large Indian-origin community.",
+        "href": "/health-destination-malaysia"
+      }
+    ]
+  },
+  "steps": {
+    "eyebrowIconSvg": "<circle cx=\"6\" cy=\"18\" r=\"2.2\"></circle><circle cx=\"18\" cy=\"6\" r=\"2.2\"></circle><path d=\"M8 16.5C14 14 10 9 16 7\"></path>",
+    "eyebrow": "How it works",
+    "heading": "Three quiet steps.",
+    "items": [
+      {
+        "iconSvg": "<path d=\"M7 3h7l4 4v14H7z\"></path><path d=\"M14 3v4h4M10 12h5M10 15.5h5\"></path>",
+        "heading": "Share, in confidence",
+        "body": "You share your records securely. Nothing is committed, nothing goes further than it must."
+      },
+      {
+        "iconSvg": "<path d=\"M6 4v4.5a4 4 0 008 0V4M6 4H4.5m1.5 0h1m5 0h1m1 0h1.5M14 14.2v1.3a3.5 3.5 0 003.5 3.5A3.5 3.5 0 0021 15.5v-1.6\"></path><circle cx=\"19\" cy=\"12\" r=\"2\"></circle>",
+        "heading": "A world-expert view",
+        "body": "We arrange a second opinion and match you to the right team and place — often before you travel."
+      },
+      {
+        "iconSvg": "<circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M15.6 8.4l-2.3 5.3-5.3 2.3 2.3-5.3z\"></path>",
+        "heading": "Everything handled",
+        "body": "Hospital, travel, stays, interpreters, your family and continuity of care back home — one named person coordinates it all."
+      }
+    ]
+  },
+  "concierge": {
+    "eyebrow": "Your medical-travel advisor",
+    "heading": "You should not navigate this alone.",
+    "body": "Share as little or as much as you wish. One named person coordinates your flights, the stay near the clinic and your visa — start to safe return.",
+    "confIconSvg": "<path d=\"M12 3l7 3v5c0 5-3 8-7 10-4-2-7-5-7-10V6z\"></path><path d=\"M9.2 12l2 2 3.6-3.6\"></path>",
+    "confText": "Confidential. Discreet. Handled by a named human.",
+    "ctaLabel": "Speak to your advisor",
+    "ctaHref": "/enquire"
+  }
+}

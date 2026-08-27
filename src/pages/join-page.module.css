@@ -1,0 +1,14 @@
+.inv-wrap{min-height:100svh;display:grid;grid-template-columns:1fr 1.05fr;gap:clamp(44px,7vw,120px);align-items:center;padding-top:128px;padding-bottom:90px}
+.inv-aside .free-badge{display:inline-block;font-family:var(--serif);font-style:italic;font-weight:500;font-size:22px;color:var(--accent-2);margin-top:22px}
+.inv-card{border:1px solid var(--line);border-radius:var(--r-lg);padding:clamp(30px,4vw,52px);background:var(--card);box-shadow:var(--shadow)}
+.inv-card h3{font-size:24px;margin-bottom:6px}
+.inv-steps{list-style:none;margin:26px 0 0;padding:0}
+.inv-steps li{display:flex;gap:16px;padding:18px 0;border-top:1px solid var(--line-soft)}
+.inv-steps li:first-child{border-top:0;padding-top:0}
+.inv-steps :global(.n){font-family:var(--serif);font-style:italic;font-size:22px;color:var(--accent-2);line-height:1;flex:none;width:24px}
+.inv-steps :global(.t){font-size:15px;color:var(--ink-soft);line-height:1.5}
+.inv-steps :global(.t) b{color:var(--ink);font-weight:600}
+.inv-cta{margin-top:30px}
+.inv-cta :global(.btn){width:100%;justify-content:center}
+.inv-foot{font-size:12.5px;color:var(--stone);margin-top:16px;text-align:center;letter-spacing:.02em}
+@media(max-width:880px){.inv-wrap{grid-template-columns:1fr;gap:48px;min-height:auto;padding-top:112px}}

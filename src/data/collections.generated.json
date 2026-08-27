@@ -1,0 +1,108 @@
+{
+  "seo": {
+    "title": "Collections — browse by the trip you want — TripAgent",
+    "description": "Browse the world by mood, by who is travelling, and by interest — beaches, honeymoons, safaris, wine country and more."
+  },
+  "hero": {
+    "eyebrow": "Collections",
+    "heading": "Browse by the trip you want.",
+    "lede": "Not sure where? Start with a feeling — the mood, the company, the thing you love — and we will show you where it is done best."
+  },
+  "sections": [
+    {
+      "eyebrow": "By mood",
+      "links": [
+        {
+          "label": "Beach & Sun",
+          "href": "/browse-beach"
+        },
+        {
+          "label": "Romantic Escapes",
+          "href": "/browse-romance"
+        },
+        {
+          "label": "Culture & History",
+          "href": "/browse-culture"
+        },
+        {
+          "label": "Adventure",
+          "href": "/browse-adventure"
+        },
+        {
+          "label": "Wellness & Calm",
+          "href": "/browse-wellness"
+        },
+        {
+          "label": "Wildlife & Safari",
+          "href": "/browse-wildlife"
+        },
+        {
+          "label": "For the Food",
+          "href": "/browse-food"
+        },
+        {
+          "label": "After Dark",
+          "href": "/browse-nightlife"
+        },
+        {
+          "label": "Snow & Mountains",
+          "href": "/browse-snow"
+        },
+        {
+          "label": "Slow & Quiet",
+          "href": "/browse-slow"
+        }
+      ]
+    },
+    {
+      "eyebrow": "Who is travelling",
+      "links": [
+        {
+          "label": "Honeymoons",
+          "href": "/browse-honeymoon"
+        },
+        {
+          "label": "With Children",
+          "href": "/browse-family-kids"
+        },
+        {
+          "label": "Three Generations",
+          "href": "/browse-multigen"
+        }
+      ]
+    },
+    {
+      "eyebrow": "By interest",
+      "links": [
+        {
+          "label": "Safaris",
+          "href": "/browse-safari"
+        },
+        {
+          "label": "Skiing",
+          "href": "/browse-ski"
+        },
+        {
+          "label": "Diving & Snorkelling",
+          "href": "/browse-dive"
+        },
+        {
+          "label": "Wine Country",
+          "href": "/browse-wine"
+        },
+        {
+          "label": "Art & Museums",
+          "href": "/browse-art"
+        },
+        {
+          "label": "Spa & Retreats",
+          "href": "/browse-spa"
+        },
+        {
+          "label": "Sacred Places",
+          "href": "/browse-pilgrimage"
+        }
+      ]
+    }
+  ]
+}

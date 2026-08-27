@@ -1,0 +1,19 @@
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import { BrowserRouter } from "react-router-dom";
+import App from "./App";
+// Real site stylesheets, imported directly — same files the static .html
+// pages link, so pages render with real visual parity (see vite.config.ts's
+// server.fs.allow comment). fonts.css must load before site.css uses the
+// custom-font CSS vars (--serif/--fr/--logo), or text falls back to system
+// fonts with different metrics — this was silently missing before.
+import "../../css/fonts.css";
+import "../../css/site.css";
+
+createRoot(document.getElementById("root")!).render(
+  <StrictMode>
+    <BrowserRouter future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
+      <App />
+    </BrowserRouter>
+  </StrictMode>
+);

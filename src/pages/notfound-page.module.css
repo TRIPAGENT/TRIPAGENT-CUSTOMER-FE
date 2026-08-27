@@ -1,0 +1,13 @@
+/* Extracted verbatim from 404.html <head> <style> block. Not in css/site.css. */
+
+/* 404 — a small, calm maison moment. Composition only, on existing tokens. */
+.nf{min-height:88svh;display:flex;align-items:center;text-align:center}
+.nf .mk-404{margin:0 auto 26px}
+.nf h1{font-family:var(--logo);font-weight:500;font-size:clamp(38px,5.4vw,72px);line-height:1.06;letter-spacing:.004em;color:var(--ink);margin:0}
+.nf .line{font-size:clamp(17px,1.5vw,20px);line-height:1.6;color:var(--ink-soft);margin:20px auto 32px;max-width:40ch}
+.nf .links{display:flex;align-items:center;justify-content:center;gap:26px;flex-wrap:wrap}
+.nf .links a{font-family:var(--fr);font-weight:500;font-size:14px;letter-spacing:.02em;color:var(--accent-2);
+  background-image:linear-gradient(currentColor,currentColor);background-size:0 1px;background-position:0 100%;background-repeat:no-repeat;padding-bottom:3px;transition:background-size .4s var(--ease)}
+.nf .links a::after{content:"→";margin-left:7px;font-weight:400;transition:transform .35s var(--ease);display:inline-block}
+.nf .links a:hover{background-size:100% 1px}
+.nf .links a:hover::after{transform:translateX(4px)}
