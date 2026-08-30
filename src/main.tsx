@@ -7,8 +7,8 @@ import App from "./App";
 // server.fs.allow comment). fonts.css must load before site.css uses the
 // custom-font CSS vars (--serif/--fr/--logo), or text falls back to system
 // fonts with different metrics — this was silently missing before.
-import "../../css/fonts.css";
-import "../../css/site.css";
+import "./css/fonts.css";
+import "./css/site.css";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
