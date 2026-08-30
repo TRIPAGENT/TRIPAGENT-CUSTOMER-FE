@@ -113,3 +113,30 @@ interface CityFact2 {
   label: string | null;
   value: string | null;
 }
+
+// Shape produced by tools/ta_geocode_deep.py — see app/src/data/venue-coords/<slug>.json.
+export interface VenuePhoto {
+  url: string;
+  alt?: string;
+  credit?: string;
+}
+
+export interface CityMapVenue {
+  n: string;
+  cat: "stay" | "eat" | "do" | "party";
+  tier: string;
+  a: string;
+  d: string;
+  lat: number;
+  lon: number;
+  p: string;
+  // Hand-curated, real URLs only — never geocoded/generated. Absent for most
+  // venues; present only where a real photo has been supplied (see CityMap's
+  // hasPhotos check, which also guards against an accidentally-empty url).
+  photos?: VenuePhoto[];
+}
+
+export interface CityMapData {
+  center: [number, number];
+  venues: CityMapVenue[];
+}

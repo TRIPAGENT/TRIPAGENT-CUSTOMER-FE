@@ -1,0 +1,232 @@
+/* Zero-size anchor at the marker's projected point; the visible .card is
+   absolutely positioned off this, so it never affects document flow. */
+.anchor {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+.card {
+  position: absolute;
+  width: 320px;
+  max-width: 86vw;
+  background: var(--card);
+  border-radius: 16px;
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+  z-index: 1;
+}
+
+.card[data-valign="above"] {
+  bottom: var(--gap);
+}
+
+.card[data-valign="below"] {
+  top: var(--gap);
+}
+
+.card[data-halign="center"] {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.card[data-halign="left"] {
+  left: 0;
+}
+
+.card[data-halign="right"] {
+  right: 0;
+}
+
+.imageArea {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--bone);
+}
+
+.image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  animation: fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.chevron {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--ink);
+  font-size: 18px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.2s ease, background 0.2s ease;
+}
+
+.imageArea:hover .chevron,
+.imageArea:focus-within .chevron {
+  opacity: 1;
+}
+
+@media (hover: none) {
+  .chevron {
+    opacity: 1;
+  }
+}
+
+.chevron:hover {
+  background: #fff;
+}
+
+.chevronPrev {
+  left: 8px;
+}
+
+.chevronNext {
+  right: 8px;
+}
+
+.dots {
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 5px;
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  border: none;
+  padding: 0;
+  background: rgba(255, 255, 255, 0.55);
+  cursor: pointer;
+}
+
+.dotActive {
+  background: #fff;
+}
+
+.close,
+.closeTextOnly {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--ink);
+  font-size: 17px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.close:hover,
+.closeTextOnly:hover {
+  background: #fff;
+}
+
+.body {
+  padding: 14px 16px 16px;
+}
+
+.bodyTextOnly {
+  padding: 44px 16px 16px;
+  position: relative;
+}
+
+.name {
+  display: block;
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 17px;
+  color: var(--ink);
+  margin-bottom: 3px;
+}
+
+.area {
+  display: block;
+  font-family: var(--fr);
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--signature);
+  margin-bottom: 6px;
+}
+
+.desc {
+  font-family: var(--fr);
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.credit {
+  display: block;
+  font-family: var(--fr);
+  font-size: 10px;
+  color: var(--stone);
+  margin-top: 6px;
+}
+
+/* Mobile bottom sheet — portaled into the map container, docked to its
+   lower edge, full width minus gutters. Compound selector so it reliably
+   overrides the valign/halign placement rules above regardless of source
+   order. */
+.card.sheet {
+  position: absolute;
+  left: 16px;
+  right: 16px;
+  bottom: 16px;
+  top: auto;
+  width: auto;
+  max-width: none;
+  max-height: calc(100% - 32px);
+  overflow-y: auto;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .image {
+    animation: none;
+  }
+  .chevron,
+  .close,
+  .closeTextOnly {
+    transition: none;
+  }
+}

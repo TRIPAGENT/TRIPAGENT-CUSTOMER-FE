@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
-import itineraries from "../data/itineraries.generated.json";
+import itineraries from "../data/itinerary-teasers.generated.json";
 import type { ItineraryData } from "../types/itinerary";
 import { useScrollReveal } from "../lib/useScrollReveal";
 import { toRoute } from "../lib/toRoute";

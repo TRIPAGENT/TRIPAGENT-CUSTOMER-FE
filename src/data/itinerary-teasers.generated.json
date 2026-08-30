@@ -1,0 +1,1516 @@
+{
+  "route-australia-classic": {
+    "slug": "route-australia-classic",
+    "seo": {
+      "title": "Sydney & Melbourne — a TripAgent journey — TripAgent",
+      "description": "Harbour and headland, then the quiet confidence of the south. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Sydney & Melbourne",
+      "lede": "Harbour and headland, then the quiet confidence of the south.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "8 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Feb · Mar · Oct · Nov · Dec"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "4 nights",
+        "city": "Sydney",
+        "text": "Park Hyatt with the Opera House at the window; a private sail on the harbour and a day up to the Hunter Valley or out to the northern beaches.",
+        "guideLink": {
+          "label": "Sydney guide →",
+          "href": "/city-sydney"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "4 nights",
+        "city": "Melbourne",
+        "text": "The laneways, coffee and dining that Australians rate above Sydney's, with a drive along the Great Ocean Road and a night in the Yarra Valley.",
+        "guideLink": {
+          "label": "Melbourne guide →",
+          "href": "/city-melbourne"
+        }
+      }
+    ],
+    "note": "Fly Sydney to Melbourne (1h30). Land in Sydney first for the icons, then let Melbourne's slower, food-led rhythm close the trip.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=australia-classic"
+    }
+  },
+  "route-bali-singapore": {
+    "slug": "route-bali-singapore",
+    "seo": {
+      "title": "Singapore & Bali — a TripAgent journey — TripAgent",
+      "description": "A polished city overture before the island slows everything down. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Singapore & Bali",
+      "lede": "A polished city overture before the island slows everything down.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "8 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "May · Jun · Jul · Aug · Sep"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "2 nights",
+        "city": "Singapore",
+        "text": "A stay at Raffles or the Capella on Sentosa; the National Gallery, hawker suppers arranged privately, and cocktails above the skyline to reset from the flight.",
+        "guideLink": {
+          "label": "Singapore guide →",
+          "href": "/city-singapore-city"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "6 nights",
+        "city": "Bali",
+        "text": "Split between an Ubud river valley at Four Seasons Sayan and a clifftop at Bulgari or Aman Nusa Dua, pairing rice-terrace mornings with the ocean.",
+        "guideLink": {
+          "label": "Bali guide →",
+          "href": "/city-bali"
+        }
+      }
+    ],
+    "note": "Singapore to Denpasar is a 2h45 flight. Do the city first as a landing point, then Bali to end on stillness; the May to September dry season keeps the island's south at its best.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=bali-singapore"
+    }
+  },
+  "route-classic-japan": {
+    "slug": "route-classic-japan",
+    "seo": {
+      "title": "Classic Japan — a TripAgent journey — TripAgent",
+      "description": "The capital, the old court city, and the kitchen of the nation, linked by the fastest train on earth. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Classic Japan",
+      "lede": "The capital, the old court city, and the kitchen of the nation, linked by the fastest train on earth.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "9 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Mar · Apr · Oct · Nov"
+        },
+        {
+          "label": "Stops",
+          "value": "3"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "4 nights",
+        "city": "Tokyo",
+        "text": "Aman Tokyo or the Mandarin Oriental; the Tsukiji outer market, a booked seat at a counter sushi-ya, and a day held for Hakone or a private tea ceremony.",
+        "guideLink": {
+          "label": "Tokyo guide →",
+          "href": "/city-tokyo"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "4 nights",
+        "city": "Kyoto",
+        "text": "The Ritz-Carlton on the Kamo river or a Gion ryokan; Fushimi Inari and the moss temples at opening, and a maiko evening arranged in advance.",
+        "guideLink": {
+          "label": "Kyoto guide →",
+          "href": "/city-kyoto"
+        }
+      },
+      {
+        "n": "3",
+        "nights": "1 night",
+        "city": "Osaka",
+        "text": "Close on Dotonbori and the kappo counters of the country's kitchen; one night before the short transfer to Kansai airport for the flight home.",
+        "guideLink": {
+          "label": "Osaka guide →",
+          "href": "/city-osaka"
+        }
+      }
+    ],
+    "note": "The Tokyo-Kyoto Shinkansen takes about 2h15; Kyoto-Osaka is 15 minutes, so Osaka doubles as the departure city. Come for the late-March cherry blossom or the November maples, not the humid summer.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=classic-japan"
+    }
+  },
+  "route-emirates-gulf": {
+    "slug": "route-emirates-gulf",
+    "seo": {
+      "title": "Dubai & Abu Dhabi — a TripAgent journey — TripAgent",
+      "description": "The theatre of the new city, then the calmer, cultural capital. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Dubai & Abu Dhabi",
+      "lede": "The theatre of the new city, then the calmer, cultural capital.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "6 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Nov · Dec · Jan · Feb · Mar"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "4 nights",
+        "city": "Dubai",
+        "text": "A suite at the Bulgari on Jumeira Bay or the Burj Al Arab; the Burj Khalifa lounge, the gold and spice souks by abra, and a desert evening with a private camp.",
+        "guideLink": {
+          "label": "Dubai guide →",
+          "href": "/city-dubai"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "2 nights",
+        "city": "Abu Dhabi",
+        "text": "The Emirates Palace Mandarin Oriental; the Sheikh Zayed Grand Mosque at first light and the Louvre Abu Dhabi under its floating dome.",
+        "guideLink": {
+          "label": "Abu Dhabi guide →",
+          "href": "/city-abu-dhabi"
+        }
+      }
+    ],
+    "note": "Dubai first for the arrival energy, then a 75-minute private transfer down the E11 to Abu Dhabi. Travel November to March — the summer months are unbearably hot.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=emirates-gulf"
+    }
+  },
+  "route-golden-triangle": {
+    "slug": "route-golden-triangle",
+    "seo": {
+      "title": "The Golden Triangle — a TripAgent journey — TripAgent",
+      "description": "The founding circuit of Indian travel, paced so no city is rushed and Agra is seen at dawn. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "The Golden Triangle",
+      "lede": "The founding circuit of Indian travel, paced so no city is rushed and Agra is seen at dawn.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "7 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Oct · Nov · Feb · Mar"
+        },
+        {
+          "label": "Stops",
+          "value": "3"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "3 nights",
+        "city": "New Delhi",
+        "text": "Settle at The Imperial or The Oberoi; Old Delhi by cycle-rickshaw and Humayun's Tomb before the crowds, with a day held for jet lag and tailoring.",
+        "guideLink": {
+          "label": "New Delhi guide →",
+          "href": "/city-delhi"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "1 night",
+        "city": "Agra",
+        "text": "One night at The Oberoi Amarvilas, every room facing the Taj, so you are at the gate for the first light that the day-trippers never see.",
+        "guideLink": {
+          "label": "Agra guide →",
+          "href": "/city-agra"
+        }
+      },
+      {
+        "n": "3",
+        "nights": "3 nights",
+        "city": "Jaipur",
+        "text": "Rambagh Palace as your base; Amber Fort at opening, the block-printers and gem-cutters by appointment, and an evening at the City Palace.",
+        "guideLink": {
+          "label": "Jaipur guide →",
+          "href": "/city-jaipur"
+        }
+      }
+    ],
+    "note": "Delhi to Agra and Agra to Jaipur are both easy chauffeured drives (about 4 hours each) on the Yamuna and national expressways; break the Agra-Jaipur leg at Fatehpur Sikri. Avoid April to June heat.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=golden-triangle"
+    }
+  },
+  "route-grand-italy": {
+    "slug": "route-grand-italy",
+    "seo": {
+      "title": "Grand Italy — a TripAgent journey — TripAgent",
+      "description": "The classic triangle, taken slowly — antiquity, the Renaissance, then the lagoon. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Grand Italy",
+      "lede": "The classic triangle, taken slowly — antiquity, the Renaissance, then the lagoon.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "9 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "May · Jun · Sep · Oct"
+        },
+        {
+          "label": "Stops",
+          "value": "3"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "3 nights",
+        "city": "Rome",
+        "text": "Base at Hotel de Russie; a private early-morning Vatican walk before the doors open, and slow evenings across the Piazza del Popolo.",
+        "guideLink": {
+          "label": "Rome guide →",
+          "href": "/city-rome"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "3 nights",
+        "city": "Florence",
+        "text": "Rooms at the Four Seasons in its walled garden; the Uffizi and Accademia arranged after hours, with a day out to a Chianti estate.",
+        "guideLink": {
+          "label": "Florence guide →",
+          "href": "/city-florence"
+        }
+      },
+      {
+        "n": "3",
+        "nights": "3 nights",
+        "city": "Venice",
+        "text": "The Aman on the Grand Canal, arriving by water; St Mark's opened privately at dusk and a quiet run out to Torcello.",
+        "guideLink": {
+          "label": "Venice guide →",
+          "href": "/city-venice"
+        }
+      }
+    ],
+    "note": "All three connect on the Frecciarossa high-speed line — Rome to Florence in ninety minutes, Florence to Venice in two hours. End in Venice so you finish on the water and fly home from Marco Polo.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=grand-italy"
+    }
+  },
+  "route-greek-isles": {
+    "slug": "route-greek-isles",
+    "seo": {
+      "title": "Athens & the Greek Isles — a TripAgent journey — TripAgent",
+      "description": "Antiquity first, then two islands with distinct tempers. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Athens & the Greek Isles",
+      "lede": "Antiquity first, then two islands with distinct tempers.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "9 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "May · Jun · Sep"
+        },
+        {
+          "label": "Stops",
+          "value": "3"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "2 nights",
+        "city": "Athens",
+        "text": "The Hotel Grande Bretagne on Syntagma; a private early-morning Acropolis walk and a rooftop dinner with the Parthenon lit below.",
+        "guideLink": {
+          "label": "Athens guide →",
+          "href": "/city-athens"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "4 nights",
+        "city": "Santorini",
+        "text": "A caldera-edge suite at Grace or Katikies in Imerovigli; slow days, the sunset off the crowds by boat, and the wineries of the interior.",
+        "guideLink": {
+          "label": "Santorini guide →",
+          "href": "/city-santorini"
+        }
+      },
+      {
+        "n": "3",
+        "nights": "3 nights",
+        "city": "Mykonos",
+        "text": "Close on the lighter note — a villa or Belvedere, beach clubs at Scorpios, and long lunches before the evening turns.",
+        "guideLink": {
+          "label": "Mykonos guide →",
+          "href": "/city-mykonos"
+        }
+      }
+    ],
+    "note": "Athens on arrival, then a short flight to Santorini (the ferry is slow and weather-dependent); a 30-minute island-hop flight or fast ferry to Mykonos. Book sunset venues ahead in peak season.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=greek-isles"
+    }
+  },
+  "route-himalayan-kingdoms": {
+    "slug": "route-himalayan-kingdoms",
+    "seo": {
+      "title": "Kathmandu & Bhutan — a TripAgent journey — TripAgent",
+      "description": "From the temple-dense valley of Nepal to the quiet, guarded kingdom next door. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Kathmandu & Bhutan",
+      "lede": "From the temple-dense valley of Nepal to the quiet, guarded kingdom next door.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "8 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Mar · Apr · Oct · Nov"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "3 nights",
+        "city": "Kathmandu",
+        "text": "Base at Dwarika's among its salvaged Newari woodwork; time the Boudhanath stupa and Pashupatinath at dusk, and keep a clear morning for the flight east.",
+        "guideLink": {
+          "label": "Kathmandu guide →",
+          "href": "/city-kathmandu"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "5 nights",
+        "city": "Paro & Thimphu",
+        "text": "Move through Amankora's lodges — Thimphu and Punakha first to acclimatise, closing at Paro for the dawn walk up to Tiger's Nest.",
+        "guideLink": {
+          "label": "Paro & Thimphu guide →",
+          "href": "/city-paro"
+        }
+      }
+    ],
+    "note": "One short flight Kathmandu to Paro (sit left for the Everest line). Bhutan's visa and daily fee are arranged ahead; hold a buffer day before the Tiger's Nest hike for weather.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=himalayan-kingdoms"
+    }
+  },
+  "route-himalayan-north": {
+    "slug": "route-himalayan-north",
+    "seo": {
+      "title": "The Himalayan North — a TripAgent journey — TripAgent",
+      "description": "Vale of Kashmir first, then the high desert of Ladakh, so the body climbs by degrees. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "The Himalayan North",
+      "lede": "Vale of Kashmir first, then the high desert of Ladakh, so the body climbs by degrees.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "9 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Jun · Jul · Aug · Sep"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "4 nights",
+        "city": "Srinagar",
+        "text": "A heritage houseboat on Dal Lake and the Sukoon; the Mughal gardens, a shikara at first light, and a night up at Gulmarg or Pahalgam.",
+        "guideLink": {
+          "label": "Srinagar guide →",
+          "href": "/city-srinagar"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "5 nights",
+        "city": "Leh-Ladakh",
+        "text": "Fly in and give the first day to altitude; then Thiksey and Hemis monasteries, Pangong or Nubra with a permit, and stays at Stok or The Chamba Camp.",
+        "guideLink": {
+          "label": "Leh-Ladakh guide →",
+          "href": "/city-leh-ladakh"
+        }
+      }
+    ],
+    "note": "Fly Srinagar to Leh (about 45 minutes) rather than the two-day road, and build a rest day into Leh for 3,500m altitude. The whole route is summer-only; passes and lakes are closed by the October snows.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=himalayan-north"
+    }
+  },
+  "route-italian-lakes-milan": {
+    "slug": "route-italian-lakes-milan",
+    "seo": {
+      "title": "Milan & the Italian Lakes — a TripAgent journey — TripAgent",
+      "description": "A short city opening, then the water and mountains of Como. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Milan & the Italian Lakes",
+      "lede": "A short city opening, then the water and mountains of Como.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "5 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "May · Jun · Sep"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "2 nights",
+        "city": "Milan",
+        "text": "The Bulgari or Portrait Milano; a private viewing of the Last Supper and an evening in the Brera before you leave the city behind.",
+        "guideLink": {
+          "label": "Milan guide →",
+          "href": "/city-milan"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "3 nights",
+        "city": "Lake Como",
+        "text": "Villa d'Este or Passalacqua at Moltrasio; a classic wooden Riva across the lake and lunch at the villas near Bellagio.",
+        "guideLink": {
+          "label": "Lake Como guide →",
+          "href": "/city-lake-como"
+        }
+      }
+    ],
+    "note": "Como is under an hour from Milan by car — arrange a transfer rather than the train so you arrive at the villa by the water. Fly in and out of Milan Malpensa.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=italian-lakes-milan"
+    }
+  },
+  "route-kenya-zanzibar": {
+    "slug": "route-kenya-zanzibar",
+    "seo": {
+      "title": "Safari & Zanzibar — a TripAgent journey — TripAgent",
+      "description": "The plains of the Mara first, then the Indian Ocean to soften the landing. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Safari & Zanzibar",
+      "lede": "The plains of the Mara first, then the Indian Ocean to soften the landing.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "9 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Jul · Aug · Sep · Oct"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "5 nights",
+        "city": "Nairobi & the Mara",
+        "text": "A night at Hemingways or Giraffe Manor, then a private conservancy camp — Angama Mara or Mahali Mzuri — with off-road game drives and a bush breakfast on the escarpment.",
+        "guideLink": {
+          "label": "Nairobi & the Mara guide →",
+          "href": "/city-nairobi-mara"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "4 nights",
+        "city": "Zanzibar",
+        "text": "Barefoot luxury at Zuri or the north-coast beaches; dhow sailing at sunset, spice-farm lunches, and nothing on the agenda but the tide.",
+        "guideLink": {
+          "label": "Zanzibar guide →",
+          "href": "/city-zanzibar"
+        }
+      }
+    ],
+    "note": "Light aircraft from the Mara to Nairobi, then a 1h30 flight to Zanzibar (via Kilimanjaro or direct). Safari before beach so the ocean is the reward; July to October brings the Great Migration and dry, clear game-viewing.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=kenya-zanzibar"
+    }
+  },
+  "route-kerala-backwaters": {
+    "slug": "route-kerala-backwaters",
+    "seo": {
+      "title": "Kerala, Coast to Hills — a TripAgent journey — TripAgent",
+      "description": "From colonial port up to the tea hills and down to the still water, following the land as it descends. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Kerala, Coast to Hills",
+      "lede": "From colonial port up to the tea hills and down to the still water, following the land as it descends.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "8 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Nov · Dec · Jan · Feb"
+        },
+        {
+          "label": "Stops",
+          "value": "3"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "2 nights",
+        "city": "Kochi",
+        "text": "Fort Kochi and the spice warehouses on foot from Brunton Boatyard; the Chinese fishing nets at dusk and a Kathakali performance by arrangement.",
+        "guideLink": {
+          "label": "Kochi guide →",
+          "href": "/city-kochi"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "3 nights",
+        "city": "Munnar",
+        "text": "Up into the tea country at a plantation bungalow; a private walk of the estates, the high-range mist, and cardamom hills with no schedule to keep.",
+        "guideLink": {
+          "label": "Munnar guide →",
+          "href": "/city-munnar"
+        }
+      },
+      {
+        "n": "3",
+        "nights": "3 nights",
+        "city": "Alleppey",
+        "text": "Descend to the backwaters; a private houseboat day and nights at a waterside villa such as Purity, with the canals and toddy-tappers at your pace.",
+        "guideLink": {
+          "label": "Alleppey guide →",
+          "href": "/city-alleppey"
+        }
+      }
+    ],
+    "note": "All chauffeured drives (Kochi-Munnar about 4 hours climbing, Munnar-Alleppey about 4 descending); end at Alleppey and transfer to Kochi airport in 90 minutes. Come in the dry months and avoid the June-September monsoon.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=kerala-backwaters"
+    }
+  },
+  "route-new-zealand-classic": {
+    "slug": "route-new-zealand-classic",
+    "seo": {
+      "title": "Auckland & Queenstown — a TripAgent journey — TripAgent",
+      "description": "A soft landing in the north, then the drama of the Southern Alps. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Auckland & Queenstown",
+      "lede": "A soft landing in the north, then the drama of the Southern Alps.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "7 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Jan · Feb · Mar · Nov · Dec"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "2 nights",
+        "city": "Auckland",
+        "text": "A gentle start over the dateline; harbour and the Waiheke Island vineyards by private boat before the flight south.",
+        "guideLink": {
+          "label": "Auckland guide →",
+          "href": "/city-auckland"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "5 nights",
+        "city": "Queenstown",
+        "text": "Base at Matakauri or fly deeper to a lodge; days for Milford Sound, private heli-landings on the glaciers, and an afternoon in the Central Otago wineries.",
+        "guideLink": {
+          "label": "Queenstown guide →",
+          "href": "/city-queenstown"
+        }
+      }
+    ],
+    "note": "Fly Auckland to Queenstown (2h). Keep the north brief and give the weight of the trip to the South Island, where the landscape earns the extra nights.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=new-zealand-classic"
+    }
+  },
+  "route-paris-riviera": {
+    "slug": "route-paris-riviera",
+    "seo": {
+      "title": "Paris & the Riviera — a TripAgent journey — TripAgent",
+      "description": "The city in full, then down to the sea and the light of the Côte d'Azur. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Paris & the Riviera",
+      "lede": "The city in full, then down to the sea and the light of the Côte d'Azur.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "8 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "May · Jun · Sep · Oct"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "4 nights",
+        "city": "Paris",
+        "text": "The Ritz or Le Bristol; the Louvre opened privately and unhurried mornings in the 7th before the couture houses and dinner at a table held for you.",
+        "guideLink": {
+          "label": "Paris guide →",
+          "href": "/city-paris"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "4 nights",
+        "city": "Nice & the Riviera",
+        "text": "The Grand-Hôtel du Cap-Ferrat or La Réserve; a day by boat to the coves and lunch at the Colombe d'Or in Saint-Paul-de-Vence.",
+        "guideLink": {
+          "label": "Nice & the Riviera guide →",
+          "href": "/city-nice-riviera"
+        }
+      }
+    ],
+    "note": "Fly Paris to Nice in ninety minutes, or take the TGV south if you want the country to unfold. Paris first, then the sea — the Riviera is where the trip should end.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=paris-riviera"
+    }
+  },
+  "route-peru-inca": {
+    "slug": "route-peru-inca",
+    "seo": {
+      "title": "Lima to Machu Picchu — a TripAgent journey — TripAgent",
+      "description": "Coast to high Andes, ending at the citadel above the clouds. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Lima to Machu Picchu",
+      "lede": "Coast to high Andes, ending at the citadel above the clouds.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "6 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "May · Jun · Jul · Aug · Sep"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "2 nights",
+        "city": "Lima",
+        "text": "Two nights in Barranco and Miraflores to eat at Central and Maido and adjust before altitude, with a private morning at the Larco Museum.",
+        "guideLink": {
+          "label": "Lima guide →",
+          "href": "/city-lima"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "4 nights",
+        "city": "Cusco & Machu Picchu",
+        "text": "Acclimatise gently in the Sacred Valley at Sol y Luna or Explora, then take the Hiram Bingham to Machu Picchu for a first light entry before the day crowds.",
+        "guideLink": {
+          "label": "Cusco & Machu Picchu guide →",
+          "href": "/city-cusco"
+        }
+      }
+    ],
+    "note": "Fly Lima to Cusco (1h20), but sleep the first two Andean nights in the lower Sacred Valley (2,800m), not Cusco (3,400m), to soften the altitude. Rail to Aguas Calientes for the citadel.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=peru-inca"
+    }
+  },
+  "route-portugal-classic": {
+    "slug": "route-portugal-classic",
+    "seo": {
+      "title": "Lisbon & Porto — a TripAgent journey — TripAgent",
+      "description": "The light of the south, then the river and the wine. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Lisbon & Porto",
+      "lede": "The light of the south, then the river and the wine.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "6 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "May · Jun · Sep · Oct"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "4 nights",
+        "city": "Lisbon",
+        "text": "The Four Seasons Ritz above the city; Alfama and the trams, a day trip to Sintra's palaces, and dinner at Belcanto.",
+        "guideLink": {
+          "label": "Lisbon guide →",
+          "href": "/city-lisbon"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "2 nights",
+        "city": "Porto",
+        "text": "The Yeatman across the Douro; a private tasting in the Vila Nova de Gaia port lodges and the tiled churches of the old town.",
+        "guideLink": {
+          "label": "Porto guide →",
+          "href": "/city-porto"
+        }
+      }
+    ],
+    "note": "Lisbon first, then the 3-hour Alfa Pendular train up the coast to Porto — comfortable and scenic. Consider extending into the Douro Valley if the wine draws you.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=portugal-classic"
+    }
+  },
+  "route-rome-amalfi": {
+    "slug": "route-rome-amalfi",
+    "seo": {
+      "title": "Rome & the Amalfi Coast — a TripAgent journey — TripAgent",
+      "description": "The eternal city first, then down to the cliffs to let the pace fall away. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Rome & the Amalfi Coast",
+      "lede": "The eternal city first, then down to the cliffs to let the pace fall away.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "7 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "May · Jun · Sep"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "3 nights",
+        "city": "Rome",
+        "text": "Hotel de Russie or Hassler above the Spanish Steps; the Borghese reserved in advance and long lunches in Monti before you head south.",
+        "guideLink": {
+          "label": "Rome guide →",
+          "href": "/city-rome"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "4 nights",
+        "city": "The Amalfi Coast",
+        "text": "Le Sirenuse in Positano; a private gozzo along the coast to Nerano for lunch, and an afternoon in the gardens above Ravello.",
+        "guideLink": {
+          "label": "The Amalfi Coast guide →",
+          "href": "/city-amalfi-coast"
+        }
+      }
+    ],
+    "note": "Rome to the coast is best by private car to Positano (about four hours) or the fast train to Naples then transfer — either way, do Rome first and unwind on the cliffs, not the reverse.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=rome-amalfi"
+    }
+  },
+  "route-royal-rajasthan": {
+    "slug": "route-royal-rajasthan",
+    "seo": {
+      "title": "Royal Rajasthan — a TripAgent journey — TripAgent",
+      "description": "Four princely cities in descending scale, ending on the lake so the desert gives way to water. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Royal Rajasthan",
+      "lede": "Four princely cities in descending scale, ending on the lake so the desert gives way to water.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "11 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Oct · Nov · Dec · Feb"
+        },
+        {
+          "label": "Stops",
+          "value": "4"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "3 nights",
+        "city": "Jaipur",
+        "text": "Rambagh Palace to acclimatise; Amber at dawn, artisan ateliers by appointment, and a private dinner in a courtyard of the City Palace.",
+        "guideLink": {
+          "label": "Jaipur guide →",
+          "href": "/city-jaipur"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "2 nights",
+        "city": "Jodhpur",
+        "text": "Raas or Umaid Bhawan beneath the Mehrangarh ramparts; the blue city on foot and the fort's armoury before the tour buses arrive.",
+        "guideLink": {
+          "label": "Jodhpur guide →",
+          "href": "/city-jodhpur"
+        }
+      },
+      {
+        "n": "3",
+        "nights": "2 nights",
+        "city": "Jaisalmer",
+        "text": "Suryagarh as the desert base; sundown among the Thar dunes and the living Jain temples inside the golden fort at first light.",
+        "guideLink": {
+          "label": "Jaisalmer guide →",
+          "href": "/city-jaisalmer"
+        }
+      },
+      {
+        "n": "4",
+        "nights": "4 nights",
+        "city": "Udaipur",
+        "text": "Close on the water at the Taj Lake Palace or Oberoi Udaivilas; boat to Jag Mandir, the City Palace, and a day trip to the Ranakpur temples.",
+        "guideLink": {
+          "label": "Udaipur guide →",
+          "href": "/city-udaipur"
+        }
+      }
+    ],
+    "note": "Chauffeured drives throughout (Jaipur-Jodhpur about 5 hours, Jodhpur-Jaisalmer about 5, Jaisalmer-Udaipur about 6, broken at Ranakpur); fly out of Udaipur. A short charter can replace the longest leg if time is tight.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=royal-rajasthan"
+    }
+  },
+  "route-spain-classic": {
+    "slug": "route-spain-classic",
+    "seo": {
+      "title": "Barcelona & Madrid — a TripAgent journey — TripAgent",
+      "description": "Mediterranean modernism, then the weight of the capital. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Barcelona & Madrid",
+      "lede": "Mediterranean modernism, then the weight of the capital.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "7 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "May · Jun · Sep · Oct"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "4 nights",
+        "city": "Barcelona",
+        "text": "Base at the Hotel Arts on the waterfront; days for Gaudí at dawn before the crowds, the Gothic Quarter, and a private table at Disfrutar.",
+        "guideLink": {
+          "label": "Barcelona guide →",
+          "href": "/city-barcelona"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "3 nights",
+        "city": "Madrid",
+        "text": "The Rosewood Villa Magna off the Castellana; the Prado and Thyssen unhurried, and an evening of tapas through Barrio de las Letras.",
+        "guideLink": {
+          "label": "Madrid guide →",
+          "href": "/city-madrid"
+        }
+      }
+    ],
+    "note": "Barcelona first to ease off the flight by the sea, then the 2.5-hour AVE high-speed train to Madrid — city-centre to city-centre, no airport. Avoid August heat.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=spain-classic"
+    }
+  },
+  "route-sri-lanka-south": {
+    "slug": "route-sri-lanka-south",
+    "seo": {
+      "title": "Colombo & the Southern Coast — a TripAgent journey — TripAgent",
+      "description": "A brief city start, then the fort towns and beaches of the south. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Colombo & the Southern Coast",
+      "lede": "A brief city start, then the fort towns and beaches of the south.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "6 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Dec · Jan · Feb · Mar"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "2 nights",
+        "city": "Colombo",
+        "text": "A Geoffrey Bawa-designed stay and a private tour of his architecture; markets, the old Dutch quarter, and Ministry of Crab before heading south.",
+        "guideLink": {
+          "label": "Colombo guide →",
+          "href": "/city-colombo"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "4 nights",
+        "city": "Galle",
+        "text": "The ramparts of the Dutch fort from Amangalla within the walls, or a villa at Cape Weligama; whale-watching off Mirissa and long empty beaches.",
+        "guideLink": {
+          "label": "Galle guide →",
+          "href": "/city-galle"
+        }
+      }
+    ],
+    "note": "Colombo to Galle is a 90-minute run on the coastal expressway. The southern coast is at its finest December to March, when the southwest monsoon has cleared.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=sri-lanka-south"
+    }
+  },
+  "route-swiss-alps": {
+    "slug": "route-swiss-alps",
+    "seo": {
+      "title": "The Swiss Alps — a TripAgent journey — TripAgent",
+      "description": "A gentle arrival, the Matterhorn, then the light of the Engadine. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "The Swiss Alps",
+      "lede": "A gentle arrival, the Matterhorn, then the light of the Engadine.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "8 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Jan · Feb · Jul · Aug · Dec"
+        },
+        {
+          "label": "Stops",
+          "value": "3"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "1 night",
+        "city": "Zurich",
+        "text": "One night at the Baur au Lac on the lake to land and reset before the mountains — dinner in the old town, an early start the next day.",
+        "guideLink": {
+          "label": "Zurich guide →",
+          "href": "/city-zurich"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "3 nights",
+        "city": "Zermatt",
+        "text": "The Omnia or Mont Cervin Palace in the car-free village; the Matterhorn from your window and a private guide onto the Gornergrat.",
+        "guideLink": {
+          "label": "Zermatt guide →",
+          "href": "/city-zermatt"
+        }
+      },
+      {
+        "n": "3",
+        "nights": "4 nights",
+        "city": "St. Moritz",
+        "text": "Badrutt's Palace above the frozen lake; the Cresta run or Corviglia by day and the Engadine light in the long afternoons.",
+        "guideLink": {
+          "label": "St. Moritz guide →",
+          "href": "/city-st-moritz"
+        }
+      }
+    ],
+    "note": "Take the scenic rail throughout — Zurich to Zermatt via Visp, then the Glacier Express or a private car across to St. Moritz. Winter for snow, high summer for the passes and hiking.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=swiss-alps"
+    }
+  },
+  "route-thailand-beach-city": {
+    "slug": "route-thailand-beach-city",
+    "seo": {
+      "title": "Bangkok & the Andaman Coast — a TripAgent journey — TripAgent",
+      "description": "City first, then a slow unwind west into the Andaman Sea. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Bangkok & the Andaman Coast",
+      "lede": "City first, then a slow unwind west into the Andaman Sea.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "9 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Nov · Dec · Jan · Feb · Mar"
+        },
+        {
+          "label": "Stops",
+          "value": "3"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "3 nights",
+        "city": "Bangkok",
+        "text": "River suites at The Peninsula or Mandarin Oriental; a private after-hours turn through the Grand Palace and a chef's table on the Chao Phraya.",
+        "guideLink": {
+          "label": "Bangkok guide →",
+          "href": "/city-bangkok"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "3 nights",
+        "city": "Phuket",
+        "text": "A pool villa at Amanpuri or Rosewood on the quieter west coast, with a private phinisi charter out to the Phang Nga limestone islands at dawn.",
+        "guideLink": {
+          "label": "Phuket guide →",
+          "href": "/city-phuket"
+        }
+      },
+      {
+        "n": "3",
+        "nights": "3 nights",
+        "city": "Krabi",
+        "text": "The cliffs and hidden lagoons of Railay from a Phulay Bay Ritz-Carlton Reserve pavilion; days end on empty sand reachable only by longtail.",
+        "guideLink": {
+          "label": "Krabi guide →",
+          "href": "/city-krabi"
+        }
+      }
+    ],
+    "note": "Fly Bangkok to Phuket (1h20); Krabi is a scenic 3h coastal drive or a short hop by boat or air. Travel November to March, before the monsoon closes the Andaman in.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=thailand-beach-city"
+    }
+  },
+  "route-turkiye-classic": {
+    "slug": "route-turkiye-classic",
+    "seo": {
+      "title": "Istanbul & Cappadocia — a TripAgent journey — TripAgent",
+      "description": "The city of two continents, then the quiet of the high plateau. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Istanbul & Cappadocia",
+      "lede": "The city of two continents, then the quiet of the high plateau.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "6 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Apr · May · Sep · Oct"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "4 nights",
+        "city": "Istanbul",
+        "text": "A Bosphorus suite at the Four Seasons Bosphorus; Hagia Sophia and the Blue Mosque before opening, the Grand Bazaar with a guide, and a private caïque up the strait at dusk.",
+        "guideLink": {
+          "label": "Istanbul guide →",
+          "href": "/city-istanbul"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "2 nights",
+        "city": "Cappadocia",
+        "text": "A cave suite at Argos in Cappadocia; the dawn balloon flight over the fairy chimneys, then the rock churches of Göreme in the afternoon light.",
+        "guideLink": {
+          "label": "Cappadocia guide →",
+          "href": "/city-cappadocia"
+        }
+      }
+    ],
+    "note": "Istanbul first, then a 1.5-hour flight to Kayseri or Nevşehir for Cappadocia. Two nights gives a weather margin for the balloon, which only flies on calm mornings. Avoid high summer.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=turkiye-classic"
+    }
+  },
+  "route-usa-east-sun": {
+    "slug": "route-usa-east-sun",
+    "seo": {
+      "title": "New York & Miami — a TripAgent journey — TripAgent",
+      "description": "The city's pace, then warm water and slower days. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "New York & Miami",
+      "lede": "The city's pace, then warm water and slower days.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "8 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Apr · May · Oct · Nov · Dec"
+        },
+        {
+          "label": "Stops",
+          "value": "2"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "5 nights",
+        "city": "New York",
+        "text": "The Mark or Aman on the park; theatre, the Frick, and a standing table at a restaurant that does not take walk-ins.",
+        "guideLink": {
+          "label": "New York guide →",
+          "href": "/city-new-york"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "3 nights",
+        "city": "Miami",
+        "text": "Unwind at the Faena or a private Star Island stay, with a day out on the water to the upper Keys.",
+        "guideLink": {
+          "label": "Miami guide →",
+          "href": "/city-miami"
+        }
+      }
+    ],
+    "note": "Fly New York to Miami (3h). Take the city first while you have energy, then let the trip decompress by the ocean before the long flight home.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=usa-east-sun"
+    }
+  },
+  "route-usa-west": {
+    "slug": "route-usa-west",
+    "seo": {
+      "title": "California & Las Vegas — a TripAgent journey — TripAgent",
+      "description": "Pacific light and hills, then a night of the desert's excess. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "California & Las Vegas",
+      "lede": "Pacific light and hills, then a night of the desert's excess.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "9 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Apr · May · Sep · Oct"
+        },
+        {
+          "label": "Stops",
+          "value": "3"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "3 nights",
+        "city": "San Francisco",
+        "text": "Base at the Four Seasons and give a day to the Napa and Sonoma vineyards, ideally a private tasting at a grower who does not open to walk-ins.",
+        "guideLink": {
+          "label": "San Francisco guide →",
+          "href": "/city-san-francisco"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "4 nights",
+        "city": "Los Angeles",
+        "text": "The Beverly Hills Hotel or Bel-Air as a home; time for Malibu, the Getty, and a drive up the coast to Santa Barbara.",
+        "guideLink": {
+          "label": "Los Angeles guide →",
+          "href": "/city-los-angeles"
+        }
+      },
+      {
+        "n": "3",
+        "nights": "2 nights",
+        "city": "Las Vegas",
+        "text": "A short, deliberate finish at the Bellagio or Wynn, with a helicopter run over the Grand Canyon at dawn before it heats.",
+        "guideLink": {
+          "label": "Las Vegas guide →",
+          "href": "/city-las-vegas"
+        }
+      }
+    ],
+    "note": "Fly SFO to LAX (1h20) rather than drive the whole coast, then LAX to LAS (1h). Do Vegas last so the trip ends light and you fly home from a major hub.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=usa-west"
+    }
+  },
+  "route-vietnam-north-south": {
+    "slug": "route-vietnam-north-south",
+    "seo": {
+      "title": "Vietnam, North to South — a TripAgent journey — TripAgent",
+      "description": "The country read top to bottom, from northern mist to the Mekong's warmth. — the ideal multi-city route, night by night, planned and booked by your advisor.",
+      "ogImage": null
+    },
+    "hero": {
+      "eyebrow": "The journey",
+      "name": "Vietnam, North to South",
+      "lede": "The country read top to bottom, from northern mist to the Mekong's warmth.",
+      "meta": [
+        {
+          "label": "The trip",
+          "value": "10 nights"
+        },
+        {
+          "label": "At its best",
+          "value": "Feb · Mar · Apr · Nov · Dec"
+        },
+        {
+          "label": "Stops",
+          "value": "3"
+        }
+      ]
+    },
+    "legs": [
+      {
+        "n": "1",
+        "nights": "3 nights",
+        "city": "Hanoi",
+        "text": "The Metropole's colonial calm as a base, a private evening in the Old Quarter, and an overnight on Lan Ha Bay aboard a chartered junk away from the crowds.",
+        "guideLink": {
+          "label": "Hanoi guide →",
+          "href": "/city-hanoi"
+        }
+      },
+      {
+        "n": "2",
+        "nights": "4 nights",
+        "city": "Hoi An & Da Nang",
+        "text": "Beachfront at Four Seasons The Nam Hai; a lantern-lit private walk through Hoi An's old town and a morning with the master tailors.",
+        "guideLink": {
+          "label": "Hoi An & Da Nang guide →",
+          "href": "/city-hoi-an"
+        }
+      },
+      {
+        "n": "3",
+        "nights": "3 nights",
+        "city": "Ho Chi Minh City",
+        "text": "The Reverie or Park Hyatt Saigon for the city's energy, with a day out to the Mekong Delta's waterways by private sampan.",
+        "guideLink": {
+          "label": "Ho Chi Minh City guide →",
+          "href": "/city-ho-chi-minh-city"
+        }
+      }
+    ],
+    "note": "Internal flights link all three (Hanoi to Da Nang 1h20, Da Nang to Saigon 1h20). North to south follows the warming weather; February to April and the late-year window avoid both northern chill and southern rains.",
+    "cta": {
+      "label": "Have your advisor plan this journey",
+      "href": "enquire.html?journey=vietnam-north-south"
+    }
+  }
+}

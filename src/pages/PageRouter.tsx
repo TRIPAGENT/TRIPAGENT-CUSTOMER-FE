@@ -56,6 +56,9 @@ import DaysPage from "./DaysPage";
 import HealthIndexPage from "./HealthIndexPage";
 import JournalIndexPage from "./JournalIndexPage";
 import WhenToGoPage from "./WhenToGoPage";
+import InvitationPage from "./InvitationPage";
+import AcceptInvitePage from "./AcceptInvitePage";
+import HomePage from "./HomePage";
 import routes from "../data/routes.generated.json";
 import redirects from "../data/redirects.generated.json";
 import { toRoute } from "../lib/toRoute";
@@ -217,6 +220,28 @@ const EXACT_SLUG_PAGES: Record<string, () => JSX.Element> = {
   health: () => <HealthIndexPage />,
   journal: () => <JournalIndexPage />,
   "when-to-go": () => <WhenToGoPage />,
+  // Standalone-page batch J (1 of 2 — index.html/HomePage is part 2, wired
+  // above the exact-slug table since it has no pageSlug at all): invitation.html
+  // is the 5-step code-redemption ceremony. All four of its backend touchpoints
+  // are broken or stale in the source
+  // itself (redeem hits a hardcoded loopback-address, non-standard-port
+  // dev-only proxy; capture/site-lead/site-pay all point at the stale
+  // Supabase project ref documented in app/.env.example's header comment)
+  // — same shell-only-defer-logic pattern as trip/search/enquire, but every
+  // submission shows a visible "not live yet" message immediately rather
+  // than a silent no-op. See the TODO(backend) block at the top of
+  // InvitationPage.tsx for what each of the four endpoints needs.
+  invitation: () => <InvitationPage />,
+  // /accept-invite?token=... — the advisor panel's "Invite Customer" email
+  // link. A different token system entirely from invitation.html's 16-char
+  // "code" above (see AcceptInvitePage.tsx's header comment): minted and
+  // meant to be validated by a completely separate backend project
+  // (tripagent-full/backend), not reachable from here (a real request
+  // against the running instance returned a raw 500, no CORS) and not even
+  // the domain the invite email points at. Same shell-only-defer-logic
+  // treatment — honest "not live yet" + a real advisor-contact fallback,
+  // no fake token validation.
+  "accept-invite": () => <AcceptInvitePage />,
 };
 
 // react-router v6 can't match a partial segment like "city-:slug" — a
@@ -227,7 +252,11 @@ const EXACT_SLUG_PAGES: Record<string, () => JSX.Element> = {
 export default function PageRouter() {
   const { pageSlug } = useParams<{ pageSlug: string }>();
 
-  if (pageSlug && REDIRECTS[pageSlug]) return <Navigate to={toRoute(REDIRECTS[pageSlug])} replace />;
+  // The index route ("/", App.tsx) has no :pageSlug segment at all — that's
+  // index.html itself (Batch J, part 2 of 2 — invitation.html was part 1).
+  if (!pageSlug) return <HomePage />;
+
+  if (REDIRECTS[pageSlug]) return <Navigate to={toRoute(REDIRECTS[pageSlug])} replace />;
   if (pageSlug && EXACT_SLUG_PAGES[pageSlug]) return EXACT_SLUG_PAGES[pageSlug]();
   if (pageSlug?.startsWith("city-")) return <CityPage />;
   if (pageSlug && HEALTH_PREFIXES.some((p) => pageSlug.startsWith(p))) return <HealthPage />;

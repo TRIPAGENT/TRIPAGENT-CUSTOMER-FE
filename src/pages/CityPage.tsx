@@ -4,6 +4,7 @@ import cities from "../data/cities.generated.json";
 import type { CityData, CityGuidePanel } from "../types/city";
 import { useScrollReveal } from "../lib/useScrollReveal";
 import { toRoute } from "../lib/toRoute";
+import CityMap from "../components/CityMap";
 import styles from "./city-page.module.css";
 
 const CITIES = cities as unknown as Record<string, CityData>;
@@ -73,7 +74,13 @@ export default function CityPage() {
   useScrollReveal([city]);
 
   const tabLabels: Record<string, string> = useMemo(
-    () => ({ stay: "Where to stay", do: "What to do", eat: "Where to eat", party: "Where the night goes" }),
+    () => ({
+      stay: "Where to stay",
+      do: "What to do",
+      eat: "Where to eat",
+      party: "Where the night goes",
+      map: "Map",
+    }),
     []
   );
 
@@ -241,12 +248,24 @@ export default function CityPage() {
                   {tabLabels[p.key]}
                 </button>
               ))}
+              <button
+                key="map"
+                data-cg="map"
+                role="tab"
+                aria-selected={activeTab === "map"}
+                onClick={() => setActiveTab("map")}
+              >
+                {tabLabels.map}
+              </button>
             </div>
             {guide.panels.map((p) => (
               <div key={p.key} style={{ display: activeTab === p.key ? undefined : "none" }}>
                 <GuidePanel panel={p} />
               </div>
             ))}
+            <div style={{ display: activeTab === "map" ? undefined : "none" }}>
+              <CityMap slug={city.slug} />
+            </div>
           </div>
         </div>
       </section>

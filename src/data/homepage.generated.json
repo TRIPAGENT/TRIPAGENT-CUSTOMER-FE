@@ -1,0 +1,1778 @@
+{
+  "seo": {
+    "title": "TripAgent — A private travel maison",
+    "description": "A private travel maison, by invitation. One person who knows you plans, books and looks after every journey — flights, hotels and visas — until you are home."
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fhero.jpg%3Fv%3D2&w=2560&q=80",
+        "eyebrow": "A private travel maison · by invitation",
+        "headingHtml": "Someone who<br/>travels <span class=\"it\">with</span> you.",
+        "lede": "One person who knows you, and knows travel. They plan it, book it and stay with it — flights, hotels, visas — until you are home.",
+        "ctaLinks": [
+          {
+            "label": "Enter your invitation",
+            "href": "invitation.html"
+          },
+          {
+            "label": "Ask our concierge",
+            "href": "concierge.html"
+          },
+          {
+            "label": "How it works",
+            "href": "how-it-works.html"
+          }
+        ],
+        "insetImage": "/_vercel/image?url=%2Fimg%2Fadvisor2.jpg%3Fv%3D2&w=1024&q=80",
+        "insetCaptionK": "Wherever you go",
+        "insetCaptionT": "Arrived, before you do.",
+        "nextLabel": "Next",
+        "nextLinkLabel": "The front of the aircraft",
+        "nextLinkHref": "flights.html"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg%3Fv%3D2&w=2560&q=80",
+        "eyebrow": "Flights · business & first",
+        "headingHtml": "The front of the<br/>plane, <span class=\"it\">every</span> time.",
+        "lede": "Your advisor holds the seat, settles the fare, arranges the upgrade — quietly. The long flight becomes the part you look forward to.",
+        "ctaLinks": [
+          {
+            "label": "Enter your invitation",
+            "href": "invitation.html"
+          },
+          {
+            "label": "Ask our concierge",
+            "href": "concierge.html"
+          },
+          {
+            "label": "Flights",
+            "href": "flights.html"
+          }
+        ],
+        "insetImage": "/_vercel/image?url=%2Fimg%2Fplane.jpg%3Fv%3D2&w=1024&q=80",
+        "insetCaptionK": "Aloft",
+        "insetCaptionT": "Held seats, soft landings.",
+        "nextLabel": "Next",
+        "nextLinkLabel": "A room that knew you were coming",
+        "nextLinkHref": "hotels.html"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fhotel-taj-udaipur.jpg%3Fv%3D2&w=2560&q=80",
+        "eyebrow": "The stay · hotels & suites",
+        "headingHtml": "A room that's<br/>expecting <span class=\"it\">you</span>.",
+        "lede": "The suite you prefer, the floor you ask for, the welcome already arranged — booked by someone the house knows by name.",
+        "ctaLinks": [
+          {
+            "label": "Enter your invitation",
+            "href": "invitation.html"
+          },
+          {
+            "label": "Ask our concierge",
+            "href": "concierge.html"
+          },
+          {
+            "label": "Hotels",
+            "href": "hotels.html"
+          }
+        ],
+        "insetImage": "/_vercel/image?url=%2Fimg%2Fstay2.jpg%3Fv%3D2&w=1024&q=80",
+        "insetCaptionK": "The stay",
+        "insetCaptionT": "Expected, and welcomed.",
+        "nextLabel": "Next",
+        "nextLinkLabel": "Looked after, until you are home",
+        "nextLinkHref": "destinations.html"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fband1.jpg%3Fv%3D2&w=2560&q=80",
+        "eyebrow": "The whole journey · end to end",
+        "headingHtml": "Looked after, until<br/>you are <span class=\"it\">home</span>.",
+        "lede": "From the first idea to the last mile — visas, changes, the 2 a.m. call from abroad. One advisor, the whole way.",
+        "ctaLinks": [
+          {
+            "label": "Enter your invitation",
+            "href": "invitation.html"
+          },
+          {
+            "label": "Ask our concierge",
+            "href": "concierge.html"
+          },
+          {
+            "label": "Destinations",
+            "href": "destinations.html"
+          }
+        ],
+        "insetImage": "/_vercel/image?url=%2Fimg%2Fcouple-india-palace.jpg%3Fv%3D2&w=1024&q=80",
+        "insetCaptionK": "We stay",
+        "insetCaptionT": "Until you are home.",
+        "nextLabel": "Next",
+        "nextLinkLabel": "How a wish becomes a journey",
+        "nextLinkHref": "how-it-works.html"
+      }
+    ]
+  },
+  "discover": {
+    "eyebrow": "Begin here",
+    "headingHtml": "Where shall we <span class=\"it\">take you?</span>",
+    "sub": "Search a place, a hotel, a city — or let us read your mood and point the way. Everything you would open twenty tabs for, in one quiet place.",
+    "searchLabelHtml": "Search a place, a hotel, a city <em>— or “honeymoon”, “when to go”, “visa”</em>",
+    "recommenderLead": "Not sure where?",
+    "recommenderRestHtml": "Answer five questions",
+    "recommenderHref": "where-to-go.html",
+    "browseLabel": "Browse by the trip you want",
+    "browseHref": "collections.html"
+  },
+  "decide": {
+    "eyebrow": "Or explore another way",
+    "headingHtml": "Three more ways to <span class=\"it\">decide.</span>",
+    "lede": "Start from a feeling, weigh two places against each other, or let the calendar choose the moment — whichever is how your mind is working today.",
+    "cards": [
+      {
+        "kicker": "Browse",
+        "heading": "By the trip you want",
+        "body": "Beaches, honeymoons, safaris, wine country — start from a feeling, not a map.",
+        "goLabel": "Browse collections",
+        "href": "collections.html"
+      },
+      {
+        "kicker": "Compare",
+        "heading": "Two places, side by side",
+        "body": "Budget, flight time, visa and the best months — settle it in one look.",
+        "goLabel": "Compare places",
+        "href": "compare.html"
+      },
+      {
+        "kicker": "Time it",
+        "heading": "What's on, month by month",
+        "body": "The festivals and moments worth building a trip around, all year.",
+        "goLabel": "See the calendar",
+        "href": "whats-on.html"
+      }
+    ]
+  },
+  "planner": {
+    "eyebrow": "Plan by your dates",
+    "headingHtml": "When are you free? <span class=\"em\">We will show you where — and where to stay.</span>",
+    "lede": "Choose a month. We show the few places at their best then, with the rooms we would hold — the start of a conversation with your advisor.",
+    "months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "footTextHtml": "Timed to you, not the crowd. <a href=\"enquire.html\">{{LINK}}</a>",
+    "footLinkLabel": "Tell your advisor your dates →",
+    "footLinkHref": "enquire.html",
+    "cities": [
+      {
+        "name": "Dubai",
+        "slug": "dubai",
+        "monthScore": "222211000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=1024&q=80",
+        "topStays": [
+          "Bulgari Resort Dubai",
+          "One&Only The Palm",
+          "Four Seasons Resort Dubai"
+        ]
+      },
+      {
+        "name": "Abu Dhabi",
+        "slug": "abu-dhabi",
+        "monthScore": "222211000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fabu-dhabi.jpg&w=1024&q=80",
+        "topStays": [
+          "Emirates Palace, Mandarin Oriental",
+          "The St. Regis Saadiyat Island",
+          "Jumeirah at Saadiyat Island"
+        ]
+      },
+      {
+        "name": "Doha",
+        "slug": "doha",
+        "monthScore": "222211000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdoha.jpg&w=1024&q=80",
+        "topStays": [
+          "Mandarin Oriental, Doha",
+          "The Ned Doha",
+          "Four Seasons Hotel Doha"
+        ]
+      },
+      {
+        "name": "Muscat",
+        "slug": "muscat",
+        "monthScore": "222211000022",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmuscat.jpg&w=1024&q=80",
+        "topStays": [
+          "The Chedi Muscat",
+          "Al Bustan Palace, a Ritz-Carlton Hotel",
+          "Anantara Al Jabal Al Akhdar"
+        ]
+      },
+      {
+        "name": "Amman & Petra",
+        "slug": "amman-petra",
+        "monthScore": "112222112211",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famman-petra.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel Amman",
+          "St. Regis Amman",
+          "Amman Rotana"
+        ]
+      },
+      {
+        "name": "Singapore",
+        "slug": "singapore-city",
+        "monthScore": "221111122122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsingapore-city.jpg&w=1024&q=80",
+        "topStays": [
+          "Raffles Singapore",
+          "The Fullerton Hotel",
+          "The Ritz-Carlton, Millenia"
+        ]
+      },
+      {
+        "name": "Bangkok",
+        "slug": "bangkok",
+        "monthScore": "221110000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbangkok.jpg&w=1024&q=80",
+        "topStays": [
+          "Mandarin Oriental Bangkok",
+          "The Peninsula Bangkok",
+          "Four Seasons at Chao Phraya"
+        ]
+      },
+      {
+        "name": "Phuket",
+        "slug": "phuket",
+        "monthScore": "222110000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fphuket.jpg&w=1024&q=80",
+        "topStays": [
+          "Amanpuri",
+          "Six Senses Yao Noi",
+          "Rosewood Phuket"
+        ]
+      },
+      {
+        "name": "Krabi",
+        "slug": "krabi",
+        "monthScore": "222110000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fkrabi.jpg&w=1024&q=80",
+        "topStays": [
+          "Rayavadee",
+          "Phulay Bay, Ritz-Carlton Reserve",
+          "Banyan Tree Krabi"
+        ]
+      },
+      {
+        "name": "Bali",
+        "slug": "bali",
+        "monthScore": "221110001122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbali.jpg&w=1024&q=80",
+        "topStays": [
+          "Amandari",
+          "Four Seasons Sayan",
+          "Mandapa, Ritz-Carlton Reserve"
+        ]
+      },
+      {
+        "name": "Kuala Lumpur",
+        "slug": "kuala-lumpur",
+        "monthScore": "212111121221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fkuala-lumpur.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Kuala Lumpur",
+          "The Ritz-Carlton",
+          "Mandarin Oriental"
+        ]
+      },
+      {
+        "name": "Langkawi",
+        "slug": "langkawi",
+        "monthScore": "222111110122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Flangkawi.jpg&w=1024&q=80",
+        "topStays": [
+          "The Datai Langkawi",
+          "Four Seasons Resort Langkawi",
+          "The Ritz-Carlton, Langkawi"
+        ]
+      },
+      {
+        "name": "Hanoi",
+        "slug": "hanoi",
+        "monthScore": "111221110122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fhanoi.jpg&w=1024&q=80",
+        "topStays": [
+          "Sofitel Legend Metropole",
+          "Capella Hanoi",
+          "The Apricot Hotel"
+        ]
+      },
+      {
+        "name": "Ho Chi Minh City",
+        "slug": "ho-chi-minh-city",
+        "monthScore": "222111100122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fho-chi-minh-city.jpg&w=1024&q=80",
+        "topStays": [
+          "The Reverie Saigon",
+          "Park Hyatt Saigon",
+          "Hotel des Arts Saigon, MGallery"
+        ]
+      },
+      {
+        "name": "Hoi An & Da Nang",
+        "slug": "hoi-an",
+        "monthScore": "211100000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fhoi-an.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons The Nam Hai",
+          "InterContinental Danang Sun Peninsula",
+          "Banyan Tree Lang Co"
+        ]
+      },
+      {
+        "name": "Siem Reap",
+        "slug": "siem-reap",
+        "monthScore": "222110000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsiem-reap.jpg&w=1024&q=80",
+        "topStays": [
+          "Raffles Grand Hotel d'Angkor",
+          "Amansara",
+          "Park Hyatt Siem Reap"
+        ]
+      },
+      {
+        "name": "Tokyo",
+        "slug": "tokyo",
+        "monthScore": "112221002221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Ftokyo.jpg&w=1024&q=80",
+        "topStays": [
+          "Aman Tokyo",
+          "The Peninsula Tokyo",
+          "Four Seasons Hotel Tokyo at Otemachi"
+        ]
+      },
+      {
+        "name": "Kyoto",
+        "slug": "kyoto",
+        "monthScore": "112222001221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fkyoto.jpg&w=1024&q=80",
+        "topStays": [
+          "Aman Kyoto",
+          "Four Seasons Hotel Kyoto",
+          "The Ritz-Carlton, Kyoto"
+        ]
+      },
+      {
+        "name": "Osaka",
+        "slug": "osaka",
+        "monthScore": "112221002221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fosaka.jpg&w=1024&q=80",
+        "topStays": [
+          "The Ritz-Carlton, Osaka",
+          "Conrad Osaka",
+          "St. Regis Osaka"
+        ]
+      },
+      {
+        "name": "Hong Kong",
+        "slug": "hong-kong",
+        "monthScore": "222110002222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fhong-kong.jpg&w=1024&q=80",
+        "topStays": [
+          "The Peninsula Hong Kong",
+          "Rosewood Hong Kong",
+          "Mandarin Oriental, Hong Kong"
+        ]
+      },
+      {
+        "name": "Seoul",
+        "slug": "seoul",
+        "monthScore": "002221002220",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fseoul.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel Seoul",
+          "Signiel Seoul",
+          "The Shilla Seoul"
+        ]
+      },
+      {
+        "name": "Shanghai",
+        "slug": "shanghai",
+        "monthScore": "002221102220",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fshanghai.jpg&w=1024&q=80",
+        "topStays": [
+          "The Peninsula Shanghai",
+          "Bulgari Hotel Shanghai",
+          "Amanyangyun"
+        ]
+      },
+      {
+        "name": "Taipei",
+        "slug": "taipei",
+        "monthScore": "221100001222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Ftaipei.jpg&w=1024&q=80",
+        "topStays": [
+          "Mandarin Oriental, Taipei",
+          "The Regent Taipei",
+          "W Taipei"
+        ]
+      },
+      {
+        "name": "Malé & the Atolls",
+        "slug": "male-maldives",
+        "monthScore": "222211001222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=1024&q=80",
+        "topStays": [
+          "Cheval Blanc Randheli",
+          "Soneva Jani",
+          "Waldorf Astoria Ithaafushi"
+        ]
+      },
+      {
+        "name": "Colombo",
+        "slug": "colombo",
+        "monthScore": "221110002222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcolombo.jpg&w=1024&q=80",
+        "topStays": [
+          "Shangri-La Colombo",
+          "Cinnamon Grand Colombo",
+          "Taj Samudra"
+        ]
+      },
+      {
+        "name": "Galle",
+        "slug": "galle",
+        "monthScore": "222110000222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fgalle.jpg&w=1024&q=80",
+        "topStays": [
+          "Amangalla",
+          "Le Grand Galle",
+          "Cape Weligama"
+        ]
+      },
+      {
+        "name": "Kathmandu",
+        "slug": "kathmandu",
+        "monthScore": "112222100222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fkathmandu.jpg&w=1024&q=80",
+        "topStays": [
+          "Dwarika's Hotel",
+          "Hyatt Regency Kathmandu",
+          "The Pavilions Himalayas Lakeview"
+        ]
+      },
+      {
+        "name": "Paro & Thimphu",
+        "slug": "paro",
+        "monthScore": "002222110022",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparo.jpg&w=1024&q=80",
+        "topStays": [
+          "Amankora Paro",
+          "Six Senses Paro",
+          "COMO Uma Paro"
+        ]
+      },
+      {
+        "name": "Mauritius",
+        "slug": "mauritius-city",
+        "monthScore": "221110001222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmauritius-city.jpg&w=1024&q=80",
+        "topStays": [
+          "One&Only Le Saint Geran",
+          "Four Seasons at Anahita",
+          "Shangri-La Le Touessrok"
+        ]
+      },
+      {
+        "name": "Mahé",
+        "slug": "mahe-seychelles",
+        "monthScore": "221100012222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmahe-seychelles.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Seychelles",
+          "Anantara Maia Seychelles Villas",
+          "Constance Ephelia"
+        ]
+      },
+      {
+        "name": "London",
+        "slug": "london",
+        "monthScore": "011112222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Flondon.jpg&w=1024&q=80",
+        "topStays": [
+          "The Connaught",
+          "Claridge's",
+          "The Savoy"
+        ]
+      },
+      {
+        "name": "Paris",
+        "slug": "paris",
+        "monthScore": "011122221110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=1024&q=80",
+        "topStays": [
+          "Le Bristol Paris",
+          "The Ritz Paris",
+          "Four Seasons George V"
+        ]
+      },
+      {
+        "name": "Nice & the Riviera",
+        "slug": "nice-riviera",
+        "monthScore": "001122222100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fnice-riviera.jpg&w=1024&q=80",
+        "topStays": [
+          "Grand-Hôtel du Cap-Ferrat",
+          "Château Saint-Martin & Spa",
+          "Hôtel du Cap-Eden-Roc"
+        ]
+      },
+      {
+        "name": "Amsterdam",
+        "slug": "amsterdam",
+        "monthScore": "001112222100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famsterdam.jpg&w=1024&q=80",
+        "topStays": [
+          "Waldorf Astoria Amsterdam",
+          "De L'Europe",
+          "Hotel TwentySeven"
+        ]
+      },
+      {
+        "name": "Rome",
+        "slug": "rome",
+        "monthScore": "112222100221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Frome.jpg&w=1024&q=80",
+        "topStays": [
+          "Hotel de Russie, Rocco Forte",
+          "Bulgari Hotel Roma",
+          "Hotel Eden, Dorchester Collection"
+        ]
+      },
+      {
+        "name": "Milan",
+        "slug": "milan",
+        "monthScore": "112222101221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmilan.jpg&w=1024&q=80",
+        "topStays": [
+          "Bulgari Hotel Milano",
+          "Mandarin Oriental, Milan",
+          "Four Seasons Hotel Milano"
+        ]
+      },
+      {
+        "name": "Venice",
+        "slug": "venice",
+        "monthScore": "101222110221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fvenice.jpg&w=1024&q=80",
+        "topStays": [
+          "The Gritti Palace",
+          "Aman Venice",
+          "Belmond Hotel Cipriani"
+        ]
+      },
+      {
+        "name": "Florence",
+        "slug": "florence",
+        "monthScore": "112222101221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fflorence.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel Firenze",
+          "Portrait Firenze",
+          "The St. Regis Florence"
+        ]
+      },
+      {
+        "name": "The Amalfi Coast",
+        "slug": "amalfi-coast",
+        "monthScore": "001122210000",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=1024&q=80",
+        "topStays": [
+          "Le Sirenuse",
+          "Il San Pietro di Positano",
+          "Belmond Hotel Caruso"
+        ]
+      },
+      {
+        "name": "Lake Como",
+        "slug": "lake-como",
+        "monthScore": "001222221100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Flake-como.jpg&w=1024&q=80",
+        "topStays": [
+          "Passalacqua",
+          "Grand Hotel Tremezzo",
+          "Villa d'Este"
+        ]
+      },
+      {
+        "name": "Barcelona",
+        "slug": "barcelona",
+        "monthScore": "112222112221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbarcelona.jpg&w=1024&q=80",
+        "topStays": [
+          "Hotel Arts Barcelona",
+          "Mandarin Oriental, Barcelona",
+          "The Barcelona EDITION"
+        ]
+      },
+      {
+        "name": "Madrid",
+        "slug": "madrid",
+        "monthScore": "111122221111",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmadrid.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel Madrid",
+          "Mandarin Oriental Ritz, Madrid",
+          "Rosewood Villa Magna"
+        ]
+      },
+      {
+        "name": "Lisbon",
+        "slug": "lisbon",
+        "monthScore": "112222221221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Flisbon.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel Ritz Lisbon",
+          "Bairro Alto Hotel",
+          "Olissippo Lapa Palace"
+        ]
+      },
+      {
+        "name": "Porto",
+        "slug": "porto",
+        "monthScore": "112222222211",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fporto.jpg&w=1024&q=80",
+        "topStays": [
+          "The Yeatman",
+          "Maison Albar Le Monumental Palace",
+          "Torel Avantgarde"
+        ]
+      },
+      {
+        "name": "Athens",
+        "slug": "athens",
+        "monthScore": "112222112221",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fathens.jpg&w=1024&q=80",
+        "topStays": [
+          "Hotel Grande Bretagne",
+          "Four Seasons Astir Palace Hotel Athens",
+          "King George"
+        ]
+      },
+      {
+        "name": "Santorini",
+        "slug": "santorini",
+        "monthScore": "001122222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsantorini.jpg&w=1024&q=80",
+        "topStays": [
+          "Mystique, a Luxury Collection Hotel",
+          "Grace Hotel, Auberge Resorts Collection",
+          "Canaves Oia Suites"
+        ]
+      },
+      {
+        "name": "Mykonos",
+        "slug": "mykonos",
+        "monthScore": "001122222100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmykonos.jpg&w=1024&q=80",
+        "topStays": [
+          "Belvedere Mykonos",
+          "Cali Mykonos",
+          "Santa Marina, a Luxury Collection Resort"
+        ]
+      },
+      {
+        "name": "Dubrovnik",
+        "slug": "dubrovnik",
+        "monthScore": "001122222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubrovnik.jpg&w=1024&q=80",
+        "topStays": [
+          "Hotel Excelsior Dubrovnik",
+          "Villa Dubrovnik",
+          "Hotel Bellevue Dubrovnik"
+        ]
+      },
+      {
+        "name": "Zurich",
+        "slug": "zurich",
+        "monthScore": "001122222100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fzurich.jpg&w=1024&q=80",
+        "topStays": [
+          "Baur au Lac",
+          "The Dolder Grand",
+          "Widder Hotel"
+        ]
+      },
+      {
+        "name": "Geneva",
+        "slug": "geneva",
+        "monthScore": "001112222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fgeneva.jpg&w=1024&q=80",
+        "topStays": [
+          "Beau-Rivage",
+          "Four Seasons Hotel des Bergues",
+          "Mandarin Oriental"
+        ]
+      },
+      {
+        "name": "Zermatt",
+        "slug": "zermatt",
+        "monthScore": "222110012222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fzermatt.jpg&w=1024&q=80",
+        "topStays": [
+          "Mont Cervin Palace",
+          "The Omnia",
+          "Grand Hotel Zermatterhof"
+        ]
+      },
+      {
+        "name": "St. Moritz",
+        "slug": "st-moritz",
+        "monthScore": "222100012222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fst-moritz.jpg&w=1024&q=80",
+        "topStays": [
+          "Badrutt's Palace Hotel",
+          "Kulm Hotel St. Moritz",
+          "Suvretta House"
+        ]
+      },
+      {
+        "name": "Vienna",
+        "slug": "vienna",
+        "monthScore": "011222221110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fvienna.jpg&w=1024&q=80",
+        "topStays": [
+          "Hotel Sacher Wien",
+          "Hotel Imperial",
+          "Park Hyatt Vienna"
+        ]
+      },
+      {
+        "name": "Salzburg",
+        "slug": "salzburg",
+        "monthScore": "011222222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsalzburg.jpg&w=1024&q=80",
+        "topStays": [
+          "Hotel Sacher Salzburg",
+          "Hotel Goldener Hirsch",
+          "Schloss Fuschl Resort"
+        ]
+      },
+      {
+        "name": "Munich",
+        "slug": "munich",
+        "monthScore": "011222222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmunich.jpg&w=1024&q=80",
+        "topStays": [
+          "Hotel Vier Jahreszeiten Kempinski",
+          "Mandarin Oriental Munich",
+          "The Charles Hotel"
+        ]
+      },
+      {
+        "name": "Prague",
+        "slug": "prague",
+        "monthScore": "001222221100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fprague.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel Prague",
+          "Mandarin Oriental Prague",
+          "Augustine, a Luxury Collection Hotel"
+        ]
+      },
+      {
+        "name": "Edinburgh",
+        "slug": "edinburgh",
+        "monthScore": "000112222100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fedinburgh.jpg&w=1024&q=80",
+        "topStays": [
+          "The Balmoral",
+          "Gleneagles Townhouse",
+          "The Witchery by the Castle"
+        ]
+      },
+      {
+        "name": "Dublin",
+        "slug": "dublin",
+        "monthScore": "000112222100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdublin.jpg&w=1024&q=80",
+        "topStays": [
+          "The Merrion",
+          "The Shelbourne",
+          "The Westbury"
+        ]
+      },
+      {
+        "name": "Reykjavik",
+        "slug": "reykjavik",
+        "monthScore": "110001122011",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Freykjavik.jpg&w=1024&q=80",
+        "topStays": [
+          "The Reykjavik EDITION",
+          "Hotel Borg",
+          "Tower Suites Reykjavik"
+        ]
+      },
+      {
+        "name": "Copenhagen",
+        "slug": "copenhagen",
+        "monthScore": "000112222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcopenhagen.jpg&w=1024&q=80",
+        "topStays": [
+          "Hotel d'Angleterre",
+          "Nimb Hotel",
+          "Hotel Sanders"
+        ]
+      },
+      {
+        "name": "Budapest",
+        "slug": "budapest",
+        "monthScore": "000112222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbudapest.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Gresham Palace",
+          "Matild Palace, Luxury Collection",
+          "Aria Hotel Budapest"
+        ]
+      },
+      {
+        "name": "Istanbul",
+        "slug": "istanbul",
+        "monthScore": "001122221100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fistanbul.jpg&w=1024&q=80",
+        "topStays": [
+          "Çırağan Palace Kempinski",
+          "Four Seasons Hotel at the Bosphorus",
+          "Six Senses Kocataş Mansions"
+        ]
+      },
+      {
+        "name": "Cappadocia",
+        "slug": "cappadocia",
+        "monthScore": "001122221100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcappadocia.jpg&w=1024&q=80",
+        "topStays": [
+          "Argos in Cappadocia",
+          "Museum Hotel",
+          "Ariana Sustainable Luxury Lodge"
+        ]
+      },
+      {
+        "name": "Cairo",
+        "slug": "cairo",
+        "monthScore": "222211000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcairo.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel Cairo at Nile Plaza",
+          "The St. Regis Cairo",
+          "The Nile Ritz-Carlton"
+        ]
+      },
+      {
+        "name": "Marrakech",
+        "slug": "marrakech",
+        "monthScore": "112222110122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmarrakech.jpg&w=1024&q=80",
+        "topStays": [
+          "Royal Mansour Marrakech",
+          "La Mamounia",
+          "Amanjena"
+        ]
+      },
+      {
+        "name": "Cape Town",
+        "slug": "cape-town",
+        "monthScore": "221100001122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcape-town.jpg&w=1024&q=80",
+        "topStays": [
+          "The Silo Hotel",
+          "Mount Nelson, A Belmond Hotel",
+          "One&Only Cape Town"
+        ]
+      },
+      {
+        "name": "Nairobi & the Mara",
+        "slug": "nairobi-mara",
+        "monthScore": "221101122122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fnairobi-mara.jpg&w=1024&q=80",
+        "topStays": [
+          "Angama Mara",
+          "andBeyond Bateleur Camp",
+          "Mahali Mzuri"
+        ]
+      },
+      {
+        "name": "Zanzibar",
+        "slug": "zanzibar",
+        "monthScore": "221100012222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fzanzibar.jpg&w=1024&q=80",
+        "topStays": [
+          "andBeyond Mnemba Island",
+          "Park Hyatt Zanzibar",
+          "Zuri Zanzibar"
+        ]
+      },
+      {
+        "name": "New York",
+        "slug": "new-york",
+        "monthScore": "001122222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fnew-york.jpg&w=1024&q=80",
+        "topStays": [
+          "Aman New York",
+          "The Carlyle, A Rosewood Hotel",
+          "Four Seasons Hotel New York Downtown"
+        ]
+      },
+      {
+        "name": "Los Angeles",
+        "slug": "los-angeles",
+        "monthScore": "222222221122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Flos-angeles.jpg&w=1024&q=80",
+        "topStays": [
+          "The Beverly Hills Hotel",
+          "Hotel Bel-Air",
+          "Waldorf Astoria Beverly Hills"
+        ]
+      },
+      {
+        "name": "San Francisco",
+        "slug": "san-francisco",
+        "monthScore": "112222222211",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsan-francisco.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel San Francisco",
+          "The Ritz-Carlton, San Francisco",
+          "Palace Hotel"
+        ]
+      },
+      {
+        "name": "Las Vegas",
+        "slug": "las-vegas",
+        "monthScore": "221122000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Flas-vegas.jpg&w=1024&q=80",
+        "topStays": [
+          "Waldorf Astoria Las Vegas",
+          "The Venetian Resort",
+          "Bellagio"
+        ]
+      },
+      {
+        "name": "Miami",
+        "slug": "miami",
+        "monthScore": "222221000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmiami.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel at The Surf Club",
+          "The Setai",
+          "Faena Hotel Miami Beach"
+        ]
+      },
+      {
+        "name": "Toronto",
+        "slug": "toronto",
+        "monthScore": "001122222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Ftoronto.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel Toronto",
+          "The St. Regis Toronto",
+          "The Ritz-Carlton, Toronto"
+        ]
+      },
+      {
+        "name": "Vancouver",
+        "slug": "vancouver",
+        "monthScore": "001122222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fvancouver.jpg&w=1024&q=80",
+        "topStays": [
+          "Fairmont Pacific Rim",
+          "Rosewood Hotel Georgia",
+          "Shangri-La Vancouver"
+        ]
+      },
+      {
+        "name": "Mexico City",
+        "slug": "mexico-city",
+        "monthScore": "212222111222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmexico-city.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel Mexico City",
+          "St. Regis Mexico City",
+          "Las Alcobas, a Luxury Collection Hotel"
+        ]
+      },
+      {
+        "name": "Cancún",
+        "slug": "cancun",
+        "monthScore": "222221000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcancun.jpg&w=1024&q=80",
+        "topStays": [
+          "Rosewood Mayakoba",
+          "Banyan Tree Mayakoba",
+          "Chablé Maroma"
+        ]
+      },
+      {
+        "name": "Rio de Janeiro",
+        "slug": "rio-de-janeiro",
+        "monthScore": "222111112222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Frio-de-janeiro.jpg&w=1024&q=80",
+        "topStays": [
+          "Copacabana Palace, A Belmond Hotel",
+          "Fasano Rio de Janeiro",
+          "Hotel Emiliano"
+        ]
+      },
+      {
+        "name": "Buenos Aires",
+        "slug": "buenos-aires",
+        "monthScore": "222122111122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbuenos-aires.jpg&w=1024&q=80",
+        "topStays": [
+          "Four Seasons Hotel Buenos Aires",
+          "Park Hyatt Buenos Aires (Palacio Duhau)",
+          "Alvear Palace Hotel"
+        ]
+      },
+      {
+        "name": "Lima",
+        "slug": "lima",
+        "monthScore": "222111111222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Flima.jpg&w=1024&q=80",
+        "topStays": [
+          "Belmond Miraflores Park",
+          "Country Club Lima Hotel",
+          "The Westin Lima Hotel & Convention Center"
+        ]
+      },
+      {
+        "name": "Cusco & Machu Picchu",
+        "slug": "cusco",
+        "monthScore": "111222220011",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcusco.jpg&w=1024&q=80",
+        "topStays": [
+          "Belmond Hotel Monasterio",
+          "Belmond Palacio Nazarenas",
+          "Belmond Sanctuary Lodge"
+        ]
+      },
+      {
+        "name": "Sydney",
+        "slug": "sydney",
+        "monthScore": "221100001122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsydney.jpg&w=1024&q=80",
+        "topStays": [
+          "Capella Sydney",
+          "Crown Sydney",
+          "Park Hyatt Sydney"
+        ]
+      },
+      {
+        "name": "Melbourne",
+        "slug": "melbourne",
+        "monthScore": "221100001122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmelbourne.jpg&w=1024&q=80",
+        "topStays": [
+          "Park Hyatt Melbourne",
+          "The Ritz-Carlton, Melbourne",
+          "Grand Hyatt Melbourne"
+        ]
+      },
+      {
+        "name": "Auckland",
+        "slug": "auckland",
+        "monthScore": "221100001122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fauckland.jpg&w=1024&q=80",
+        "topStays": [
+          "Park Hyatt Auckland",
+          "The Hotel Britomart",
+          "Hotel DeBrett"
+        ]
+      },
+      {
+        "name": "Queenstown",
+        "slug": "queenstown",
+        "monthScore": "222111112222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fqueenstown.jpg&w=1024&q=80",
+        "topStays": [
+          "Rosewood Matakauri",
+          "Eichardt's Private Hotel",
+          "Blanket Bay"
+        ]
+      },
+      {
+        "name": "New Delhi",
+        "slug": "delhi",
+        "monthScore": "222110001222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdelhi.jpg&w=1024&q=80",
+        "topStays": [
+          "The Oberoi New Delhi",
+          "The Leela Palace New Delhi",
+          "The Imperial"
+        ]
+      },
+      {
+        "name": "Mumbai",
+        "slug": "mumbai",
+        "monthScore": "222110000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmumbai.jpg&w=1024&q=80",
+        "topStays": [
+          "The Taj Mahal Palace",
+          "The Oberoi Mumbai",
+          "Four Seasons Hotel Mumbai"
+        ]
+      },
+      {
+        "name": "Bengaluru",
+        "slug": "bengaluru",
+        "monthScore": "222221112222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbengaluru.jpg&w=1024&q=80",
+        "topStays": [
+          "The Oberoi Bengaluru",
+          "The Leela Palace Bengaluru",
+          "The Ritz-Carlton Bangalore"
+        ]
+      },
+      {
+        "name": "Goa",
+        "slug": "goa",
+        "monthScore": "222100000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fgoa.jpg&w=1024&q=80",
+        "topStays": [
+          "Taj Exotica Resort & Spa",
+          "The Leela Goa",
+          "Taj Fort Aguada"
+        ]
+      },
+      {
+        "name": "Jaipur",
+        "slug": "jaipur",
+        "monthScore": "222110000222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fjaipur.jpg&w=1024&q=80",
+        "topStays": [
+          "Rambagh Palace",
+          "The Oberoi Rajvilas",
+          "Sujan Rajmahal Palace"
+        ]
+      },
+      {
+        "name": "Udaipur",
+        "slug": "udaipur",
+        "monthScore": "222110000222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fudaipur.jpg&w=1024&q=80",
+        "topStays": [
+          "Taj Lake Palace",
+          "The Oberoi Udaivilas",
+          "The Leela Palace Udaipur"
+        ]
+      },
+      {
+        "name": "Agra",
+        "slug": "agra",
+        "monthScore": "222110000222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fagra.jpg&w=1024&q=80",
+        "topStays": [
+          "The Oberoi Amarvilas",
+          "ITC Mughal",
+          "Taj Hotel & Convention Centre"
+        ]
+      },
+      {
+        "name": "Jodhpur",
+        "slug": "jodhpur",
+        "monthScore": "222110000222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fjodhpur.jpg&w=1024&q=80",
+        "topStays": [
+          "Umaid Bhawan Palace",
+          "RAAS Jodhpur",
+          "Taj Hari Mahal"
+        ]
+      },
+      {
+        "name": "Jaisalmer",
+        "slug": "jaisalmer",
+        "monthScore": "222110000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fjaisalmer.jpg&w=1024&q=80",
+        "topStays": [
+          "Suryagarh",
+          "The Serai",
+          "Fort Rajwada"
+        ]
+      },
+      {
+        "name": "Ranthambore",
+        "slug": "ranthambore",
+        "monthScore": "222100000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Franthambore.jpg&w=1024&q=80",
+        "topStays": [
+          "Sujan Sher Bagh",
+          "Aman-i-Khas",
+          "Six Senses Fort Barwara"
+        ]
+      },
+      {
+        "name": "Varanasi",
+        "slug": "varanasi",
+        "monthScore": "222111000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fvaranasi.jpg&w=1024&q=80",
+        "topStays": [
+          "Taj Nadesar Palace",
+          "BrijRama Palace",
+          "Taj Ganges"
+        ]
+      },
+      {
+        "name": "Rishikesh",
+        "slug": "rishikesh",
+        "monthScore": "222211100222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Frishikesh.jpg&w=1024&q=80",
+        "topStays": [
+          "Ananda in the Himalayas",
+          "Taj Rishikesh Resort & Spa",
+          "Aloha on the Ganges"
+        ]
+      },
+      {
+        "name": "Amritsar",
+        "slug": "amritsar",
+        "monthScore": "222110000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famritsar.jpg&w=1024&q=80",
+        "topStays": [
+          "Taj Swarna",
+          "Hyatt Regency Amritsar",
+          "Welcomhotel by ITC"
+        ]
+      },
+      {
+        "name": "Kochi",
+        "slug": "kochi",
+        "monthScore": "221100000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fkochi.jpg&w=1024&q=80",
+        "topStays": [
+          "Brunton Boatyard",
+          "Taj Malabar Resort & Spa",
+          "Grand Hyatt Kochi Bolgatty"
+        ]
+      },
+      {
+        "name": "Munnar",
+        "slug": "munnar",
+        "monthScore": "221111111122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmunnar.jpg&w=1024&q=80",
+        "topStays": [
+          "SpiceTree Munnar",
+          "Fragrant Nature Munnar",
+          "Windermere Estate"
+        ]
+      },
+      {
+        "name": "Alleppey",
+        "slug": "alleppey",
+        "monthScore": "221100000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Falleppey.jpg&w=1024&q=80",
+        "topStays": [
+          "Kumarakom Lake Resort",
+          "Taj Kumarakom Resort & Spa",
+          "Purity at Lake Vembanad"
+        ]
+      },
+      {
+        "name": "Shimla",
+        "slug": "shimla",
+        "monthScore": "111122100122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fshimla.jpg&w=1024&q=80",
+        "topStays": [
+          "Wildflower Hall, An Oberoi Resort",
+          "The Oberoi Cecil",
+          "Clarkes Hotel"
+        ]
+      },
+      {
+        "name": "Manali",
+        "slug": "manali",
+        "monthScore": "111122100122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmanali.jpg&w=1024&q=80",
+        "topStays": [
+          "The Himalayan",
+          "Span Resort & Spa",
+          "Manuallaya Resort & Spa"
+        ]
+      },
+      {
+        "name": "Leh-Ladakh",
+        "slug": "leh-ladakh",
+        "monthScore": "000012222110",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fleh-ladakh.jpg&w=1024&q=80",
+        "topStays": [
+          "The Grand Dragon Ladakh",
+          "Nimmu House",
+          "Saboo Resorts"
+        ]
+      },
+      {
+        "name": "Srinagar",
+        "slug": "srinagar",
+        "monthScore": "001122221100",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsrinagar.jpg&w=1024&q=80",
+        "topStays": [
+          "The Lalit Grand Palace Srinagar",
+          "Vivanta Dal View",
+          "Sukoon Houseboat"
+        ]
+      },
+      {
+        "name": "Hyderabad",
+        "slug": "hyderabad",
+        "monthScore": "221110001222",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fhyderabad.jpg&w=1024&q=80",
+        "topStays": [
+          "Taj Falaknuma Palace",
+          "ITC Kohenur",
+          "Park Hyatt Hyderabad"
+        ]
+      },
+      {
+        "name": "Chennai",
+        "slug": "chennai",
+        "monthScore": "221100001122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fchennai.jpg&w=1024&q=80",
+        "topStays": [
+          "ITC Grand Chola",
+          "Taj Coromandel",
+          "The Leela Palace Chennai"
+        ]
+      },
+      {
+        "name": "Kolkata",
+        "slug": "kolkata",
+        "monthScore": "221100001122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fkolkata.jpg&w=1024&q=80",
+        "topStays": [
+          "The Oberoi Grand",
+          "Taj Bengal",
+          "ITC Royal Bengal"
+        ]
+      },
+      {
+        "name": "Darjeeling",
+        "slug": "darjeeling",
+        "monthScore": "111222100122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdarjeeling.jpg&w=1024&q=80",
+        "topStays": [
+          "Glenburn Tea Estate",
+          "Mayfair Darjeeling",
+          "Windamere Hotel"
+        ]
+      },
+      {
+        "name": "Andaman Islands",
+        "slug": "andaman",
+        "monthScore": "222110000122",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fandaman.jpg&w=1024&q=80",
+        "topStays": [
+          "Taj Exotica Resort & Spa",
+          "Jalakara",
+          "Barefoot at Havelock"
+        ]
+      }
+    ]
+  },
+  "problem": {
+    "eyebrow": "The world today",
+    "note": "A thousand tabs. Ten reviews. An assistant that forgets your name by morning.",
+    "statementHtml": "We made the whole world bookable — and somehow, <span class=\"em\">lonelier</span>.",
+    "lede": "When something breaks at 2 a.m. abroad, no one knows you. The more there is to book, the less anyone looks after you."
+  },
+  "way": {
+    "portraitImage": "/_vercel/image?url=%2Fimg%2Fadvisor2.jpg%3Fv%3D2&w=2048&q=80",
+    "eyebrow": "What we did",
+    "headingHtml": "So we brought back the <span class=\"it\">travel agent</span>.",
+    "lede": "Not a call centre. Not a bot. One real person who learns how you travel and looks after every detail, with AI behind them so nothing slips.",
+    "features": [
+      {
+        "kicker": "Yours",
+        "heading": "A real person",
+        "body": "One named advisor who knows you — not a queue, not a ticket number."
+      },
+      {
+        "kicker": "In seconds",
+        "heading": "An AI concierge",
+        "body": "Drafts a priced, tailored itinerary in moments. Your advisor makes it perfect."
+      },
+      {
+        "kicker": "Always",
+        "heading": "On WhatsApp",
+        "body": "One message away, at every hour — wherever you happen to be."
+      }
+    ],
+    "ctaLabel": "How it works",
+    "ctaHref": "how-it-works.html"
+  },
+  "services": {
+    "eyebrow": "What we handle",
+    "headingHtml": "You bring the <span class=\"it\">why</span>. We handle the <span class=\"it\">how</span>.",
+    "lede": "Three things, done completely — so all you carry is anticipation.",
+    "allLabel": "All we handle →",
+    "allHref": "services.html",
+    "cards": [
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg%3Fv%3D2&w=2048&q=80",
+        "number": "01",
+        "heading": "Flights",
+        "body": "Global fares in every cabin — with business and first class our specialty. Held, priced and ticketed, with the seat that suits you.",
+        "ctaLabel": "Explore flights",
+        "ctaHref": "flights.html"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fvilla.jpg%3Fv%3D2&w=2048&q=80",
+        "number": "02",
+        "heading": "Hotels",
+        "body": "From the right room to the whole villa — booked at rates and with touches you won't find yourself.",
+        "ctaLabel": "Explore hotels",
+        "ctaHref": "hotels.html"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg%3Fv%3D2&w=2048&q=80",
+        "number": "03",
+        "heading": "Visas",
+        "body": "The paperwork no one enjoys — checked, filed and tracked, so the only thing you pack is your bag.",
+        "ctaLabel": "Explore visas",
+        "ctaHref": "visas.html"
+      }
+    ]
+  },
+  "stats": {
+    "backgroundImage": "/_vercel/image?url=%2Fimg%2Fdubai.jpg%3Fv%3D2&w=2560&q=80",
+    "eyebrow": "Quietly, behind everything",
+    "headingHtml": "A human service, on rails that move millions.",
+    "items": [
+      {
+        "isCountUp": false,
+        "count": null,
+        "suffix": null,
+        "staticValue": "Every",
+        "label": "Airline & alliance"
+      },
+      {
+        "isCountUp": true,
+        "count": "300000",
+        "suffix": "+",
+        "staticValue": null,
+        "label": "Hotels & villas"
+      },
+      {
+        "isCountUp": true,
+        "count": "190",
+        "suffix": "+",
+        "staticValue": null,
+        "label": "Countries"
+      },
+      {
+        "isCountUp": false,
+        "count": null,
+        "suffix": null,
+        "staticValue": "24/7",
+        "label": "Your advisor, on call"
+      }
+    ]
+  },
+  "shift": {
+    "eyebrow": "The shift",
+    "headingHtml": "India's most discerning travellers are coming into their own.",
+    "lede": "Not a trend — a measured shift, in the data.",
+    "items": [
+      {
+        "value": "89%",
+        "labelHtml": "of India's HNIs plan to increase their travel spending this year",
+        "source": "Research & Ranking · 2024"
+      },
+      {
+        "value": "30.9M",
+        "labelHtml": "Indian international departures in 2024 — up ~11% on the year",
+        "source": "Skift · 2024"
+      },
+      {
+        "value": "$74.6B",
+        "labelHtml": "India's luxury-travel market in 2024, and climbing fast",
+        "source": "IMARC Group · 2024"
+      }
+    ],
+    "ctaLabel": "Read the journal",
+    "ctaHref": "journal.html"
+  },
+  "howItWorks": {
+    "liveLabel": "Live",
+    "headingHtml": "Watch a wish become a journey.",
+    "lede": "A real exchange. The AI replies in seconds, your advisor curates, and it’s handled before you’ve finished your coffee.",
+    "steps": [
+      {
+        "number": "1",
+        "heading": "Tell us, in a line",
+        "body": "Message TripAgent on WhatsApp. The AI replies in seconds — already knowing how you travel."
+      },
+      {
+        "number": "2",
+        "heading": "Your advisor curates",
+        "body": "A named human shapes the options, holds the fares, and confirms every detail before you pay."
+      },
+      {
+        "number": "3",
+        "heading": "We stay, until you're home",
+        "body": "Documents, visas, a flight rebooked before you wake. We're there at every step, including the ones no one else shows up for."
+      }
+    ],
+    "tryLabel": "Try a wish",
+    "scenarioChips": [
+      {
+        "label": "Anniversary in the Maldives",
+        "key": "maldives",
+        "active": true
+      },
+      {
+        "label": "Tokyo for the cherry blossom",
+        "key": "tokyo",
+        "active": false
+      },
+      {
+        "label": "Business class to London",
+        "key": "london",
+        "active": false
+      }
+    ],
+    "scenarios": {
+      "maldives": [
+        {
+          "who": "me",
+          "t": "Our anniversary's the first week of December. Somewhere warm, just the two of us — over the water."
+        },
+        {
+          "who": "ai",
+          "t": "The Maldives is at its best then — dry, the lagoon at its clearest. An over-water villa with a private pool, and the seaplane timed for golden hour?"
+        },
+        {
+          "who": "ai",
+          "t": "I can hold business class from Mumbai at a good fare. Visa on arrival — nothing for you to file."
+        },
+        {
+          "who": "human",
+          "t": "It's Aarav. I've held villas at Soneva and Cheval Blanc — photos tonight. And the corner table you loved last year is noted."
+        },
+        {
+          "who": "me",
+          "t": "Perfect. Do it."
+        },
+        {
+          "who": "human",
+          "t": "Consider it done. Full itinerary with you by morning."
+        }
+      ],
+      "tokyo": [
+        {
+          "who": "me",
+          "t": "Tokyo for the cherry blossom. Late March, about eight days."
+        },
+        {
+          "who": "ai",
+          "t": "Bloom peaks the last week of March and shifts by the day — we hold flexible dates and watch the forecast. ANA business non-stop from Delhi is the cabin to be in."
+        },
+        {
+          "who": "human",
+          "t": "It's Aarav. Kyoto for the second half, before Tokyo fills. A ryokan with a private garden, and the temple booked at dawn before the crowds."
+        },
+        {
+          "who": "me",
+          "t": "Yes — please."
+        },
+        {
+          "who": "human",
+          "t": "Holding it now. Your visa is already underway."
+        }
+      ],
+      "london": [
+        {
+          "who": "me",
+          "t": "London next month for work. Just the right seat and a quiet arrival."
+        },
+        {
+          "who": "ai",
+          "t": "Held a flat-bed on the non-stop — the one that's genuinely flat. A private terminal at departure, if you'd like to skip the hall."
+        },
+        {
+          "who": "human",
+          "t": "It's Aarav. A car to the aircraft steps, fast-track at Heathrow, a quiet suite at the Connaught. You'll be at your desk by nine."
+        },
+        {
+          "who": "me",
+          "t": "Exactly that."
+        },
+        {
+          "who": "human",
+          "t": "Done. Boarding pass and car details within the hour."
+        }
+      ]
+    }
+  },
+  "trips": {
+    "eyebrow": "Where our members go",
+    "heading": "Trips we love to craft.",
+    "hint": "Drag to explore →",
+    "allLabel": "All destinations →",
+    "allHref": "destinations.html",
+    "items": [
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg%3Fv%3D2&w=2048&q=80",
+        "place": "Maldives",
+        "description": "An over-water villa, all to yourselves"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Famalfi.jpg%3Fv%3D2&w=2048&q=80",
+        "place": "Amalfi Coast",
+        "description": "The coast, taken the long, slow way"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fsantorini.jpg%3Fv%3D2&w=2048&q=80",
+        "place": "Santorini",
+        "description": "Caldera suites at golden hour"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Ftuscany.jpg%3Fv%3D2&w=2048&q=80",
+        "place": "Tuscany",
+        "description": "A private villa among the vines"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg%3Fv%3D2&w=2048&q=80",
+        "place": "Dubai",
+        "description": "The city, in first class"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg%3Fv%3D2&w=2048&q=80",
+        "place": "Paris",
+        "description": "An anniversary, quietly arranged"
+      },
+      {
+        "image": "/_vercel/image?url=%2Fimg%2Ftrip2.jpg%3Fv%3D2&w=2048&q=80",
+        "place": "The Alps",
+        "description": "Snow, and a chalet that knows you"
+      }
+    ]
+  },
+  "membership": {
+    "eyebrow": "Membership",
+    "headingHtml": "One membership. Everything looked after.",
+    "tier": "TripAgent Membership",
+    "amountHtml": "By invitation",
+    "free": "A single membership. Nothing held back.",
+    "included": [
+      "<b>Your own named advisor</b> — a real person who knows how you travel.",
+      "<b>AI concierge on WhatsApp</b>, 24/7, in seconds.",
+      "<b>Flights, hotels &amp; visas</b> planned, booked and handled end to end.",
+      "<b>Pay with points or card</b> — in a single, transparent transaction.",
+      "<b>On-trip care</b> — disruptions fixed before you wake.",
+      "<b>We stay after you land</b> — remembered, and ready for the next journey."
+    ],
+    "ctaPrimary": {
+      "label": "Enter your invitation",
+      "href": "invitation.html"
+    },
+    "ctaSecondary": {
+      "label": "About membership",
+      "href": "membership.html"
+    },
+    "note": "Membership is offered by invitation. If you hold one, it opens every door above."
+  },
+  "signature": {
+    "eyebrow": "Our promise",
+    "titleHtml": "Most agents end the moment you <span class=\"em\">pay</span>.<br/>We stay until you are <span class=\"em\">home</span>.",
+    "nodes": [
+      {
+        "kind": "node",
+        "on": false,
+        "at": ".06",
+        "left": "7.5%",
+        "label": "Enquiry",
+        "sublabel": "“Plan us something.”"
+      },
+      {
+        "kind": "node",
+        "on": false,
+        "at": ".24",
+        "left": "26.7%",
+        "label": "Booking",
+        "sublabel": "Held, priced, ticketed."
+      },
+      {
+        "kind": "gate",
+        "on": false,
+        "at": ".40",
+        "left": "41.7%",
+        "label": "Where most agents stop",
+        "sublabel": null
+      },
+      {
+        "kind": "node",
+        "on": true,
+        "at": ".55",
+        "left": "55%",
+        "label": "Departure",
+        "sublabel": "Every document in hand."
+      },
+      {
+        "kind": "node",
+        "on": true,
+        "at": ".73",
+        "left": "73.3%",
+        "label": "In-trip",
+        "sublabel": "Fixed before you wake."
+      },
+      {
+        "kind": "seal",
+        "on": true,
+        "at": ".92",
+        "left": "90%",
+        "label": "Home",
+        "sublabel": "We stay."
+      }
+    ]
+  },
+  "who": {
+    "eyebrow": "Who it's for",
+    "quote": "Looked after the way a private banker looks after your wealth.",
+    "lede": "For lives that move fast and change often. You guard your time, and expect to be cared for accordingly.",
+    "ctaLabel": "Is it for you?",
+    "ctaHref": "membership.html"
+  },
+  "testimonials": {
+    "placeholder": true,
+    "eyebrow": "In their words",
+    "heading": "Quietly, completely looked after.",
+    "quotes": [
+      {
+        "quote": "They rebooked our cancelled flight home before we'd even left the lounge. We didn't lift a finger.",
+        "attribution": "A. M. · Mumbai"
+      },
+      {
+        "quote": "One message, and the whole trip — flights, the villa, the visas — simply happened. It felt like having a person, not an app.",
+        "attribution": "R. K. · Delhi"
+      },
+      {
+        "quote": "They remembered our anniversary and the wine we love. That is the difference between booking and being cared for.",
+        "attribution": "S. & V. · Bengaluru"
+      }
+    ],
+    "footnote": "Member experiences. Names abbreviated for privacy."
+  },
+  "finalCta": {
+    "headingHtml": "Until you are <span class=\"em\">home</span>.",
+    "lede": "A private travel maison, offered by invitation. If you hold one, you are already expected.",
+    "primaryLabel": "Enter your invitation",
+    "primaryHref": "invitation.html",
+    "secondaryLabel": "Speak with your advisor"
+  }
+}

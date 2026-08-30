@@ -1,0 +1,114 @@
+{
+  "seo": {
+    "title": "By invitation — TripAgent",
+    "description": "TripAgent membership is by invitation. If someone has given you a key, enter it. The door opens."
+  },
+  "step1": {
+    "eyebrow": "Membership · by invitation",
+    "headingHtml": "The door opens<br/>with a <span class=\"it\">key</span>.",
+    "lede": "Membership is offered in person, never sold. If someone has given you a key, enter it below.",
+    "keyLabel": "Your invitation key",
+    "openLabel": "Open the door",
+    "requestPromptText": "By invitation only.",
+    "requestLinkLabel": "Request an invitation →",
+    "scarcity": "A small number of places open each season.",
+    "requestForm": {
+      "introText": "Leave your details. If a place opens, your advisor reaches out — discreetly, never a mailing list.",
+      "fields": [
+        {
+          "id": "rq-name",
+          "type": "text",
+          "labelHtml": "Full name",
+          "placeholder": "Your name"
+        },
+        {
+          "id": "rq-email",
+          "type": "email",
+          "labelHtml": "Email",
+          "placeholder": "you@email.com"
+        },
+        {
+          "id": "rq-phone",
+          "type": "tel",
+          "labelHtml": "Mobile",
+          "placeholder": "+91"
+        },
+        {
+          "id": "rq-note",
+          "type": "text",
+          "labelHtml": "Anything we should know? <span style=\"text-transform:none;letter-spacing:0\">(optional)</span>",
+          "placeholder": "A referral, how you found us…"
+        }
+      ],
+      "submitLabel": "Request an invitation"
+    },
+    "requestThanks": "Thank you — your request is with us. If a place opens, your advisor will be in touch, discreetly."
+  },
+  "step2": {
+    "eyebrow": "Welcome — the door is open",
+    "headingHtml": "Your invitation carries<br/><b id=\"revealMonths\">—</b>, as our guest.",
+    "lede": "Membership is ₹12,000 a year. Yours begins now, with our compliments.",
+    "continueLabel": "Continue"
+  },
+  "step3": {
+    "eyebrow": "A few details",
+    "headingHtml": "So your advisor knows you<br/>before you <span class=\"it\">speak</span>.",
+    "fields": [
+      {
+        "id": "c-name",
+        "name": "name",
+        "type": "text",
+        "required": true,
+        "labelHtml": "Full name",
+        "placeholder": "Your name",
+        "sub": null
+      },
+      {
+        "id": "c-phone",
+        "name": "phone",
+        "type": "tel",
+        "required": true,
+        "labelHtml": "Your WhatsApp number",
+        "placeholder": "+91",
+        "sub": "This is where your advisor reaches you."
+      },
+      {
+        "id": "c-email",
+        "name": "email",
+        "type": "email",
+        "required": true,
+        "labelHtml": "Email",
+        "placeholder": "you@email.com",
+        "sub": null
+      },
+      {
+        "id": "c-city",
+        "name": "city",
+        "type": "text",
+        "required": false,
+        "labelHtml": "City",
+        "placeholder": "Mumbai",
+        "sub": null
+      }
+    ],
+    "submitLabel": "Almost there"
+  },
+  "step4": {
+    "eyebrow": "A card on file",
+    "headingHtml": "So nothing interrupts you,<br/>when the time <span class=\"it\">comes</span>.",
+    "lede": "Nothing is charged today.",
+    "stubTag": "Securely held · Razorpay",
+    "chargeLineTemplate": "Nothing is charged until <b id=\"trialEnd\">—</b>. Add a card now or later — your membership is active either way.",
+    "chargeNote": "Cancel any time before then — a single message to your advisor, nothing to explain.",
+    "enterLabel": "Enter the maison.",
+    "laterLabel": "Later"
+  },
+  "step5": {
+    "eyebrow": "You are a member",
+    "defaultHeading": "Welcome.",
+    "defaultAdvisorLine": "Your advisor will be in touch within the hour.",
+    "waCtaLabel": "Say hello on WhatsApp",
+    "fallbackCtaLabel": "Meet your advisor",
+    "signature": "Until you are home. We stay."
+  }
+}

@@ -1,4 +1,5 @@
-// Shape produced by tools/extract_itinerary_pages.py from the real
+// Shape produced by tools/extract_itinerary_pages.py (output:
+// app/src/data/itinerary-teasers.generated.json) from the real
 // route-<theme-name>.html itinerary-teaser files (the short 70-line
 // template — distinct from the route-<origin>-<destination> city-pair
 // guides in route.ts / Phase 4).

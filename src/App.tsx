@@ -11,11 +11,16 @@ import PageRouter from "./pages/PageRouter";
 // specialty,guide,longevity,pathway}-*.html (Phase 3). Every other slug
 // falls through to PageRouter's placeholder — those templates land in later
 // phases, one group at a time.
+//
+// The index route ("/") has no :pageSlug param at all, so it's routed to
+// the same PageRouter — which renders HomePage for the undefined-pageSlug
+// case — rather than duplicating the redirect/dispatch logic here.
 export default function App() {
   return (
     <AuthProvider>
       <Routes>
         <Route element={<Layout />}>
+          <Route index element={<PageRouter />} />
           <Route path=":pageSlug" element={<PageRouter />} />
         </Route>
       </Routes>
