@@ -1,28 +1,28 @@
 {
   "seo": {
-    "title": "What membership opens — TripAgent",
+    "title": "What membership opens \u2014 TripAgent",
     "description": "Partner fares in business and first, hotel amenities, visa fast-track windows. The value your advisor holds, on your behalf."
   },
   "hero": {
     "eyebrow": "What membership opens",
-    "headingHtml": "Fares, rooms and welcomes kept for you —<br/>not sold to the <span class=\"it\">public</span>.",
+    "headingHtml": "Fares, rooms and welcomes kept for you \u2014<br/>not sold to the <span class=\"it\">public</span>.",
     "lede": "The fares and rooms your advisor carries. Used quietly, on your behalf.",
     "image": "/_vercel/image?url=%2Fimg%2Fh%2Foffers.jpg&w=2560&q=80",
-    "metaK": "Flights · Hotels · Visas",
+    "metaK": "Flights \u00b7 Hotels \u00b7 Visas",
     "metaT": "The value behind your membership."
   },
-  "intro": "Not deals. Not coupons. These are the fares and rooms an advisor builds over years — the value a search box never sees. Membership is how you reach it.",
+  "intro": "Not deals. Not coupons. These are the fares and rooms an advisor builds over years \u2014 the value a search box never sees. Membership is how you reach it.",
   "features": [
     {
       "id": "flights",
-      "eyebrow": "01 · Flights",
+      "eyebrow": "01 \u00b7 Flights",
       "headingHtml": "Business and first, at fares we <span class=\"it\">hold</span>.",
       "lede": "Business and first are where membership earns its keep. We carry the fares, and the judgement to know when they beat the screen.",
       "items": [
         "Partner and negotiated business & first fares, below public prices.",
         "Held inventory and award space, secured while you decide.",
         "Upgrades, status and mileage value, put to work for you.",
-        "The lie-flat checked before you board — the seat that is truly flat."
+        "The lie-flat checked before you board \u2014 the seat that is truly flat."
       ],
       "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2048&q=80",
       "imageAlt": "Dubai skyline at dusk",
@@ -30,7 +30,7 @@
     },
     {
       "id": "hotels",
-      "eyebrow": "02 · Hotels",
+      "eyebrow": "02 \u00b7 Hotels",
       "headingHtml": "The room, the rate, the <span class=\"it\">welcome</span>.",
       "lede": "The same suite, with more. Things the public rate never carries, arranged before you land.",
       "items": [
@@ -45,7 +45,7 @@
     },
     {
       "id": "visas",
-      "eyebrow": "03 · Visas",
+      "eyebrow": "03 \u00b7 Visas",
       "headingHtml": "Fast-track windows, <span class=\"it\">held</span> for you.",
       "lede": "The paperwork no one enjoys, moved to the front of the queue. We know when the windows open, and we file into them for you.",
       "items": [
@@ -54,7 +54,7 @@
         "Appointments managed and status tracked, so nothing lapses.",
         "Timed to your flights and hotels, so nothing clashes."
       ],
-      "image": "",
+      "image": "/_vercel/image?url=%2Fimg%2Fh%2Fvisas.jpg&w=2048&q=80",
       "imageAlt": "Passport and travel documents ready for a visa application",
       "imageFirst": false
     }

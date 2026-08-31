@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "Flight Intelligence — TripAgent",
-    "description": "The right cabin, the right fare, route by route from India. Business and first are where we are at our best — the aircraft, the flat-beds, the connections, the award space others can't see."
+    "title": "Flight Intelligence \u2014 TripAgent",
+    "description": "The right cabin, the right fare, route by route from India. Business and first are where we are at our best \u2014 the aircraft, the flat-beds, the connections, the award space others can't see."
   },
   "hero": {
     "back": {
-      "label": "← Flights",
+      "label": "\u2190 Flights",
       "href": "flights.html"
     },
     "eyebrow": "Flight Intelligence",
@@ -35,112 +35,112 @@
     "lede": "The routes our members fly most. The carriers, the aircraft, and the call we'd make on each.",
     "cards": [
       {
-        "route": "Delhi → London",
+        "route": "Delhi \u2192 London",
         "heading": "The non-stop overnight",
         "body": "A nine-hour redeye that earns its flat-bed. Non-stop on three carriers, plus the one-stops worth a look.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=1280&q=80",
         "href": "route-delhi-london.html"
       },
       {
-        "route": "Mumbai → New York",
+        "route": "Mumbai \u2192 New York",
         "heading": "Ultra-long-haul, first or business",
         "body": "Up to sixteen hours in the air. Where first is truly a suite, and where the best business cabin is the wiser call.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fagra.jpg&w=1280&q=80",
         "href": "route-mumbai-new-york.html"
       },
       {
-        "route": "Delhi → Singapore",
+        "route": "Delhi \u2192 Singapore",
         "heading": "The five-hour night hop",
         "body": "Non-stop on a wide-body, often the same aircraft that flies long-haul. When the flat-bed is worth it, and when it isn't.",
-        "image": "",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-singapore.jpg&w=1280&q=80",
         "href": "route-delhi-singapore.html"
       },
       {
-        "route": "Bengaluru → Dubai",
+        "route": "Bengaluru \u2192 Dubai",
         "heading": "The short Gulf shuttle",
         "body": "Under four hours, flown often. The case for a recliner-style business cabin, the lounge, and a fare that earns status.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=1280&q=80",
         "href": "route-bengaluru-dubai.html"
       },
       {
-        "route": "Delhi → Tokyo",
+        "route": "Delhi \u2192 Tokyo",
         "heading": "Daytime non-stop or the hub",
         "body": "A long daylight non-stop, or a one-stop with a better cabin. Time in transit against a true flat-bed.",
-        "image": "",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-tokyo.jpg&w=1280&q=80",
         "href": "route-delhi-tokyo.html"
       },
       {
-        "route": "Mumbai → Paris",
+        "route": "Mumbai \u2192 Paris",
         "heading": "Non-stop or one-stop to Europe",
         "body": "A non-stop overnight, or a Gulf-hub routing with a stronger cabin. The seat against the clock.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=1280&q=80",
         "href": "route-mumbai-paris.html"
       },
       {
-        "route": "Delhi → Zurich",
+        "route": "Delhi \u2192 Zurich",
         "heading": "The Alpine gateway",
-        "body": "One non-stop and several capable one-stops — and when the connection is the better seat.",
-        "image": "",
+        "body": "One non-stop and several capable one-stops \u2014 and when the connection is the better seat.",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-zurich.jpg&w=1280&q=80",
         "href": "route-delhi-zurich.html"
       },
       {
-        "route": "Mumbai → London",
+        "route": "Mumbai \u2192 London",
         "heading": "The overnight flat-bed",
-        "body": "Non-stop on three carriers plus the Gulf one-stops — and which business cabin is truly flat.",
+        "body": "Non-stop on three carriers plus the Gulf one-stops \u2014 and which business cabin is truly flat.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=1280&q=80",
         "href": "route-mumbai-london.html"
       },
       {
-        "route": "Delhi → Bangkok",
+        "route": "Delhi \u2192 Bangkok",
         "heading": "The short hop, the right cabin",
         "body": "Four and a half hours, flown on everything from narrow-bodies to long-haul aircraft. The trap, and how to avoid it.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=1280&q=80",
         "href": "route-delhi-bangkok.html"
       },
       {
-        "route": "Delhi → Malé",
+        "route": "Delhi \u2192 Mal\u00e9",
         "heading": "The seaplane is the connection",
         "body": "The flight is the easy part. The daylight seaplane or speedboat onward shapes the whole journey.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=1280&q=80",
         "href": "route-delhi-male.html"
       },
       {
-        "route": "Bengaluru → Singapore",
+        "route": "Bengaluru \u2192 Singapore",
         "heading": "The daytime business hop",
         "body": "On a daytime four-and-a-half-hour flight, a regional business cabin and a status-earning fare often beat a flat-bed.",
-        "image": "",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-bengaluru-singapore.jpg&w=1280&q=80",
         "href": "route-bengaluru-singapore.html"
       },
       {
-        "route": "Delhi → Istanbul",
+        "route": "Delhi \u2192 Istanbul",
         "heading": "The big-hub gateway",
-        "body": "A strong non-stop and Gulf one-stops — and the network that makes Istanbul a stopover worth keeping.",
-        "image": "",
+        "body": "A strong non-stop and Gulf one-stops \u2014 and the network that makes Istanbul a stopover worth keeping.",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Froute-delhi-istanbul.jpg&w=1280&q=80",
         "href": "route-delhi-istanbul.html"
       },
       {
-        "route": "Transit · Dubai (DXB)",
+        "route": "Transit \u00b7 Dubai (DXB)",
         "heading": "The Emirates hub",
         "body": "The lounges, the terminal-change buffers, the minimum connection, and the long layover worth turning into a stopover.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=1280&q=80",
         "href": "hub-dubai.html"
       },
       {
-        "route": "Transit · Singapore (SIN)",
+        "route": "Transit \u00b7 Singapore (SIN)",
         "heading": "Changi, the airport as a destination",
         "body": "The lounges, the Jewel, the T4 catch, and the transit that turns a connection into a pleasure.",
-        "image": "",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fhub-singapore.jpg&w=1280&q=80",
         "href": "hub-singapore.html"
       },
       {
-        "route": "Transit · Doha (DOH)",
+        "route": "Transit \u00b7 Doha (DOH)",
         "heading": "Hamad, the quiet connection",
         "body": "The single-terminal layout, the Qatar lounges, and the short, calm transfers that make it an easy hub.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fagra.jpg&w=1280&q=80",
         "href": "hub-doha.html"
       },
       {
-        "route": "Transit · London (LHR)",
+        "route": "Transit \u00b7 London (LHR)",
         "heading": "Five terminals, one plan",
         "body": "Five airports in one. The lounges, the terminal changes as they really are, and a calm arrival into London.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=1280&q=80",
@@ -154,7 +154,7 @@
     "cards": [
       {
         "eyebrow": "Product guide",
-        "heading": "Business vs. First — when each is worth it",
+        "heading": "Business vs. First \u2014 when each is worth it",
         "body": "The honest line between the two, by flight length and aircraft. When first earns its premium, and when the best business cabin wins.",
         "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsingapore-city.jpg&w=2048&q=80",
         "href": "business-vs-first.html"
@@ -163,7 +163,7 @@
         "eyebrow": "Product guide",
         "heading": "How to read a cabin by aircraft",
         "body": "Flat-bed vs. angled recliner, suites vs. open seats, 1-2-1 vs. 2-2-2. Why the same word can mean a very different night.",
-        "image": "",
+        "image": "/_vercel/image?url=%2Fimg%2Fh%2Fcabin-guide.jpg&w=2048&q=80",
         "href": "cabin-guide.html"
       }
     ]

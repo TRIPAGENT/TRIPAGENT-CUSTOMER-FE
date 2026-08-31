@@ -1,12 +1,12 @@
 {
   "seo": {
-    "title": "Cities — TripAgent",
-    "description": "One hundred cities, in hand — where to stay, what to do, where to eat and where the night goes, from the top India-outbound cities to twenty-five across India."
+    "title": "Cities \u2014 TripAgent",
+    "description": "One hundred cities, in hand \u2014 where to stay, what to do, where to eat and where the night goes, from the top India-outbound cities to twenty-five across India."
   },
   "hero": {
     "k": "World of TripAgent",
     "heading": "The Cities",
-    "lede": "One hundred places held in hand — the top cities Indians travel to, and twenty-five across India. Each with where to stay, what to do, where to eat, and where the night goes."
+    "lede": "One hundred places held in hand \u2014 the top cities Indians travel to, and twenty-five across India. Each with where to stay, what to do, where to eat, and where the night goes."
   },
   "groups": [
     {
@@ -250,13 +250,13 @@
         },
         {
           "name": "Istanbul",
-          "country": "Türkiye",
+          "country": "T\u00fcrkiye",
           "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fistanbul.jpg&w=900&q=78",
           "href": "city-istanbul.html"
         },
         {
           "name": "Cappadocia",
-          "country": "Türkiye",
+          "country": "T\u00fcrkiye",
           "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcappadocia.jpg&w=900&q=78",
           "href": "city-cappadocia.html"
         }
@@ -419,7 +419,7 @@
       "label": "South Asia & Indian Ocean",
       "cities": [
         {
-          "name": "Malé & the Atolls",
+          "name": "Mal\u00e9 & the Atolls",
           "country": "Maldives",
           "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=900&q=78",
           "href": "city-male-maldives.html"
@@ -455,7 +455,7 @@
           "href": "city-mauritius-city.html"
         },
         {
-          "name": "Mahé",
+          "name": "Mah\u00e9",
           "country": "Seychelles",
           "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmahe-seychelles.jpg&w=900&q=78",
           "href": "city-mahe-seychelles.html"
@@ -514,7 +514,7 @@
           "href": "city-mexico-city.html"
         },
         {
-          "name": "Cancún",
+          "name": "Canc\u00fan",
           "country": "Mexico",
           "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcancun.jpg&w=900&q=78",
           "href": "city-cancun.html"
@@ -738,7 +738,7 @@
   "cta": {
     "eyebrow": "Narrow it down",
     "heading": "Too many to choose from?",
-    "lede": "Tell us the month, who's coming and the mood — we'll shortlist the few worth your time. Or hand the whole list to your advisor.",
+    "lede": "Tell us the month, who's coming and the mood \u2014 we'll shortlist the few worth your time. Or hand the whole list to your advisor.",
     "buttons": [
       {
         "label": "Find where you should go",
