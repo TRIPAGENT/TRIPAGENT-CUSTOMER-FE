@@ -32,7 +32,7 @@
         "nextLinkHref": "flights.html"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg%3Fv%3D2&w=2560&q=80",
+        "image": "",
         "eyebrow": "Flights · business & first",
         "headingHtml": "The front of the<br/>plane, <span class=\"it\">every</span> time.",
         "lede": "Your advisor holds the seat, settles the fare, arranges the upgrade — quietly. The long flight becomes the part you look forward to.",
@@ -50,7 +50,7 @@
             "href": "flights.html"
           }
         ],
-        "insetImage": "/_vercel/image?url=%2Fimg%2Fplane.jpg%3Fv%3D2&w=1024&q=80",
+        "insetImage": "",
         "insetCaptionK": "Aloft",
         "insetCaptionT": "Held seats, soft landings.",
         "nextLabel": "Next",
@@ -76,7 +76,7 @@
             "href": "hotels.html"
           }
         ],
-        "insetImage": "/_vercel/image?url=%2Fimg%2Fstay2.jpg%3Fv%3D2&w=1024&q=80",
+        "insetImage": "",
         "insetCaptionK": "The stay",
         "insetCaptionT": "Expected, and welcomed.",
         "nextLabel": "Next",
@@ -1423,7 +1423,7 @@
     "allHref": "services.html",
     "cards": [
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg%3Fv%3D2&w=2048&q=80",
+        "image": "",
         "number": "01",
         "heading": "Flights",
         "body": "Global fares in every cabin — with business and first class our specialty. Held, priced and ticketed, with the seat that suits you.",
@@ -1439,7 +1439,7 @@
         "ctaHref": "hotels.html"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg%3Fv%3D2&w=2048&q=80",
+        "image": "",
         "number": "03",
         "heading": "Visas",
         "body": "The paperwork no one enjoys — checked, filed and tracked, so the only thing you pack is your bag.",
@@ -1642,7 +1642,7 @@
         "description": "Caldera suites at golden hour"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Ftuscany.jpg%3Fv%3D2&w=2048&q=80",
+        "image": "",
         "place": "Tuscany",
         "description": "A private villa among the vines"
       },
@@ -1657,7 +1657,7 @@
         "description": "An anniversary, quietly arranged"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Ftrip2.jpg%3Fv%3D2&w=2048&q=80",
+        "image": "",
         "place": "The Alps",
         "description": "Snow, and a chalet that knows you"
       }

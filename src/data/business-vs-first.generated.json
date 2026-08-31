@@ -80,7 +80,7 @@
       "First is worth it when it's a real private suite on a long overnight, or when the ground experience is the point. On the right flagship, it's a different journey — not just a wider seat.",
       "It isn't worth it when \"first\" is a token cabin barely beyond business, when the flight is short, or when the best business seat on the route already gives you privacy and a flat-bed. We'll always tell you which it is."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsingapore-city.jpg&w=2048&q=80",
     "imageAlt": "First class private suite",
     "flipped": false
   },
@@ -96,7 +96,7 @@
       "On the newest aircraft, a \"suite\" business cabin gives you a door, a fully flat bed and direct aisle access — most of what first once promised, for far less than first.",
       "On shorter flights, daytime departures, or routes where first is only a token cabin, the best business seat is simply the smarter buy. Spend the difference where it changes the journey."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+    "image": "",
     "imageAlt": "Modern business class suite cabin",
     "flipped": true
   },
@@ -108,7 +108,7 @@
     "eyebrow": "Your move",
     "heading": "Not sure which to book?",
     "lede": "Tell us the route and your dates. We'll tell you honestly whether first is worth it or the best business cabin is the smarter call — and secure the seat.",
-    "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsingapore-city.jpg&w=2048&q=80",
     "buttons": [
       {
         "label": "Ask your advisor →",

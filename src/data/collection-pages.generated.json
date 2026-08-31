@@ -55,7 +55,7 @@
       "eyebrow": "The stay",
       "heading": "Rooms that hold everyone.",
       "id": "stay",
-      "image": "/_vercel/image?url=%2Fimg%2Fvilla-mallorca-pool.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbarcelona.jpg&w=2048&q=80",
       "imageAlt": "A family villa with a private pool",
       "cards": [
         {
@@ -90,7 +90,7 @@
         "For consulate routes such as Schengen, allow 4–8 weeks in peak season; we book the family's biometrics slots together and align them with confirmed flights and hotels.",
         "We prepare every form, file the applications and track each passport back to your hands — and your advisor confirms current requirements for each traveller before you go."
       ],
-      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80",
+      "image": "",
       "imageAlt": "Passports and travel documents ready for a family visa application"
     },
     "when": {
@@ -101,7 +101,7 @@
       "eyebrow": "Your move",
       "heading": "Plan a family trip.",
       "lede": "Tell us the ages, the party and the dates. We come back with the cabin, the rooms that hold everyone and every passenger's visa — all looked after, all in one thread.",
-      "image": "/_vercel/image?url=%2Fimg%2Fcouple-india-palace.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fjaipur.jpg&w=2048&q=80",
       "buttons": [
         {
           "label": "Plan a family trip →",
@@ -170,7 +170,7 @@
       "eyebrow": "The stay",
       "heading": "The suite, and the arranged moment.",
       "id": "stay",
-      "image": "/_vercel/image?url=%2Fimg%2Fsuite-bath-welcome.jpg&w=2048&q=80",
+      "image": "",
       "imageAlt": "A welcoming suite arranged for a honeymoon arrival",
       "cards": [
         {
@@ -205,7 +205,7 @@
         "We prepare the forms, the cover letter, insurance and financials, file the application, and track it to passport return — your advisor confirms current requirements before you travel.",
         "One small thing that catches many couples: if a passport is being changed to a married name, do it after the trip or well before — we'll flag the timing so it never derails the dates."
       ],
-      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80",
+      "image": "",
       "imageAlt": "Passport and travel documents ready for a visa application"
     },
     "when": {
@@ -216,7 +216,7 @@
       "eyebrow": "Your move",
       "heading": "Plan your honeymoon.",
       "lede": "Tell us the feeling and the dates. We'll come back with the cabin, the suite, the first evening and the visa — all looked after, all in one thread.",
-      "image": "/_vercel/image?url=%2Fimg%2Friviera-pool-dining.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fnice-riviera.jpg&w=2048&q=80",
       "buttons": [
         {
           "label": "Plan our honeymoon →",
@@ -285,7 +285,7 @@
       "eyebrow": "The stay",
       "heading": "The suite, and the arranged moment.",
       "id": "stay",
-      "image": "/_vercel/image?url=%2Fimg%2Fhotel-taj-udaipur.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fudaipur.jpg&w=2048&q=80",
       "imageAlt": "A landmark suite for a milestone celebration",
       "cards": [
         {
@@ -320,7 +320,7 @@
         "For parents and grandparents, we handle the paperwork end to end and arrange any assistance needed for the in-person appointment.",
         "We prepare the forms, file the application, and track it to passport return — your advisor confirms current requirements before you travel."
       ],
-      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80",
+      "image": "",
       "imageAlt": "Passport and travel documents ready for a visa application"
     },
     "when": {
@@ -331,7 +331,7 @@
       "eyebrow": "Your move",
       "heading": "Plan a milestone trip.",
       "lede": "Tell us what you're marking, the dates, the party. We'll come back with the cabin, the suite, the moment arranged and the visa — all looked after, all in one thread.",
-      "image": "/_vercel/image?url=%2Fimg%2Fvenice-private-boat.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fvenice.jpg&w=2048&q=80",
       "buttons": [
         {
           "label": "Plan a milestone trip →",

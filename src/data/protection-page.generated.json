@@ -66,7 +66,7 @@
       "One message rebooks you, same cabin, next sensible flight — no airline queue, no hold music.",
       "Onward hotels and transfers re-sequenced to match, so the whole trip stays whole."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80"
+    "image": ""
   },
   "pq": "Anyone can make a booking. Protection is what you feel when it breaks.",
   "money": {
@@ -78,7 +78,7 @@
       "Sell prices shown plainly; any fee is named and agreed before you confirm, never folded in quietly.",
       "Your data is used only to arrange travel and never sold — the detail is in our <a href=\"/privacy\">privacy policy</a> and <a href=\"/terms\">terms</a>."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80"
+    "image": ""
   },
   "signature": {
     "eyebrow": "Our promise",

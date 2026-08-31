@@ -76,7 +76,7 @@
       "<strong>Flat or angled</strong> — a true lie-flat bed, not a slope you fight until dawn.",
       "<strong>Sub-fleet swaps</strong> — whether the airline might switch to an older cabin, and what we do if it does."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsingapore-city.jpg&w=2048&q=80",
     "imageAlt": "Modern flat-bed business class suite"
   },
   "signature": {
@@ -110,7 +110,7 @@
     "eyebrow": "Your move",
     "heading": "Let us read the cabin for you.",
     "lede": "Tell us the route and your dates. We confirm the aircraft, the layout and the bed — and hold out for the seat that is truly flat.",
-    "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+    "image": "",
     "buttons": [
       {
         "label": "Ask your advisor →",

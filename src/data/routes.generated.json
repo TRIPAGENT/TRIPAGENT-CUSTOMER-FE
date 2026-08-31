@@ -107,7 +107,7 @@
       }
     },
     "signature": {
-      "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2560&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2560&q=80",
       "by": "The Gulf hub",
       "pull": "On a four-hour shuttle, the lounge and the arrival do more for you than the seat ever will."
     },
@@ -274,7 +274,7 @@
         "<strong>Save the premium</strong> — a strong regional business cabin here, and first-class spend kept for the long-hauls that truly reward it."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Regional business class cabin"
       }
     },
@@ -446,7 +446,7 @@
         "<strong>Save the premium</strong> — we will often place you in a strong business cabin here and keep first-class spend for the long-hauls that truly reward it."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Regional business class cabin"
       }
     },
@@ -618,7 +618,7 @@
         "<strong>First and the lounge</strong> — where available, the premium ground experience in Istanbul is a genuine draw; we say plainly when it's worth it."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Business class flat-bed cabin"
       }
     },
@@ -790,7 +790,7 @@
         "<strong>First, selectively</strong> — on the carriers that still offer it, first can be worth it for a true suite and the ground experience; we say plainly when it isn't."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Business class flat-bed cabin"
       }
     },
@@ -967,7 +967,7 @@
       }
     },
     "signature": {
-      "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=2560&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=2560&q=80",
       "by": "The transfer trap",
       "pull": "Land too late and the island waits until morning. The flight was never the hard part."
     },
@@ -1134,7 +1134,7 @@
         "<strong>Status and lounges</strong> — we often hold a fare that earns status and opens the lounge that makes the connection easy."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Business class cabin on a wide-body aircraft"
       }
     },
@@ -1311,7 +1311,7 @@
       }
     },
     "signature": {
-      "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2560&q=80",
+      "image": "",
       "by": "The honest trade",
       "pull": "The fastest flight and the best-rested arrival are not always the same line."
     },
@@ -1478,7 +1478,7 @@
         "<strong>First, selectively</strong> — SWISS First and the Gulf First cabins can be worth it for the suite and the ground experience; we say plainly when they aren't."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Business class flat-bed cabin"
       }
     },
@@ -1650,7 +1650,7 @@
         "<strong>First, selectively</strong> — on the carriers that still offer it, first can be worth it for a true suite and the ground experience; we say plainly when it isn't."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Business class flat-bed cabin"
       }
     },
@@ -1822,7 +1822,7 @@
         "<strong>JFK or Newark</strong> — we choose the airport and routing that suit your onward plans, not just the headline fare."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+        "src": "/_vercel/image?url=%2Fimg%2Fcities%2Fsingapore-city.jpg&w=2048&q=80",
         "alt": "First class suite cabin"
       }
     },
@@ -1999,7 +1999,7 @@
       }
     },
     "signature": {
-      "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2560&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=2560&q=80",
       "by": "The overnight to Europe",
       "pull": "Land into a Paris morning rested, and the trip begins the moment you step off the aircraft."
     },
@@ -2166,7 +2166,7 @@
         "<strong>A planned stopover</strong> — turn the hub into a night or two in Doha; we arrange the hotel, the transfers and the onward flight as one journey."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2048&q=80",
+        "src": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2048&q=80",
         "alt": "Hamad International Airport interior"
       }
     },
@@ -2343,7 +2343,7 @@
       }
     },
     "signature": {
-      "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2560&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2560&q=80",
       "by": "The transit truth",
       "pull": "A great hub rewards the prepared. It punishes the rushed."
     },
@@ -2510,7 +2510,7 @@
         "<strong>Arriving for London</strong> — if Heathrow is the destination, we point you to fast-track and the right onward transfer, and book the flights and the stay that make the stopover work."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2048&q=80",
+        "src": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=2048&q=80",
         "alt": "London cityscape near Heathrow"
       }
     },
@@ -2682,7 +2682,7 @@
         "<strong>A planned stopover</strong> — turn the hub into a night or two in Singapore; we arrange the hotel, the transfers and the onward flight as one journey."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Changi Airport interior gardens"
       }
     },

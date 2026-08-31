@@ -68,7 +68,7 @@
         "Far-northern Europe and Scandinavia stay cool and variable. Spring arrives slowly up there, and the long, warm days are still some weeks off."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fdunes.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Desert dunes under a warming spring sky"
       }
     },
@@ -113,7 +113,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Ftuscany.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Plan an April trip.",
       "lede": "Tell us your dates and who's travelling. We come back with where to be — the cabin and the visa looked after.",
@@ -196,7 +196,7 @@
         "Parts of the Indian Ocean can be in their wetter, windier spell now. The islands are still beautiful, but the conditions are less settled than in the dry season."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fpositano.jpg&w=2048&q=80",
+        "src": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=2048&q=80",
         "alt": "The cliffside town of Positano above the Mediterranean in high summer"
       }
     },
@@ -241,7 +241,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Plan an August trip.",
       "lede": "Tell us your dates and who is travelling. We come back with where to be — the cabin and the visa looked after.",
@@ -324,7 +324,7 @@
         "Northern Europe, beyond the Christmas-market charm, is cold and dark, with very short days. Lovely for a long festive weekend in the cities; less so for a longer stay chasing daylight."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2048&q=80",
+        "src": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=2048&q=80",
         "alt": "A European city street under low winter light"
       }
     },
@@ -369,7 +369,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Plan a December trip.",
       "lede": "Tell us your dates and who's travelling. We come back with where to be — the cabin and the visa looked after, well before the rooms tighten.",
@@ -452,7 +452,7 @@
         "Bali and parts of South-East Asia can be in a wetter spell now, with humidity and afternoon rain more likely. Fine in stretches, but less dependable than the Andaman or Sri Lanka this month."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2048&q=80",
+        "src": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=2048&q=80",
         "alt": "A grey European city street under flat winter light"
       }
     },
@@ -497,7 +497,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fdunes.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Plan a February trip.",
       "lede": "Tell us your dates and your party. We come back with where to be — the cabin and the visa looked after.",
@@ -580,7 +580,7 @@
         "The far north of South-East Asia can be cooler and hazier. The headline beaches are fine, but this is not the month for the hill country."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Snow-covered winter mountains under a pale sky"
       }
     },
@@ -625,7 +625,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Plan a January trip.",
       "lede": "Tell us your dates and who is travelling. We come back with where to be — the cabin and the visa looked after.",
@@ -708,7 +708,7 @@
         "The Indian Ocean — the Maldives and Seychelles — enters its wetter, breezier spell; still possible, but not the glassy, flawless season it offers earlier in the year."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fpositano.jpg&w=2048&q=80",
+        "src": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=2048&q=80",
         "alt": "The cliffside town of Positano on the Amalfi Coast in high summer"
       }
     },
@@ -753,7 +753,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Ftrip2.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Plan a July trip.",
       "lede": "Tell us your dates and who is travelling. We come back with where to be — the cabin and the visa looked after.",
@@ -836,7 +836,7 @@
         "The Mediterranean is entering its hotter, busier July run-up — Greece, Italy and the Spanish coast grow warm and crowded. Lovely, but not the quiet version. The shoulder months serve it better."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=2048&q=80",
+        "src": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=2048&q=80",
         "alt": "Overwater villas above an Indian Ocean lagoon under cloud"
       }
     },
@@ -881,7 +881,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Plan a June trip.",
       "lede": "Tell us your dates and who is travelling. We come back with where to be — the cabin and the visa looked after.",
@@ -964,7 +964,7 @@
         "The hotter destinations — parts of South-East Asia, the deep desert — are starting to warm. A later spring trip there will be less forgiving than one taken now."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=2048&q=80",
+        "src": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=2048&q=80",
         "alt": "Overwater villas on a calm Indian Ocean lagoon"
       }
     },
@@ -1009,7 +1009,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Plan a March trip.",
       "lede": "Tell us your dates and who's travelling. We come back with where to be — the cabin and the visa looked after.",
@@ -1092,7 +1092,7 @@
         "Parts of South-East Asia begin sliding into their wet season around now. Afternoon storms are likely in places, so timing and region matter. Your advisor steers you to the side of the map still in fine weather."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fdunes.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Sun-baked desert dunes under a hot, hazy sky"
       }
     },
@@ -1137,7 +1137,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Famalfi.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Plan a May trip.",
       "lede": "Tell us your dates and your party. We come back with where to be — the cabin and the visa in hand.",
@@ -1220,7 +1220,7 @@
         "The high northern latitudes are dark and short-dayed; beautiful for the aurora, perhaps, but otherwise this isn't the month for them."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Snow-covered winter mountains under a pale sky"
       }
     },
@@ -1265,7 +1265,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Plan a November trip.",
       "lede": "Tell us your dates and who is travelling. We come back with where to be — the cabin and the visa looked after.",
@@ -1348,7 +1348,7 @@
         "Very high-altitude journeys grow less dependable as the weather turns. The trekking windows narrow, and conditions become harder to promise."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2048&q=80",
+        "src": "",
         "alt": "High mountains under a cooling autumn sky"
       }
     },
@@ -1393,7 +1393,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Ftuscany.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Plan an October trip.",
       "lede": "Tell us your dates and your party. We come back with where to be — the cabin and the visa looked after, well ahead of the festival rush.",
@@ -1476,7 +1476,7 @@
         "The far-northern latitudes are losing their long summer daylight. Scandinavia and the Arctic edge feel autumnal now, and the midnight sun has passed for the year."
       ],
       "image": {
-        "src": "/_vercel/image?url=%2Fimg%2Fdunes.jpg&w=2048&q=80",
+        "src": "",
         "alt": "Desert dunes under a hazy late-summer sky"
       }
     },
@@ -1521,7 +1521,7 @@
       ]
     },
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fsantorini.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsantorini.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Plan a September trip.",
       "lede": "Tell us your dates and who is travelling. We come back with where to be — the cabin and the visa looked after.",

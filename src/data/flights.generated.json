@@ -72,13 +72,13 @@
       "The newer cabin when two aircraft fly a route, so the seat matches the fare.",
       "Award and upgrade space others can’t see — paired with your miles or status to clear it."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80"
+    "image": ""
   },
   "signature": {
     "eyebrow": "When it matters",
     "lineHtml": "The test is 2 a.m.,<br/>not the <span class=\"it\">booking</span>.",
     "sub": "A cancelled flight in a city you don’t know is the real moment. Because we already hold your details and onward plans, the rebooking is done before you’ve fully woken — same cabin, next flight, a message already waiting. No queue. No hold music. We stay with you for the flight, not just the sale.",
-    "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2560&q=80"
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2560&q=80"
   },
   "examples": {
     "eyebrow": "By example",

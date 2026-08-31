@@ -72,7 +72,7 @@
   "stays": {
     "eyebrow": "The stay",
     "heading": "The right hotel for a first-timer.",
-    "image": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80",
+    "image": "",
     "imageAlt": "A well-located, welcoming hotel for a first trip abroad",
     "cards": [
       {
@@ -108,7 +108,7 @@
       "For consulate visas such as Schengen, we book the biometrics appointment, align it with your confirmed flights and hotels, and tell you what to expect on the day.",
       "We file it and track it to passport return, and confirm current requirements before you travel. Any follow-up is ours to handle, not yours to worry about."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80",
+    "image": "",
     "imageAlt": "Passport and travel documents being prepared for a first visa application"
   },
   "when": {

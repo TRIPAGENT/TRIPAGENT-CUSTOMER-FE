@@ -82,7 +82,7 @@
     },
     "miniQuote": "Some flights are worth the front row. Most are well looked after from behind.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Tell us the route. We'll tell you the cabin.",
       "lede": "Tell us where you're flying and the occasion. We'll find the cabin that's right for the flight, and hold the fare, the seat and the stay together.",
@@ -175,7 +175,7 @@
     },
     "miniQuote": "A Diwali away should feel like a gift, not a scramble.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fcouple-rooftop-sunset.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmarrakech.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Plan the festival break early.",
       "lede": "Tell us the days you'll have for Diwali. We'll find where to spend them and settle it before the rush — flights, stay and visa.",
@@ -280,7 +280,7 @@
     },
     "miniQuote": "The format is a detail you should be free to forget.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Tell us where, and leave the visa to us.",
       "lede": "Name the country and the dates. We'll confirm what's required, prepare it, file it and see it through — alongside the flights and the stay.",
@@ -381,7 +381,7 @@
     },
     "miniQuote": "Judgement is the part we look after — the line between a good trip and a faultless one.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Ftuscany.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Plan your spring in Europe.",
       "lede": "Tell us which part of Europe is calling, and roughly when. We will find the best weeks, hold the flights and rooms, and start the Schengen visa early.",
@@ -571,7 +571,7 @@
     },
     "miniQuote": "We look after the whole journey, until you are home.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fdunes.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Leave the rains. We'll find the sun.",
       "lede": "Tell us the weeks you can travel. We'll find where the weather is bright and the crowds are thin, and arrange the trip end to end.",
@@ -664,7 +664,7 @@
     },
     "miniQuote": "A multi-city Europe should feel like one flowing journey.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Famalfi.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Name the cities. We'll route the trip.",
       "lede": "Tell us where in Europe you want to go. We'll join the flights, trains, stays and visa into one flowing journey.",
@@ -757,7 +757,7 @@
     },
     "miniQuote": "Points are worth most when spent with intent.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Spend the points that are worth spending.",
       "lede": "Tell us what you've collected and where you're headed. We'll find where your points beat cash, and where to keep them.",
@@ -943,7 +943,7 @@
     },
     "miniQuote": "Looked after, until you are home.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Ftuscany.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Name the trip. We'll see to the Schengen.",
       "lede": "Tell us where in Europe, and when. We'll confirm what's required, build the file, book the appointment and track it to approval.",
@@ -1040,7 +1040,7 @@
     },
     "miniQuote": "The light at its kindest, the staff rested, the place itself again.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Famalfi.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Tell us where. We'll tell you when.",
       "lede": "Name the place you've been meaning to see. We'll find the week it's at its best, and hold the room, the fare and the visa for it.",
@@ -1137,7 +1137,7 @@
     },
     "miniQuote": "The plan breaking, and someone catching it before you do.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fhost-guest-view.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcusco.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Travel with someone awake on your side.",
       "lede": "Tell us where you're headed. We'll book the trip and watch over it — so if a night comes apart, you are never the one holding it alone.",
@@ -1230,7 +1230,7 @@
     },
     "miniQuote": null,
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fhost-guest-view.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcusco.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Let the trip begin the moment you land.",
       "lede": "Tell us where you're arriving, and when. We'll plan the soft landing — the car, the early room, the gentle first day.",
@@ -1335,7 +1335,7 @@
     },
     "miniQuote": "The work was done weeks earlier, by someone the hotel already trusts.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Friviera-pool-dining.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fnice-riviera.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Let us arrange the better seat, and the better room.",
       "lede": "Tell us where you are headed. We will book the flight and the stay in the way that leaves the door open — and look after the visa while we are at it.",
@@ -1428,7 +1428,7 @@
     },
     "miniQuote": "Cross the world while you sleep, and arrive as if the night passed quietly at home.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Sleep through the ocean. Arrive ready.",
       "lede": "Tell us where you are flying overnight. We will set up the seat, the timing and the morning after, so you step off rested.",
@@ -1521,7 +1521,7 @@
     },
     "miniQuote": "The best suites come with people who clear the small frictions before you meet them.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fvilla-mallorca-pool.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbarcelona.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Let us choose the room that fits the trip.",
       "lede": "Tell us where you're staying and what the trip is for. We'll find the right room — suite or not — and hold it at our rate, with the welcome included.",
@@ -1618,7 +1618,7 @@
     },
     "miniQuote": "The trip behind you, entirely yours to keep.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fcouple-rooftop-sunset.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmarrakech.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Travel with someone who stays.",
       "lede": "Tell us where you're going. We'll look after the whole of it — the flights, the rooms, the visa, and the journey back — until you are home.",
@@ -1711,7 +1711,7 @@
     },
     "miniQuote": "The cabin class sets the floor. The seat decides the night.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+      "image": "",
       "eyebrow": "Your move",
       "heading": "Let us choose the seat, not just the class.",
       "lede": "Tell us where you're flying and how you like to travel. We'll match the aircraft, the cabin and the exact seat, and hold it early.",
@@ -1804,7 +1804,7 @@
     },
     "miniQuote": "A house you live in, not a room you return to.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Friviera-pool-dining.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fnice-riviera.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Gather everyone under one roof.",
       "lede": "Tell us who is coming and where you would take them. We will find the house, arrange the cook, and look after the rest.",
@@ -1901,7 +1901,7 @@
     },
     "miniQuote": "There is a quiet freedom in a place the paperwork won't slow.",
     "closing": {
-      "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=2048&q=80",
       "eyebrow": "Your move",
       "heading": "Travel light on paperwork.",
       "lede": "Tell us the mood, and how soon. We'll find where your passport travels easily right now, confirm the terms, and arrange the rest.",

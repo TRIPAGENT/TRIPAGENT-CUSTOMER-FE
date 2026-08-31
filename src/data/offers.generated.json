@@ -24,7 +24,7 @@
         "Upgrades, status and mileage value, put to work for you.",
         "The lie-flat checked before you board — the seat that is truly flat."
       ],
-      "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2048&q=80",
       "imageAlt": "Dubai skyline at dusk",
       "imageFirst": false
     },
@@ -39,7 +39,7 @@
         "Daily breakfast and a property credit, included.",
         "Early check-in, late checkout, and a welcome that already knows you."
       ],
-      "image": "/_vercel/image?url=%2Fimg%2Fhotel-taj-udaipur.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fudaipur.jpg&w=2048&q=80",
       "imageAlt": "Palace hotel reflected in the lake at Udaipur",
       "imageFirst": true
     },
@@ -54,7 +54,7 @@
         "Appointments managed and status tracked, so nothing lapses.",
         "Timed to your flights and hotels, so nothing clashes."
       ],
-      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80",
+      "image": "",
       "imageAlt": "Passport and travel documents ready for a visa application",
       "imageFirst": false
     }
@@ -63,13 +63,13 @@
     "eyebrow": "What it's worth",
     "headingHtml": "The membership <span class=\"it\">returns</span> itself before you have packed.",
     "lede": "One business-class fare to Europe runs into lakhs. A suite upgrade, tens of thousands. Set one against the membership, and the maths makes itself.",
-    "image": "/_vercel/image?url=%2Fimg%2Fband1.jpg&w=2048&q=80"
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fagra.jpg&w=2048&q=80"
   },
   "cta": {
     "eyebrow": "By invitation",
     "headingHtml": "Let your advisor open the <span class=\"em\">door</span>.",
     "lede": "All of it is kept for members. Hold an invitation, and it is already within reach.",
-    "image": "/_vercel/image?url=%2Fimg%2Fvilla-greece-rooster.jpg&w=2560&q=80",
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsantorini.jpg&w=2560&q=80",
     "buttons": [
       {
         "label": "Enter your invitation",

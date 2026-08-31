@@ -1,5 +1,11 @@
 node_modules
 dist
+# tsc -b emits these from vite.config.ts on every `npm run build` (tsconfig.node.json
+# is a composite project with no noEmit). Vite's config loader prefers .js over .ts
+# when both exist, so a committed, possibly-stale .js silently wins over source edits
+# in `npm run dev` — regenerate locally, never commit.
+vite.config.js
+vite.config.d.ts
 .env.local
 *.local
 .env

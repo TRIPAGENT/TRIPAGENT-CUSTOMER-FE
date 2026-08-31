@@ -33,7 +33,7 @@
       "noteLabel": "Your advisor's note",
       "noteQuote": "\"This season the partner fare brought business within a whisker of premium economy. I'd take it, and put the saving toward the villa upgrade.\"",
       "fromHtml": "<b>Indicative from ₹4,80,000 per couple</b><span>Indicative · fare &amp; villa rate shaped to your dates</span>",
-      "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg&w=1600&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=1600&q=80",
       "imageFirst": false,
       "bone": false
     },
@@ -58,7 +58,7 @@
       "noteLabel": "Your advisor's note",
       "noteQuote": "\"I held a corner suite a few floors below the top. The same marina view, and the rate we have on it sits well under the published price.\"",
       "fromHtml": "<b>Indicative from ₹3,90,000 per couple</b><span>Indicative · cabin &amp; suite rate vary by date</span>",
-      "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=1600&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=1600&q=80",
       "imageFirst": true,
       "bone": true
     },
@@ -83,7 +83,7 @@
       "noteLabel": "Your advisor's note",
       "noteQuote": "\"File the Schengen the moment your dates firm up. Slots in Mumbai go fast in summer, so I've already pencilled an appointment to hold the line.\"",
       "fromHtml": "<b>Indicative from ₹7,40,000 per couple</b><span>Indicative · fare &amp; suite rate peak in season</span>",
-      "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=1600&q=80",
+      "image": "",
       "imageFirst": false,
       "bone": false
     },
@@ -108,7 +108,7 @@
       "noteLabel": "Your advisor's note",
       "noteQuote": "\"The first-class fare opened at a partner rate I rarely see on this route. I'd lock it now, and we'll confirm the suite at Le Bristol alongside it.\"",
       "fromHtml": "<b>Indicative from ₹8,60,000 per couple</b><span>Indicative · first/business, suite rate vary by date</span>",
-      "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=1600&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=1600&q=80",
       "imageFirst": true,
       "bone": true
     },
@@ -133,7 +133,7 @@
       "noteLabel": "Your advisor's note",
       "noteQuote": "\"First out, business back. The bed flying east is worth the fare; coming home, the upgrade isn't worth what it costs you in jet lag.\"",
       "fromHtml": "<b>Indicative from ₹8,20,000 per couple</b><span>Indicative · first/business, cabins vary by date</span>",
-      "image": "/_vercel/image?url=%2Fimg%2Ftrip2.jpg&w=1600&q=80",
+      "image": "",
       "imageFirst": false,
       "bone": false
     },
@@ -158,7 +158,7 @@
       "noteLabel": "Your advisor's note",
       "noteQuote": "\"Pre-register the visa rather than queue on arrival. And I'd hold the villa with the valley view; the rate we have on it barely tops the garden rooms.\"",
       "fromHtml": "<b>Indicative from ₹4,20,000 per couple</b><span>Indicative · fare &amp; villa rate shaped to your dates</span>",
-      "image": "/_vercel/image?url=%2Fimg%2Fvilla.jpg&w=1600&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbali.jpg&w=1600&q=80",
       "imageFirst": true,
       "bone": true
     }
@@ -168,7 +168,7 @@
     "eyebrow": "A note on these",
     "headingHtml": "None of these is for sale. <span class=\"it\">Yours</span> is.",
     "lede": "We don't sell packages. Each of these began as a conversation and was built from nothing — for one couple, one set of dates, one reason to go. Tell us yours, and we'll do the same.",
-    "image": "/_vercel/image?url=%2Fimg%2Fpositano.jpg&w=2048&q=80"
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=2048&q=80"
   },
   "cta": {
     "eyebrow": "Yours next",

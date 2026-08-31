@@ -38,42 +38,42 @@
         "route": "Suite vs. room",
         "heading": "When a suite is worth it",
         "body": "What a suite actually buys you, and the nights it pays for itself. The honest line between the upgrade and a good room.",
-        "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=1280&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsingapore-city.jpg&w=1280&q=80",
         "href": "suites-worth-it.html"
       },
       {
         "route": "Villa vs. hotel",
         "heading": "When a villa beats a hotel",
         "body": "Space, privacy and a kitchen of your own against a hotel's service and address. When each one wins.",
-        "image": "/_vercel/image?url=%2Fimg%2Fvilla-mallorca-pool.jpg&w=1280&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbarcelona.jpg&w=1280&q=80",
         "href": "villa-or-hotel.html"
       },
       {
         "route": "The room itself",
         "heading": "How the right room is chosen",
         "body": "Two rooms, one rate, worlds apart. The view, the floor, the wing — and how your advisor asks for the right one.",
-        "image": "/_vercel/image?url=%2Fimg%2Fsuite-bath-welcome.jpg&w=1280&q=80",
+        "image": "",
         "href": "the-right-room.html"
       },
       {
         "route": "For families",
         "heading": "Stays that work for families",
         "body": "Connecting rooms, a villa with a pool, the layout that keeps everyone together — and what to confirm before you go.",
-        "image": "/_vercel/image?url=%2Fimg%2Friviera-pool-dining.jpg&w=1280&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fnice-riviera.jpg&w=1280&q=80",
         "href": "family-stays.html"
       },
       {
         "route": "For two",
         "heading": "A honeymoon, done right",
         "body": "Romance without the cliché — the right suite, the quiet table, and an occasion the property already knows about.",
-        "image": "/_vercel/image?url=%2Fimg%2Fcouple-rooftop-sunset.jpg&w=1280&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmarrakech.jpg&w=1280&q=80",
         "href": "honeymoon-stays.html"
       },
       {
         "route": "Preferred partners",
         "heading": "How programmes add value",
         "body": "Upgrades, breakfast, a property credit, a later checkout — what preferred-partner programmes include, and how they reach you.",
-        "image": "/_vercel/image?url=%2Fimg%2Fterrace-espresso-amalfi.jpg&w=1280&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=1280&q=80",
         "href": "hotel-programmes.html"
       }
     ]
@@ -86,14 +86,14 @@
         "eyebrow": "Programme guide",
         "heading": "Preferred-partner programmes, explained",
         "body": "How recognised relationships add an upgrade, breakfast, a resort credit and a later checkout to the same room.",
-        "image": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80",
+        "image": "",
         "href": "hotel-programmes.html"
       },
       {
         "eyebrow": "Category guide",
         "heading": "Suite vs. room — the honest line",
         "body": "When the second room, the larger terrace and the lounge are worth the premium — and when a good room is the smarter call.",
-        "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsingapore-city.jpg&w=2048&q=80",
         "href": "suites-worth-it.html"
       }
     ]

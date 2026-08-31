@@ -248,7 +248,7 @@
   "cta": {
     "headingHtml": "Still wondering?<br/>Your advisor replies within the <span class=\"it\">hour</span>.",
     "lede": "A real person replies, not a queue. Ask anything.",
-    "image": "/_vercel/image?url=%2Fimg%2Fsantorini.jpg&w=2048&q=80",
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsantorini.jpg&w=2048&q=80",
     "buttons": [
       {
         "label": "Ask your advisor",

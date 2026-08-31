@@ -66,7 +66,7 @@
         "<strong>Often not</strong> — a night or two in the city, out all day, where a well-chosen high room serves you just as well for far less.",
         "<strong>Our move</strong> — book the right room and let us pursue the suite as a complimentary upgrade through a preferred-partner programme, so you may arrive in one without paying for it."
       ],
-      "image": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80"
+      "image": ""
     },
     "line": {
       "eyebrow": "Where we come in",
@@ -76,7 +76,7 @@
       "eyebrow": "Your move",
       "heading": "Choose the right category.",
       "lede": "Tell us the trip and who's coming. We'll point you to the room or the suite honestly, and pursue the upgrade either way.",
-      "image": "/_vercel/image?url=%2Fimg%2Fsuite.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsingapore-city.jpg&w=2048&q=80",
       "buttons": [
         {
           "label": "Plan a trip →",
@@ -159,7 +159,7 @@
         "Where we know the property well, we ask for the room we would choose ourselves — and name the ones to avoid.",
         "If the right room can't be promised, we say so, and arrange for you to be first in line if a better one frees up."
       ],
-      "image": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80"
+      "image": ""
     },
     "line": {
       "eyebrow": "Where we come in",
@@ -169,7 +169,7 @@
       "eyebrow": "Your move",
       "heading": "Ask for the right room.",
       "lede": "Tell us the hotel and how you like to stay. We will request the room within your category that suits you, and confirm it before you arrive.",
-      "image": "/_vercel/image?url=%2Fimg%2Fsuite-bath-welcome.jpg&w=2048&q=80",
+      "image": "",
       "buttons": [
         {
           "label": "Plan a trip →",
@@ -249,7 +249,7 @@
         "Inclusions vary by hotel group and property, and they can change. We read the current terms for your dates and tell you exactly what your stay carries.",
         "The rate is often at or below the public price. Where a hotel's own loyalty rate would serve you better, we say so."
       ],
-      "image": "/_vercel/image?url=%2Fimg%2Fstay2.jpg&w=2048&q=80"
+      "image": ""
     },
     "line": {
       "eyebrow": "A word on your own status",
@@ -259,7 +259,7 @@
       "eyebrow": "Your move",
       "heading": "Book the room, keep the extras.",
       "lede": "Tell us where you're staying. We'll book it through the right programme and confirm exactly what your stay carries.",
-      "image": "/_vercel/image?url=%2Fimg%2Fterrace-espresso-amalfi.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=2048&q=80",
       "buttons": [
         {
           "label": "Plan a trip →",

@@ -61,7 +61,7 @@
     "lede": "The advisor is the product, not the app around it. No forms. No login. One message to someone who already knows you — and it's in motion. Everything a portal would show, your advisor already holds; the web home only opens a window onto it.",
     "ctaLabel": "See how it works",
     "ctaHref": "how-it-works.html",
-    "image": "/_vercel/image?url=%2Fimg%2Fadvisor2.jpg&w=2048&q=80"
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmarrakech.jpg&w=2048&q=80"
   },
   "sig": {
     "eyebrow": "What you tell us once",
@@ -78,7 +78,7 @@
       "Documents you never re-send — passports and visas held once, attached to each trip as it needs them.",
       "An advisor who knows your last trip — and begins the next one from there, not from a blank page."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fband1.jpg&w=2048&q=80"
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fagra.jpg&w=2048&q=80"
   },
   "uses": {
     "eyebrow": "How a member uses it",

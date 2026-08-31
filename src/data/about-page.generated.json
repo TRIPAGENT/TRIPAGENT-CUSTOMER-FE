@@ -20,7 +20,7 @@
       "The room isn't rare anymore. A person who knows you is. Who remembers the seat you like, the anniversary you'd never mention, and sees what you'll need before you ask.",
       "TripAgent is built around that one idea. Not more choice, not faster search — those are solved. Care is what's missing: a named person who looks after the whole journey, the way a private banker looks after your money."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fhost-guest-view.jpg&w=2048&q=80",
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fcusco.jpg&w=2048&q=80",
     "imageAlt": "One person showing another the view — companionship, care"
   },
   "lineage": {
@@ -35,14 +35,14 @@
       "<b>Kept out of sight</b> — fares, payments, points and visas, all behind one calm thread.",
       "<b>Watched around the clock</b> — so a person steps in the moment it matters, not the morning after."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2048&q=80",
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2048&q=80",
     "imageAlt": "Trusted infrastructure behind a quiet service"
   },
   "pq": "The same person each time, so you never start from the beginning.",
   "stats": {
     "eyebrow": "Quietly, behind everything",
     "heading": "A human service, on rails that move millions.",
-    "image": "/_vercel/image?url=%2Fimg%2Fmountains.jpg&w=2048&q=80",
+    "image": "",
     "items": [
       {
         "value": "Every",
@@ -99,7 +99,7 @@
   "values": {
     "headingHtml": "Looked after the way a private banker looks after your money.",
     "lede": "Discreet. Assured. Warm. Spare. We stay until you are home. That is the whole standard.",
-    "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2048&q=80"
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=2048&q=80"
   },
   "cta": {
     "headingHtml": "The whole of a journey, <span class=\"it\">cared</span> for.",

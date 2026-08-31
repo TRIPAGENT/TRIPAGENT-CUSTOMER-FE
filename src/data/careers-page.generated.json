@@ -20,7 +20,7 @@
       "Travel this considered is still done by people. We hire and train advisors, and grow through a host-agency network — so more travellers are looked after, and no one less.",
       "Not a call centre. One named advisor, one traveller, held for years, with the tools to do it well."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg&w=2048&q=80"
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=2048&q=80"
   },
   "hire": {
     "eyebrow": "Who we hire",
@@ -58,13 +58,13 @@
       "Care that never switches off. The trip is never handed away.",
       "Follow-up that quietly begins the next trip."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fpositano.jpg&w=2048&q=80"
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=2048&q=80"
   },
   "ai": {
     "eyebrow": "AI at your side",
     "heading": "It does the searching. You do the caring.",
     "lede": "Behind you, quiet tools read the fares, watch the schedules, draft the options and flag the risks. The hours you'd lose to screens go to people instead. The work stays yours — never done in your place.",
-    "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg&w=2048&q=80"
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2048&q=80"
   },
   "steps": {
     "items": [
@@ -95,7 +95,7 @@
       "Tools that do the searching, so your time goes to travellers.",
       "A host-agency path, if you want to build your own book."
     ],
-    "image": "/_vercel/image?url=%2Fimg%2Fvilla.jpg&w=2048&q=80"
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbali.jpg&w=2048&q=80"
   },
   "close": {
     "eyebrow": "Express interest",

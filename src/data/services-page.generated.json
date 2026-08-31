@@ -34,7 +34,7 @@
         "label": "Explore flights",
         "href": "flights.html"
       },
-      "image": "/_vercel/image?url=%2Fimg%2Fplane.jpg&w=2048&q=80",
+      "image": "",
       "imageAlt": "Business-class cabin aboard a long-haul flight",
       "flip": false
     },
@@ -54,7 +54,7 @@
         "label": "Explore hotels",
         "href": "hotels.html"
       },
-      "image": "/_vercel/image?url=%2Fimg%2Fhotel-taj-udaipur.jpg&w=2048&q=80",
+      "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fudaipur.jpg&w=2048&q=80",
       "imageAlt": "Palace hotel reflected in the lake at Udaipur",
       "flip": true
     },
@@ -74,7 +74,7 @@
         "label": "Explore visas",
         "href": "visas.html"
       },
-      "image": "/_vercel/image?url=%2Fimg%2Fvisas2.jpg&w=2048&q=80",
+      "image": "",
       "imageAlt": "Passport and travel documents ready for a visa application",
       "flip": false
     }
@@ -100,7 +100,7 @@
     "eyebrow": "Our promise",
     "lineHtml": "All three, looked after —<br/>until you are <span class=\"it\">home</span>.",
     "sub": "Most agents are gone the moment you pay. We stay — through departure, the 2 a.m. call, the homecoming. There for every step, including the ones no one else shows up for.",
-    "image": "/_vercel/image?url=%2Fimg%2Fcouple-rooftop-sunset.jpg&w=2560&q=80",
+    "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmarrakech.jpg&w=2560&q=80",
     "buttons": [
       {
         "label": "Request membership",
