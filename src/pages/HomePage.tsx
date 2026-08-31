@@ -544,7 +544,7 @@ export default function HomePage() {
       </section>
 
       {/* FINAL CTA */}
-      <section className="band-dark band center" style={{ backgroundImage: "var(--scrim),url('/_vercel/image?url=%2Fimg%2Fsantorini.jpg%3Fv%3D2&w=2048&q=80')" }}>
+      <section className="band-dark band center" style={{ backgroundImage: "var(--scrim),url('/_vercel/image?url=%2Fimg%2Fcities%2Fsantorini.jpg&w=2048&q=80')" }}>
         <div className="wrap">
           <svg width="50" height="50" viewBox="0 0 420 420" fill="none" className="reveal" style={{ margin: "0 auto 24px" }}>
             <g stroke="#F6F1E6" strokeWidth={22} strokeLinecap="round" strokeLinejoin="round">

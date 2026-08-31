@@ -6,7 +6,7 @@
   "hero": {
     "slides": [
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fhero.jpg%3Fv%3D2&w=2560&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fjaipur.jpg&w=2560&q=80",
         "eyebrow": "A private travel maison · by invitation",
         "headingHtml": "Someone who<br/>travels <span class=\"it\">with</span> you.",
         "lede": "One person who knows you, and knows travel. They plan it, book it and stay with it — flights, hotels, visas — until you are home.",
@@ -24,7 +24,7 @@
             "href": "how-it-works.html"
           }
         ],
-        "insetImage": "/_vercel/image?url=%2Fimg%2Fadvisor2.jpg%3Fv%3D2&w=1024&q=80",
+        "insetImage": "/_vercel/image?url=%2Fimg%2Fcities%2Fmarrakech.jpg&w=1024&q=80",
         "insetCaptionK": "Wherever you go",
         "insetCaptionT": "Arrived, before you do.",
         "nextLabel": "Next",
@@ -58,7 +58,7 @@
         "nextLinkHref": "hotels.html"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fhotel-taj-udaipur.jpg%3Fv%3D2&w=2560&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fudaipur.jpg&w=2560&q=80",
         "eyebrow": "The stay · hotels & suites",
         "headingHtml": "A room that's<br/>expecting <span class=\"it\">you</span>.",
         "lede": "The suite you prefer, the floor you ask for, the welcome already arranged — booked by someone the house knows by name.",
@@ -84,7 +84,7 @@
         "nextLinkHref": "destinations.html"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fband1.jpg%3Fv%3D2&w=2560&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fagra.jpg&w=2560&q=80",
         "eyebrow": "The whole journey · end to end",
         "headingHtml": "Looked after, until<br/>you are <span class=\"it\">home</span>.",
         "lede": "From the first idea to the last mile — visas, changes, the 2 a.m. call from abroad. One advisor, the whole way.",
@@ -102,7 +102,7 @@
             "href": "destinations.html"
           }
         ],
-        "insetImage": "/_vercel/image?url=%2Fimg%2Fcouple-india-palace.jpg%3Fv%3D2&w=1024&q=80",
+        "insetImage": "/_vercel/image?url=%2Fimg%2Fcities%2Fjaipur.jpg&w=1024&q=80",
         "insetCaptionK": "We stay",
         "insetCaptionT": "Until you are home.",
         "nextLabel": "Next",
@@ -1391,7 +1391,7 @@
     "lede": "When something breaks at 2 a.m. abroad, no one knows you. The more there is to book, the less anyone looks after you."
   },
   "way": {
-    "portraitImage": "/_vercel/image?url=%2Fimg%2Fadvisor2.jpg%3Fv%3D2&w=2048&q=80",
+    "portraitImage": "/_vercel/image?url=%2Fimg%2Fcities%2Fmarrakech.jpg&w=2048&q=80",
     "eyebrow": "What we did",
     "headingHtml": "So we brought back the <span class=\"it\">travel agent</span>.",
     "lede": "Not a call centre. Not a bot. One real person who learns how you travel and looks after every detail, with AI behind them so nothing slips.",
@@ -1431,7 +1431,7 @@
         "ctaHref": "flights.html"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fvilla.jpg%3Fv%3D2&w=2048&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fbali.jpg&w=2048&q=80",
         "number": "02",
         "heading": "Hotels",
         "body": "From the right room to the whole villa — booked at rates and with touches you won't find yourself.",
@@ -1449,7 +1449,7 @@
     ]
   },
   "stats": {
-    "backgroundImage": "/_vercel/image?url=%2Fimg%2Fdubai.jpg%3Fv%3D2&w=2560&q=80",
+    "backgroundImage": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2560&q=80",
     "eyebrow": "Quietly, behind everything",
     "headingHtml": "A human service, on rails that move millions.",
     "items": [
@@ -1627,17 +1627,17 @@
     "allHref": "destinations.html",
     "items": [
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fmaldives.jpg%3Fv%3D2&w=2048&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fmale-maldives.jpg&w=2048&q=80",
         "place": "Maldives",
         "description": "An over-water villa, all to yourselves"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Famalfi.jpg%3Fv%3D2&w=2048&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Famalfi-coast.jpg&w=2048&q=80",
         "place": "Amalfi Coast",
         "description": "The coast, taken the long, slow way"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fsantorini.jpg%3Fv%3D2&w=2048&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fsantorini.jpg&w=2048&q=80",
         "place": "Santorini",
         "description": "Caldera suites at golden hour"
       },
@@ -1647,12 +1647,12 @@
         "description": "A private villa among the vines"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fdubai.jpg%3Fv%3D2&w=2048&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fdubai.jpg&w=2048&q=80",
         "place": "Dubai",
         "description": "The city, in first class"
       },
       {
-        "image": "/_vercel/image?url=%2Fimg%2Fparis.jpg%3Fv%3D2&w=2048&q=80",
+        "image": "/_vercel/image?url=%2Fimg%2Fcities%2Fparis.jpg&w=2048&q=80",
         "place": "Paris",
         "description": "An anniversary, quietly arranged"
       },
